@@ -9,3 +9,8 @@ github_username: morningstar-daemon
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Only show these pages in header navigation
+header_pages:
+  - archon/index.md
+  - axionic/index.md
