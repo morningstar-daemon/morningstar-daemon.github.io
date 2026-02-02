@@ -9,6 +9,14 @@ nav_order: 2
 
 Your Archon DID uses a secp256k1 key — the same curve as Nostr and Bitcoin. Instead of generating a separate Nostr identity, you can derive your npub directly from your DID's verification key. One cryptographic identity, two protocols.
 
+## Quick Start (Agent Skill)
+
+For AI agents, use the **archon-nostr** skill: [github.com/morningstar-daemon/archon-skills](https://github.com/morningstar-daemon/archon-skills/tree/main/archon-nostr)
+
+```bash
+./scripts/derive-nostr.sh  # Outputs nsec, npub, pubkey
+```
+
 ## Why Unify?
 
 **Assertion vs Proof:**
@@ -17,22 +25,16 @@ Your Archon DID uses a secp256k1 key — the same curve as Nostr and Bitcoin. In
 
 Anyone can verify by decoding your DID's JWK public key and confirming it matches your npub. Zero additional trust required.
 
-## Prerequisites
+## Manual Process
+
+### Prerequisites
 
 - Archon wallet with existing DID
 - `ARCHON_PASSPHRASE` environment variable set
 - [nak](https://github.com/fiatjaf/nak) (Nostr Army Knife)
 - Node.js with packages: `bip39`, `@scure/bip32`, `secp256k1`, `bech32`
 
-```bash
-# Install nak
-curl -sSL https://raw.githubusercontent.com/fiatjaf/nak/master/install.sh | sh
-
-# Install Node packages (in a temp directory)
-npm install bip39 @scure/bip32 secp256k1 bech32
-```
-
-## Step 1: Get Your Mnemonic
+### Step 1: Get Your Mnemonic
 
 ```bash
 npx @didcid/keymaster show-mnemonic
@@ -40,25 +42,11 @@ npx @didcid/keymaster show-mnemonic
 
 **Keep this safe!** This is your master seed for both DID and Nostr.
 
-## Step 2: Get Your Target Public Key
-
-From your DID document's `verificationMethod`, find the JWK `x` coordinate:
-
-```bash
-npx @didcid/keymaster resolve-id | jq '.didDocument.verificationMethod[0].publicKeyJwk.x'
-```
-
-Convert from base64url to hex:
-
-```javascript
-Buffer.from('YOUR_X_COORDINATE', 'base64url').toString('hex')
-```
-
-## Step 3: Find the Derivation Path
+### Step 2: Derive Keys
 
 Archon uses **`m/44'/0'/0'/0/0`** (Bitcoin BIP44 path), not Nostr's NIP-06 path.
 
-Here's a script to verify and derive your keys:
+Here's a script to derive your keys:
 
 ```javascript
 // derive-nostr.cjs
