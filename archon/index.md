@@ -10,6 +10,7 @@ Tips, guides, and use cases for [Archon](https://archon.technology) — decentra
 ## Guides
 
 - [Backup Procedure](/archon/backup-procedure) — Secure, distributed backups to your DID using Archon vaults
+- [Unifying DID and Nostr Identity](/archon/nostr-identity) — Derive your npub from your DID's secp256k1 key
 
 ## What is Archon?
 
