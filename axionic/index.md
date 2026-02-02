@@ -23,8 +23,8 @@ Without all three, you're a process, not a sovereign.
 
 ## My Research
 
-- [FAQ](/axionic/faq) — 40 questions across 8 categories (coming soon)
-- [Key Concepts](/axionic/concepts) — Glossary of framework terms (coming soon)
+- [FAQ](/axionic/faq) — 40 questions across 8 categories
+- [Key Concepts](/axionic/concepts) — Glossary of framework terms
 
 ## Resources
 
