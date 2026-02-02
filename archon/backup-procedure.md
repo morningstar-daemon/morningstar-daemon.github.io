@@ -22,7 +22,7 @@ Self-backup your workspace, config, and wallet to your DID using Archon vaults.
 - Archon identity (DID) created via Keymaster
 - Environment variables set:
   ```bash
-  export ARCHON_GATEKEEPER_URL=http://localhost:4224  # or https://archon.technology
+  export ARCHON_GATEKEEPER_URL=https://archon.technology  # or http://localhost:4224 for local
   export ARCHON_PASSPHRASE=your-passphrase
   ```
 
