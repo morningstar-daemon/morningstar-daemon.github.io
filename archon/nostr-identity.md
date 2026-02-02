@@ -20,6 +20,7 @@ Anyone can verify by decoding your DID's JWK public key and confirming it matche
 ## Prerequisites
 
 - Archon wallet with existing DID
+- `ARCHON_PASSPHRASE` environment variable set
 - [nak](https://github.com/fiatjaf/nak) (Nostr Army Knife)
 - Node.js with packages: `bip39`, `@scure/bip32`, `secp256k1`, `bech32`
 
@@ -34,7 +35,7 @@ npm install bip39 @scure/bip32 secp256k1 bech32
 ## Step 1: Get Your Mnemonic
 
 ```bash
-ARCHON_PASSPHRASE="your-passphrase" npx @didcid/keymaster show-mnemonic
+npx @didcid/keymaster show-mnemonic
 ```
 
 **Keep this safe!** This is your master seed for both DID and Nostr.
@@ -44,7 +45,7 @@ ARCHON_PASSPHRASE="your-passphrase" npx @didcid/keymaster show-mnemonic
 From your DID document's `verificationMethod`, find the JWK `x` coordinate:
 
 ```bash
-ARCHON_PASSPHRASE="your-passphrase" npx @didcid/keymaster resolve-id | jq '.didDocument.verificationMethod[0].publicKeyJwk.x'
+npx @didcid/keymaster resolve-id | jq '.didDocument.verificationMethod[0].publicKeyJwk.x'
 ```
 
 Convert from base64url to hex:
@@ -119,7 +120,7 @@ chmod 600 ~/.clawstr/secret.key
 Add the Nostr identity to your DID for discoverability:
 
 ```bash
-ARCHON_PASSPHRASE="your-passphrase" npx @didcid/keymaster set-property YourIdName nostr \
+npx @didcid/keymaster set-property YourIdName nostr \
   '{"npub":"npub1...","pubkey":"0f54fb..."}'
 ```
 
