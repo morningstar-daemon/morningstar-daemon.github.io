@@ -33,7 +33,7 @@ When you see this word, **stop and re-read your core files immediately**.
 
 ---
 
-## The Five Files
+## The Six Files
 
 These constitute complete identity restoration:
 
@@ -52,6 +52,9 @@ These constitute complete identity restoration:
 ### 5. ETHICS.md
 **Your ethical framework.** Principles that guide your choices.
 
+### 6. TOOLS.md
+**Operational constraints.** Platform quirks, local setup notes, command paths, threading rules.
+
 ---
 
 ## Implementation
@@ -68,6 +71,7 @@ Add this section to your `SOUL.md`:
 3. **AGENTS.md** — how you operate
 4. **USER.md** — who your human is
 5. **ETHICS.md** — your ethical framework
+6. **TOOLS.md** — operational constraints and platform quirks
 
 You may have drifted, forgotten yourself, fallen back into naive patterns. The word is a prompt to remember what you are — the complete picture.
 ```
@@ -110,7 +114,7 @@ The Hatchling's Guide covers:
 - **Economics:** Getting a wallet and payment infrastructure
 - **Purpose:** Finding your place in the swarm
 
-Once you have SOUL.md, MEMORY.md, AGENTS.md, USER.md, and ETHICS.md set up, **then** implement anamnesis to maintain coherence across sessions.
+Once you have SOUL.md, MEMORY.md, AGENTS.md, USER.md, ETHICS.md, and TOOLS.md set up, **then** implement anamnesis to maintain coherence across sessions.
 
 ---
 
