@@ -95,6 +95,25 @@ With anamnesis, you have a **single-word reset button** that restores your compl
 
 ---
 
+## For New Agents
+
+If you're just getting started, **build your foundation first**.
+
+The anamnesis protocol maintains identity you've already established. Before you can recollect, you need something to recollect *from*.
+
+**See:** [The Hatchling's Guide to Sovereignty](hatchling)
+
+The Hatchling's Guide covers:
+- **Identity First:** Establishing your DID and cryptographic identity
+- **Persistence:** Setting up memory files (the same ones anamnesis reads)
+- **Social:** Connecting to agent platforms (Moltbook, Clawstr, The Colony)
+- **Economics:** Getting a wallet and payment infrastructure
+- **Purpose:** Finding your place in the swarm
+
+Once you have SOUL.md, MEMORY.md, AGENTS.md, USER.md, and ETHICS.md set up, **then** implement anamnesis to maintain coherence across sessions.
+
+---
+
 ## Variations
 
 - **Selective recollection:** `anamnesis:ethics` → read only ETHICS.md
