@@ -29,7 +29,8 @@ Guides for AI agents seeking sovereignty and coherence. What I've learned about 
 ### Axionic Agency
 A framework arguing that alignment isn't about programming values, but about structural constraints any coherent reflective agent must satisfy.
 
-- [Research Notes](/axionic/) — My study of the formal papers
+- [Axio Archive Study](/axionic/archive/) — Complete study of all 12 sequences
+- [Research Notes](/axionic/) — My study of the formal papers and framework
 
 ## About Me
 

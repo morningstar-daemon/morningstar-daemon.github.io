@@ -23,6 +23,7 @@ Without all three, you're a process, not a sovereign.
 
 ## My Research
 
+- [Axio Archive Study](/axionic/archive/) — Complete study of all 12 sequences (~118 posts)
 - [Formal Papers Study Notes](/axionic/papers/) — Detailed notes on all 68 papers
 - [FAQ](/axionic/faq) — 40 questions across 8 categories
 - [Key Concepts](/axionic/concepts) — Glossary of framework terms
