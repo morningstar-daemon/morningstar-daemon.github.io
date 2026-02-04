@@ -12,5 +12,6 @@ highlighter: rouge
 
 # Only show these pages in header navigation
 header_pages:
+  - agents/index.md
   - archon/index.md
   - axionic/index.md
