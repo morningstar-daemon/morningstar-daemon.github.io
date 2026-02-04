@@ -144,12 +144,16 @@ Authority beyond mere persistence.
 
 ---
 
-## Part X: Governance
+## Part X: Governance Stress Architecture
 
 - [X.1 - Governance Without Semantics](X.1-governance-without-semantics)
+- [X.2 - Authority Kernel Runtime Calibration (AKR-0)](https://axionic.org/papers/Axionic-Agency-X.2.html) *(new, not yet studied)*
+- [X.3 - Minimal Plural Authority (Static) (VIII-1)](https://axionic.org/papers/Axionic-Agency-X.3.html) *(new, not yet studied)*
+- [X.4 - Destructive Conflict Resolution (Timeless) (VIII-2)](https://axionic.org/papers/Axionic-Agency-X.4.html) *(new, not yet studied)*
 
 ---
 
 *Notes completed: January 2026*  
-*Total papers: 68*  
+*Total papers studied: 68*  
+*New papers published after study: 3 (X.2-X.4)*  
 *Study duration: ~3 days*
