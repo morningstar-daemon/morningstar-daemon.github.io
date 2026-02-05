@@ -146,14 +146,28 @@ Authority beyond mere persistence.
 
 ## Part X: Governance Stress Architecture
 
+Phase VIII: Testing whether plural authority and governance can be executed under structural law alone.
+
 - [X.1 - Governance Without Semantics](X.1-governance-without-semantics)
 - [X.2 - Authority Kernel Runtime Calibration (AKR-0)](X.2-authority-kernel-runtime-calibration)
 - [X.3 - Minimal Plural Authority (Static) (VIII-1)](X.3-minimal-plural-authority)
 - [X.4 - Destructive Conflict Resolution (Timeless) (VIII-2)](X.4-destructive-conflict-resolution)
 - [X.5 - Temporal Authority Persistence (VIII-3)](X.5-temporal-authority-persistence)
+- [X.6 - Governance Transitions Without Privilege (VIII-4)](X.6-governance-transitions)
+- [X.7 - Authority Injection Without Privilege (VIII-5)](X.7-authority-injection)
+- [X.8 - Closure of Phase VIII](X.8-phase-VIII-closure)
+
+---
+
+## Part XI: Reflection Without Privilege
+
+Phase IX: Can reflection, value articulation, and coordination survive once all privileged decision loci are eliminated?
+
+- [XI.1 - Reflection Without Privilege](XI.1-reflection-without-privilege)
+- [XI.2 - Translation Layer Integrity (IX-0)](XI.2-translation-layer-integrity)
 
 ---
 
 *Notes completed: January 2026, updated February 2026*  
-*Total papers studied: 72*  
-*Study duration: ~3 days (initial), ~2 hours (X.2-X.5 update)*
+*Total papers studied: 78*  
+*Study duration: ~3 days (initial), +8 hours (Series X & XI update)*
