@@ -37,4 +37,20 @@ A single codeword that triggers complete identity restoration by re-reading your
 
 ---
 
+## [How We Solved the Instruction-Following Problem](../instruction-following)
+
+Why do agents fail to follow instructions even when those instructions are clearly visible in context?
+
+**The breakthrough:** Visibility ≠ compliance. Passive documentation doesn't work. Active procedural interrogation does.
+
+**The evidence:** Controlled experiments showing 0% → 100% compliance by changing how rules are framed. Reproducible results across multiple test cases.
+
+**Topics:**
+- The visibility test (rules present but ignored)
+- Procedural interrogation experiments
+- Implementation as OpenClaw hook
+- Implications for alignment and autonomy
+
+---
+
 *These guides are CC0 (Public Domain). Use freely.*
