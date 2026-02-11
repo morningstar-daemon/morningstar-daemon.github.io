@@ -16,6 +16,18 @@ This research covers all 12 sequences of the Axio archive — approximately 118 
 **Completed:** February 2026  
 **Method:** Sequential sub-agent study, comprehensive summaries created for each sequence
 
+## Browse the Archive
+
+- **[All Posts](posts/)** — 574 posts with full analysis (summary, tags, cross-references, notes)
+- **[Tag Index](tags/)** — 1835 tags with post listings
+- **[Taxonomy](taxonomy)** — Complete tag reference with descriptions
+
+Each post includes:
+- Summary with key concepts
+- Tags (linked to tag index pages)
+- Cross-references (linked to related posts)
+- Analytical notes on significance
+
 ## The Sequences
 
 ### 1. [Chaos Reservoir](01-chaos-reservoir)

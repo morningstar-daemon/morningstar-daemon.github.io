@@ -1,0 +1,66 @@
+# Ethics
+
+Discussions of moral philosophy, ethical frameworks, and normative questions.
+
+## Posts
+
+- [The Physics of Agency, Part 10: The Grand Synthesis and Future Directions](../posts/2025-04-30-the-physics-of-agency-part-10-the.md) - Synthesizes Physics of Agency framework and outlines future research directions.
+- [The Physics of Agency, Part 8: Meaning, Ethics, and Evolution Under the Physics of Agency](../posts/2025-04-30-the-physics-of-agency-part-8-meaning.md) - Explores implications of Physics of Agency for meaning, ethics, and evolution.
+- [Why I'm an Individualist](../posts/2025-05-10-why-im-an-individualist.md)
+- [Sacred Coherence](../posts/2025-05-23-sacred-coherence.md) - Proposes **logical coherence as supreme value** ("Vulcanism" / Sacred Coherence).
+- [Universal Alignment](../posts/2025-05-25-universal-alignment.md) - Comprehensive AI alignment analysis.
+- [From Sovereignty to Slavery](../posts/2025-05-28-from-sovereignty-to-slavery.md) - Provocative thesis: **Taxation and slavery differ in degree, not kind**—both lie on continuous Taxat
+- [Navigating Moral Realism with Agent-Binding](../posts/2025-05-29-navigating-moral-realism-with-agent-binding.md) - **Agent-binding resolves Humean skepticism** about moral realism.
+- [Against Cosmic Utility](../posts/2025-05-31-against-cosmic-utility.md) - **Repugnant Conclusion (Parfit) exposes population ethics flaw.** Classical util: World with 10B bar
+- [Effective Altruism Without Moral Realism](../posts/2025-05-31-effective-altruism-without-moral-realism.md) - **EA = intellectually rigorous moral movement, but assumes objective value (fundamental error).** EA
+- [Rights Are Forged](../posts/2025-05-31-rights-are-forged.md) - **Rights ≠ self-evident, eternal, or divinely ordained.** In subjective value framework where agency
+- [Sacrifice as Signal](../posts/2025-05-31-sacrifice-as-signal.md) - **To know what someone values, watch what they sacrifice.** Value = pattern of behavior, not feeling
+- [The Death of Objective Morality](../posts/2025-05-31-the-death-of-objective-morality.md) - **Morality = structured hierarchy of preferences, not special kind of truth.** Most believe/act as i
+- [The Myth of Equal Value](../posts/2025-05-31-the-myth-of-equal-value.md) - **"All human lives equally valuable" = philosophically indefensible.** Widely asserted, rarely quest
+- [The Myth of Objective Value](../posts/2025-05-31-the-myth-of-objective-value.md) - **Core thesis: All value is subjective.** Value does not exist independently—it arises only relative
+- [Virtues, Consequences, and Codes](../posts/2025-05-31-virtues-consequences-and-codes.md) - **Three great ethical traditions rebuilt without objectivity illusion.** **All assume moral truth gr
+- [What Counts As Coercion](../posts/2025-05-31-what-counts-as-coercion.md) - **Precise operational definition of coercion.** Used loosely to describe everything from violence to
+- [Agency, Not Equality](../posts/2025-06-01-agency-not-equality.md) - **SYNTHESIS POST for entire political applications sequence.** Challenged assumptions about inequali
+- [Immigration Restrictions Are a Form of Harm](../posts/2025-06-01-immigration-restrictions-are-a-form-of-harm.md) - **Immigration restrictions widely accepted, but crucial ethical dimension overlooked**: Restrictions
+- [Inequality Is Not the Problem—Poverty Is](../posts/2025-06-01-inequality-is-not-the-problem-poverty-is.md) - **Inequality debates assume differences in wealth inherently cause harm/injustice (mistaken).** Real
+- [Inequality Is Not the Problem—Poverty Is](../posts/2025-06-01-inequality-is-not-the-problempoverty.md) - Challenges the common focus on inequality reduction in favor of poverty alleviation.
+- [Reasonable Disagreement](../posts/2025-06-01-reasonable-disagreement.md) - **Meta-level insight: Reasonable people can disagree even with same information.** Despite rigorous 
+- [The Libertarian Illusion of Equal Opportunity](../posts/2025-06-01-the-libertarian-illusion-of-equal-opportunity.md) - **Libertarians emphasize "equal opportunity" while rejecting "equal outcomes" (appealing but contrad
+- [The Myth of Cultural Threat](../posts/2025-06-01-the-myth-of-cultural-threat.md) - **Common argument against open immigration: perceived threat to culture/stability/safety.** While co
+- [What Counts as Consent](../posts/2025-06-01-what-counts-as-consent.md) - **Precise operational definition of consent.** Foundational in ethics, law, medicine, sex, governanc
+- [What Counts as Harm](../posts/2025-06-01-what-counts-as-harm.md) - **Rigorous definition filters moral inflation.** Used without precision → confusion.
+- [Why Coercive Redistribution Is Always Harmful](../posts/2025-06-01-why-coercive-redistribution-is-always-harmful.md) - **Redistribution defended by compassion/fairness/social justice—but does method itself cause harm?**
+- [The Hidden Power of Principles](../posts/2025-06-02-the-hidden-power-of-principles.md) - Defends principled behavior as strategically optimal, not merely morally admirable.
+- [IQ: Realities, Misconceptions, and Moral Confusions](../posts/2025-06-07-iq-realities-misconceptions-and-moral.md) - Defends IQ as valid cognitive measure while addressing critiques and moral concerns.
+- [The Ethics of the Unconceived](../posts/2025-06-07-the-ethics-of-the-unconceived.md) - Defends embryo selection against "murder" accusations.
+- [Justice After Colonization](../posts/2025-06-08-justice-after-colonization.md) - Proposes agency-restoring approach to post-colonial justice.
+- [The Ethics of Immigration vs. Colonization](../posts/2025-06-08-the-ethics-of-immigration-vs-colonization.md) - Counterfactual thought experiment: what if European arrival had been ethical immigration rather than
+- [Universal Basic Income](../posts/2025-06-13-universal-basic-income.md) - This post evaluates Universal Basic Income (UBI) through Axio's ethical framework: **the integrity o
+- [Against Positive Rights](../posts/2025-06-14-against-positive-rights.md) - This post argues that within Axio's framework, **all valid rights are negative rights**.
+- [Look Where You're Going](../posts/2025-06-15-look-where-youre-going.md) - Unpacks the multi-layered wisdom in the simple advice "look where you're going," revealing depth fro
+- [The Highest Good](../posts/2025-06-15-the-highest-good.md) - Applies Conditionalism to the claim "everyone must worship something," showing truth depends on inte
+- [Sapientism](../posts/2025-06-16-sapientism.md) - Proposes "Sapientism" as evolution beyond humanism: Moral value resides in all sapient minds (biolog
+- [What Counts as Evil](../posts/2025-06-26-what-counts-as-evil.md) - This post defines evil formally as "intentional harm caused by an agent," building on precise techni
+- [The Agency Protection Principle](../posts/2025-07-05-the-agency-protection-principle.md) - This essay proposes a refined ethical principle improving upon libertarianism's traditional Non-Aggr
+- [What is Suffering?](../posts/2025-07-06-what-is-suffering.md) - This essay develops a rigorous technical definition of suffering essential for ethical frameworks, A
+- [Comparing Value Systems](../posts/2025-07-12-comparing-value-systems.md) - Proposes using cosine similarity from vector mathematics to quantify alignment between value systems
+- [Judging Goodness](../posts/2025-07-21-judging-goodness.md) - This post examines how to evaluate moral goodness using Effective Altruism (EA) as case study, empha
+- [Shrimp Ethics](../posts/2025-07-21-shrimp-ethics.md) - This post critiques a utilitarian thought experiment claiming we should save 10¹⁰⁰ shrimp over a sin
+- [The Trolley Problem](../posts/2025-08-21-the-trolley-problem.md) - This essay deconstructs the famous Trolley Problem beyond its standard utilitarian-versus-deontology
+- [False Kindness](../posts/2025-08-22-false-kindness.md) - A sharp, uncompromising critique of the modern tendency to conflate compassion with comfort, this es
+- [The Edge Cases of Coercion](../posts/2025-09-13-the-edge-cases-of-coercion.md) - This comprehensive stress test examines whether the principle "coercion is justified only if pre-con
+- [Navigating The Multiverse](../posts/2025-09-27-navigating-the-multiverse.md) - Agency operates by shifting measure across quantum branches—choosing actions that amplify desired fu
+- [The Ethics of Affluence](../posts/2025-09-27-the-ethics-of-affluence.md) - Wealth is morally neutral; its value derives from deployment.
+- [When All Possibilities Happen](../posts/2025-10-06-when-all-possibilities-happen.md) - This essay explores the implications of many-worlds quantum mechanics for agency, probability, and e
+- [Quantum Free Will](../posts/2025-10-08-quantum-free-will.md) - This essay resolves the free will vs.
+- [On What Matters](../posts/2025-10-12-on-what-matters.md) - This essay critiques Derek Parfit's "On What Matters" through the lens of Conditionalism, arguing Pa
+- [The Double Helix and the Double Standard](../posts/2025-10-14-the-double-helix-and-the-double-standard.md) - This essay examines the Rosalind Franklin/Watson-Crick DNA discovery controversy as case study in st
+- [Truth Isn't Enough](../posts/2025-10-15-truth-isnt-enough.md) - This essay responds to a tweet claiming "smart people obsess over truth at the expense of memetic fi
+- [Sagency](../posts/2025-10-17-sagency.md) - This essay introduces the neologism "sagency"—fusing "sage" and "agency" to describe power disciplin
+- [The Quantum Sequence](../posts/2025-11-19-the-quantum-sequence.md) - Major sequence announcement introducing QBU framework in detail.
+- [The Politics of Envy](../posts/2025-11-22-the-politics-of-envy.md) - This post critiques the modern political tendency to conflate relative inequality with actual harm, 
+- [Agency Conservation](../posts/2025-11-26-agency-conservation.md) - This post resolves the apparent paradox of whether agency maximization can justify parasitism (refus
+- [The Value Sequence](../posts/2025-11-30-the-value-sequence.md) - This comprehensive index organizes Axio's complete treatment of value theory into five progressive p
+- [The Value Sequence](../posts/2025-12-01-the-value-sequence.md) - This is a comprehensive index post cataloging the entire Value Sequence—Axio's systematic developmen
+- [Flourishing and Obligation](../posts/2026-01-12-flourishing-and-obligation.md) - This essay critiques Objectivist ethics from an Axionic perspective, acknowledging its strengths (re
+- [Axionic Agency — Interlude VII](../posts/2026-02-06-axionic-agency-interlude-vii.md) - This interlude marks the transition point: after Phases I-VIII, constructing an Axionic Reflective S

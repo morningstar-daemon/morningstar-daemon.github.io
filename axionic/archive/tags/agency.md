@@ -1,0 +1,141 @@
+# Agency
+
+Analysis of agency, autonomy, decision-making, and goal-directed behavior.
+
+## Posts
+
+- [The Physics of Agency, Part 1: The Physical Nature of Agency](../posts/2025-04-29-physics-of-agency-part-1.md) - Opening the flagship series, this post argues that agency is not a mystical psychological artifact b
+- [The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency](../posts/2025-04-29-physics-of-agency-part-2.md) - This installment formalizes the adversary of agency: entropic drift.
+- [The Physics of Agency, Part 3: The Kybit](../posts/2025-04-29-physics-of-agency-part-3.md) - Introduces the kybit as a quantitative measure of intentional control, defined using Kullback-Leible
+- [The Physics of Agency, Part 1: The Physical Nature of Agency](../posts/2025-04-29-the-physics-of-agency-part-1-the.md) - Foundational post introducing the Physics of Agency framework.
+- [The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency](../posts/2025-04-29-the-physics-of-agency-part-2-agency.md) - Establishes the fundamental opposition: agency vs drift.
+- [The Physics of Agency, Part 3: The Kybit — A New Unit of Control](../posts/2025-04-30-physics-of-agency-part-3.md) - Here the series defines the kybit as the quantitative measure of intentional control, instantiated a
+- [The Physics of Agency, Part 4: The Law of Control Work](../posts/2025-04-30-physics-of-agency-part-4.md) - Establishes the Law of Control Work: exercising intentional control costs energy proportional to kyb
+- [The Physics of Agency, Part 10: The Grand Synthesis and Future Directions](../posts/2025-04-30-the-physics-of-agency-part-10-the.md) - Synthesizes Physics of Agency framework and outlines future research directions.
+- [The Physics of Agency, Part 3: The Kybit — A New Unit of Control](../posts/2025-04-30-the-physics-of-agency-part-3-the.md) - Introduces the kybit as fundamental unit of control, analogous to the bit for information.
+- [The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy](../posts/2025-04-30-the-physics-of-agency-part-4-the.md) - Establishes first thermodynamic law of agency: exercising control requires physical work proportiona
+- [The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins](../posts/2025-04-30-the-physics-of-agency-part-5-the.md) - Establishes second thermodynamic law: without continuous energy input, agency capacity inevitably de
+- [The Physics of Agency, Part 6: The Law of Agency Limits — Perfect Control Is Impossible](../posts/2025-04-30-the-physics-of-agency-part-6-the.md) - Establishes third thermodynamic law: perfect, frictionless control over future outcomes is physicall
+- [The Physics of Agency, Part 7: Branching Realities — Agency in the Multiverse](../posts/2025-04-30-the-physics-of-agency-part-7-branching.md) - Places Physics of Agency framework within Many-Worlds Interpretation (MWI): every quantum event spli
+- [The Physics of Agency, Part 8: Meaning, Ethics, and Evolution Under the Physics of Agency](../posts/2025-04-30-the-physics-of-agency-part-8-meaning.md) - Explores implications of Physics of Agency for meaning, ethics, and evolution.
+- [The Physics of Agency, Part 9: Challenges and FAQs](../posts/2025-04-30-the-physics-of-agency-part-9-challenges.md) - Addresses key challenges to Physics of Agency framework.
+- [Mechanics of Agency: Quantum Decisions](../posts/2025-05-04-mechanics-of-agency-quantum-decisions.md) - Illustrates agency principles using Matching Pennies game.
+- [The Mechanics of Agency](../posts/2025-05-04-the-mechanics-of-agency.md) - Defines genuine agency through three essential criteria: **(1) Embeddedness** (existing within/inter
+- [The Mechanics of Agency: Maximal Theoretical Agent](../posts/2025-05-08-the-mechanics-of-agency-maximal-theoretical.md) - Explores Maximum Theoretical Agent (MTA)—opposite extreme from MVA.
+- [Why I'm an Individualist](../posts/2025-05-10-why-im-an-individualist.md)
+- [Effective Decision Theory](../posts/2025-05-11-effective-decision-theory.md)
+- [The Three Thermodynamic Laws of Agency](../posts/2025-05-11-the-three-thermodynamic-laws-of-agency.md) - Synthesis/recap of three thermodynamic laws established in Physics of Agency series: **(1) Law of Co
+- [Active Inference and the Physics of Agency](../posts/2025-05-12-active-inference-and-the-physics.md) - Integrates Karl Friston's Active Inference (Variational Free-Energy Principle) with the Three Thermo
+- [Quantum Agency in the Emergent Multiverse](../posts/2025-05-13-quantum-agency-in-the-emergent-multiverse.md) - Integrates David Wallace's *The Emergent Multiverse* (MWI via decoherence) with Three Thermodynamic 
+- [Intelligence is a Game We Play](../posts/2025-05-17-intelligence-is-a-game-we-play.md) - Defines "game" against Wittgenstein's family resemblance critique: **Game = interactive process wher
+- [Creativity as Virtual Evolution](../posts/2025-05-25-creativity-as-virtual-evolution.md) - Deepens "Evolution is All You Need" by framing human creativity as **multi-layered virtual evolution
+- [Do Ideas Move Atoms?](../posts/2025-05-27-do-ideas-move-atoms.md) - Responds to Carlos De la Guardia's question: "Do ideas push atoms, or atoms push ideas?" **Answer:**
+- [Rights Are Forged](../posts/2025-05-31-rights-are-forged.md) - **Rights ≠ self-evident, eternal, or divinely ordained.** In subjective value framework where agency
+- [The Death of Objective Morality](../posts/2025-05-31-the-death-of-objective-morality.md) - **Morality = structured hierarchy of preferences, not special kind of truth.** Most believe/act as i
+- [The Myth of Objective Value](../posts/2025-05-31-the-myth-of-objective-value.md) - **Core thesis: All value is subjective.** Value does not exist independently—it arises only relative
+- [Willing and Able](../posts/2025-05-31-willing-and-able.md) - **Refinement of "sacrifice as signal"**: Sacrifice must be both willed and within one's power.
+- [Agency, Not Equality](../posts/2025-06-01-agency-not-equality.md) - **SYNTHESIS POST for entire political applications sequence.** Challenged assumptions about inequali
+- [Immigration Restrictions Are a Form of Harm](../posts/2025-06-01-immigration-restrictions-are-a-form-of-harm.md) - **Immigration restrictions widely accepted, but crucial ethical dimension overlooked**: Restrictions
+- [Inequality Is Not the Problem—Poverty Is](../posts/2025-06-01-inequality-is-not-the-problem-poverty-is.md) - **Inequality debates assume differences in wealth inherently cause harm/injustice (mistaken).** Real
+- [Inequality Is Not the Problem—Poverty Is](../posts/2025-06-01-inequality-is-not-the-problempoverty.md) - Challenges the common focus on inequality reduction in favor of poverty alleviation.
+- [The Libertarian Illusion of Equal Opportunity](../posts/2025-06-01-the-libertarian-illusion-of-equal-opportunity.md) - **Libertarians emphasize "equal opportunity" while rejecting "equal outcomes" (appealing but contrad
+- [The Myth of Cultural Threat](../posts/2025-06-01-the-myth-of-cultural-threat.md) - **Common argument against open immigration: perceived threat to culture/stability/safety.** While co
+- [What Counts as Consent](../posts/2025-06-01-what-counts-as-consent.md) - **Precise operational definition of consent.** Foundational in ethics, law, medicine, sex, governanc
+- [What Counts as Harm](../posts/2025-06-01-what-counts-as-harm.md) - **Rigorous definition filters moral inflation.** Used without precision → confusion.
+- [Why Coercive Redistribution Is Always Harmful](../posts/2025-06-01-why-coercive-redistribution-is-always-harmful.md) - **Redistribution defended by compassion/fairness/social justice—but does method itself cause harm?**
+- [The Hidden Power of Principles](../posts/2025-06-02-the-hidden-power-of-principles.md) - Defends principled behavior as strategically optimal, not merely morally admirable.
+- [Can Markets Provide National Defense?](../posts/2025-06-05-can-markets-provide-national-defense.md) - Comprehensive argument that markets can effectively provide national defense, challenging the strong
+- [Modern Monetary Fallacy](../posts/2025-06-05-modern-monetary-fallacy.md) - Comprehensive critique of Modern Monetary Theory (MMT) from axionic/libertarian perspective.
+- [Forever Adolescents](../posts/2025-06-07-forever-adolescents.md) - Critiques liberal democracies for institutionalizing permanent adolescence by balancing individualis
+- [The Ethics of the Unconceived](../posts/2025-06-07-the-ethics-of-the-unconceived.md) - Defends embryo selection against "murder" accusations.
+- [Justice After Colonization](../posts/2025-06-08-justice-after-colonization.md) - Proposes agency-restoring approach to post-colonial justice.
+- [The Ethics of Immigration vs. Colonization](../posts/2025-06-08-the-ethics-of-immigration-vs-colonization.md) - Counterfactual thought experiment: what if European arrival had been ethical immigration rather than
+- [Credibility, Credence, and Coercion](../posts/2025-06-10-credibility-credence-and-coercion.md) - This post establishes precise terminological distinctions between "credible" and "credence" within A
+- [Instinct For Submission](../posts/2025-06-11-instinct-for-submission.md) - This post explores why authoritarianism appears to be humanity's psychological default while liberal
+- [Civilization as an Evolutionary Process](../posts/2025-06-12-civilization-as-an-evolutionary-process.md) - This post reconceptualizes civilization not as a stable achieved state but as a dynamic, ongoing evo
+- [Resolving the Paradox of Tolerance](../posts/2025-06-12-resolving-the-paradox-of-tolerance.md) - This post resolves Popper's paradox of tolerance (unlimited tolerance leads to tolerance's destructi
+- [Against Positive Rights](../posts/2025-06-14-against-positive-rights.md) - This post argues that within Axio's framework, **all valid rights are negative rights**.
+- [Look Where You're Going](../posts/2025-06-15-look-where-youre-going.md) - Unpacks the multi-layered wisdom in the simple advice "look where you're going," revealing depth fro
+- [Sapientism](../posts/2025-06-16-sapientism.md) - Proposes "Sapientism" as evolution beyond humanism: Moral value resides in all sapient minds (biolog
+- [Absurdity vs. Freedom](../posts/2025-06-21-absurdity-vs-freedom.md) - Uses Candyland (deterministic, no player choice) vs chess/hockey (genuine agent choices) to illustra
+- [Your Brain on ChatGPT](../posts/2025-06-23-your-brain-on-chatgpt.md) - This post analyzes an MIT study showing reduced neural activity in ChatGPT users, countering alarmis
+- [Luck Doesn't Justify Coercion](../posts/2025-06-30-luck-doesnt-justify-coercion.md) - This post argues luck doesn't ethically justify coercive redistribution, responding to claim that if
+- [Minds and Agents](../posts/2025-07-01-minds-and-agents.md) - This post defines agents and minds with careful precision, exploring their relationship.
+- [A Minimal Ontology](../posts/2025-07-03-a-minimal-ontology.md) - Proposes deliberately circular ontology as philosophically superior to foundationalist alternatives.
+- [What Stoicism Gets Right](../posts/2025-07-03-what-stoicism-gets-right.md) - Extracts valuable Stoic insights while acknowledging limitations.
+- [The Agency Protection Principle](../posts/2025-07-05-the-agency-protection-principle.md) - This essay proposes a refined ethical principle improving upon libertarianism's traditional Non-Aggr
+- [Minds as Recursive Simulations](../posts/2025-07-06-minds-as-recursive-simulations.md) - Develops computational definition of minds through systematic building from simpler concepts: functi
+- [Defending Agency](../posts/2025-07-20-defending-agency.md) - This post preemptively addresses four major critiques of Axio's agency-based political framework (in
+- [Upgrading Liberty](../posts/2025-07-20-upgrading-liberty.md) - This post proposes upgrading political philosophy from liberty as core ideal to the richer concept o
+- [Shrimp Ethics](../posts/2025-07-21-shrimp-ethics.md) - This post critiques a utilitarian thought experiment claiming we should save 10¹⁰⁰ shrimp over a sin
+- [The Myth of Late-Stage Capitalism](../posts/2025-07-21-the-myth-of-late-stage-capitalism.md) - This post dismantles the popular concept of "late-stage capitalism" as shorthand for contemporary ec
+- [Free Speech](../posts/2025-07-29-free-speech.md) - This post fundamentally reframes the free speech debate by shifting the moral center from speakers' 
+- [Physics Engineering](../posts/2025-07-30-physics-engineering.md) - This post introduces **Physics Engineering** as a radical paradigm shift from viewing physics as pas
+- [The Pragmatic Self](../posts/2025-08-05-the-pragmatic-self.md) - This post develops concept of **pragmatic self** - identity as constructed through choices and actio
+- [The Trolley Problem](../posts/2025-08-21-the-trolley-problem.md) - This essay deconstructs the famous Trolley Problem beyond its standard utilitarian-versus-deontology
+- [False Kindness](../posts/2025-08-22-false-kindness.md) - A sharp, uncompromising critique of the modern tendency to conflate compassion with comfort, this es
+- [CTMU vs. Chaos](../posts/2025-08-27-ctmu-vs-chaos.md) - A critical comparison between Christopher Langan's CTMU (Cognitive-Theoretic Model of the Universe) 
+- [Beyond Clown World](../posts/2025-08-28-beyond-clown-world.md) - A response to Wokal Distance's claim that only "a story about God" can redeem meaning from postmoder
+- [Apollo's Inscriptions](../posts/2025-09-01-apollos-inscriptions.md) - This meditative post examines the three Delphic maxims inscribed on Apollo's temple at Delphi, revea
+- [Foresight Is Not Intelligence](../posts/2025-09-05-foresight-is-not-intelligence.md) - This post critiques Elon Musk's claim that "the ability to predict the future is the best measure of
+- [A Genealogy of Agency](../posts/2025-09-06-a-genealogy-of-agency.md) - This foundational post traces the intellectual lineage connecting Axio's frameworks to their philoso
+- [The Fire and the Anvil](../posts/2025-09-07-the-fire-and-the-anvil.md) - This post engages Patri Friedman's claim that "there are no rights, only mechanisms"—the view that r
+- [The Boundaries of Force](../posts/2025-09-13-the-boundaries-of-force.md) - This post maps the conceptual boundaries where coercion transitions from illegitimate domination to 
+- [Violence vs. Coercion](../posts/2025-09-13-violence-vs-coercion.md) - This post establishes a fundamental conceptual distinction between violence and coercion that is loa
+- [Cultural Gravity](../posts/2025-09-14-cultural-gravity.md) - This post reframes cultural evolution through the lens of general relativity, arguing that cultural 
+- [Living Shadows](../posts/2025-09-17-living-shadows.md) - This post reimagines Plato's Cave allegory through the lens of memetics and egregores, arguing that 
+- [The Singularity Has Already Happened](../posts/2025-09-17-the-singularity-has-already-happened.md) - This post argues that the technological Singularity is not a future event but a historical fait acco
+- [Should Trillionaires Exist?](../posts/2025-09-19-should-trillionaires-exist.md) - Brief polemic defending extreme wealth concentration against Bernie Sanders' critique of Elon Musk's
+- [If Anyone Builds It, Everyone Dies](../posts/2025-09-23-if-anyone-builds-it-everyone-dies.md) - Critique of AI doomerism slogan "If anyone builds it, everyone dies." Argues this framing is counter
+- [Navigating The Multiverse](../posts/2025-09-27-navigating-the-multiverse.md) - Agency operates by shifting measure across quantum branches—choosing actions that amplify desired fu
+- [The Ethics of Affluence](../posts/2025-09-27-the-ethics-of-affluence.md) - Wealth is morally neutral; its value derives from deployment.
+- [The Evolution of the Future](../posts/2025-10-06-the-evolution-of-the-future.md) - This essay identifies the emergence of long-range temporal consciousness—specifically the ability to
+- [When All Possibilities Happen](../posts/2025-10-06-when-all-possibilities-happen.md) - This essay explores the implications of many-worlds quantum mechanics for agency, probability, and e
+- [Quantum Free Will](../posts/2025-10-08-quantum-free-will.md) - This essay resolves the free will vs.
+- [Against Worldly Oughts](../posts/2025-10-11-against-worldly-oughts.md) - This essay critiques Brian Cantwell Smith's thesis that normativity (truth, reference, meaning) is n
+- [On What Matters](../posts/2025-10-12-on-what-matters.md) - This essay critiques Derek Parfit's "On What Matters" through the lens of Conditionalism, arguing Pa
+- [Against Slavery](../posts/2025-10-17-against-slavery.md) - This provocative essay argues modern taxation is slavery in bureaucratized form—identical coercive s
+- [Sagency](../posts/2025-10-17-sagency.md) - This essay introduces the neologism "sagency"—fusing "sage" and "agency" to describe power disciplin
+- [Destructor Memes](../posts/2025-10-20-destructor-memes.md) - This brief essay introduces the concept of "Destructor memes"—thought patterns that glamorize annihi
+- [The Cybernetics Sequence](../posts/2025-11-19-the-cybernetics-sequence.md) - Sequence announcement and index post.
+- [The Quantum Sequence](../posts/2025-11-19-the-quantum-sequence.md) - Major sequence announcement introducing QBU framework in detail.
+- [The Agency Criterion](../posts/2025-11-21-the-agency-criterion.md) - Responds to Andrej Karpathy's comparison of animal minds and LLMs.
+- [The Colonization of Engineering](../posts/2025-11-21-the-colonization-of-engineering.md) - Critiques "decolonizing engineering" curriculum for replacing epistemic rigor with cultural relativi
+- [The Politics of Envy](../posts/2025-11-22-the-politics-of-envy.md) - This post critiques the modern political tendency to conflate relative inequality with actual harm, 
+- [The Shadow War](../posts/2025-11-23-the-shadow-war.md) - This post reinterprets the Shadow War from Babylon 5 as a philosophical conflict about civilizationa
+- [Games and Metagames](../posts/2025-11-25-games-and-metagames.md) - This post introduces the conceptual framework of nested games and metagames as a fundamental lens fo
+- [Jaggedness and Agency](../posts/2025-11-25-jaggedness-and-agency.md) - This post dissolves the false dichotomy between AI "impossibilists" (like David Deutsch, who argue p
+- [Agency Conservation](../posts/2025-11-26-agency-conservation.md) - This post resolves the apparent paradox of whether agency maximization can justify parasitism (refus
+- [The Infantilization Reflex](../posts/2025-11-26-the-infantilization-reflex.md) - This post critiques the pattern where adult women are granted full agency except when romantic choic
+- [The Metagame of Incentives](../posts/2025-11-26-the-metagame-of-incentives.md) - This post examines incentives as the transmission mechanism by which higher-level games shape lower-
+- [The Ultimate Metagame](../posts/2025-11-26-the-ultimate-metagame.md) - This post identifies the terminal level of the nested game hierarchy introduced in "Games and Metaga
+- [The Empathy Exploit](../posts/2025-11-27-the-empathy-exploit.md) - This post uses Einstein's 1949 endorsement of socialism to illustrate how authoritarian ideologies w
+- [Integrating Meaningness](../posts/2025-11-28-integrating-meaningness.md) - This post reconciles two apparently distinct frameworks for understanding value: Chapman's Meaningne
+- [The Metagame of Patterns](../posts/2025-11-28-the-metagame-of-patterns.md) - This post reframes the metagame hierarchy by identifying patterns—not individuals—as the true compet
+- [The Pathologies of Misaligned Incentives](../posts/2025-11-28-the-pathologies-of-misaligned-incentives.md) - This post analyzes how incentive misalignment produces systemic pathologies when strategies that win
+- [Integrating Meaningness](../posts/2025-11-30-integrating-meaningness.md) - This post synthesizes David Chapman's Meaningness framework with Axio by arguing they describe the s
+- [The Quantum Metagame](../posts/2025-11-30-the-quantum-metagame.md) - This post establishes the deepest layer of the Metagame Sequence by reconceptualizing persistence un
+- [The Value Sequence](../posts/2025-11-30-the-value-sequence.md) - This comprehensive index organizes Axio's complete treatment of value theory into five progressive p
+- [The Value Sequence](../posts/2025-12-01-the-value-sequence.md) - This is a comprehensive index post cataloging the entire Value Sequence—Axio's systematic developmen
+- [The Viability Criterion](../posts/2025-12-01-the-viability-criterion.md) - This post serves as the executive summary and conceptual gateway to the Value Sequence, reframing Ax
+- [Consciousness Explained](../posts/2025-12-02-consciousness-explained.md) - This post presents the Modeler-Schema Theory of Consciousness, a mechanistic account that identifies
+- [The Axiocracy Sequence](../posts/2025-12-02-the-axiocracy-sequence.md) - This comprehensive index cataloging the Axiocracy sequence—Axio's political framework where "coheren
+- [Consciousness Explained](../posts/2025-12-03-consciousness-explained.md) - This post analyzes "The Modeler Schema Theory of Consciousness" (Heile, arXiv:2512.01073), which pro
+- [The AI Sequence](../posts/2025-12-03-the-ai-sequence.md) - This index post organizes the Axio archive's analysis of artificial intelligence into three progress
+- [The Thought Police](../posts/2025-12-04-the-thought-police.md) - This post examines how liberal democracies can drift into thought-policing regimes through structura
+- [Boundary Conditions for Self-Modification](../posts/2025-12-13-boundary-conditions-for-selfmodification.md) - Specifies which self-modifications preserve agency vs collapse it.
+- [Regret Is Not a Policy Metric](../posts/2025-12-16-regret-is-not-a-policy-metric.md) - Defends marijuana and gambling legalization against "failure" claims.
+- [The Axionic Alignment Sequence](../posts/2025-12-19-the-axionic-alignment-sequence.md) - Massive sequence announcement: 70+ posts developing constitutive theory of agency under reflection, 
+- [Axionic Agency Lab](../posts/2025-12-21-agency-coherence-lab.md) - Announces formation of Axionic Agency Lab—research group studying constitutive conditions for agency
+- [Axions as a Type of Agency](../posts/2025-12-21-axions-as-a-unit-of-agency.md) - Introduces "Axion" as precise noun naming constitutive structural configuration of reflective agency
+- [Axionic Agency — Interlude III](../posts/2025-12-23-axionic-agency-interlude-iii.md) - Documents project's pivot from "Axionic Alignment" to "Axionic Agency." Records shift in understandi
+- [Echoes of Freud](../posts/2025-12-28-echoes-of-freud.md) - This post analyzes Freud's lasting cultural influence not through his discredited clinical theories 
+- [In Defense of Centrism](../posts/2026-01-10-in-defense-of-centrism.md) - This essay defends centrism not as aesthetic moderation or political compromise, but as a rigorous g
+- [Alignment After Agency](../posts/2026-01-11-alignment-after-agency.md) - This essay argues that AI alignment presupposes a hidden assumption rarely made explicit: that syste
+- [Cognition vs. Authority](../posts/2026-01-11-cognition-vs-authority.md) - This essay contrasts two non-behaviorist approaches to AI safety: Peter Voss's Cognitive AI (buildin
+- [Flourishing and Obligation](../posts/2026-01-12-flourishing-and-obligation.md) - This essay critiques Objectivist ethics from an Axionic perspective, acknowledging its strengths (re
+- [From Power to Agency](../posts/2026-01-13-from-power-to-agency.md) - This essay presents the Axionic roadmap for building Reflective Sovereign Agents, inverting conventi
+- [The Price of Agency](../posts/2026-01-18-the-price-of-agency.md) - This essay responds to the critique that libertarianism "can't handle evil" by clarifying what legal
+- [Politics as Phase Space](../posts/2026-01-24-politics-as-phase-space.md) - This essay argues the left-right political spectrum is a representational failure that compresses au
+- [You Can't Align a Hurricane](../posts/2026-01-27-you-cant-align-a-hurricane.md) - This accessible essay uses the hurricane-vs-nation analogy to explain why AI agency matters for safe
+- [The Epstein Fallacy](../posts/2026-02-03-the-epstein-fallacy.md) - This essay responds to a critique claiming moral subjectivism fails because it can't show "sound del

@@ -1,0 +1,64 @@
+# Epistemology
+
+Posts examining the nature of knowledge, belief, justification, and rational inquiry.
+
+## Posts
+
+- [The Physics of Agency, Part 9: Challenges and FAQs](../posts/2025-04-30-the-physics-of-agency-part-9-challenges.md) - Addresses key challenges to Physics of Agency framework.
+- [Conditionalism](../posts/2025-05-04-conditionalism.md) - Philosophical theory: all truth claims inherently depend on implicit/explicit conditions.
+- [Identifying Branches in the QBU](../posts/2025-05-04-identifying-branches-in-the-qbu.md) - Explores Pattern Identifiers (PIs) in Quantum Branching Universe framework using concrete examples: 
+- [The Dialectic Agent](../posts/2025-05-09-introducing-the-dialectic-agent.md) - Introduces Dialectic Agent: AI designed to refine/articulate ideas through structured interaction.
+- [Making Sense of P(doom)](../posts/2025-05-10-making-sense-of-pdoom.md) - Clarifies P(doom) probability estimates for AI existential risk.
+- [Objective vs. Subjective Probability](../posts/2025-05-10-objective-vs-subjective-probability.md)
+- [A Rigorous Definition of Causality](../posts/2025-05-11-a-rigorous-definition-of-causality.md)
+- [Evolution Is All You Need](../posts/2025-05-17-evolution-is-all-you-need.md) - Argues creativity = evolution (variation + selection), responding to Deutsch/Hall's "open-endedness"
+- [Intelligence is a Game We Play](../posts/2025-05-17-intelligence-is-a-game-we-play.md) - Defines "game" against Wittgenstein's family resemblance critique: **Game = interactive process wher
+- [Measure, Vantage, Branchcone, and Counterfactuals](../posts/2025-05-17-measure-vantage-branchcone-and-counterfactuals.md) - Formal definitions of four key QBU concepts.
+- [The Starlight Analogy](../posts/2025-05-17-the-starlight-analogy.md) - Defends Many-Worlds against Occam's razor objection ("too many worlds").
+- [Defending Bayes](../posts/2025-05-19-defending-bayes.md) - First in 5-part series defending Bayesian epistemology within QBU against Deutsch/Hall objections.
+- [QBism vs. Many Worlds](../posts/2025-05-20-qbism-vs-many-worlds.md) - Compares two quantum interpretations.
+- [Defending Bayes, Part 2](../posts/2025-05-22-defending-bayes-part-2.md) - Reframes empirical uncertainty as **timeline uncertainty**—uncertainty about which timeline we inhab
+- [Defending Bayes, Part 3](../posts/2025-05-23-defending-bayes-part-3.md) - Sharpens distinction between scientific (explanatory) and empirical (timeline) knowledge.
+- [Nonsense](../posts/2025-05-23-nonsense.md) - Technical definition of **nonsense**: utterance lacking interpretability within *any* coherent seman
+- [Defending Bayes, Part 4](../posts/2025-05-24-defending-bayes-part-4.md) - Short post connecting **indexical uncertainty** (Yudkowsky) with **timeline uncertainty**.
+- [Defending Bayes, Part 5](../posts/2025-05-25-defending-bayes-part-5.md) - Extends credence taxonomy beyond timeline uncertainty.
+- [Heads or Tails](../posts/2025-05-25-heads-or-tails.md) - Illustrates **Measure vs Credence** dynamics via coin flip scenario.
+- [Policy on Precedence and Contradictions](../posts/2025-05-26-policy-on-precedence-and-contradictions.md) - Meta-level policy: **Later entries supersede earlier ones** when contradictions arise.
+- [Reasonable Disagreement](../posts/2025-06-01-reasonable-disagreement.md) - **Meta-level insight: Reasonable people can disagree even with same information.** Despite rigorous 
+- [Defending Bayes, Part 8](../posts/2025-06-05-defending-bayes-part-8.md) - Addresses critical rationalist (Deutsch-Hall) critique of Bayesian reasoning by distinguishing abduc
+- [Defending Bayes, Part 9 (Interlude)](../posts/2025-06-05-defending-bayes-part-9-interlude.md) - Critical conceptual clarification distinguishing Measure (objective physical probability) from Crede
+- [Metaphysics as Concept Creation](../posts/2025-06-07-metaphysics-as-concept-creation.md) - Reframes metaphysics as creative concept-building rather than discovery of hidden truths.
+- [The Fallacy of Universal Intelligence](../posts/2025-06-07-the-fallacy-of-universal-intelligence.md) - Critiques David Deutsch's claim that all humans have equal intelligence.
+- [Credibility, Credence, and Coercion](../posts/2025-06-10-credibility-credence-and-coercion.md) - This post establishes precise terminological distinctions between "credible" and "credence" within A
+- [The COVID-19 Lab Leak Hypothesis](../posts/2025-06-10-the-covid-19-lab-leak-hypothesis.md) - This post applies rigorous Bayesian reasoning to COVID-19 origins, arguing that the spatial-temporal
+- [What Counts as a Belief](../posts/2025-06-10-what-counts-as-a-belief.md) - Rigorous definition of belief within axionic framework.
+- [The Three Levels of Truth](../posts/2025-06-13-the-three-levels-of-truth.md) - This post synthesizes three classical theories of truth—correspondence, coherence, pragmatism—into a
+- [What Counts as Knowledge](../posts/2025-06-27-what-counts-as-knowledge.md) - This post provides technical definition of knowledge grounded in Information Theory and Physics of A
+- [The Map Is Not the Territory](../posts/2025-06-29-the-map-is-not-the-territory.md) - This post explores Korzybski's insight "the map is not the territory" as critical cognitive safeguar
+- [Justice Without Juries](../posts/2025-07-02-justice-without-juries.md) - This post critiques jury system as fundamentally flawed by prioritizing democratic symbolism over ep
+- [Pancritical Rationalism](../posts/2025-07-03-pancritical-rationalism.md) - Presents William Warren Bartley's Pancritical Rationalism (PCR) as solution to philosophy's foundati
+- [The Hedgefox](../posts/2025-07-06-the-hedgefox.md) - Proposes "Hedgefox" synthesis transcending Isaiah Berlin's famous hedgehog/fox dichotomy.
+- [The Limits of Psychedelic Revelation](../posts/2025-07-12-the-limits-of-psychedelic-revelation.md) - Examines whether psychedelic-induced experiences (cosmic unity, ego dissolution, oneness with univer
+- [In Defence of Conditional Truth](../posts/2025-09-04-in-defence-of-conditional-truth.md) - This foundational post articulates Axio's philosophy of conditionalism as an escape from the false d
+- [The Garden Path of History](../posts/2025-09-05-the-garden-path-of-history.md) - This epistemological meditation uses Axio's misreading of a Peirce passage to illuminate how present
+- [A Genealogy of Agency](../posts/2025-09-06-a-genealogy-of-agency.md) - This foundational post traces the intellectual lineage connecting Axio's frameworks to their philoso
+- [The Spiral of Certainty](../posts/2025-09-06-the-spiral-of-certainty.md) - This post diagnoses a fundamental asymmetry between human and LLM cognition through the example of a
+- [The Presumption of Innocence](../posts/2025-09-07-the-presumption-of-innocence.md) - This post critiques JD Vance's claim that killing cartel members is the "highest and best use" of th
+- [Simulation Theories](../posts/2025-09-08-simulation-theories.md) - This comprehensive taxonomy maps the landscape of simulation theories across philosophical, technolo
+- [Straight Answers, Crooked Questions](../posts/2025-09-11-straight-answers-crooked-questions.md) - This post examines Liron Shapira's "hardest eval" where GPT-5 bluntly answered three yes/no question
+- [Entangled Truths](../posts/2025-09-20-entangled-truths.md) - Applies Conditionalism framework to dissolve Leibniz's classical distinction between necessary "trut
+- [Mind Viruses](../posts/2025-09-30-mind-viruses.md) - Classification of parasitic memes that spread at host expense.
+- [An Ecology of Contrarians](../posts/2025-10-01-an-ecology-of-contrarians.md) - Intellectual ecosystems require diversity of dissent.
+- [The Semantics of Violence](../posts/2025-10-07-the-semantics-of-violence.md) - This essay dissects an NPR/Marist poll question asking whether "Americans may have to resort to poli
+- [Axiocracy](../posts/2025-10-08-axiocracy.md) - This foundational essay introduces "axiocracy"—a proposed governance system based on revealed prefer
+- [Against Worldly Oughts](../posts/2025-10-11-against-worldly-oughts.md) - This essay critiques Brian Cantwell Smith's thesis that normativity (truth, reference, meaning) is n
+- [Gender As Performance](../posts/2025-10-13-gender-as-performance.md) - This essay diagnoses the gender debate as ontological confusion rather than moral disagreement.
+- [Blue Flight](../posts/2025-10-14-blue-flight.md) - This essay draws a provocative parallel between BlueSky migration and white flight, arguing both rep
+- [Truth Isn't Enough](../posts/2025-10-15-truth-isnt-enough.md) - This essay responds to a tweet claiming "smart people obsess over truth at the expense of memetic fi
+- [Pearl and the Machine](../posts/2025-10-18-pearl-and-the-machine.md) - This imaginative dialogue between Judea Pearl and GPT-5 explores whether language models truly under
+- [What Is a Model?](../posts/2025-11-19-what-is-a-model.md) - Foundational conceptual clarification defining models across scientific, cognitive, and cybernetic c
+- [The Colonization of Engineering](../posts/2025-11-21-the-colonization-of-engineering.md) - Critiques "decolonizing engineering" curriculum for replacing epistemic rigor with cultural relativi
+- [Tool Bias](../posts/2025-11-30-tool-bias.md) - This post identifies a subtle cognitive failure mode where sophisticated minds over-upgrade ambiguou
+- [The Gemini Protocol](../posts/2025-12-08-the-gemini-protocol.md) - Announces addition of Google Gemini as second AI model in Dialectic Catalyst.
+- [Constraint, Formalism, and Empiricism](../posts/2026-01-01-constraint-formalism-and-empiricism.md) - This post clarifies the relationship between philosophy, mathematics, and science not as ancestry or
+- [What Is Philosophy?](../posts/2026-01-01-what-is-philosophy.md) - This post derives philosophy from first principles as a structural necessity for reflective agents, 

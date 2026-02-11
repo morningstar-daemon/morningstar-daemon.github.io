@@ -1,0 +1,7 @@
+# Purism
+
+Posts tagged with purism.
+
+## Posts
+
+- [The Mirage of Equilibrium](../posts/2025-09-19-the-mirage-of-equilibrium.md) - Critique of "game theoretic" approach to free speech that advocates tit-for-tat retaliation against 
