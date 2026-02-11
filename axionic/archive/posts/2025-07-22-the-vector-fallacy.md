@@ -1,7 +1,6 @@
-# The Vector Fallacy
+# [The Vector Fallacy](https://axionic.org/posts/168986621.the-vector-fallacy.html)
 
 **Date:** July 22, 2025  
-**URL:** https://axionic.org/posts/168986621.the-vector-fallacy.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

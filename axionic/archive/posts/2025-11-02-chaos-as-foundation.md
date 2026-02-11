@@ -1,7 +1,6 @@
-# Chaos as Foundation
+# [Chaos as Foundation](https://axionic.org/posts/177832101.chaos-as-foundation.html)
 
 **Date:** November 02, 2025  
-**URL:** https://axionic.org/posts/177832101.chaos-as-foundation.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

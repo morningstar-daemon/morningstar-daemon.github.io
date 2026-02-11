@@ -1,7 +1,6 @@
-# Ghosts in the Machine
+# [Ghosts in the Machine](https://axionic.org/posts/171666094.ghosts-in-the-machine.html)
 
 **Date:** August 22, 2025  
-**URL:** https://axionic.org/posts/171666094.ghosts-in-the-machine.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

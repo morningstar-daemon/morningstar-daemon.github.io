@@ -1,7 +1,6 @@
-# The Semantics of Violence
+# [The Semantics of Violence](https://axionic.org/posts/175525671.the-semantics-of-violence.html)
 
 **Date:** October 7, 2025  
-**URL:** https://axionic.org/posts/175525671.the-semantics-of-violence.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

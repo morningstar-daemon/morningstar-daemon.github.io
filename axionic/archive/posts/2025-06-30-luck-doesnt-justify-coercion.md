@@ -1,7 +1,6 @@
-# Luck Doesn't Justify Coercion
+# [Luck Doesn't Justify Coercion](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)
 
 **Date:** June 30, 2025  
-**URL:** https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

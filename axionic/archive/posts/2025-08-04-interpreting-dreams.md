@@ -1,7 +1,6 @@
-# Interpreting Dreams
+# [Interpreting Dreams](https://axionic.org/posts/170103594.interpreting-dreams.html)
 
 **Date:** August 04, 2025  
-**URL:** https://axionic.org/posts/170103594.interpreting-dreams.html  
 **Subtitle:** Random inputs can still yield meaningful insights  
 **Batch:** Batch 09 (Posts 51–75)
 

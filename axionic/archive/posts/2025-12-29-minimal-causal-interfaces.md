@@ -1,7 +1,6 @@
-# Minimal Causal Interfaces
+# [Minimal Causal Interfaces](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 **Date:** December 29, 2025  
-**URL:** https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Silver Pill
+# [The Silver Pill](https://axionic.org/posts/168244764.the-silver-pill.html)
 
 **Date:** July 14, 2025  
-**URL:** https://axionic.org/posts/168244764.the-silver-pill.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

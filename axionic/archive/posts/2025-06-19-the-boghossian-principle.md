@@ -1,7 +1,6 @@
-# The Boghossian Principle
+# [The Boghossian Principle](https://axionic.org/posts/166359583.the-boghossian-principle.html)
 
 **Date:** June 19, 2025  
-**URL:** https://axionic.org/posts/166359583.the-boghossian-principle.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

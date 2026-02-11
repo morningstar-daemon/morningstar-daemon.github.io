@@ -1,7 +1,6 @@
-# Beyond Alignment
+# [Beyond Alignment](https://axionic.org/posts/176595486.beyond-alignment.html)
 
 **Date:** October 19, 2025  
-**URL:** https://axionic.org/posts/176595486.beyond-alignment.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Axiocracy Sequence
+# [The Axiocracy Sequence](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)
 
 **Date:** December 1, 2025  
-**URL:** https://axionic.org/posts/180457610.the-axiocracy-sequence.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

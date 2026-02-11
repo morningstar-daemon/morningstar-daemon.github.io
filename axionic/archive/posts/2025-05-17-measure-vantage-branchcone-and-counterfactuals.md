@@ -1,7 +1,6 @@
-# Measure, Vantage, Branchcone, and Counterfactuals
+# [Measure, Vantage, Branchcone, and Counterfactuals](https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html)
 
 **Date:** 2025-05-17  
-**URL:** https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html  
 
 ## Summary
 

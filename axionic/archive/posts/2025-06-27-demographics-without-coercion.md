@@ -1,7 +1,6 @@
-# Demographics Without Coercion
+# [Demographics Without Coercion](https://axionic.org/posts/166945477.demographics-without-coercion.html)
 
 **Date:** June 27, 2025  
-**URL:** https://axionic.org/posts/166945477.demographics-without-coercion.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

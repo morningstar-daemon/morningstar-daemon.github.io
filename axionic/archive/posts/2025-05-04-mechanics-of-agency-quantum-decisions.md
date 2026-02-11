@@ -1,7 +1,6 @@
-# Mechanics of Agency: Quantum Decisions
+# [Mechanics of Agency: Quantum Decisions](https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html)
 
 **Date:** 2025-05-04  
-**URL:** https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html  
 
 ## Summary
 

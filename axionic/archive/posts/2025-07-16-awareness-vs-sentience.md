@@ -1,7 +1,6 @@
-# Awareness vs. Sentience
+# [Awareness vs. Sentience](https://axionic.org/posts/168493940.awareness-vs-sentience.html)
 
 **Date:** July 16, 2025  
-**URL:** https://axionic.org/posts/168493940.awareness-vs-sentience.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

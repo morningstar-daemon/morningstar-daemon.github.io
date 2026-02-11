@@ -1,7 +1,6 @@
-# IQ: Realities, Misconceptions, and Moral Confusions
+# [IQ: Realities, Misconceptions, and Moral Confusions](https://axionic.org/posts/165428073.iq-realities-misconceptions-and-moral.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165428073.iq-realities-misconceptions-and-moral.html
 
 ## Summary
 

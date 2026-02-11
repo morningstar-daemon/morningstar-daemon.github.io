@@ -1,7 +1,6 @@
-# Identifying Branches in the QBU
+# [Identifying Branches in the QBU](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)
 
 **Date:** 2025-05-04  
-**URL:** https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html  
 
 ## Summary
 

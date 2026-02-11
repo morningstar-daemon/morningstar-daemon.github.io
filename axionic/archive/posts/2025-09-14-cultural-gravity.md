@@ -1,7 +1,6 @@
-# Cultural Gravity
+# [Cultural Gravity](https://axionic.org/posts/173608962.cultural-gravity.html)
 
 **Date:** September 14, 2025  
-**URL:** https://axionic.org/posts/173608962.cultural-gravity.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

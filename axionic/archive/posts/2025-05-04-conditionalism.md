@@ -1,7 +1,6 @@
-# Conditionalism
+# [Conditionalism](https://axionic.org/posts/162831503.conditionalism.html)
 
 **Date:** 2025-05-04  
-**URL:** https://axionic.org/posts/162831503.conditionalism.html  
 
 ## Summary
 

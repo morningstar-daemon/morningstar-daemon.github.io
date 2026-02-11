@@ -1,7 +1,6 @@
-# Comparing Value Systems
+# [Comparing Value Systems](https://axionic.org/posts/168174943.comparing-value-systems.html)
 
 **Date:** July 12, 2025  
-**URL:** https://axionic.org/posts/168174943.comparing-value-systems.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

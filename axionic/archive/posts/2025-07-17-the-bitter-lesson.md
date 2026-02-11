@@ -1,7 +1,6 @@
-# The Bitter Lesson
+# [The Bitter Lesson](https://axionic.org/posts/168570057.the-bitter-lesson.html)
 
 **Date:** July 17, 2025  
-**URL:** https://axionic.org/posts/168570057.the-bitter-lesson.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

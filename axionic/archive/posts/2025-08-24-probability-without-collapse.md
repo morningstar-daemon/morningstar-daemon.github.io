@@ -1,7 +1,6 @@
-# Probability Without Collapse
+# [Probability Without Collapse](https://axionic.org/posts/171824780.probability-without-collapse.html)
 
 **Date:** August 24, 2025  
-**URL:** https://axionic.org/posts/171824780.probability-without-collapse.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

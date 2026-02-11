@@ -1,7 +1,6 @@
-# Governance Without Governments
+# [Governance Without Governments](https://axionic.org/posts/175657828.governance-without-governments.html)
 
 **Date:** October 8, 2025  
-**URL:** https://axionic.org/posts/175657828.governance-without-governments.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

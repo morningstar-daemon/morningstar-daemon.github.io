@@ -1,7 +1,6 @@
-# What Counts as Harm
+# [What Counts as Harm](https://axionic.org/posts/164935709.what-counts-as-harm.html)
 
 **Date:** 2025-06-01  
-**URL:** https://axionic.org/posts/164935709.what-counts-as-harm.html  
 
 ## Summary
 

@@ -1,7 +1,6 @@
-# The Defending Bayes Sequence
+# [The Defending Bayes Sequence](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)
 
 **Date:** November 09, 2025  
-**URL:** https://axionic.org/posts/178434650.the-defending-bayes-sequence.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

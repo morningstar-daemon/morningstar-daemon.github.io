@@ -1,7 +1,6 @@
-# Destructor Memes
+# [Destructor Memes](https://axionic.org/posts/176688057.destructor-memes.html)
 
 **Date:** October 20, 2025  
-**URL:** https://axionic.org/posts/176688057.destructor-memes.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

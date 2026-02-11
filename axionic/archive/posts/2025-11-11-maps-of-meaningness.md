@@ -1,7 +1,6 @@
-# Maps of Meaningness
+# [Maps of Meaningness](https://axionic.org/posts/178642080.maps-of-meaningness.html)
 
 **Date:** November 11, 2025  
-**URL:** https://axionic.org/posts/178642080.maps-of-meaningness.html  
 **Series:** Comparative Philosophy / Coherence Theory
 
 ## Overview

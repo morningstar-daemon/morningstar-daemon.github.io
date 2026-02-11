@@ -1,7 +1,6 @@
-# Beauty and Truth
+# [Beauty and Truth](https://axionic.org/posts/176838567.beauty-and-truth.html)
 
 **Date:** October 22, 2025  
-**URL:** https://axionic.org/posts/176838567.beauty-and-truth.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

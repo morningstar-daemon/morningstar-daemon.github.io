@@ -1,7 +1,6 @@
-# The Corruption of Compassion
+# [The Corruption of Compassion](https://axionic.org/posts/168217804.the-corruption-of-compassion.html)
 
 **Date:** July 13, 2025  
-**URL:** https://axionic.org/posts/168217804.the-corruption-of-compassion.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

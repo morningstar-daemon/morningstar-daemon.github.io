@@ -1,7 +1,6 @@
-# Against Bigotry, Against Relativism
+# [Against Bigotry, Against Relativism](https://axionic.org/posts/171158027.against-bigotry-against-relativism.html)
 
 **Date:** August 16, 2025  
-**URL:** https://axionic.org/posts/171158027.against-bigotry-against-relativism.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

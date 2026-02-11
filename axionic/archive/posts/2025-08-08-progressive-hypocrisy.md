@@ -1,7 +1,6 @@
-# Progressive Hypocrisy
+# [Progressive Hypocrisy](https://axionic.org/posts/170446132.progressive-hypocrisy.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170446132.progressive-hypocrisy.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Quantum Chess
+# [Quantum Chess](https://axionic.org/posts/166481044.quantum-chess.html)
 
 **Date:** June 21, 2025  
-**URL:** https://axionic.org/posts/166481044.quantum-chess.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

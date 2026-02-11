@@ -1,7 +1,6 @@
-# What Counts as Knowledge
+# [What Counts as Knowledge](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)
 
 **Date:** June 27, 2025  
-**URL:** https://axionic.org/posts/167007172.what-counts-as-knowledge.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

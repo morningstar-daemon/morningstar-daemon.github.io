@@ -1,7 +1,6 @@
-# Artificial Intimacy
+# [Artificial Intimacy](https://axionic.org/posts/165904190.artificial-intimacy.html)
 
 **Date:** June 13, 2025  
-**URL:** https://axionic.org/posts/165904190.artificial-intimacy.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

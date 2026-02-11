@@ -1,7 +1,6 @@
-# The Hidden Power of Principles
+# [The Hidden Power of Principles](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)
 
 **Date:** 2025-06-02  
-**URL:** https://axionic.org/posts/165040003.the-hidden-power-of-principles.html
 
 ## Summary
 

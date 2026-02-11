@@ -1,7 +1,6 @@
-# The Theological Shell Game
+# [The Theological Shell Game](https://axionic.org/posts/172226036.the-theological-shell-game.html)
 
 **Date:** August 30, 2025  
-**URL:** https://axionic.org/posts/172226036.the-theological-shell-game.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

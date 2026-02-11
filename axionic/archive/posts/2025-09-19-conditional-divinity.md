@@ -1,7 +1,6 @@
-# Conditional Divinity
+# [Conditional Divinity](https://axionic.org/posts/174067441.conditional-divinity.html)
 
 **Date:** September 19, 2025  
-**URL:** https://axionic.org/posts/174067441.conditional-divinity.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

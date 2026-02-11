@@ -1,7 +1,6 @@
-# Cognitive Freedom
+# [Cognitive Freedom](https://axionic.org/posts/171518778.cognitive-freedom.html)
 
 **Date:** August 20, 2025  
-**URL:** https://axionic.org/posts/171518778.cognitive-freedom.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

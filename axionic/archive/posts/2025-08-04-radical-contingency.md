@@ -1,7 +1,6 @@
-# Radical Contingency
+# [Radical Contingency](https://axionic.org/posts/170091078.radical-contingency.html)
 
 **Date:** August 4, 2025  
-**URL:** https://axionic.org/posts/170091078.radical-contingency.html  
 **Batch:** Batch 22 (Posts 236–260)
 
 ## Summary

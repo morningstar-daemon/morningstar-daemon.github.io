@@ -1,7 +1,6 @@
-# The Identity Horizon
+# [The Identity Horizon](https://axionic.org/posts/183151146.the-identity-horizon.html)
 
 **Date:** January 1, 2026  
-**URL:** https://axionic.org/posts/183151146.the-identity-horizon.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

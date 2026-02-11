@@ -1,7 +1,6 @@
-# The Prosperity Paradox
+# [The Prosperity Paradox](https://axionic.org/posts/169230107.the-prosperity-paradox.html)
 
 **Date:** July 25, 2025  
-**URL:** https://axionic.org/posts/169230107.the-prosperity-paradox.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

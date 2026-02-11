@@ -1,7 +1,6 @@
-# You Can't Align a Hurricane
+# [You Can't Align a Hurricane](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)
 
 **Date:** January 27, 2026  
-**URL:** https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

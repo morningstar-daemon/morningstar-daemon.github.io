@@ -1,7 +1,6 @@
-# Phosphorism: Illuminating Agency
+# [Phosphorism: Illuminating Agency](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)
 
 **Date:** June 29, 2025  
-**URL:** https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

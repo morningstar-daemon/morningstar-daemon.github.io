@@ -1,7 +1,6 @@
-# The Industrial Revolution Starter Kit
+# [The Industrial Revolution Starter Kit](https://axionic.org/posts/170634267.the-industrial-revolution-starter.html)
 
 **Date:** August 10, 2025  
-**URL:** https://axionic.org/posts/170634267.the-industrial-revolution-starter.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Anchor of Orientation
+# [The Anchor of Orientation](https://axionic.org/posts/173611210.the-anchor-of-orientation.html)
 
 **Date:** September 14, 2025  
-**URL:** https://axionic.org/posts/173611210.the-anchor-of-orientation.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

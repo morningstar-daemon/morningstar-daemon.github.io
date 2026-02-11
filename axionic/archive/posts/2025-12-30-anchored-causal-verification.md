@@ -1,7 +1,6 @@
-# Anchored Causal Verification
+# [Anchored Causal Verification](https://axionic.org/posts/182973159.anchored-causal-verification.html)
 
 **Date:** December 30, 2025  
-**URL:** https://axionic.org/posts/182973159.anchored-causal-verification.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

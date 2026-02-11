@@ -1,7 +1,6 @@
-# The Tariff Illusion
+# [The Tariff Illusion](https://axionic.org/posts/170447759.the-tariff-illusion.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170447759.the-tariff-illusion.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

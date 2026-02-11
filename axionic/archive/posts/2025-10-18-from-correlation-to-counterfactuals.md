@@ -1,7 +1,6 @@
-# From Correlation to Counterfactuals
+# [From Correlation to Counterfactuals](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)
 
 **Date:** October 18, 2025  
-**URL:** https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

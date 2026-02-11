@@ -1,7 +1,6 @@
-# Absurdity vs. Freedom
+# [Absurdity vs. Freedom](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)
 
 **Date:** June 21, 2025  
-**URL:** https://axionic.org/posts/166489779.absurdity-vs-freedom.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

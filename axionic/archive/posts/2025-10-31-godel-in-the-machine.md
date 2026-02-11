@@ -1,7 +1,6 @@
-# Gödel in the Machine
+# [Gödel in the Machine](https://axionic.org/posts/177655646.godel-in-the-machine.html)
 
 **Date:** October 31, 2025  
-**URL:** https://axionic.org/posts/177655646.godel-in-the-machine.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

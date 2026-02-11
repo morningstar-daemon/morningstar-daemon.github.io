@@ -1,7 +1,6 @@
-# Forever Adolescents
+# [Forever Adolescents](https://axionic.org/posts/165419043.forever-adolescents.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165419043.forever-adolescents.html
 
 ## Summary
 

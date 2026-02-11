@@ -1,7 +1,6 @@
-# The Fallacy of Universal Intelligence
+# [The Fallacy of Universal Intelligence](https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html
 
 ## Summary
 

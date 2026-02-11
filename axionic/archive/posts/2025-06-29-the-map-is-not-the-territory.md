@@ -1,7 +1,6 @@
-# The Map Is Not the Territory
+# [The Map Is Not the Territory](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)
 
 **Date:** June 29, 2025  
-**URL:** https://axionic.org/posts/167116201.the-map-is-not-the-territory.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

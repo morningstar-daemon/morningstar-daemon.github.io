@@ -1,7 +1,6 @@
-# The Dialectic Catalyst Sequence
+# [The Dialectic Catalyst Sequence](https://axionic.org/posts/178561764.the-dialectic-catalyst-sequence.html)
 
 **Date:** November 11, 2025  
-**URL:** https://axionic.org/posts/178561764.the-dialectic-catalyst-sequence.html  
 **Type:** Sequence Navigation  
 **Series:** AI Collaboration / Cognitive Partnership
 

@@ -1,7 +1,6 @@
-# Semantic Safety Without Moral Machinery
+# [Semantic Safety Without Moral Machinery](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)
 
 **Date:** January 5, 2026  
-**URL:** https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

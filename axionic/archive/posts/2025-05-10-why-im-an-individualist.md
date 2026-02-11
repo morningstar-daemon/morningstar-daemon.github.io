@@ -1,7 +1,6 @@
-# Why I'm an Individualist
+# [Why I'm an Individualist](https://axionic.org/posts/163272667.why-im-an-individualist.html)
 
 **Date:** 2025-05-10  
-**URL:** https://axionic.org/posts/163272667.why-im-an-individualist.html  
 
 ## Summary
 

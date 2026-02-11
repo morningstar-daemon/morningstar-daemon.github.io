@@ -1,7 +1,6 @@
-# Invisible Chains
+# [Invisible Chains](https://axionic.org/posts/169922062.invisible-chains.html)
 
 **Date:** August 02, 2025  
-**URL:** https://axionic.org/posts/169922062.invisible-chains.html  
 **Subtitle:** Analyzing the State's Ownership Over Citizens  
 **Batch:** Batch 09 (Posts 51–75)
 

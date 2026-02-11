@@ -1,7 +1,6 @@
-# Axionic Commitments
+# [Axionic Commitments](https://axionic.org/posts/182463091.axionic-commitments.html)
 
 **Date:** December 23, 2025  
-**URL:** https://axionic.org/posts/182463091.axionic-commitments.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

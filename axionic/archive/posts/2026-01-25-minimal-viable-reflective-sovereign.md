@@ -1,7 +1,6 @@
-# Minimal Viable Reflective Sovereign Agency
+# [Minimal Viable Reflective Sovereign Agency](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)
 
 **Date:** January 25, 2026  
-**URL:** https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

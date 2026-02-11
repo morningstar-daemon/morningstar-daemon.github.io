@@ -1,7 +1,6 @@
-# What Counts as Evil
+# [What Counts as Evil](https://axionic.org/posts/166913167.what-counts-as-evil.html)
 
 **Date:** June 26, 2025  
-**URL:** https://axionic.org/posts/166913167.what-counts-as-evil.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

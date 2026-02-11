@@ -1,7 +1,6 @@
-# The Death of Politics
+# [The Death of Politics](https://axionic.org/posts/175530394.the-death-of-politics.html)
 
 **Date:** October 7, 2025  
-**URL:** https://axionic.org/posts/175530394.the-death-of-politics.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

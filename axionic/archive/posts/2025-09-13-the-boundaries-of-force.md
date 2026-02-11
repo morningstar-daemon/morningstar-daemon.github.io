@@ -1,7 +1,6 @@
-# The Boundaries of Force
+# [The Boundaries of Force](https://axionic.org/posts/173541004.the-boundaries-of-force.html)
 
 **Date:** September 13, 2025  
-**URL:** https://axionic.org/posts/173541004.the-boundaries-of-force.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Mythogenesis
+# [Mythogenesis](https://axionic.org/posts/175193629.mythogenesis.html)
 
 **Date:** October 3, 2025  
-**URL:** https://axionic.org/posts/175193629.mythogenesis.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

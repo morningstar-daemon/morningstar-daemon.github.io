@@ -1,7 +1,6 @@
-# Beyond Left and Right
+# [Beyond Left and Right](https://axionic.org/posts/167677533.beyond-left-and-right.html)
 
 **Date:** July 06, 2025  
-**URL:** https://axionic.org/posts/167677533.beyond-left-and-right.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

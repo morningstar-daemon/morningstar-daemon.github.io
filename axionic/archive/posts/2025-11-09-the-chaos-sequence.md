@@ -1,7 +1,6 @@
-# The Chaos Sequence
+# [The Chaos Sequence](https://axionic.org/posts/178432176.the-chaos-sequence.html)
 
 **Date:** November 09, 2025  
-**URL:** https://axionic.org/posts/178432176.the-chaos-sequence.html  
 **Type:** Sequence Navigation  
 **Series:** Foundational Metaphysics
 

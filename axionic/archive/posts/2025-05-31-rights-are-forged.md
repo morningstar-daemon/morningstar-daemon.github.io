@@ -1,7 +1,6 @@
-# Rights Are Forged
+# [Rights Are Forged](https://axionic.org/posts/164901368.rights-are-forged.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164901368.rights-are-forged.html  
 
 ## Summary
 

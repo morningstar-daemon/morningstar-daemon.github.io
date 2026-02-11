@@ -1,7 +1,6 @@
-# From Inference to Interpretation
+# [From Inference to Interpretation](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)
 
 **Date:** October 28, 2025  
-**URL:** https://axionic.org/posts/177386987.from-inference-to-interpretation.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

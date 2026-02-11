@@ -1,7 +1,6 @@
-# The Pathologies of Misaligned Incentives
+# [The Pathologies of Misaligned Incentives](https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html)
 
 **Date:** November 28, 2025  
-**URL:** https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

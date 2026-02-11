@@ -1,7 +1,6 @@
-# Communism at Home
+# [Communism at Home](https://axionic.org/posts/165430456.communism-at-home.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165430456.communism-at-home.html
 
 ## Summary
 

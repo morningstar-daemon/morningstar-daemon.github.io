@@ -1,7 +1,6 @@
-# Against Civilizational Optimization
+# [Against Civilizational Optimization](https://axionic.org/posts/182797492.against-civilizational-optimization.html)
 
 **Date:** December 28, 2025  
-**URL:** https://axionic.org/posts/182797492.against-civilizational-optimization.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

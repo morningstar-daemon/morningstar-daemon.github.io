@@ -1,7 +1,6 @@
-# Minds and Agents
+# [Minds and Agents](https://axionic.org/posts/167297761.minds-and-agents.html)
 
 **Date:** July 1, 2025  
-**URL:** https://axionic.org/posts/167297761.minds-and-agents.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

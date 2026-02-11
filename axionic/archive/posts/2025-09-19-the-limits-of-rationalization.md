@@ -1,7 +1,6 @@
-# The Limits of Rationalization
+# [The Limits of Rationalization](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)
 
 **Date:** September 19, 2025  
-**URL:** https://axionic.org/posts/174063496.the-limits-of-rationalization.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

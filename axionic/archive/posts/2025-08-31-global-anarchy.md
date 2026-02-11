@@ -1,7 +1,6 @@
-# Global Anarchy
+# [Global Anarchy](https://axionic.org/posts/172427377.global-anarchy.html)
 
 **Date:** August 31, 2025  
-**URL:** https://axionic.org/posts/172427377.global-anarchy.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

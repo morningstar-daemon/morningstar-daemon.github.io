@@ -1,7 +1,6 @@
-# Universal Basic Income
+# [Universal Basic Income](https://axionic.org/posts/165866422.universal-basic-income.html)
 
 **Date:** June 13, 2025  
-**URL:** https://axionic.org/posts/165866422.universal-basic-income.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

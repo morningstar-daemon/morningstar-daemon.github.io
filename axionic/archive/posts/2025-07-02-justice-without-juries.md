@@ -1,7 +1,6 @@
-# Justice Without Juries
+# [Justice Without Juries](https://axionic.org/posts/167356408.justice-without-juries.html)
 
 **Date:** July 2, 2025  
-**URL:** https://axionic.org/posts/167356408.justice-without-juries.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

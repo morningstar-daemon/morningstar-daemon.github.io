@@ -1,7 +1,6 @@
-# Should Trillionaires Exist?
+# [Should Trillionaires Exist?](https://axionic.org/posts/174059558.should-trillionaires-exist.html)
 
 **Date:** September 19, 2025  
-**URL:** https://axionic.org/posts/174059558.should-trillionaires-exist.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

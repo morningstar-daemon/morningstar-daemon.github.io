@@ -1,7 +1,6 @@
-# The Ultimate Metagame
+# [The Ultimate Metagame](https://axionic.org/posts/180026930.the-ultimate-metagame.html)
 
 **Date:** November 26, 2025  
-**URL:** https://axionic.org/posts/180026930.the-ultimate-metagame.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

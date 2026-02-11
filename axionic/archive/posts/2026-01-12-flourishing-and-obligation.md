@@ -1,7 +1,6 @@
-# Flourishing and Obligation
+# [Flourishing and Obligation](https://axionic.org/posts/184262903.flourishing-and-obligation.html)
 
 **Date:** January 12, 2026  
-**URL:** https://axionic.org/posts/184262903.flourishing-and-obligation.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Quantum Free Will
+# [Quantum Free Will](https://axionic.org/posts/175664749.quantum-free-will.html)
 
 **Date:** October 8, 2025  
-**URL:** https://axionic.org/posts/175664749.quantum-free-will.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

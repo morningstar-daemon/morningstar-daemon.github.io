@@ -1,7 +1,6 @@
-# Constructors and Transitions
+# [Constructors and Transitions](https://axionic.org/posts/172303733.constructors-and-transitions.html)
 
 **Date:** August 29, 2025  
-**URL:** https://axionic.org/posts/172303733.constructors-and-transitions.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

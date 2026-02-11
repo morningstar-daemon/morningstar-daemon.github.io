@@ -1,7 +1,6 @@
-# Environmentalism's Nuclear Mistake
+# [Environmentalism's Nuclear Mistake](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)
 
 **Date:** June 28, 2025  
-**URL:** https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

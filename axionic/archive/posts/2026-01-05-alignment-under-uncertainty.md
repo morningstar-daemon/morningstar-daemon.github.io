@@ -1,7 +1,6 @@
-# Alignment Under Uncertainty
+# [Alignment Under Uncertainty](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)
 
 **Date:** January 5, 2026  
-**URL:** https://axionic.org/posts/183614763.alignment-under-uncertainty.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Sentience vs. Sapience
+# [Sentience vs. Sapience](https://axionic.org/posts/166538433.sentience-vs-sapience.html)
 
 **Date:** June 22, 2025  
-**URL:** https://axionic.org/posts/166538433.sentience-vs-sapience.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

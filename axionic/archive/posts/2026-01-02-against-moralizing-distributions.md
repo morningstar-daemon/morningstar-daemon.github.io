@@ -1,7 +1,6 @@
-# Against Moralizing Distributions
+# [Against Moralizing Distributions](https://axionic.org/posts/183197544.against-moralizing-distributions.html)
 
 **Date:** January 2, 2026  
-**URL:** https://axionic.org/posts/183197544.against-moralizing-distributions.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

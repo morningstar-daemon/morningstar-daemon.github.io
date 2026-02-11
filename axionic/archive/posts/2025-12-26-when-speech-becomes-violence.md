@@ -1,7 +1,6 @@
-# When Speech Becomes Violence
+# [When Speech Becomes Violence](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)
 
 **Date:** December 26, 2025  
-**URL:** https://axionic.org/posts/182636414.when-speech-becomes-violence.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

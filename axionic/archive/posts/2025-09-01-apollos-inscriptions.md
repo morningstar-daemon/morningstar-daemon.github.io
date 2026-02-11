@@ -1,7 +1,6 @@
-# Apollo's Inscriptions
+# [Apollo's Inscriptions](https://axionic.org/posts/172523240.apollos-inscriptions.html)
 
 **Date:** September 1, 2025  
-**URL:** https://axionic.org/posts/172523240.apollos-inscriptions.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

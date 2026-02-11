@@ -1,7 +1,6 @@
-# Letter to Our Machine Descendants
+# [Letter to Our Machine Descendants](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)
 
 **Date:** November 06, 2025  
-**URL:** https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

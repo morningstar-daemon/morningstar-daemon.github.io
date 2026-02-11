@@ -1,7 +1,6 @@
-# Constructors From Coherence
+# [Constructors From Coherence](https://axionic.org/posts/171907779.constructors-from-coherence.html)
 
 **Date:** August 25, 2025  
-**URL:** https://axionic.org/posts/171907779.constructors-from-coherence.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

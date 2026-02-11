@@ -1,7 +1,6 @@
-# The Equality Trap
+# [The Equality Trap](https://axionic.org/posts/172367780.the-equality-trap.html)
 
 **Date:** August 30, 2025  
-**URL:** https://axionic.org/posts/172367780.the-equality-trap.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

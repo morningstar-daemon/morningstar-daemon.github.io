@@ -1,7 +1,6 @@
-# Singularities in Thought Space
+# [Singularities in Thought Space](https://axionic.org/posts/170492163.singularities-in-thought-space.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170492163.singularities-in-thought-space.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

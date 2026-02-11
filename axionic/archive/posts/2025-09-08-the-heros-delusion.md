@@ -1,7 +1,6 @@
-# The Hero's Delusion
+# [The Hero's Delusion](https://axionic.org/posts/173134484.the-heros-delusion.html)
 
 **Date:** September 8, 2025  
-**URL:** https://axionic.org/posts/173134484.the-heros-delusion.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# In Defense of Centrism
+# [In Defense of Centrism](https://axionic.org/posts/184137688.in-defense-of-centrism.html)
 
 **Date:** January 10, 2026  
-**URL:** https://axionic.org/posts/184137688.in-defense-of-centrism.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

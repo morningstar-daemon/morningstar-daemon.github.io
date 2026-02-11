@@ -1,7 +1,6 @@
-# The Woke Right
+# [The Woke Right](https://axionic.org/posts/165721326.the-woke-right.html)
 
 **Date:** June 11, 2025  
-**URL:** https://axionic.org/posts/165721326.the-woke-right.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

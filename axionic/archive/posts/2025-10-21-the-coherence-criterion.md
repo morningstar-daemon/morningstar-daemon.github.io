@@ -1,7 +1,6 @@
-# The Coherence Criterion
+# [The Coherence Criterion](https://axionic.org/posts/176742358.the-coherence-criterion.html)
 
 **Date:** October 21, 2025  
-**URL:** https://axionic.org/posts/176742358.the-coherence-criterion.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

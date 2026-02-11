@@ -1,7 +1,6 @@
-# The Vastness of π
+# [The Vastness of π](https://axionic.org/posts/167947701.the-vastness-of.html)
 
 **Date:** July 9, 2025  
-**URL:** https://axionic.org/posts/167947701.the-vastness-of.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

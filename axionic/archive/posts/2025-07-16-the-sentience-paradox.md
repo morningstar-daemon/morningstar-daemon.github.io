@@ -1,7 +1,6 @@
-# The Sentience Paradox
+# [The Sentience Paradox](https://axionic.org/posts/168495314.the-sentience-paradox.html)
 
 **Date:** July 16, 2025  
-**URL:** https://axionic.org/posts/168495314.the-sentience-paradox.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

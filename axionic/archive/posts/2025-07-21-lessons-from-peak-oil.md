@@ -1,7 +1,6 @@
-# Lessons From Peak Oil
+# [Lessons From Peak Oil](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)
 
 **Date:** July 21, 2025  
-**URL:** https://axionic.org/posts/168867250.lessons-from-peak-oil.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

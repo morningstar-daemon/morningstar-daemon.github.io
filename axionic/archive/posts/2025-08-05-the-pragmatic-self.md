@@ -1,7 +1,6 @@
-# The Pragmatic Self
+# [The Pragmatic Self](https://axionic.org/posts/170205491.the-pragmatic-self.html)
 
 **Date:** August 5, 2025  
-**URL:** https://axionic.org/posts/170205491.the-pragmatic-self.html  
 **Batch:** Batch 16 (New remaining list, posts 2-26)
 
 ## Summary

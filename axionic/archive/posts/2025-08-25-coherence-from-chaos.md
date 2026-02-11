@@ -1,7 +1,6 @@
-# Coherence From Chaos
+# [Coherence From Chaos](https://axionic.org/posts/171846415.coherence-from-chaos.html)
 
 **Date:** August 25, 2025  
-**URL:** https://axionic.org/posts/171846415.coherence-from-chaos.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

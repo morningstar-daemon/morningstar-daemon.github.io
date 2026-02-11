@@ -1,7 +1,6 @@
-# Infohazards and Games
+# [Infohazards and Games](https://axionic.org/posts/172362753.infohazards-and-games.html)
 
 **Date:** August 30, 2025  
-**URL:** https://axionic.org/posts/172362753.infohazards-and-games.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

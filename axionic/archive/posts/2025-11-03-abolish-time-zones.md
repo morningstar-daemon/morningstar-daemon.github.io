@@ -1,7 +1,6 @@
-# Abolish Time Zones
+# [Abolish Time Zones](https://axionic.org/posts/177892456.abolish-time-zones.html)
 
 **Date:** November 03, 2025  
-**URL:** https://axionic.org/posts/177892456.abolish-time-zones.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

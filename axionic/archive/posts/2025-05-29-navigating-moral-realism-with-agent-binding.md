@@ -1,7 +1,6 @@
-# Navigating Moral Realism with Agent-Binding
+# [Navigating Moral Realism with Agent-Binding](https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html)
 
 **Date:** 2025-05-29  
-**URL:** https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html  
 
 ## Summary
 

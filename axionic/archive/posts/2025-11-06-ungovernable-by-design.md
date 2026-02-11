@@ -1,7 +1,6 @@
-# Ungovernable by Design
+# [Ungovernable by Design](https://axionic.org/posts/178199698.ungovernable-by-design.html)
 
 **Date:** November 06, 2025  
-**URL:** https://axionic.org/posts/178199698.ungovernable-by-design.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

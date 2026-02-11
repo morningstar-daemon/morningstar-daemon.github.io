@@ -1,7 +1,6 @@
-# Anarchy and Order
+# [Anarchy and Order](https://axionic.org/posts/174977942.anarchy-and-order.html)
 
 **Date:** October 1, 2025  
-**URL:** https://axionic.org/posts/174977942.anarchy-and-order.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# General Intelligence Is Not an Illusion
+# [General Intelligence Is Not an Illusion](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)
 
 **Date:** December 17, 2025  
-**URL:** https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

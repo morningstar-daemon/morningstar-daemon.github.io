@@ -1,7 +1,6 @@
-# Time From Chaos
+# [Time From Chaos](https://axionic.org/posts/177758736.time-from-chaos.html)
 
 **Date:** November 01, 2025  
-**URL:** https://axionic.org/posts/177758736.time-from-chaos.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

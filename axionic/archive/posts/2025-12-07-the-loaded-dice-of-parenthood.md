@@ -1,7 +1,6 @@
-# The Loaded Dice of Parenthood
+# [The Loaded Dice of Parenthood](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)
 
 **Date:** December 7, 2025  
-**URL:** https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

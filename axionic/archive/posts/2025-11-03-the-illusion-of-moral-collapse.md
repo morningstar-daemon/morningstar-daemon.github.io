@@ -1,7 +1,6 @@
-# The Illusion of Moral Collapse
+# [The Illusion of Moral Collapse](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)
 
 **Date:** November 03, 2025  
-**URL:** https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

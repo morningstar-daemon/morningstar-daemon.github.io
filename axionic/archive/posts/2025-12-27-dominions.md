@@ -1,7 +1,6 @@
-# Dominions
+# [Dominions](https://axionic.org/posts/182730693.dominions.html)
 
 **Date:** December 27, 2025  
-**URL:** https://axionic.org/posts/182730693.dominions.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

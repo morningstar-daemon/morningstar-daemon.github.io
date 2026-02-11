@@ -1,7 +1,6 @@
-# Beyond the Turing Test
+# [Beyond the Turing Test](https://axionic.org/posts/178016431.beyond-the-turing-test.html)
 
 **Date:** November 04, 2025  
-**URL:** https://axionic.org/posts/178016431.beyond-the-turing-test.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

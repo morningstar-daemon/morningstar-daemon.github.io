@@ -1,7 +1,6 @@
-# Signals of Sentience
+# [Signals of Sentience](https://axionic.org/posts/170390075.signals-of-sentience.html)
 
 **Date:** August 7, 2025  
-**URL:** https://axionic.org/posts/170390075.signals-of-sentience.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Truth Machines
+# [Truth Machines](https://axionic.org/posts/177760320.truth-machines.html)
 
 **Date:** November 01, 2025  
-**URL:** https://axionic.org/posts/177760320.truth-machines.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

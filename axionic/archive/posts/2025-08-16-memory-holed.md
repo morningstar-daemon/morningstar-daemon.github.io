@@ -1,7 +1,6 @@
-# Memory-Holed
+# [Memory-Holed](https://axionic.org/posts/171155815.memory-holed.html)
 
 **Date:** August 16, 2025  
-**URL:** https://axionic.org/posts/171155815.memory-holed.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

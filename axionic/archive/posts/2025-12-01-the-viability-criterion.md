@@ -1,7 +1,6 @@
-# The Viability Criterion
+# [The Viability Criterion](https://axionic.org/posts/180427300.the-viability-criterion.html)
 
 **Date:** December 1, 2025  
-**URL:** https://axionic.org/posts/180427300.the-viability-criterion.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

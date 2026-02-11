@@ -1,7 +1,6 @@
-# Against Utopia
+# [Against Utopia](https://axionic.org/posts/182729118.against-utopia.html)
 
 **Date:** December 27, 2025  
-**URL:** https://axionic.org/posts/182729118.against-utopia.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

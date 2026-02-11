@@ -1,7 +1,6 @@
-# Filters in Chaos
+# [Filters in Chaos](https://axionic.org/posts/172130342.filters-in-chaos.html)
 
 **Date:** August 27, 2025  
-**URL:** https://axionic.org/posts/172130342.filters-in-chaos.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

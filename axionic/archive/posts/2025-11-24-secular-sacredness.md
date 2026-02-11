@@ -1,7 +1,6 @@
-# Secular Sacredness
+# [Secular Sacredness](https://axionic.org/posts/179826744.secular-sacredness.html)
 
 **Date:** November 24, 2025  
-**URL:** https://axionic.org/posts/179826744.secular-sacredness.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

@@ -1,7 +1,6 @@
-# In Defense of IQ
+# [In Defense of IQ](https://axionic.org/posts/184234856.in-defense-of-iq.html)
 
 **Date:** January 11, 2026  
-**URL:** https://axionic.org/posts/184234856.in-defense-of-iq.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

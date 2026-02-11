@@ -1,7 +1,6 @@
-# Against Slavery
+# [Against Slavery](https://axionic.org/posts/176442955.against-slavery.html)
 
 **Date:** October 17, 2025  
-**URL:** https://axionic.org/posts/176442955.against-slavery.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

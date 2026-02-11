@@ -1,7 +1,6 @@
-# The Fire Remains
+# [The Fire Remains](https://axionic.org/posts/171221751.the-fire-remains.html)
 
 **Date:** August 17, 2025  
-**URL:** https://axionic.org/posts/171221751.the-fire-remains.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

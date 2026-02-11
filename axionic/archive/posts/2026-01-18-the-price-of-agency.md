@@ -1,7 +1,6 @@
-# The Price of Agency
+# [The Price of Agency](https://axionic.org/posts/184979362.the-price-of-agency.html)
 
 **Date:** January 18, 2026  
-**URL:** https://axionic.org/posts/184979362.the-price-of-agency.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

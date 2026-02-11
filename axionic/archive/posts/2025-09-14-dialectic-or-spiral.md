@@ -1,7 +1,6 @@
-# Dialectic or Spiral?
+# [Dialectic or Spiral?](https://axionic.org/posts/173591610.dialectic-or-spiral.html)
 
 **Date:** September 14, 2025  
-**URL:** https://axionic.org/posts/173591610.dialectic-or-spiral.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

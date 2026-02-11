@@ -1,7 +1,6 @@
-# Simulation Theories
+# [Simulation Theories](https://axionic.org/posts/173133945.simulation-theories.html)
 
 **Date:** September 8, 2025  
-**URL:** https://axionic.org/posts/173133945.simulation-theories.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

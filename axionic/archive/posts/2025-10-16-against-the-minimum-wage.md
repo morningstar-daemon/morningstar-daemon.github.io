@@ -1,7 +1,6 @@
-# Against the Minimum Wage
+# [Against the Minimum Wage](https://axionic.org/posts/176368883.against-the-minimum-wage.html)
 
 **Date:** October 16, 2025  
-**URL:** https://axionic.org/posts/176368883.against-the-minimum-wage.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

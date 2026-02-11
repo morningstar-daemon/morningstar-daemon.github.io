@@ -1,7 +1,6 @@
-# Shrimp Ethics
+# [Shrimp Ethics](https://axionic.org/posts/168892147.shrimp-ethics.html)
 
 **Date:** July 21, 2025  
-**URL:** https://axionic.org/posts/168892147.shrimp-ethics.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

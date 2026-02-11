@@ -1,7 +1,6 @@
-# The Myth of Equal Value
+# [The Myth of Equal Value](https://axionic.org/posts/164900237.the-myth-of-equal-value.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164900237.the-myth-of-equal-value.html  
 
 ## Summary
 

@@ -1,7 +1,6 @@
-# Observer Class Alignment
+# [Observer Class Alignment](https://axionic.org/posts/165410248.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165410248.html
 
 ## Summary
 

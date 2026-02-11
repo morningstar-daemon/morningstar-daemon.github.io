@@ -1,7 +1,6 @@
-# Boundary Conditions for Self-Modification
+# [Boundary Conditions for Self-Modification](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)
 
 **Date:** 2025-12-13  
-**URL:** https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html
 
 ## Summary
 

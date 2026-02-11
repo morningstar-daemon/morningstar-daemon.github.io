@@ -1,7 +1,6 @@
-# The Double Helix and the Double Standard
+# [The Double Helix and the Double Standard](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)
 
 **Date:** October 14, 2025  
-**URL:** https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

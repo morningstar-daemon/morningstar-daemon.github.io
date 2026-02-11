@@ -1,7 +1,6 @@
-# Infinite Randomness and Constructor Theory
+# [Infinite Randomness and Constructor Theory](https://axionic.org/posts/171165360.infinite-randomness-and-constructor.html)
 
 **Date:** August 17, 2025  
-**URL:** https://axionic.org/posts/171165360.infinite-randomness-and-constructor.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

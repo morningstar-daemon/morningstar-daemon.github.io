@@ -1,7 +1,6 @@
-# The Metagame Sequence
+# [The Metagame Sequence](https://axionic.org/posts/180340867.the-metagame-sequence.html)
 
 **Date:** November 30, 2025  
-**URL:** https://axionic.org/posts/180340867.the-metagame-sequence.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

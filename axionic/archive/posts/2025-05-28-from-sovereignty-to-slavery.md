@@ -1,7 +1,6 @@
-# From Sovereignty to Slavery
+# [From Sovereignty to Slavery](https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html)
 
 **Date:** 2025-05-28  
-**URL:** https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html  
 
 ## Summary
 

@@ -1,7 +1,6 @@
-# The Presumption of Innocence
+# [The Presumption of Innocence](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)
 
 **Date:** September 7, 2025  
-**URL:** https://axionic.org/posts/173049685.the-presumption-of-innocence.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Conditionalism Sequence
+# [The Conditionalism Sequence](https://axionic.org/posts/178650287.the-conditionalism-sequence.html)
 
 **Date:** November 12, 2025  
-**URL:** https://axionic.org/posts/178650287.the-conditionalism-sequence.html  
 **Type:** Sequence Navigation  
 **Series:** Epistemology / Theory of Knowledge
 

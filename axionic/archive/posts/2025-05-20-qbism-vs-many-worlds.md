@@ -1,7 +1,6 @@
-# QBism vs. Many Worlds
+# [QBism vs. Many Worlds](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)
 
 **Date:** 2025-05-20  
-**URL:** https://axionic.org/posts/164038303.qbism-vs-many-worlds.html  
 
 ## Summary
 

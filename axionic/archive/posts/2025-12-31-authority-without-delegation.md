@@ -1,7 +1,6 @@
-# Authority Without Delegation
+# [Authority Without Delegation](https://axionic.org/posts/183068808.authority-without-delegation.html)
 
 **Date:** December 31, 2025  
-**URL:** https://axionic.org/posts/183068808.authority-without-delegation.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

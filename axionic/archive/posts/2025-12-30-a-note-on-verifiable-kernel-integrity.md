@@ -1,7 +1,6 @@
-# A Note on Verifiable Kernel Integrity
+# [A Note on Verifiable Kernel Integrity](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)
 
 **Date:** December 30, 2025  
-**URL:** https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

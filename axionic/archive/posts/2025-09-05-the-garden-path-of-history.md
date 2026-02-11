@@ -1,7 +1,6 @@
-# The Garden Path of History
+# [The Garden Path of History](https://axionic.org/posts/172914356.the-garden-path-of-history.html)
 
 **Date:** September 5, 2025  
-**URL:** https://axionic.org/posts/172914356.the-garden-path-of-history.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

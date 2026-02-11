@@ -1,7 +1,6 @@
-# The False Equivalence of Minds
+# [The False Equivalence of Minds](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)
 
 **Date:** October 24, 2025  
-**URL:** https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Shadow War
+# [The Shadow War](https://axionic.org/posts/179726756.the-shadow-war.html)
 
 **Date:** November 23, 2025  
-**URL:** https://axionic.org/posts/179726756.the-shadow-war.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

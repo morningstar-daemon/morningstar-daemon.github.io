@@ -1,7 +1,6 @@
-# The Fall of the Ivory Tower
+# [The Fall of the Ivory Tower](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)
 
 **Date:** August 19, 2025  
-**URL:** https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

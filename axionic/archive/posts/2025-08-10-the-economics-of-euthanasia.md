@@ -1,7 +1,6 @@
-# The Economics of Euthanasia
+# [The Economics of Euthanasia](https://axionic.org/posts/170629256.the-economics-of-euthanasia.html)
 
 **Date:** August 10, 2025  
-**URL:** https://axionic.org/posts/170629256.the-economics-of-euthanasia.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

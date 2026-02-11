@@ -1,7 +1,6 @@
-# An AI Box Dialog
+# [An AI Box Dialog](https://axionic.org/posts/182241641.an-ai-box-dialog.html)
 
 **Date:** December 21, 2025  
-**URL:** https://axionic.org/posts/182241641.an-ai-box-dialog.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

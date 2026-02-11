@@ -1,7 +1,6 @@
-# Irony vs Integrity
+# [Irony vs Integrity](https://axionic.org/posts/178031361.irony-vs-integrity.html)
 
 **Date:** November 04, 2025  
-**URL:** https://axionic.org/posts/178031361.irony-vs-integrity.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

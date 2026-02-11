@@ -1,7 +1,6 @@
-# Monopoly Hypocrisy
+# [Monopoly Hypocrisy](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)
 
 **Date:** September 3, 2025  
-**URL:** https://axionic.org/posts/172679351.monopoly-hypocrisy.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

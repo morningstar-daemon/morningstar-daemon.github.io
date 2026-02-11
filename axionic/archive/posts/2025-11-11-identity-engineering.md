@@ -1,7 +1,6 @@
-# Identity Engineering
+# [Identity Engineering](https://axionic.org/posts/178618635.identity-engineering.html)
 
 **Date:** November 11, 2025  
-**URL:** https://axionic.org/posts/178618635.identity-engineering.html  
 **Series:** AI Interaction / Dialectic Catalyst
 
 ## Core Concept

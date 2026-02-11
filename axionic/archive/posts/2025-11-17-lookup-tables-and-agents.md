@@ -1,7 +1,6 @@
-# Lookup Tables and Agents
+# [Lookup Tables and Agents](https://axionic.org/posts/179150747.lookup-tables-and-agents.html)
 
 **Date:** November 17, 2025  
-**URL:** https://axionic.org/posts/179150747.lookup-tables-and-agents.html  
 **Series:** Agency Theory / Philosophy of Mind  
 **Related:** [Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html), [The Nature of Beliefs](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 

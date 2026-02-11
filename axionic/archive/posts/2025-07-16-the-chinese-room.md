@@ -1,7 +1,6 @@
-# The Chinese Room
+# [The Chinese Room](https://axionic.org/posts/168496408.the-chinese-room.html)
 
 **Date:** July 16, 2025  
-**URL:** https://axionic.org/posts/168496408.the-chinese-room.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

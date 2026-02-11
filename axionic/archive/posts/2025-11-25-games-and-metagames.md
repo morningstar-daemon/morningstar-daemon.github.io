@@ -1,7 +1,6 @@
-# Games and Metagames
+# [Games and Metagames](https://axionic.org/posts/179967878.games-and-metagames.html)
 
 **Date:** November 25, 2025  
-**URL:** https://axionic.org/posts/179967878.games-and-metagames.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

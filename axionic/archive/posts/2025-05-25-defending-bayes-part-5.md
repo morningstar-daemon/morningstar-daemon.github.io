@@ -1,7 +1,6 @@
-# Defending Bayes, Part 5
+# [Defending Bayes, Part 5](https://axionic.org/posts/164433813.defending-bayes-part-5.html)
 
 **Date:** 2025-05-25  
-**URL:** https://axionic.org/posts/164433813.defending-bayes-part-5.html  
 
 ## Summary
 

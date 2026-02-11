@@ -1,7 +1,6 @@
-# The Catastrophe Mindset
+# [The Catastrophe Mindset](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)
 
 **Date:** November 23, 2025  
-**URL:** https://axionic.org/posts/179741669.the-catastrophe-mindset.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

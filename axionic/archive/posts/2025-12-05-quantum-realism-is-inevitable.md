@@ -1,7 +1,6 @@
-# Quantum Realism Is Inevitable
+# [Quantum Realism Is Inevitable](https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html)
 
 **Date:** December 5, 2025  
-**URL:** https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

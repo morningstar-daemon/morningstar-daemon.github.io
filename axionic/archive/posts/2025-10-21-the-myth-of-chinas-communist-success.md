@@ -1,7 +1,6 @@
-# The Myth of China's Communist Success
+# [The Myth of China's Communist Success](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)
 
 **Date:** October 21, 2025  
-**URL:** https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

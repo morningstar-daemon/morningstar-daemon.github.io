@@ -1,7 +1,6 @@
-# Effective Decision Theory
+# [Effective Decision Theory](https://axionic.org/posts/163356868.effective-decision-theory.html)
 
 **Date:** 2025-05-11  
-**URL:** https://axionic.org/posts/163356868.effective-decision-theory.html  
 
 ## Summary
 

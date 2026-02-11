@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 6: The Law of Agency Limits — Perfect Control Is Impossible
+# [The Physics of Agency, Part 6: The Law of Agency Limits — Perfect Control Is Impossible](https://axionic.org/posts/162561951.the-physics-of-agency-part-6-the.html)
 
 **Date:** 2025-04-30  
-**URL:** https://axionic.org/posts/162561951.the-physics-of-agency-part-6-the.html  
 **Series:** Physics of Agency (Part 6 of 10)
 
 ## Summary

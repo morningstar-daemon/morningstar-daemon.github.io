@@ -1,7 +1,6 @@
-# Violence vs. Coercion
+# [Violence vs. Coercion](https://axionic.org/posts/173538253.violence-vs-coercion.html)
 
 **Date:** September 13, 2025  
-**URL:** https://axionic.org/posts/173538253.violence-vs-coercion.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

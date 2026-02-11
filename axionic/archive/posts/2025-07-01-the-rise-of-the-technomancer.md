@@ -1,7 +1,6 @@
-# The Rise of the Technomancer
+# [The Rise of the Technomancer](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)
 
 **Date:** July 1, 2025  
-**URL:** https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

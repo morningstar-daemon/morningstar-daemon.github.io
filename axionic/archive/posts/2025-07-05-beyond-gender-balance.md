@@ -1,7 +1,6 @@
-# Beyond Gender Balance
+# [Beyond Gender Balance](https://axionic.org/posts/167614945.beyond-gender-balance.html)
 
 **Date:** July 05, 2025  
-**URL:** https://axionic.org/posts/167614945.beyond-gender-balance.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

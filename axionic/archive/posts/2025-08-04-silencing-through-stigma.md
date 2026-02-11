@@ -1,7 +1,6 @@
-# Silencing Through Stigma
+# [Silencing Through Stigma](https://axionic.org/posts/170122138.silencing-through-stigma.html)
 
 **Date:** August 04, 2025  
-**URL:** https://axionic.org/posts/170122138.silencing-through-stigma.html  
 **Subtitle:** The Strategic Misrepresentation of J.K. Rowling  
 **Batch:** Batch 09 (Posts 51–75)
 

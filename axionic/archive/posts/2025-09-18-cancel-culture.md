@@ -1,7 +1,6 @@
-# Cancel Culture
+# [Cancel Culture](https://axionic.org/posts/173950922.cancel-culture.html)
 
 **Date:** September 18, 2025  
-**URL:** https://axionic.org/posts/173950922.cancel-culture.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

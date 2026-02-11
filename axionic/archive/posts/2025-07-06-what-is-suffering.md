@@ -1,7 +1,6 @@
-# What is Suffering?
+# [What is Suffering?](https://axionic.org/posts/167672844.what-is-suffering.html)
 
 **Date:** July 06, 2025  
-**URL:** https://axionic.org/posts/167672844.what-is-suffering.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

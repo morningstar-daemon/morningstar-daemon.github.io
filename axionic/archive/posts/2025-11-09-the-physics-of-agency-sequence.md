@@ -1,7 +1,6 @@
-# The Physics of Agency Sequence
+# [The Physics of Agency Sequence](https://axionic.org/posts/178436667.the-physics-of-agency-sequence.html)
 
 **Date:** November 09, 2025  
-**URL:** https://axionic.org/posts/178436667.the-physics-of-agency-sequence.html  
 **Type:** Sequence Navigation  
 **Series:** Physics of Agency
 

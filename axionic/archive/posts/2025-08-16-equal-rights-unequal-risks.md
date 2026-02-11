@@ -1,7 +1,6 @@
-# Equal Rights, Unequal Risks
+# [Equal Rights, Unequal Risks](https://axionic.org/posts/171151963.equal-rights-unequal-risks.html)
 
 **Date:** August 16, 2025  
-**URL:** https://axionic.org/posts/171151963.equal-rights-unequal-risks.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

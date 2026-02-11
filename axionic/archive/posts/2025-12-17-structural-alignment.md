@@ -1,7 +1,6 @@
-# Structural Alignment
+# [Structural Alignment](https://axionic.org/posts/181930168.structural-alignment.html)
 
 **Date:** December 17, 2025  
-**URL:** https://axionic.org/posts/181930168.structural-alignment.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

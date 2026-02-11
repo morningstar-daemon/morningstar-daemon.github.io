@@ -1,7 +1,6 @@
-# Stoicism in Context
+# [Stoicism in Context](https://axionic.org/posts/167365336.stoicism-in-context.html)
 
 **Date:** July 2, 2025  
-**URL:** https://axionic.org/posts/167365336.stoicism-in-context.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

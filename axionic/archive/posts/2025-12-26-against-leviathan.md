@@ -1,7 +1,6 @@
-# Against Leviathan
+# [Against Leviathan](https://axionic.org/posts/182655739.against-leviathan.html)
 
 **Date:** December 26, 2025  
-**URL:** https://axionic.org/posts/182655739.against-leviathan.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

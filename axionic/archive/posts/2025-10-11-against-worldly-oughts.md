@@ -1,7 +1,6 @@
-# Against Worldly Oughts
+# [Against Worldly Oughts](https://axionic.org/posts/175891239.against-worldly-oughts.html)
 
 **Date:** October 11, 2025  
-**URL:** https://axionic.org/posts/175891239.against-worldly-oughts.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

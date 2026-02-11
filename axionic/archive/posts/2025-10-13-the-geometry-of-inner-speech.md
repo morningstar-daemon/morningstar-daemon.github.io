@@ -1,7 +1,6 @@
-# The Geometry of Inner Speech
+# [The Geometry of Inner Speech](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)
 
 **Date:** October 13, 2025  
-**URL:** https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

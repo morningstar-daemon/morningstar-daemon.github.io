@@ -1,7 +1,6 @@
-# The Mirage of Equilibrium
+# [The Mirage of Equilibrium](https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html)
 
 **Date:** September 19, 2025  
-**URL:** https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

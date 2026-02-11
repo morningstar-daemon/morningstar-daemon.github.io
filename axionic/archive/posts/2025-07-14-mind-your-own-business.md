@@ -1,7 +1,6 @@
-# Mind Your Own Business
+# [Mind Your Own Business](https://axionic.org/posts/168315861.mind-your-own-business.html)
 
 **Date:** July 14, 2025  
-**URL:** https://axionic.org/posts/168315861.mind-your-own-business.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

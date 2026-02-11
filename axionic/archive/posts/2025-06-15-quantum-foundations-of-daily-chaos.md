@@ -1,7 +1,6 @@
-# Quantum Foundations of Daily Chaos
+# [Quantum Foundations of Daily Chaos](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

@@ -1,7 +1,6 @@
-# In Defence of Conditional Truth
+# [In Defence of Conditional Truth](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)
 
 **Date:** September 4, 2025  
-**URL:** https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Quantum Sequence
+# [The Quantum Sequence](https://axionic.org/posts/179387335.the-quantum-sequence.html)
 
 **Date:** 2025-11-19  
-**URL:** https://axionic.org/posts/179387335.the-quantum-sequence.html  
 **Series:** Quantum Sequence (Announcement/Index)
 
 ## Summary

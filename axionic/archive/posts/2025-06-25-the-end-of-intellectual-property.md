@@ -1,7 +1,6 @@
-# The End of Intellectual Property
+# [The End of Intellectual Property](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)
 
 **Date:** June 25, 2025  
-**URL:** https://axionic.org/posts/166822916.the-end-of-intellectual-property.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

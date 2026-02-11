@@ -1,7 +1,6 @@
-# The Evolution of Adult Minds
+# [The Evolution of Adult Minds](https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html)
 
 **Date:** July 28, 2025  
-**URL:** https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

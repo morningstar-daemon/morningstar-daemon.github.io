@@ -1,7 +1,6 @@
-# The Turing Test Revisited
+# [The Turing Test Revisited](https://axionic.org/posts/177985047.the-turing-test-revisited.html)
 
 **Date:** November 04, 2025  
-**URL:** https://axionic.org/posts/177985047.the-turing-test-revisited.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

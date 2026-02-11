@@ -1,7 +1,6 @@
-# The Case for Structural Alignment
+# [The Case for Structural Alignment](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)
 
 **Date:** December 19, 2025  
-**URL:** https://axionic.org/posts/182096932.the-case-for-structural-alignment.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

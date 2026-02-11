@@ -1,7 +1,6 @@
-# Your Brain on ChatGPT
+# [Your Brain on ChatGPT](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)
 
 **Date:** June 23, 2025  
-**URL:** https://axionic.org/posts/166606301.your-brain-on-chatgpt.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

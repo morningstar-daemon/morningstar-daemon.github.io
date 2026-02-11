@@ -1,7 +1,6 @@
-# Against Cosmological Idealism
+# [Against Cosmological Idealism](https://axionic.org/posts/176755720.against-cosmological-idealism.html)
 
 **Date:** October 21, 2025  
-**URL:** https://axionic.org/posts/176755720.against-cosmological-idealism.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

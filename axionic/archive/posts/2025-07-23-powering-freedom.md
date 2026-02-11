@@ -1,7 +1,6 @@
-# Powering Freedom
+# [Powering Freedom](https://axionic.org/posts/169071397.powering-freedom.html)
 
 **Date:** July 23, 2025  
-**URL:** https://axionic.org/posts/169071397.powering-freedom.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

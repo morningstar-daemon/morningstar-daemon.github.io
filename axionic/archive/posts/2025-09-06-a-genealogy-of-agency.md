@@ -1,7 +1,6 @@
-# A Genealogy of Agency
+# [A Genealogy of Agency](https://axionic.org/posts/172964152.a-genealogy-of-agency.html)
 
 **Date:** September 6, 2025  
-**URL:** https://axionic.org/posts/172964152.a-genealogy-of-agency.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

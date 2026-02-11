@@ -1,7 +1,6 @@
-# Introducing LARPitarianism
+# [Introducing LARPitarianism](https://axionic.org/posts/164446895.introducing-larpitarianism.html)
 
 **Date:** 2025-05-26  
-**URL:** https://axionic.org/posts/164446895.introducing-larpitarianism.html  
 
 ## Summary
 

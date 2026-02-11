@@ -1,7 +1,6 @@
-# The AGI Torment Nexus
+# [The AGI Torment Nexus](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)
 
 **Date:** November 23, 2025  
-**URL:** https://axionic.org/posts/179761268.the-agi-torment-nexus.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

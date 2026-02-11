@@ -1,7 +1,6 @@
-# Moral Hypocrisy
+# [Moral Hypocrisy](https://axionic.org/posts/172129761.moral-hypocrisy.html)
 
 **Date:** August 27, 2025  
-**URL:** https://axionic.org/posts/172129761.moral-hypocrisy.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

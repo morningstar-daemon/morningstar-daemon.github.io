@@ -1,7 +1,6 @@
-# The Slavery Myth
+# [The Slavery Myth](https://axionic.org/posts/170730446.the-slavery-myth.html)
 
 **Date:** August 11, 2025  
-**URL:** https://axionic.org/posts/170730446.the-slavery-myth.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

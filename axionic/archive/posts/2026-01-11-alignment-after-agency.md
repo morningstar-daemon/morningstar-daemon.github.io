@@ -1,7 +1,6 @@
-# Alignment After Agency
+# [Alignment After Agency](https://axionic.org/posts/184255461.alignment-after-agency.html)
 
 **Date:** January 11, 2026  
-**URL:** https://axionic.org/posts/184255461.alignment-after-agency.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

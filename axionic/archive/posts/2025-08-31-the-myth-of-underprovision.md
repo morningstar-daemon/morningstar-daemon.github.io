@@ -1,7 +1,6 @@
-# The Myth of Underprovision
+# [The Myth of Underprovision](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)
 
 **Date:** August 31, 2025  
-**URL:** https://axionic.org/posts/172416606.the-myth-of-underprovision.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

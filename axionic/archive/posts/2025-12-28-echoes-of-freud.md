@@ -1,7 +1,6 @@
-# Echoes of Freud
+# [Echoes of Freud](https://axionic.org/posts/182785676.echoes-of-freud.html)
 
 **Date:** December 28, 2025  
-**URL:** https://axionic.org/posts/182785676.echoes-of-freud.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

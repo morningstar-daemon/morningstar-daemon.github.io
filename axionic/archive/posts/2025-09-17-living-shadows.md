@@ -1,7 +1,6 @@
-# Living Shadows
+# [Living Shadows](https://axionic.org/posts/173888583.living-shadows.html)
 
 **Date:** September 17, 2025  
-**URL:** https://axionic.org/posts/173888583.living-shadows.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

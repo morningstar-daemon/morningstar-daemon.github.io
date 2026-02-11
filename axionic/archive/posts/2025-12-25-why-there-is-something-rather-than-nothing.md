@@ -1,7 +1,6 @@
-# Why There Is Something Rather than Nothing
+# [Why There Is Something Rather than Nothing](https://axionic.org/posts/182569831.why-there-is-something-rather-than.html)
 
 **Date:** December 25, 2025  
-**URL:** https://axionic.org/posts/182569831.why-there-is-something-rather-than.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

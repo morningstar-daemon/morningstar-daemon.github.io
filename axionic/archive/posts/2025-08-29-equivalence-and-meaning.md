@@ -1,7 +1,6 @@
-# Equivalence and Meaning
+# [Equivalence and Meaning](https://axionic.org/posts/172303106.equivalence-and-meaning.html)
 
 **Date:** August 29, 2025  
-**URL:** https://axionic.org/posts/172303106.equivalence-and-meaning.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

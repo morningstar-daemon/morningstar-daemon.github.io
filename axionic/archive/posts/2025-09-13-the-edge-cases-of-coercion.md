@@ -1,7 +1,6 @@
-# The Edge Cases of Coercion
+# [The Edge Cases of Coercion](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)
 
 **Date:** September 13, 2025  
-**URL:** https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Homo Narrans
+# [Homo Narrans](https://axionic.org/posts/166013336.homo-narrans.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166013336.homo-narrans.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

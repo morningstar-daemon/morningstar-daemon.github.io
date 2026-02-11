@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 9: Challenges and FAQs
+# [The Physics of Agency, Part 9: Challenges and FAQs](https://axionic.org/posts/162572301.the-physics-of-agency-part-9-challenges.html)
 
 **Date:** 2025-04-30  
-**URL:** https://axionic.org/posts/162572301.the-physics-of-agency-part-9-challenges.html  
 **Series:** Physics of Agency (Part 9 of 10)
 
 ## Summary

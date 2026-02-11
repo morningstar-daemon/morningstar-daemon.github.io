@@ -1,7 +1,6 @@
-# The Inner Monologue Fallacy
+# [The Inner Monologue Fallacy](https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html)
 
 **Date:** June 29, 2025  
-**URL:** https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

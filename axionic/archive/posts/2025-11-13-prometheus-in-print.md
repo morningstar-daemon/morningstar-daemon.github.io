@@ -1,7 +1,6 @@
-# Prometheus in Print
+# [Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)
 
 **Date:** November 13, 2025  
-**URL:** https://axionic.org/posts/178792251.prometheus-in-print.html  
 **Series:** Technology & Civilization / Historical Analysis  
 **Companion:** [Prometheus in Code](https://axionic.org/posts/178795619.prometheus-in-code.html)
 

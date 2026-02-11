@@ -1,7 +1,6 @@
-# Near Future Optimism
+# [Near Future Optimism](https://axionic.org/posts/165786637.near-future-optimism.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165786637.near-future-optimism.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

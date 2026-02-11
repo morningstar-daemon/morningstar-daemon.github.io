@@ -1,7 +1,6 @@
-# Culture Hierarchies
+# [Culture Hierarchies](https://axionic.org/posts/166409545.culture-hierarchies.html)
 
 **Date:** June 20, 2025  
-**URL:** https://axionic.org/posts/166409545.culture-hierarchies.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

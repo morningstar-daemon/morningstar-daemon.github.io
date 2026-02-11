@@ -1,7 +1,6 @@
-# CTMU vs. Chaos
+# [CTMU vs. Chaos](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)
 
 **Date:** August 27, 2025  
-**URL:** https://axionic.org/posts/172123789.ctmu-vs-chaos.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

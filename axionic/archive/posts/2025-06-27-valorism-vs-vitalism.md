@@ -1,7 +1,6 @@
-# Valorism vs. Vitalism
+# [Valorism vs. Vitalism](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)
 
 **Date:** June 27, 2025  
-**URL:** https://axionic.org/posts/166976848.valorism-vs-vitalism.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

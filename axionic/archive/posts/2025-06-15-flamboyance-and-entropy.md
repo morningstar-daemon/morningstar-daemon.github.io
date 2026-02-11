@@ -1,7 +1,6 @@
-# Flamboyance and Entropy
+# [Flamboyance and Entropy](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166012644.flamboyance-and-entropy.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

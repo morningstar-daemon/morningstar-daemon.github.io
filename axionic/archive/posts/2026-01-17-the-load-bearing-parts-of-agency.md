@@ -1,7 +1,6 @@
-# The Load-Bearing Parts of Agency
+# [The Load-Bearing Parts of Agency](https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html)
 
 **Date:** January 17, 2026  
-**URL:** https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Everett's Demon
+# [Everett's Demon](https://axionic.org/posts/166481863.everetts-demon.html)
 
 **Date:** June 21, 2025  
-**URL:** https://axionic.org/posts/166481863.everetts-demon.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

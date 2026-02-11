@@ -1,7 +1,6 @@
-# The Minimal Complete Dictionary
+# [The Minimal Complete Dictionary](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)
 
 **Date:** July 3, 2025  
-**URL:** https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

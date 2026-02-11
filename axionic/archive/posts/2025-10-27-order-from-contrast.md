@@ -1,7 +1,6 @@
-# Order from Contrast
+# [Order from Contrast](https://axionic.org/posts/177311215.order-from-contrast.html)
 
 **Date:** October 27, 2025  
-**URL:** https://axionic.org/posts/177311215.order-from-contrast.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

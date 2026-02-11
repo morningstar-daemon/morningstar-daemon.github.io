@@ -1,7 +1,6 @@
-# Thinking With AI
+# [Thinking With AI](https://axionic.org/posts/168904359.thinking-with-ai.html)
 
 **Date:** July 21, 2025  
-**URL:** https://axionic.org/posts/168904359.thinking-with-ai.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

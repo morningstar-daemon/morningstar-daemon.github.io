@@ -1,7 +1,6 @@
-# Defending GEB
+# [Defending GEB](https://axionic.org/posts/179971939.defending-geb.html)
 
 **Date:** November 25, 2025  
-**URL:** https://axionic.org/posts/179971939.defending-geb.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

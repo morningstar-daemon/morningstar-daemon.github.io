@@ -1,7 +1,6 @@
-# Randomness and Determinism
+# [Randomness and Determinism](https://axionic.org/posts/166000195.randomness-and-determinism.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166000195.randomness-and-determinism.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

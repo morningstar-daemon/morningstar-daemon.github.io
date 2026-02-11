@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy
+# [The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy](https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html)
 
 **Date:** 2025-04-30  
-**URL:** https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html  
 **Series:** Physics of Agency (Part 4 of 10)
 
 ## Summary

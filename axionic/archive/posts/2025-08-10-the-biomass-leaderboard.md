@@ -1,7 +1,6 @@
-# The Biomass Leaderboard
+# [The Biomass Leaderboard](https://axionic.org/posts/170626450.the-biomass-leaderboard.html)
 
 **Date:** August 10, 2025  
-**URL:** https://axionic.org/posts/170626450.the-biomass-leaderboard.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

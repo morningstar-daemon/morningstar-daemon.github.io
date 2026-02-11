@@ -1,7 +1,6 @@
-# The Three Levels of Truth
+# [The Three Levels of Truth](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)
 
 **Date:** June 13, 2025  
-**URL:** https://axionic.org/posts/165868518.the-three-levels-of-truth.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

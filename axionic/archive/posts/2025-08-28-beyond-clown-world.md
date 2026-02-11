@@ -1,7 +1,6 @@
-# Beyond Clown World
+# [Beyond Clown World](https://axionic.org/posts/172141003.beyond-clown-world.html)
 
 **Date:** August 28, 2025  
-**URL:** https://axionic.org/posts/172141003.beyond-clown-world.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

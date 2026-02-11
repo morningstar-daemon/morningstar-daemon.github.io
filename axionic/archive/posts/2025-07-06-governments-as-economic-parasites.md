@@ -1,7 +1,6 @@
-# Governments as Economic Parasites
+# [Governments as Economic Parasites](https://axionic.org/posts/167675968.governments-as-economic-parasites.html)
 
 **Date:** July 06, 2025  
-**URL:** https://axionic.org/posts/167675968.governments-as-economic-parasites.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

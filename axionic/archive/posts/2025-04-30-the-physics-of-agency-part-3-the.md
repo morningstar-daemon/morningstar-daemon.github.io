@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 3: The Kybit — A New Unit of Control
+# [The Physics of Agency, Part 3: The Kybit — A New Unit of Control](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)
 
 **Date:** 2025-04-30  
-**URL:** https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html  
 **Series:** Physics of Agency (Part 3 of 10)
 
 ## Summary

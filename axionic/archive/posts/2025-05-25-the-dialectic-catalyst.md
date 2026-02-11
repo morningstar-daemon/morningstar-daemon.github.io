@@ -1,7 +1,6 @@
-# The Dialectic Catalyst
+# [The Dialectic Catalyst](https://axionic.org/posts/164442584.the-dialectic-catalyst.html)
 
 **Date:** 2025-05-25  
-**URL:** https://axionic.org/posts/164442584.the-dialectic-catalyst.html  
 
 ## Summary
 

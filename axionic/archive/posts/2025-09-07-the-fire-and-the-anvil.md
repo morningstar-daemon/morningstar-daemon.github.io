@@ -1,7 +1,6 @@
-# The Fire and the Anvil
+# [The Fire and the Anvil](https://axionic.org/posts/173045756.the-fire-and-the-anvil.html)
 
 **Date:** September 7, 2025  
-**URL:** https://axionic.org/posts/173045756.the-fire-and-the-anvil.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

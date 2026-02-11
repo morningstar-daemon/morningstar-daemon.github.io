@@ -1,7 +1,6 @@
-# The Hedgefox
+# [The Hedgefox](https://axionic.org/posts/167664022.the-hedgefox.html)
 
 **Date:** July 6, 2025  
-**URL:** https://axionic.org/posts/167664022.the-hedgefox.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Invisible Luxuries
+# [Invisible Luxuries](https://axionic.org/posts/172348247.invisible-luxuries.html)
 
 **Date:** August 30, 2025  
-**URL:** https://axionic.org/posts/172348247.invisible-luxuries.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The AI Sequence
+# [The AI Sequence](https://axionic.org/posts/180629112.the-ai-sequence.html)
 
 **Date:** December 3, 2025  
-**URL:** https://axionic.org/posts/180629112.the-ai-sequence.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

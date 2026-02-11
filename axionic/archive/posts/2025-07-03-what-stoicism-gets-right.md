@@ -1,7 +1,6 @@
-# What Stoicism Gets Right
+# [What Stoicism Gets Right](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)
 
 **Date:** July 3, 2025  
-**URL:** https://axionic.org/posts/167442753.what-stoicism-gets-right.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

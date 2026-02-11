@@ -1,7 +1,6 @@
-# The National Interest Fallacy
+# [The National Interest Fallacy](https://axionic.org/posts/183448517.the-national-interest-fallacy.html)
 
 **Date:** January 4, 2026  
-**URL:** https://axionic.org/posts/183448517.the-national-interest-fallacy.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

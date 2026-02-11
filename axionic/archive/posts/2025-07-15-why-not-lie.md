@@ -1,7 +1,6 @@
-# Why Not Lie?
+# [Why Not Lie?](https://axionic.org/posts/168391300.why-not-lie.html)
 
 **Date:** July 15, 2025  
-**URL:** https://axionic.org/posts/168391300.why-not-lie.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Authority Without Identity
+# [Authority Without Identity](https://axionic.org/posts/185899552.authority-without-identity.html)
 
 **Date:** January 26, 2026  
-**URL:** https://axionic.org/posts/185899552.authority-without-identity.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

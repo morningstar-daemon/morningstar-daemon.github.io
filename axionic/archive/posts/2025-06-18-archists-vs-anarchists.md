@@ -1,7 +1,6 @@
-# Archists vs. Anarchists
+# [Archists vs. Anarchists](https://axionic.org/posts/166242984.archists-vs-anarchists.html)
 
 **Date:** June 18, 2025  
-**URL:** https://axionic.org/posts/166242984.archists-vs-anarchists.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Effective Altruism Without Moral Realism
+# [Effective Altruism Without Moral Realism](https://axionic.org/posts/164888678.effective-altruism-without-moral.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164888678.effective-altruism-without-moral.html  
 
 ## Summary
 

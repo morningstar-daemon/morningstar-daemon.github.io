@@ -1,7 +1,6 @@
-# The Twilight of Authority
+# [The Twilight of Authority](https://axionic.org/posts/172520720.the-twilight-of-authority.html)
 
 **Date:** September 1, 2025  
-**URL:** https://axionic.org/posts/172520720.the-twilight-of-authority.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

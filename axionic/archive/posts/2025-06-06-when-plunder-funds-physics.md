@@ -1,7 +1,6 @@
-# When Plunder Funds Physics
+# [When Plunder Funds Physics](https://axionic.org/posts/165340454.when-plunder-funds-physics.html)
 
 **Date:** 2025-06-06  
-**URL:** https://axionic.org/posts/165340454.when-plunder-funds-physics.html
 
 ## Summary
 

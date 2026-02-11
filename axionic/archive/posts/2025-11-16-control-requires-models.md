@@ -1,7 +1,6 @@
-# Control Requires Models
+# [Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html)
 
 **Date:** November 16, 2025  
-**URL:** https://axionic.org/posts/179071634.control-requires-models.html  
 **Series:** Epistemology / Control Theory  
 **Companion:** [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)
 

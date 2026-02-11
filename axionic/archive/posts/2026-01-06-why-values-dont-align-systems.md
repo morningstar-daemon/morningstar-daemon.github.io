@@ -1,7 +1,6 @@
-# Why Values Don't Align Systems
+# [Why Values Don't Align Systems](https://axionic.org/posts/183731336.why-values-dont-align-systems.html)
 
 **Date:** January 6, 2026  
-**URL:** https://axionic.org/posts/183731336.why-values-dont-align-systems.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

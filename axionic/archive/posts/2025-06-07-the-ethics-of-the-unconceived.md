@@ -1,7 +1,6 @@
-# The Ethics of the Unconceived
+# [The Ethics of the Unconceived](https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html)
 
 **Date:** 2025-06-07  
-**URL:** https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html
 
 ## Summary
 

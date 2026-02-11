@@ -1,7 +1,6 @@
-# Pearl and the Machine
+# [Pearl and the Machine](https://axionic.org/posts/176518519.pearl-and-the-machine.html)
 
 **Date:** October 18, 2025  
-**URL:** https://axionic.org/posts/176518519.pearl-and-the-machine.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

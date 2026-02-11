@@ -1,7 +1,6 @@
-# Sacrifice as Signal
+# [Sacrifice as Signal](https://axionic.org/posts/164851202.sacrifice-as-signal.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164851202.sacrifice-as-signal.html  
 
 ## Summary
 

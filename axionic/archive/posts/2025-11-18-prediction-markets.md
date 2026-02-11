@@ -1,7 +1,6 @@
-# Prediction Markets
+# [Prediction Markets](https://axionic.org/posts/179271344.prediction-markets.html)
 
 **Date:** November 18, 2025  
-**URL:** https://axionic.org/posts/179271344.prediction-markets.html  
 **Series:** Epistemology / Collective Intelligence  
 **Historical:** Calgary Idea Futures project (1994-1995), Golden Nica prize
 

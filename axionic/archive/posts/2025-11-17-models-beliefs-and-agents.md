@@ -1,7 +1,6 @@
-# Models, Beliefs, and Agents
+# [Models, Beliefs, and Agents](https://axionic.org/posts/179148217.models-beliefs-and-agents.html)
 
 **Date:** November 17, 2025  
-**URL:** https://axionic.org/posts/179148217.models-beliefs-and-agents.html  
 **Series:** Synthesis / Philosophy of Mind  
 **Synthesizes:** [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html), [Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html), [The Nature of Beliefs](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 

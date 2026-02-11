@@ -1,7 +1,6 @@
-# Escaping the AI Safety Dystopia
+# [Escaping the AI Safety Dystopia](https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html)
 
 **Date:** July 22, 2025  
-**URL:** https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

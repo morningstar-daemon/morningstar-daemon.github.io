@@ -1,7 +1,6 @@
-# Eternalist Singularitarianism
+# [Eternalist Singularitarianism](https://axionic.org/posts/170506931.eternalist-singularitarianism.html)
 
 **Date:** August 9, 2025  
-**URL:** https://axionic.org/posts/170506931.eternalist-singularitarianism.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

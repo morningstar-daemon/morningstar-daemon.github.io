@@ -1,7 +1,6 @@
-# Subjectivism vs. Moral Relativism
+# [Subjectivism vs. Moral Relativism](https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html)
 
 **Date:** June 10, 2025  
-**URL:** https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

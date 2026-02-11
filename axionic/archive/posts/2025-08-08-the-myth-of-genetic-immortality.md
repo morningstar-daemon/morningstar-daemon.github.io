@@ -1,7 +1,6 @@
-# The Myth of Genetic Immortality
+# [The Myth of Genetic Immortality](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

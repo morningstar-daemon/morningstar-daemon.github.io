@@ -1,7 +1,6 @@
-# How To Lose an Election
+# [How To Lose an Election](https://axionic.org/posts/167353865.how-to-lose-an-election.html)
 
 **Date:** July 2, 2025  
-**URL:** https://axionic.org/posts/167353865.how-to-lose-an-election.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

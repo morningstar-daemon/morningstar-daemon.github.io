@@ -1,7 +1,6 @@
-# Mind Viruses
+# [Mind Viruses](https://axionic.org/posts/174938004.mind-viruses.html)
 
 **Date:** September 30, 2025  
-**URL:** https://axionic.org/posts/174938004.mind-viruses.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

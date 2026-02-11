@@ -1,7 +1,6 @@
-# The Gemini Protocol
+# [The Gemini Protocol](https://axionic.org/posts/181073134.the-gemini-protocol.html)
 
 **Date:** 2025-12-08  
-**URL:** https://axionic.org/posts/181073134.the-gemini-protocol.html
 
 ## Summary
 

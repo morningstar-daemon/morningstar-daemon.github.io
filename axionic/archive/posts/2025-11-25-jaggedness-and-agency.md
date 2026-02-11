@@ -1,7 +1,6 @@
-# Jaggedness and Agency
+# [Jaggedness and Agency](https://axionic.org/posts/179922989.jaggedness-and-agency.html)
 
 **Date:** November 25, 2025  
-**URL:** https://axionic.org/posts/179922989.jaggedness-and-agency.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

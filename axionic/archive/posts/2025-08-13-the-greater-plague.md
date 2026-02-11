@@ -1,7 +1,6 @@
-# The Greater Plague
+# [The Greater Plague](https://axionic.org/posts/170913856.the-greater-plague.html)
 
 **Date:** August 13, 2025  
-**URL:** https://axionic.org/posts/170913856.the-greater-plague.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

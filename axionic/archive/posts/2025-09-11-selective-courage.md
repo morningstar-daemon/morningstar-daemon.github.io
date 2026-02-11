@@ -1,7 +1,6 @@
-# Selective Courage
+# [Selective Courage](https://axionic.org/posts/173353837.selective-courage.html)
 
 **Date:** September 11, 2025  
-**URL:** https://axionic.org/posts/173353837.selective-courage.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

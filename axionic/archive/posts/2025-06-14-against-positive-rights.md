@@ -1,7 +1,6 @@
-# Against Positive Rights
+# [Against Positive Rights](https://axionic.org/posts/165967029.against-positive-rights.html)
 
 **Date:** June 14, 2025  
-**URL:** https://axionic.org/posts/165967029.against-positive-rights.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

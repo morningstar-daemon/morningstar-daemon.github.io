@@ -1,7 +1,6 @@
-# Dear Ancestors
+# [Dear Ancestors](https://axionic.org/posts/170117705.dear-ancestors.html)
 
 **Date:** August 04, 2025  
-**URL:** https://axionic.org/posts/170117705.dear-ancestors.html  
 **Subtitle:** Explaining My Modern Values to Those Who Came Before  
 **Batch:** Batch 09 (Posts 51–75)
 

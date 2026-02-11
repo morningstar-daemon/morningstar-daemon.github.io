@@ -1,7 +1,6 @@
-# Universal Alignment
+# [Universal Alignment](https://axionic.org/posts/164437547.universal-alignment.html)
 
 **Date:** 2025-05-25  
-**URL:** https://axionic.org/posts/164437547.universal-alignment.html  
 
 ## Summary
 

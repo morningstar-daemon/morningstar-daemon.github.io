@@ -1,7 +1,6 @@
-# Why Does Ice Float?
+# [Why Does Ice Float?](https://axionic.org/posts/174194776.why-does-ice-float.html)
 
 **Date:** September 21, 2025  
-**URL:** https://axionic.org/posts/174194776.why-does-ice-float.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

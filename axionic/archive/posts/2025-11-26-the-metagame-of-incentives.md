@@ -1,7 +1,6 @@
-# The Metagame of Incentives
+# [The Metagame of Incentives](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)
 
 **Date:** November 26, 2025  
-**URL:** https://axionic.org/posts/180058480.the-metagame-of-incentives.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

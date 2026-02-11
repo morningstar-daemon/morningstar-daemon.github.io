@@ -1,7 +1,6 @@
-# The Origin of Meaning
+# [The Origin of Meaning](https://axionic.org/posts/168423727.the-origin-of-meaning.html)
 
 **Date:** July 15, 2025  
-**URL:** https://axionic.org/posts/168423727.the-origin-of-meaning.html  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Understanding Spirituality
+# [Understanding Spirituality](https://axionic.org/posts/171158991.understanding-spirituality.html)
 
 **Date:** August 16, 2025  
-**URL:** https://axionic.org/posts/171158991.understanding-spirituality.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

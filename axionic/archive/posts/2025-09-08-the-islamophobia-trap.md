@@ -1,7 +1,6 @@
-# The Islamophobia Trap
+# [The Islamophobia Trap](https://axionic.org/posts/173137799.the-islamophobia-trap.html)
 
 **Date:** September 8, 2025  
-**URL:** https://axionic.org/posts/173137799.the-islamophobia-trap.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

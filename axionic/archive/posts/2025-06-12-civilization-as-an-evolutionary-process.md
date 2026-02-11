@@ -1,7 +1,6 @@
-# Civilization as an Evolutionary Process
+# [Civilization as an Evolutionary Process](https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

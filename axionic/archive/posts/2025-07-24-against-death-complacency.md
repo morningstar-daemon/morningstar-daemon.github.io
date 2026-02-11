@@ -1,7 +1,6 @@
-# Against Death Complacency
+# [Against Death Complacency](https://axionic.org/posts/169150004.against-death-complacency.html)
 
 **Date:** July 24, 2025  
-**URL:** https://axionic.org/posts/169150004.against-death-complacency.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

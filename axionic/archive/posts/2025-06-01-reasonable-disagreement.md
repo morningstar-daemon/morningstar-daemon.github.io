@@ -1,7 +1,6 @@
-# Reasonable Disagreement
+# [Reasonable Disagreement](https://axionic.org/posts/164937702.reasonable-disagreement.html)
 
 **Date:** 2025-06-01  
-**URL:** https://axionic.org/posts/164937702.reasonable-disagreement.html  
 
 ## Summary
 

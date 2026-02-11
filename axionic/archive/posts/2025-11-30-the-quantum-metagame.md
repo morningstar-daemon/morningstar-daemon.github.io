@@ -1,7 +1,6 @@
-# The Quantum Metagame
+# [The Quantum Metagame](https://axionic.org/posts/180339872.the-quantum-metagame.html)
 
 **Date:** November 30, 2025  
-**URL:** https://axionic.org/posts/180339872.the-quantum-metagame.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

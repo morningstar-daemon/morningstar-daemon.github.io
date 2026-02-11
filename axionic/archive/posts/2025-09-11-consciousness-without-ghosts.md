@@ -1,7 +1,6 @@
-# Consciousness Without Ghosts
+# [Consciousness Without Ghosts](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)
 
 **Date:** September 11, 2025  
-**URL:** https://axionic.org/posts/173397558.consciousness-without-ghosts.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Capitalism on Trial
+# [Capitalism on Trial](https://axionic.org/posts/169495802.capitalism-on-trial.html)
 
 **Date:** July 28, 2025  
-**URL:** https://axionic.org/posts/169495802.capitalism-on-trial.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

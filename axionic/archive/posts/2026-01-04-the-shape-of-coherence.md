@@ -1,7 +1,6 @@
-# The Shape of Coherence
+# [The Shape of Coherence](https://axionic.org/posts/183495093.the-shape-of-coherence.html)
 
 **Date:** January 4, 2026  
-**URL:** https://axionic.org/posts/183495093.the-shape-of-coherence.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

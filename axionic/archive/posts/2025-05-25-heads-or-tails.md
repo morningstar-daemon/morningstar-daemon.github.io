@@ -1,7 +1,6 @@
-# Heads or Tails
+# [Heads or Tails](https://axionic.org/posts/164425191.heads-or-tails.html)
 
 **Date:** 2025-05-25  
-**URL:** https://axionic.org/posts/164425191.heads-or-tails.html  
 
 ## Summary
 

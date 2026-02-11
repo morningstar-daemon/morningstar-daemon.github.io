@@ -1,7 +1,6 @@
-# Liberty Without Monopoly
+# [Liberty Without Monopoly](https://axionic.org/posts/167552421.liberty-without-monopoly.html)
 
 **Date:** July 4, 2025  
-**URL:** https://axionic.org/posts/167552421.liberty-without-monopoly.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

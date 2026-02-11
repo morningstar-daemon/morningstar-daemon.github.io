@@ -1,7 +1,6 @@
-# Legalized Double Plunder
+# [Legalized Double Plunder](https://axionic.org/posts/176921623.legalized-double-plunder.html)
 
 **Date:** October 23, 2025  
-**URL:** https://axionic.org/posts/176921623.legalized-double-plunder.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

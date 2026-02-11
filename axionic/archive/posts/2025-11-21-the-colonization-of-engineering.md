@@ -1,7 +1,6 @@
-# The Colonization of Engineering
+# [The Colonization of Engineering](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)
 
 **Date:** 2025-11-21  
-**URL:** https://axionic.org/posts/179594796.the-colonization-of-engineering.html
 
 ## Summary
 

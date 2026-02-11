@@ -1,7 +1,6 @@
-# The Poverty Myth
+# [The Poverty Myth](https://axionic.org/posts/175235972.the-poverty-myth.html)
 
 **Date:** October 3, 2025  
-**URL:** https://axionic.org/posts/175235972.the-poverty-myth.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

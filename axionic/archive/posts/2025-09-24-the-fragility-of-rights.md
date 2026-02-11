@@ -1,7 +1,6 @@
-# The Fragility of Rights
+# [The Fragility of Rights](https://axionic.org/posts/174490912.the-fragility-of-rights.html)
 
 **Date:** September 24, 2025  
-**URL:** https://axionic.org/posts/174490912.the-fragility-of-rights.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

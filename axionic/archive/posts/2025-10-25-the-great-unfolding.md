@@ -1,7 +1,6 @@
-# The Great Unfolding
+# [The Great Unfolding](https://axionic.org/posts/177107243.the-great-unfolding.html)
 
 **Date:** October 25, 2025  
-**URL:** https://axionic.org/posts/177107243.the-great-unfolding.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

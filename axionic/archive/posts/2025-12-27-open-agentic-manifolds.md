@@ -1,7 +1,6 @@
-# Open Agentic Manifolds
+# [Open Agentic Manifolds](https://axionic.org/posts/182730025.open-agentic-manifolds.html)
 
 **Date:** December 27, 2025  
-**URL:** https://axionic.org/posts/182730025.open-agentic-manifolds.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

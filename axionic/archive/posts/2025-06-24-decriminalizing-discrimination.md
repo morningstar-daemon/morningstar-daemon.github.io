@@ -1,7 +1,6 @@
-# Decriminalizing Discrimination
+# [Decriminalizing Discrimination](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)
 
 **Date:** June 24, 2025  
-**URL:** https://axionic.org/posts/166743482.decriminalizing-discrimination.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

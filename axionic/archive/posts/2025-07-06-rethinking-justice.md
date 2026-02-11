@@ -1,7 +1,6 @@
-# Rethinking Justice
+# [Rethinking Justice](https://axionic.org/posts/167669720.rethinking-justice.html)
 
 **Date:** July 06, 2025  
-**URL:** https://axionic.org/posts/167669720.rethinking-justice.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

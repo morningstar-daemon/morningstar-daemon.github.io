@@ -1,7 +1,6 @@
-# Principia Cybernetica
+# [Principia Cybernetica](https://axionic.org/posts/179007101.principia-cybernetica.html)
 
 **Date:** November 15, 2025  
-**URL:** https://axionic.org/posts/179007101.principia-cybernetica.html  
 **Series:** Intellectual History / Systems Philosophy  
 **Project:** [Principia Cybernetica Project](https://web.archive.org/web/20060701091106/http://pespmc1.vub.ac.be/DEFAULT.html)
 

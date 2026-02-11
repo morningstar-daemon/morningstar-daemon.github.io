@@ -1,7 +1,6 @@
-# When To Kill A Project
+# [When To Kill A Project](https://axionic.org/posts/165708751.when-to-kill-a-project.html)
 
 **Date:** June 11, 2025  
-**URL:** https://axionic.org/posts/165708751.when-to-kill-a-project.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

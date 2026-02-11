@@ -1,7 +1,6 @@
-# Physics Engineering
+# [Physics Engineering](https://axionic.org/posts/169627584.physics-engineering.html)
 
 **Date:** July 30, 2025  
-**URL:** https://axionic.org/posts/169627584.physics-engineering.html  
 **Subtitle:** Creating Reality from Informational Coherence  
 **Batch:** Batch 09 (Posts 51–75)
 

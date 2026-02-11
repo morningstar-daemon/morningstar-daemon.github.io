@@ -1,7 +1,6 @@
-# Straight Answers, Crooked Questions
+# [Straight Answers, Crooked Questions](https://axionic.org/posts/173394932.straight-answers-crooked-questions.html)
 
 **Date:** September 11, 2025  
-**URL:** https://axionic.org/posts/173394932.straight-answers-crooked-questions.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

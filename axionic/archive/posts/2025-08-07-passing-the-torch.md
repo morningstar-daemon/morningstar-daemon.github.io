@@ -1,7 +1,6 @@
-# Passing The Torch
+# [Passing The Torch](https://axionic.org/posts/170394338.passing-the-torch.html)
 
 **Date:** August 7, 2025  
-**URL:** https://axionic.org/posts/170394338.passing-the-torch.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

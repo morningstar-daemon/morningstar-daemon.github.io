@@ -1,7 +1,6 @@
-# The Agency Protection Principle
+# [The Agency Protection Principle](https://axionic.org/posts/167587968.the-agency-protection-principle.html)
 
 **Date:** July 05, 2025  
-**URL:** https://axionic.org/posts/167587968.the-agency-protection-principle.html  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
 
 ## Summary

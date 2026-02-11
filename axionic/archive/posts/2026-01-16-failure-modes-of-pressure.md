@@ -1,7 +1,6 @@
-# Failure Modes of Pressure
+# [Failure Modes of Pressure](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)
 
 **Date:** January 16, 2026  
-**URL:** https://axionic.org/posts/184820851.failure-modes-of-pressure.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

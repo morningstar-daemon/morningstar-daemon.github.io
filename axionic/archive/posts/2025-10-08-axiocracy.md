@@ -1,7 +1,6 @@
-# Axiocracy
+# [Axiocracy](https://axionic.org/posts/175667290.axiocracy.html)
 
 **Date:** October 8, 2025  
-**URL:** https://axionic.org/posts/175667290.axiocracy.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

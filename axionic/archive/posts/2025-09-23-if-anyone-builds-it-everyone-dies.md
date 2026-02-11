@@ -1,7 +1,6 @@
-# If Anyone Builds It, Everyone Dies
+# [If Anyone Builds It, Everyone Dies](https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html)
 
 **Date:** September 23, 2025  
-**URL:** https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Alignment Through Competing Lenses
+# [Alignment Through Competing Lenses](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)
 
 **Date:** December 21, 2025  
-**URL:** https://axionic.org/posts/182260809.alignment-through-competing-lenses.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

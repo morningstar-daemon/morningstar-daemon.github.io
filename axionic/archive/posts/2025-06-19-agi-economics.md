@@ -1,7 +1,6 @@
-# AGI Economics
+# [AGI Economics](https://axionic.org/posts/166330539.agi-economics.html)
 
 **Date:** June 19, 2025  
-**URL:** https://axionic.org/posts/166330539.agi-economics.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

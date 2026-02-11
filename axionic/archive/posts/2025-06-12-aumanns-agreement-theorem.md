@@ -1,7 +1,6 @@
-# Aumann's Agreement Theorem
+# [Aumann's Agreement Theorem](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165822194.aumanns-agreement-theorem.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

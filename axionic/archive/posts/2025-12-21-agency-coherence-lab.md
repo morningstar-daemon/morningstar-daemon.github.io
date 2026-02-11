@@ -1,7 +1,6 @@
-# Axionic Agency Lab
+# [Axionic Agency Lab](https://axionic.org/posts/182271053.agency-coherence-lab.html)
 
 **Date:** 2025-12-21  
-**URL:** https://axionic.org/posts/182271053.agency-coherence-lab.html
 
 ## Summary
 

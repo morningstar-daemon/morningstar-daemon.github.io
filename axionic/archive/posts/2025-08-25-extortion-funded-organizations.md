@@ -1,7 +1,6 @@
-# Extortion-Funded Organizations
+# [Extortion-Funded Organizations](https://axionic.org/posts/171905629.extortion-funded-organizations.html)
 
 **Date:** August 25, 2025  
-**URL:** https://axionic.org/posts/171905629.extortion-funded-organizations.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

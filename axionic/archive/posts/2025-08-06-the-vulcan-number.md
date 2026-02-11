@@ -1,7 +1,6 @@
-# The Vulcan Number
+# [The Vulcan Number](https://axionic.org/posts/170284204.the-vulcan-number.html)
 
 **Date:** August 6, 2025  
-**URL:** https://axionic.org/posts/170284204.the-vulcan-number.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

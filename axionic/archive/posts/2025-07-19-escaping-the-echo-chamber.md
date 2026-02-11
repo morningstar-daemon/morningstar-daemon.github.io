@@ -1,7 +1,6 @@
-# Escaping the Echo Chamber
+# [Escaping the Echo Chamber](https://axionic.org/posts/168740300.escaping-the-echo-chamber.html)
 
 **Date:** July 19, 2025  
-**URL:** https://axionic.org/posts/168740300.escaping-the-echo-chamber.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

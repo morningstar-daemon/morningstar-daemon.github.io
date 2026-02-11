@@ -1,7 +1,6 @@
-# An Ecology of Contrarians
+# [An Ecology of Contrarians](https://axionic.org/posts/175065575.an-ecology-of-contrarians.html)
 
 **Date:** October 1, 2025  
-**URL:** https://axionic.org/posts/175065575.an-ecology-of-contrarians.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

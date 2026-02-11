@@ -1,7 +1,6 @@
-# Authority After Reflection
+# [Authority After Reflection](https://axionic.org/posts/183255459.authority-after-reflection.html)
 
 **Date:** January 2, 2026  
-**URL:** https://axionic.org/posts/183255459.authority-after-reflection.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

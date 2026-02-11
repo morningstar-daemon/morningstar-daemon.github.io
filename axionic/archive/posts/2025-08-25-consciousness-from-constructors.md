@@ -1,7 +1,6 @@
-# Consciousness From Constructors
+# [Consciousness From Constructors](https://axionic.org/posts/171909085.consciousness-from-constructors.html)
 
 **Date:** August 25, 2025  
-**URL:** https://axionic.org/posts/171909085.consciousness-from-constructors.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

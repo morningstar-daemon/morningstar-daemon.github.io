@@ -1,7 +1,6 @@
-# Critical Mass
+# [Critical Mass](https://axionic.org/posts/172927102.critical-mass.html)
 
 **Date:** September 6, 2025  
-**URL:** https://axionic.org/posts/172927102.critical-mass.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

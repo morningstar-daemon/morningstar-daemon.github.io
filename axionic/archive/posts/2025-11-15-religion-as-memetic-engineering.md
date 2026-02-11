@@ -1,7 +1,6 @@
-# Religion as Memetic Engineering
+# [Religion as Memetic Engineering](https://axionic.org/posts/178981771.religion-as-memetic-engineering.html)
 
 **Date:** November 15, 2025  
-**URL:** https://axionic.org/posts/178981771.religion-as-memetic-engineering.html  
 **Series:** Memetics / Religion Analysis  
 **Project:** [Church of Virus](http://www.churchofvirus.org/) (CoV)
 

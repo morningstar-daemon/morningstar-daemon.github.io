@@ -1,7 +1,6 @@
-# Evolution Is All You Need
+# [Evolution Is All You Need](https://axionic.org/posts/163797482.evolution-is-all-you-need.html)
 
 **Date:** 2025-05-17  
-**URL:** https://axionic.org/posts/163797482.evolution-is-all-you-need.html  
 
 ## Summary
 

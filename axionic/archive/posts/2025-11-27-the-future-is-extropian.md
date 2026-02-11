@@ -1,7 +1,6 @@
-# The Future Is Extropian
+# [The Future Is Extropian](https://axionic.org/posts/180128433.the-future-is-extropian.html)
 
 **Date:** November 27, 2025  
-**URL:** https://axionic.org/posts/180128433.the-future-is-extropian.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

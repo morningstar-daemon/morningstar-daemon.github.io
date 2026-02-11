@@ -1,7 +1,6 @@
-# Can Markets Provide National Defense?
+# [Can Markets Provide National Defense?](https://axionic.org/posts/165271623.can-markets-provide-national-defense.html)
 
 **Date:** 2025-06-05  
-**URL:** https://axionic.org/posts/165271623.can-markets-provide-national-defense.html
 
 ## Summary
 

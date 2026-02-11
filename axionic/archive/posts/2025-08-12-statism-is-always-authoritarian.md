@@ -1,7 +1,6 @@
-# Statism Is Always Authoritarian
+# [Statism Is Always Authoritarian](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)
 
 **Date:** August 12, 2025  
-**URL:** https://axionic.org/posts/170825921.statism-is-always-authoritarian.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

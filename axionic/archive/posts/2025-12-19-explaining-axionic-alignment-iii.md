@@ -1,7 +1,6 @@
-# Explaining Axionic Alignment III
+# [Explaining Axionic Alignment III](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)
 
 **Date:** December 19, 2025  
-**URL:** https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# On Kernel Boundaries
+# [On Kernel Boundaries](https://axionic.org/posts/183003607.on-kernel-boundaries.html)
 
 **Date:** December 30, 2025  
-**URL:** https://axionic.org/posts/183003607.on-kernel-boundaries.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

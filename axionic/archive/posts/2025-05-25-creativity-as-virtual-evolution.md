@@ -1,7 +1,6 @@
-# Creativity as Virtual Evolution
+# [Creativity as Virtual Evolution](https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html)
 
 **Date:** 2025-05-25  
-**URL:** https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html  
 
 ## Summary
 

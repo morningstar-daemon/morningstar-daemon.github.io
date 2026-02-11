@@ -1,7 +1,6 @@
-# Infinite Randomness and QFT
+# [Infinite Randomness and QFT](https://axionic.org/posts/169621940.infinite-randomness-and-qft.html)
 
 **Date:** July 30, 2025  
-**URL:** https://axionic.org/posts/169621940.infinite-randomness-and-qft.html  
 **Subtitle:** Reducing Reality to Logical Coherence  
 **Batch:** Batch 09 (Posts 51–75)
 

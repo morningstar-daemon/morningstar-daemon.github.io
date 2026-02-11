@@ -1,7 +1,6 @@
-# You Are Your Choices
+# [You Are Your Choices](https://axionic.org/posts/178311820.you-are-your-choices.html)
 
 **Date:** November 07, 2025  
-**URL:** https://axionic.org/posts/178311820.you-are-your-choices.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

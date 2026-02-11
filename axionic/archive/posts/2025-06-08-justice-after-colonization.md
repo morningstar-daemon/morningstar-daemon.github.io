@@ -1,7 +1,6 @@
-# Justice After Colonization
+# [Justice After Colonization](https://axionic.org/posts/165499243.justice-after-colonization.html)
 
 **Date:** 2025-06-08  
-**URL:** https://axionic.org/posts/165499243.justice-after-colonization.html
 
 ## Summary
 

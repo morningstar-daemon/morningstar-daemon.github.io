@@ -1,7 +1,6 @@
-# The Axionic Alignment Sequence
+# [The Axionic Alignment Sequence](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)
 
 **Date:** 2025-12-19  
-**URL:** https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html  
 **Series:** Axionic Agency Sequence (Announcement/Index)
 
 ## Summary

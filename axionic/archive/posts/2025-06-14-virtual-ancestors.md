@@ -1,7 +1,6 @@
-# Virtual Ancestors
+# [Virtual Ancestors](https://axionic.org/posts/165910125.virtual-ancestors.html)
 
 **Date:** June 14, 2025  
-**URL:** https://axionic.org/posts/165910125.virtual-ancestors.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Agency Under Authority
+# [Agency Under Authority](https://axionic.org/posts/183487653.agency-under-authority.html)
 
 **Date:** January 4, 2026  
-**URL:** https://axionic.org/posts/183487653.agency-under-authority.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

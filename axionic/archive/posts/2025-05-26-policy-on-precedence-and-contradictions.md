@@ -1,7 +1,6 @@
-# Policy on Precedence and Contradictions
+# [Policy on Precedence and Contradictions](https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html)
 
 **Date:** 2025-05-26  
-**URL:** https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html  
 
 ## Summary
 

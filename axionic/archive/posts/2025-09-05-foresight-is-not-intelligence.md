@@ -1,7 +1,6 @@
-# Foresight Is Not Intelligence
+# [Foresight Is Not Intelligence](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)
 
 **Date:** September 5, 2025  
-**URL:** https://axionic.org/posts/172908866.foresight-is-not-intelligence.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Judging Goodness
+# [Judging Goodness](https://axionic.org/posts/168901803.judging-goodness.html)
 
 **Date:** July 21, 2025  
-**URL:** https://axionic.org/posts/168901803.judging-goodness.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

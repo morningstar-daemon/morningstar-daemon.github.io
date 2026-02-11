@@ -1,7 +1,6 @@
-# Against Vibe Alignment
+# [Against Vibe Alignment](https://axionic.org/posts/182250795.against-vibe-alignment.html)
 
 **Date:** December 21, 2025  
-**URL:** https://axionic.org/posts/182250795.against-vibe-alignment.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

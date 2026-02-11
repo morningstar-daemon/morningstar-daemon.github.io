@@ -1,7 +1,6 @@
-# What Is Philosophy?
+# [What Is Philosophy?](https://axionic.org/posts/183152926.what-is-philosophy.html)
 
 **Date:** January 1, 2026  
-**URL:** https://axionic.org/posts/183152926.what-is-philosophy.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

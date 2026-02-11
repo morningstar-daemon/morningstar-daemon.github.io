@@ -1,7 +1,6 @@
-# Immigration Restrictions Are a Form of Harm
+# [Immigration Restrictions Are a Form of Harm](https://axionic.org/posts/164950264.immigration-restrictions-are-a-form.html)
 
 **Date:** 2025-06-01  
-**URL:** https://axionic.org/posts/164950264.immigration-restrictions-are-a-form.html  
 
 ## Summary
 

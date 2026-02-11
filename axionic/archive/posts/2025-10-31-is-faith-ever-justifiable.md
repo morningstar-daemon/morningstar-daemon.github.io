@@ -1,7 +1,6 @@
-# Is Faith Ever Justifiable?
+# [Is Faith Ever Justifiable?](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)
 
 **Date:** October 31, 2025  
-**URL:** https://axionic.org/posts/177654620.is-faith-ever-justifiable.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

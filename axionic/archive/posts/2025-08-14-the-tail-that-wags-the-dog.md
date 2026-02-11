@@ -1,7 +1,6 @@
-# The Tail That Wags the Dog
+# [The Tail That Wags the Dog](https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html)
 
 **Date:** August 14, 2025  
-**URL:** https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

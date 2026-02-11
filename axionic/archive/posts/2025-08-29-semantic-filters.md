@@ -1,7 +1,6 @@
-# Semantic Filters
+# [Semantic Filters](https://axionic.org/posts/172302569.semantic-filters.html)
 
 **Date:** August 29, 2025  
-**URL:** https://axionic.org/posts/172302569.semantic-filters.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

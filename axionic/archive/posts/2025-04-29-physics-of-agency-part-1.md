@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 1: The Physical Nature of Agency
+# [The Physics of Agency, Part 1: The Physical Nature of Agency](https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html)
 
 **Date:** April 29, 2025  
-**URL:** https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html  
 **Batch:** Batch 01 (Posts 001–020)
 
 ## Summary

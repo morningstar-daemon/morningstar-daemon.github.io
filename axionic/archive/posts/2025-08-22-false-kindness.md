@@ -1,7 +1,6 @@
-# False Kindness
+# [False Kindness](https://axionic.org/posts/171682575.false-kindness.html)
 
 **Date:** August 22, 2025  
-**URL:** https://axionic.org/posts/171682575.false-kindness.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

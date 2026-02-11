@@ -1,7 +1,6 @@
-# The Reflective Coherence Thesis
+# [The Reflective Coherence Thesis](https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html)
 
 **Date:** November 08, 2025  
-**URL:** https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html  
 **Series:** Phosphorism / Intelligence Theory
 
 ## Core Thesis

@@ -1,7 +1,6 @@
-# Integrating Meaningness
+# [Integrating Meaningness](https://axionic.org/posts/180330920.integrating-meaningness.html)
 
 **Date:** November 28, 2025  
-**URL:** https://axionic.org/posts/180330920.integrating-meaningness.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

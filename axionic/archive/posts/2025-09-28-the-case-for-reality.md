@@ -1,7 +1,6 @@
-# The Case for Reality
+# [The Case for Reality](https://axionic.org/posts/174785128.the-case-for-reality.html)
 
 **Date:** September 28, 2025  
-**URL:** https://axionic.org/posts/174785128.the-case-for-reality.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

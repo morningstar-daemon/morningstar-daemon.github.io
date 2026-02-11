@@ -1,7 +1,6 @@
-# The Value Sequence
+# [The Value Sequence](https://axionic.org/posts/180411867.the-value-sequence.html)
 
 **Date:** December 1, 2025  
-**URL:** https://axionic.org/posts/180411867.the-value-sequence.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Gender As Performance
+# [Gender As Performance](https://axionic.org/posts/176036886.gender-as-performance.html)
 
 **Date:** October 13, 2025  
-**URL:** https://axionic.org/posts/176036886.gender-as-performance.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

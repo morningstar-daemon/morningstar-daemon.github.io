@@ -1,7 +1,6 @@
-# Blue Flight
+# [Blue Flight](https://axionic.org/posts/176140519.blue-flight.html)
 
 **Date:** October 14, 2025  
-**URL:** https://axionic.org/posts/176140519.blue-flight.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

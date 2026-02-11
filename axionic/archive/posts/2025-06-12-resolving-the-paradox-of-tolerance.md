@@ -1,7 +1,6 @@
-# Resolving the Paradox of Tolerance
+# [Resolving the Paradox of Tolerance](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

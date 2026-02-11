@@ -1,7 +1,6 @@
-# The Crime Fighting Paradox
+# [The Crime Fighting Paradox](https://axionic.org/posts/170119709.the-crime-fighting-paradox.html)
 
 **Date:** August 04, 2025  
-**URL:** https://axionic.org/posts/170119709.the-crime-fighting-paradox.html  
 **Subtitle:** Balancing Security and Agency in Pursuit of Justice  
 **Batch:** Batch 09 (Posts 51–75)
 

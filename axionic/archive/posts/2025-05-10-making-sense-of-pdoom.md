@@ -1,7 +1,6 @@
-# Making Sense of P(doom)
+# [Making Sense of P(doom)](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)
 
 **Date:** 2025-05-10  
-**URL:** https://axionic.org/posts/163293406.making-sense-of-pdoom.html  
 
 ## Summary
 

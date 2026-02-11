@@ -1,7 +1,6 @@
-# The Adolescence of Technology
+# [The Adolescence of Technology](https://axionic.org/posts/185907078.the-adolescence-of-technology.html)
 
 **Date:** January 27, 2026  
-**URL:** https://axionic.org/posts/185907078.the-adolescence-of-technology.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Growing Up
+# [Growing Up](https://axionic.org/posts/178029403.growing-up.html)
 
 **Date:** November 04, 2025  
-**URL:** https://axionic.org/posts/178029403.growing-up.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

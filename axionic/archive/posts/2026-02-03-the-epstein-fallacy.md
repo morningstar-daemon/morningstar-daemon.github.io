@@ -1,7 +1,6 @@
-# The Epstein Fallacy
+# [The Epstein Fallacy](https://axionic.org/posts/186685901.the-epstein-fallacy.html)
 
 **Date:** February 3, 2026  
-**URL:** https://axionic.org/posts/186685901.the-epstein-fallacy.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

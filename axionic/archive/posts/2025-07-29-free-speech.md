@@ -1,7 +1,6 @@
-# Free Speech
+# [Free Speech](https://axionic.org/posts/169560195.free-speech.html)
 
 **Date:** July 29, 2025  
-**URL:** https://axionic.org/posts/169560195.free-speech.html  
 **Subtitle:** Shifting the Moral Center from Speakers to Listeners  
 **Batch:** Batch 09 (Posts 51–75)
 

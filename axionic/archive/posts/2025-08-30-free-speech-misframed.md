@@ -1,7 +1,6 @@
-# Free Speech, Misframed
+# [Free Speech, Misframed](https://axionic.org/posts/172365268.free-speech-misframed.html)
 
 **Date:** August 30, 2025  
-**URL:** https://axionic.org/posts/172365268.free-speech-misframed.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

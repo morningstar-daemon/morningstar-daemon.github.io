@@ -1,7 +1,6 @@
-# Axionic Agency — Interlude III
+# [Axionic Agency — Interlude III](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
 
 **Date:** December 23, 2025  
-**URL:** https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

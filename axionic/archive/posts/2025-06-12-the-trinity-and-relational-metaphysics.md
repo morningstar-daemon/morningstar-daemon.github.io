@@ -1,7 +1,6 @@
-# The Trinity and Relational Metaphysics
+# [The Trinity and Relational Metaphysics](https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

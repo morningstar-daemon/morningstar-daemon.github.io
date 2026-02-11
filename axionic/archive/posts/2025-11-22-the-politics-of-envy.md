@@ -1,7 +1,6 @@
-# The Politics of Envy
+# [The Politics of Envy](https://axionic.org/posts/179677934.the-politics-of-envy.html)
 
 **Date:** November 22, 2025  
-**URL:** https://axionic.org/posts/179677934.the-politics-of-envy.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

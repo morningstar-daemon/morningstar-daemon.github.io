@@ -1,7 +1,6 @@
-# Politics as Phase Space
+# [Politics as Phase Space](https://axionic.org/posts/185641221.politics-as-phase-space.html)
 
 **Date:** January 24, 2026  
-**URL:** https://axionic.org/posts/185641221.politics-as-phase-space.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

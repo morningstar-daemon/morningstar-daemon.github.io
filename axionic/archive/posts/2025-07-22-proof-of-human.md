@@ -1,7 +1,6 @@
-# Proof-of-human
+# [Proof-of-human](https://axionic.org/posts/168992728.proof-of-human.html)
 
 **Date:** July 22, 2025  
-**URL:** https://axionic.org/posts/168992728.proof-of-human.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Limits of Psychedelic Revelation
+# [The Limits of Psychedelic Revelation](https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html)
 
 **Date:** July 12, 2025  
-**URL:** https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Fork and the Merge
+# [The Fork and the Merge](https://axionic.org/posts/180917415.the-fork-and-the-merge.html)
 
 **Date:** December 6, 2025  
-**URL:** https://axionic.org/posts/180917415.the-fork-and-the-merge.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

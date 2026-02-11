@@ -1,7 +1,6 @@
-# The Singularity Has Already Happened
+# [The Singularity Has Already Happened](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)
 
 **Date:** September 17, 2025  
-**URL:** https://axionic.org/posts/173886472.the-singularity-has-already-happened.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

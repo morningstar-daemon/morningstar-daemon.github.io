@@ -1,7 +1,6 @@
-# The Metagame of Patterns
+# [The Metagame of Patterns](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)
 
 **Date:** November 28, 2025  
-**URL:** https://axionic.org/posts/180199129.the-metagame-of-patterns.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

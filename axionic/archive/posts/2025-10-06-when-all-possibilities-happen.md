@@ -1,7 +1,6 @@
-# When All Possibilities Happen
+# [When All Possibilities Happen](https://axionic.org/posts/175473326.when-all-possibilities-happen.html)
 
 **Date:** October 6, 2025  
-**URL:** https://axionic.org/posts/175473326.when-all-possibilities-happen.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

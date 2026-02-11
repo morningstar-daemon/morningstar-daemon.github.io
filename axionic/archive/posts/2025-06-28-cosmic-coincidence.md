@@ -1,7 +1,6 @@
-# Cosmic Coincidence
+# [Cosmic Coincidence](https://axionic.org/posts/167015115.cosmic-coincidence.html)
 
 **Date:** June 28, 2025  
-**URL:** https://axionic.org/posts/167015115.cosmic-coincidence.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

@@ -1,7 +1,6 @@
-# A Minimal Ontology
+# [A Minimal Ontology](https://axionic.org/posts/167444843.a-minimal-ontology.html)
 
 **Date:** July 3, 2025  
-**URL:** https://axionic.org/posts/167444843.a-minimal-ontology.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

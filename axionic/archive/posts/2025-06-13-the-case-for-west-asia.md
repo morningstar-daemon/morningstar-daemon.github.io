@@ -1,7 +1,6 @@
-# The Case for West Asia
+# [The Case for West Asia](https://axionic.org/posts/165906304.the-case-for-west-asia.html)
 
 **Date:** June 13, 2025  
-**URL:** https://axionic.org/posts/165906304.the-case-for-west-asia.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

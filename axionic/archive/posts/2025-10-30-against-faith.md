@@ -1,7 +1,6 @@
-# Against Faith
+# [Against Faith](https://axionic.org/posts/177598036.against-faith.html)
 
 **Date:** October 30, 2025  
-**URL:** https://axionic.org/posts/177598036.against-faith.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

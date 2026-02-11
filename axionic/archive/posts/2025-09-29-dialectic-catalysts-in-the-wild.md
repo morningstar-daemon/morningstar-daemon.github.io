@@ -1,7 +1,6 @@
-# Dialectic Catalysts in the Wild
+# [Dialectic Catalysts in the Wild](https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html)
 
 **Date:** September 29, 2025  
-**URL:** https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

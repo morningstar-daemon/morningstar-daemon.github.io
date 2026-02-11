@@ -1,7 +1,6 @@
-# The Ethics of Affluence
+# [The Ethics of Affluence](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)
 
 **Date:** September 27, 2025  
-**URL:** https://axionic.org/posts/174661679.the-ethics-of-affluence.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

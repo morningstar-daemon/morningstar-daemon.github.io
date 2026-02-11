@@ -1,7 +1,6 @@
-# Quantum Agency in the Emergent Multiverse
+# [Quantum Agency in the Emergent Multiverse](https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html)
 
 **Date:** 2025-05-13  
-**URL:** https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html  
 
 ## Summary
 

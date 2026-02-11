@@ -1,7 +1,6 @@
-# Above The Law
+# [Above The Law](https://axionic.org/posts/180208315.above-the-law.html)
 
 **Date:** November 28, 2025  
-**URL:** https://axionic.org/posts/180208315.above-the-law.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

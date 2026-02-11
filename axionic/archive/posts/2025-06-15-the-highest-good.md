@@ -1,7 +1,6 @@
-# The Highest Good
+# [The Highest Good](https://axionic.org/posts/166023954.the-highest-good.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166023954.the-highest-good.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

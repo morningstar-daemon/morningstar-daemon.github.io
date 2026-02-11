@@ -1,7 +1,6 @@
-# The Myth of Late-Stage Capitalism
+# [The Myth of Late-Stage Capitalism](https://axionic.org/posts/168875141.the-myth-of-late-stage-capitalism.html)
 
 **Date:** July 21, 2025  
-**URL:** https://axionic.org/posts/168875141.the-myth-of-late-stage-capitalism.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

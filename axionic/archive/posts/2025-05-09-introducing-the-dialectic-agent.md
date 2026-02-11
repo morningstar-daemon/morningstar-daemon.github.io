@@ -1,7 +1,6 @@
-# The Dialectic Agent
+# [The Dialectic Agent](https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html)
 
 **Date:** 2025-05-09  
-**URL:** https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html  
 
 ## Summary
 

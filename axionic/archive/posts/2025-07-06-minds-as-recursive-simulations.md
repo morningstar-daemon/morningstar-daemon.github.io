@@ -1,7 +1,6 @@
-# Minds as Recursive Simulations
+# [Minds as Recursive Simulations](https://axionic.org/posts/167660845.minds-as-recursive-simulations.html)
 
 **Date:** July 6, 2025  
-**URL:** https://axionic.org/posts/167660845.minds-as-recursive-simulations.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

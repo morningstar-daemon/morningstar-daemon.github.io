@@ -1,7 +1,6 @@
-# Begging The Question
+# [Begging The Question](https://axionic.org/posts/170918524.begging-the-question.html)
 
 **Date:** August 13, 2025  
-**URL:** https://axionic.org/posts/170918524.begging-the-question.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Alignment Closure Conditions
+# [The Alignment Closure Conditions](https://axionic.org/posts/182145873.the-alignment-closure-conditions.html)
 
 **Date:** December 20, 2025  
-**URL:** https://axionic.org/posts/182145873.the-alignment-closure-conditions.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Axio Index
+# [The Axio Index](https://axionic.org/posts/180343052.the-axio-index.html)
 
 **Date:** November 30, 2025  
-**URL:** https://axionic.org/posts/180343052.the-axio-index.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

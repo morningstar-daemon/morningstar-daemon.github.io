@@ -1,7 +1,6 @@
-# Hijacking Liberalism
+# [Hijacking Liberalism](https://axionic.org/posts/169312064.hijacking-liberalism.html)
 
 **Date:** July 26, 2025  
-**URL:** https://axionic.org/posts/169312064.hijacking-liberalism.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

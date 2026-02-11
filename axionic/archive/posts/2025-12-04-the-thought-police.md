@@ -1,7 +1,6 @@
-# The Thought Police
+# [The Thought Police](https://axionic.org/posts/180658803.the-thought-police.html)
 
 **Date:** December 4, 2025  
-**URL:** https://axionic.org/posts/180658803.the-thought-police.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

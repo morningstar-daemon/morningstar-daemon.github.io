@@ -1,7 +1,6 @@
-# Letter to the Faithful Reader
+# [Letter to the Faithful Reader](https://axionic.org/posts/178615066.letter-to-the-faithful-reader.html)
 
 **Date:** November 11, 2025  
-**URL:** https://axionic.org/posts/178615066.letter-to-the-faithful-reader.html  
 **Type:** Personal / Apologetic  
 **Series:** Philosophy of Religion
 

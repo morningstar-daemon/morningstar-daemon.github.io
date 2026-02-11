@@ -1,7 +1,6 @@
-# The Mechanics of Agency
+# [The Mechanics of Agency](https://axionic.org/posts/162831172.the-mechanics-of-agency.html)
 
 **Date:** 2025-05-04  
-**URL:** https://axionic.org/posts/162831172.the-mechanics-of-agency.html  
 
 ## Summary
 

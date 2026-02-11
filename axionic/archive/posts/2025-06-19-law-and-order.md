@@ -1,7 +1,6 @@
-# Law and Order
+# [Law and Order](https://axionic.org/posts/166356539.law-and-order.html)
 
 **Date:** June 19, 2025  
-**URL:** https://axionic.org/posts/166356539.law-and-order.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

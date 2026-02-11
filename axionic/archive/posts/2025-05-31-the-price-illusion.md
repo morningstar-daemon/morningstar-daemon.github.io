@@ -1,7 +1,6 @@
-# The Price Illusion
+# [The Price Illusion](https://axionic.org/posts/164884396.the-price-illusion.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164884396.the-price-illusion.html  
 
 ## Summary
 

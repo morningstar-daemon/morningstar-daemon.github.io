@@ -1,7 +1,6 @@
-# The Cybernetic Ghost of Satoshi
+# [The Cybernetic Ghost of Satoshi](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)
 
 **Date:** October 31, 2025  
-**URL:** https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

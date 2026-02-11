@@ -1,7 +1,6 @@
-# Speech Is Not Violence
+# [Speech Is Not Violence](https://axionic.org/posts/173476672.speech-is-not-violence.html)
 
 **Date:** September 12, 2025  
-**URL:** https://axionic.org/posts/173476672.speech-is-not-violence.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

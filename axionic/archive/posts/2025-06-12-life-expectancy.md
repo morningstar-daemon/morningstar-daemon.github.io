@@ -1,7 +1,6 @@
-# Life Expectancy
+# [Life Expectancy](https://axionic.org/posts/165785917.life-expectancy.html)
 
 **Date:** June 12, 2025  
-**URL:** https://axionic.org/posts/165785917.life-expectancy.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

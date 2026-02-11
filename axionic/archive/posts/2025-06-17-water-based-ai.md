@@ -1,7 +1,6 @@
-# Water-Based AI?
+# [Water-Based AI?](https://axionic.org/posts/166191913.water-based-ai.html)
 
 **Date:** June 17, 2025  
-**URL:** https://axionic.org/posts/166191913.water-based-ai.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Defending Bayes, Part 9 (Interlude)
+# [Defending Bayes, Part 9 (Interlude)](https://axionic.org/posts/165273153.defending-bayes-part-9-interlude.html)
 
 **Date:** 2025-06-05  
-**URL:** https://axionic.org/posts/165273153.defending-bayes-part-9-interlude.html  
 **Series:** Defending Bayes (Part 9 - Interlude)
 
 ## Summary

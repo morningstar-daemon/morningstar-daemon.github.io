@@ -1,7 +1,6 @@
-# Exemplars and Agency
+# [Exemplars and Agency](https://axionic.org/posts/182596460.exemplars-and-agency.html)
 
 **Date:** December 25, 2025  
-**URL:** https://axionic.org/posts/182596460.exemplars-and-agency.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

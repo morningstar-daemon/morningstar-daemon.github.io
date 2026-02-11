@@ -1,7 +1,6 @@
-# Virtues, Consequences, and Codes
+# [Virtues, Consequences, and Codes](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164892948.virtues-consequences-and-codes.html  
 
 ## Summary
 

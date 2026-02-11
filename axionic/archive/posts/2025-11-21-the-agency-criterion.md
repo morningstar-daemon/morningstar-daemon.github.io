@@ -1,7 +1,6 @@
-# The Agency Criterion
+# [The Agency Criterion](https://axionic.org/posts/179585057.the-agency-criterion.html)
 
 **Date:** 2025-11-21  
-**URL:** https://axionic.org/posts/179585057.the-agency-criterion.html
 
 ## Summary
 

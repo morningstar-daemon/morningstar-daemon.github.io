@@ -1,7 +1,6 @@
-# Chaos and Coherence
+# [Chaos and Coherence](https://axionic.org/posts/171841572.chaos-and-coherence.html)
 
 **Date:** August 24, 2025  
-**URL:** https://axionic.org/posts/171841572.chaos-and-coherence.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

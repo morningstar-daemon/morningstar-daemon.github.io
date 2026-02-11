@@ -1,7 +1,6 @@
-# The Trolley Problem
+# [The Trolley Problem](https://axionic.org/posts/171523071.the-trolley-problem.html)
 
 **Date:** August 21, 2025  
-**URL:** https://axionic.org/posts/171523071.the-trolley-problem.html  
 **Batch:** Batch 11 (Posts 101–125)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Coming soon
+# [Coming soon](https://axionic.org/posts/74914738.coming-soon.html)
 
 **Date:** 2022-09-25  
-**URL:** https://axionic.org/posts/74914738.coming-soon.html  
 **Status:** Placeholder/announcement post
 
 ## Summary

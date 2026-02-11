@@ -1,7 +1,6 @@
-# The Stasis Regime
+# [The Stasis Regime](https://axionic.org/posts/183091282.the-stasis-regime.html)
 
 **Date:** December 31, 2025  
-**URL:** https://axionic.org/posts/183091282.the-stasis-regime.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

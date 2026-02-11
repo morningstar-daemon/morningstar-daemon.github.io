@@ -1,7 +1,6 @@
-# Negative Rights in Conflict
+# [Negative Rights in Conflict](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/165997692.negative-rights-in-conflict.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

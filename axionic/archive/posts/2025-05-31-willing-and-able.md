@@ -1,7 +1,6 @@
-# Willing and Able
+# [Willing and Able](https://axionic.org/posts/164878445.willing-and-able.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164878445.willing-and-able.html  
 
 ## Summary
 

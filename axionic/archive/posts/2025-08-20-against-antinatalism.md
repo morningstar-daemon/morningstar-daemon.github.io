@@ -1,7 +1,6 @@
-# Against Antinatalism
+# [Against Antinatalism](https://axionic.org/posts/171515563.against-antinatalism.html)
 
 **Date:** August 20, 2025  
-**URL:** https://axionic.org/posts/171515563.against-antinatalism.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

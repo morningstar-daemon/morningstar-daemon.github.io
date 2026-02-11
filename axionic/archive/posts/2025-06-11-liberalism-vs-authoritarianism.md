@@ -1,7 +1,6 @@
-# Liberalism vs. Authoritarianism
+# [Liberalism vs. Authoritarianism](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)
 
 **Date:** June 11, 2025  
-**URL:** https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

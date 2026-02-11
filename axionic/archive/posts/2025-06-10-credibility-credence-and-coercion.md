@@ -1,7 +1,6 @@
-# Credibility, Credence, and Coercion
+# [Credibility, Credence, and Coercion](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)
 
 **Date:** June 10, 2025  
-**URL:** https://axionic.org/posts/165665795.credibility-credence-and-coercion.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

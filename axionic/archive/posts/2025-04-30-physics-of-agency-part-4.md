@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 4: The Law of Control Work
+# [The Physics of Agency, Part 4: The Law of Control Work](https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html)
 
 **Date:** April 30, 2025  
-**URL:** https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html
 
 ## Summary
 

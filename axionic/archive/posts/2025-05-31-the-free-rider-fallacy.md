@@ -1,7 +1,6 @@
-# The Free Rider Fallacy
+# [The Free Rider Fallacy](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164847204.the-free-rider-fallacy.html  
 
 ## Summary
 

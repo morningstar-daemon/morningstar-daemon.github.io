@@ -1,7 +1,6 @@
-# Alignment Beyond Epistemics
+# [Alignment Beyond Epistemics](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)
 
 **Date:** January 9, 2026  
-**URL:** https://axionic.org/posts/184075360.alignment-beyond-epistemics.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

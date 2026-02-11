@@ -1,7 +1,6 @@
-# Consciousness Explained
+# [Consciousness Explained](https://axionic.org/posts/180550525.consciousness-explained.html)
 
 **Date:** December 2, 2025  
-**URL:** https://axionic.org/posts/180550525.consciousness-explained.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Anchored Minimal Causal Interfaces
+# [Anchored Minimal Causal Interfaces](https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html)
 
 **Date:** December 30, 2025  
-**URL:** https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Not Everyone Is a Fascist
+# [Not Everyone Is a Fascist](https://axionic.org/posts/173478203.not-everyone-is-a-fascist.html)
 
 **Date:** September 12, 2025  
-**URL:** https://axionic.org/posts/173478203.not-everyone-is-a-fascist.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# The Sysop and the Cassandra
+# [The Sysop and the Cassandra](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)
 
 **Date:** September 12, 2025  
-**URL:** https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

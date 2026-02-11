@@ -1,7 +1,6 @@
-# Entangled Truths
+# [Entangled Truths](https://axionic.org/posts/174125219.entangled-truths.html)
 
 **Date:** September 20, 2025  
-**URL:** https://axionic.org/posts/174125219.entangled-truths.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

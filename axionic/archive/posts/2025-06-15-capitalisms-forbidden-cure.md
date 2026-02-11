@@ -1,7 +1,6 @@
-# Capitalism's Forbidden Cure
+# [Capitalism's Forbidden Cure](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)
 
 **Date:** June 15, 2025  
-**URL:** https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html  
 **Batch:** Batch 05 (Posts 113–137)
 
 ## Summary

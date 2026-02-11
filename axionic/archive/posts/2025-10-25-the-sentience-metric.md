@@ -1,7 +1,6 @@
-# The Sentience Metric
+# [The Sentience Metric](https://axionic.org/posts/177117239.the-sentience-metric.html)
 
 **Date:** October 25, 2025  
-**URL:** https://axionic.org/posts/177117239.the-sentience-metric.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

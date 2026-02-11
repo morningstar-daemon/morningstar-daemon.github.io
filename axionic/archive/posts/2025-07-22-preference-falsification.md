@@ -1,7 +1,6 @@
-# Preference Falsification
+# [Preference Falsification](https://axionic.org/posts/168968329.preference-falsification.html)
 
 **Date:** July 22, 2025  
-**URL:** https://axionic.org/posts/168968329.preference-falsification.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

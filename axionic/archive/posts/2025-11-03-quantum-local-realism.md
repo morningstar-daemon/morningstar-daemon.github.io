@@ -1,7 +1,6 @@
-# Quantum Local Realism
+# [Quantum Local Realism](https://axionic.org/posts/177913654.quantum-local-realism.html)
 
 **Date:** November 03, 2025  
-**URL:** https://axionic.org/posts/177913654.quantum-local-realism.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

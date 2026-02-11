@@ -1,7 +1,6 @@
-# Universal Compensatory Justice
+# [Universal Compensatory Justice](https://axionic.org/posts/169258689.universal-compensatory-justice.html)
 
 **Date:** July 25, 2025  
-**URL:** https://axionic.org/posts/169258689.universal-compensatory-justice.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

@@ -1,7 +1,6 @@
-# On What Matters
+# [On What Matters](https://axionic.org/posts/175970360.on-what-matters.html)
 
 **Date:** October 12, 2025  
-**URL:** https://axionic.org/posts/175970360.on-what-matters.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

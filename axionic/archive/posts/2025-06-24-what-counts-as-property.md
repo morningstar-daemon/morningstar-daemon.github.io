@@ -1,7 +1,6 @@
-# What Counts as Property
+# [What Counts as Property](https://axionic.org/posts/166739921.what-counts-as-property.html)
 
 **Date:** June 24, 2025  
-**URL:** https://axionic.org/posts/166739921.what-counts-as-property.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

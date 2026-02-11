@@ -1,7 +1,6 @@
-# Thinking vs. Feeling
+# [Thinking vs. Feeling](https://axionic.org/posts/166902989.thinking-vs-feeling.html)
 
 **Date:** June 26, 2025  
-**URL:** https://axionic.org/posts/166902989.thinking-vs-feeling.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

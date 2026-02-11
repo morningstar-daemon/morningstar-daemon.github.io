@@ -1,7 +1,6 @@
-# Constraint, Formalism, and Empiricism
+# [Constraint, Formalism, and Empiricism](https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html)
 
 **Date:** January 1, 2026  
-**URL:** https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

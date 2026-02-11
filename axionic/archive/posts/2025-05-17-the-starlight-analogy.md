@@ -1,7 +1,6 @@
-# The Starlight Analogy
+# [The Starlight Analogy](https://axionic.org/posts/163789945.the-starlight-analogy.html)
 
 **Date:** 2025-05-17  
-**URL:** https://axionic.org/posts/163789945.the-starlight-analogy.html  
 
 ## Summary
 

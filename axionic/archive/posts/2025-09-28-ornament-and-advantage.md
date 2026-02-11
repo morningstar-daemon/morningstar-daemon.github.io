@@ -1,7 +1,6 @@
-# Ornament and Advantage
+# [Ornament and Advantage](https://axionic.org/posts/174783426.ornament-and-advantage.html)
 
 **Date:** September 28, 2025  
-**URL:** https://axionic.org/posts/174783426.ornament-and-advantage.html  
 **Batch:** Batch 13 (Posts 151–175)
 
 ## Summary

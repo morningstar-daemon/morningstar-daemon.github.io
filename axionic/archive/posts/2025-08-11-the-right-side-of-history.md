@@ -1,7 +1,6 @@
-# The Right Side of History
+# [The Right Side of History](https://axionic.org/posts/170694694.the-right-side-of-history.html)
 
 **Date:** August 11, 2025  
-**URL:** https://axionic.org/posts/170694694.the-right-side-of-history.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

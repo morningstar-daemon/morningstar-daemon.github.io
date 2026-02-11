@@ -1,7 +1,6 @@
-# Agency Under Pressure
+# [Agency Under Pressure](https://axionic.org/posts/183363135.agency-under-pressure.html)
 
 **Date:** January 3, 2026  
-**URL:** https://axionic.org/posts/183363135.agency-under-pressure.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

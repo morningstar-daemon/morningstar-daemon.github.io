@@ -1,7 +1,6 @@
-# The Death of the Turing Test
+# [The Death of the Turing Test](https://axionic.org/posts/176577621.the-death-of-the-turing-test.html)
 
 **Date:** October 19, 2025  
-**URL:** https://axionic.org/posts/176577621.the-death-of-the-turing-test.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

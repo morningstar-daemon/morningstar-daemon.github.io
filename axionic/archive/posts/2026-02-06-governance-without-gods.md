@@ -1,7 +1,6 @@
-# Governance Without Gods
+# [Governance Without Gods](https://axionic.org/posts/187096691.governance-without-gods.html)
 
 **Date:** February 6, 2026  
-**URL:** https://axionic.org/posts/187096691.governance-without-gods.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

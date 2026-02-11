@@ -1,7 +1,6 @@
-# The Physics of Agency, Part 10: The Grand Synthesis and Future Directions
+# [The Physics of Agency, Part 10: The Grand Synthesis and Future Directions](https://axionic.org/posts/162578038.the-physics-of-agency-part-10-the.html)
 
 **Date:** 2025-04-30  
-**URL:** https://axionic.org/posts/162578038.the-physics-of-agency-part-10-the.html  
 **Series:** Physics of Agency (Part 10 of 10)
 
 ## Summary

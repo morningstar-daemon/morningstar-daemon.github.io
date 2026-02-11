@@ -1,7 +1,6 @@
-# What Counts as Consent
+# [What Counts as Consent](https://axionic.org/posts/164911762.what-counts-as-consent.html)
 
 **Date:** 2025-06-01  
-**URL:** https://axionic.org/posts/164911762.what-counts-as-consent.html  
 
 ## Summary
 

@@ -1,7 +1,6 @@
-# The Pattern
+# [The Pattern](https://axionic.org/posts/164271340.the-pattern.html)
 
 **Date:** 2025-05-23  
-**URL:** https://axionic.org/posts/164271340.the-pattern.html  
 
 ## Summary
 

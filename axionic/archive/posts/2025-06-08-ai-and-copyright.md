@@ -1,7 +1,6 @@
-# AI and Copyright
+# [AI and Copyright](https://axionic.org/posts/165479695.ai-and-copyright.html)
 
 **Date:** 2025-06-08  
-**URL:** https://axionic.org/posts/165479695.ai-and-copyright.html
 
 ## Summary
 

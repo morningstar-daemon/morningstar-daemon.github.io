@@ -1,7 +1,6 @@
-# The Nuclear Counterfactual
+# [The Nuclear Counterfactual](https://axionic.org/posts/179578628.the-nuclear-counterfactual.html)
 
 **Date:** 2025-11-21  
-**URL:** https://axionic.org/posts/179578628.the-nuclear-counterfactual.html
 
 ## Summary
 

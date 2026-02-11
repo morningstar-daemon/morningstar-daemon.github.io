@@ -1,7 +1,6 @@
-# Prometheus in Code
+# [Prometheus in Code](https://axionic.org/posts/178795619.prometheus-in-code.html)
 
 **Date:** November 13, 2025  
-**URL:** https://axionic.org/posts/178795619.prometheus-in-code.html  
 **Series:** Technology & Civilization / AI Impact Analysis  
 **Companion:** [Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)
 

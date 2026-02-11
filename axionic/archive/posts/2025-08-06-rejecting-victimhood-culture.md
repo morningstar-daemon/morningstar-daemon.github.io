@@ -1,7 +1,6 @@
-# Rejecting Victimhood Culture
+# [Rejecting Victimhood Culture](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)
 
 **Date:** August 6, 2025  
-**URL:** https://axionic.org/posts/170304047.rejecting-victimhood-culture.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

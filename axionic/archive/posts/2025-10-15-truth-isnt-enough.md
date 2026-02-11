@@ -1,7 +1,6 @@
-# Truth Isn't Enough
+# [Truth Isn't Enough](https://axionic.org/posts/176244039.truth-isnt-enough.html)
 
 **Date:** October 15, 2025  
-**URL:** https://axionic.org/posts/176244039.truth-isnt-enough.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

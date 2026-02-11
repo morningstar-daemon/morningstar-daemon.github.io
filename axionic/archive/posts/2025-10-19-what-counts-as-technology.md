@@ -1,7 +1,6 @@
-# What Counts as Technology
+# [What Counts as Technology](https://axionic.org/posts/176597723.what-counts-as-technology.html)
 
 **Date:** October 19, 2025  
-**URL:** https://axionic.org/posts/176597723.what-counts-as-technology.html  
 **Batch:** Batch 14 (Posts 176–200)
 
 ## Summary

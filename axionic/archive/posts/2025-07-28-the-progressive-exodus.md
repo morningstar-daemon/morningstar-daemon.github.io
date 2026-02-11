@@ -1,7 +1,6 @@
-# The Progressive Exodus
+# [The Progressive Exodus](https://axionic.org/posts/169479666.the-progressive-exodus.html)
 
 **Date:** July 28, 2025  
-**URL:** https://axionic.org/posts/169479666.the-progressive-exodus.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

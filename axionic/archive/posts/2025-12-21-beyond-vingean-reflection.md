@@ -1,7 +1,6 @@
-# Beyond Vingean Reflection
+# [Beyond Vingean Reflection](https://axionic.org/posts/182268096.beyond-vingean-reflection.html)
 
 **Date:** December 21, 2025  
-**URL:** https://axionic.org/posts/182268096.beyond-vingean-reflection.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

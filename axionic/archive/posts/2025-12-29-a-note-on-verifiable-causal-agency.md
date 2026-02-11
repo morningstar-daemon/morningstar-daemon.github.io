@@ -1,7 +1,6 @@
-# A Note on Verifiable Causal Agency
+# [A Note on Verifiable Causal Agency](https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html)
 
 **Date:** December 29, 2025  
-**URL:** https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html  
 **Batch:** Batch 30 (Posts 151–175)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Everything Has a Price
+# [Everything Has a Price](https://axionic.org/posts/167735185.everything-has-a-price.html)
 
 **Date:** July 7, 2025  
-**URL:** https://axionic.org/posts/167735185.everything-has-a-price.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

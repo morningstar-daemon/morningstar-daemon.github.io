@@ -1,7 +1,6 @@
-# Defending Agency
+# [Defending Agency](https://axionic.org/posts/168792678.defending-agency.html)
 
 **Date:** July 20, 2025  
-**URL:** https://axionic.org/posts/168792678.defending-agency.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

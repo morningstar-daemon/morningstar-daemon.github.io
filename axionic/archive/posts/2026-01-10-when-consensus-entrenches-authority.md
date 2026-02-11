@@ -1,7 +1,6 @@
-# When Consensus Entrenches Authority
+# [When Consensus Entrenches Authority](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)
 
 **Date:** January 10, 2026  
-**URL:** https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

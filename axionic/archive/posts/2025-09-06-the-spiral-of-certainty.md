@@ -1,7 +1,6 @@
-# The Spiral of Certainty
+# [The Spiral of Certainty](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)
 
 **Date:** September 6, 2025  
-**URL:** https://axionic.org/posts/172978476.the-spiral-of-certainty.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

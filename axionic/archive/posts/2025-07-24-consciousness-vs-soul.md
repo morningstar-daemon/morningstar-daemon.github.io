@@ -1,7 +1,6 @@
-# Consciousness vs. Soul
+# [Consciousness vs. Soul](https://axionic.org/posts/169145093.consciousness-vs-soul.html)
 
 **Date:** July 24, 2025  
-**URL:** https://axionic.org/posts/169145093.consciousness-vs-soul.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

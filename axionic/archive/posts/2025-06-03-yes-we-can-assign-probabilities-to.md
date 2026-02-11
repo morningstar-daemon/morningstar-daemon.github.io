@@ -1,7 +1,6 @@
-# Yes, We Can Assign Probabilities to Counterfactuals
+# [Yes, We Can Assign Probabilities to Counterfactuals](https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html)
 
 **Date:** 2025-06-03  
-**URL:** https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html
 
 ## Summary
 

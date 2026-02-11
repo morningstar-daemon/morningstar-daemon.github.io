@@ -1,7 +1,6 @@
-# Axions as a Type of Agency
+# [Axions as a Type of Agency](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)
 
 **Date:** December 21, 2025  
-**URL:** https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

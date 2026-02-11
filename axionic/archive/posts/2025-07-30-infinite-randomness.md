@@ -1,7 +1,6 @@
-# Infinite Randomness
+# [Infinite Randomness](https://axionic.org/posts/169620752.infinite-randomness.html)
 
 **Date:** July 30, 2025  
-**URL:** https://axionic.org/posts/169620752.infinite-randomness.html  
 **Subtitle:** Beyond Boltzmann Brains and the Simulation Hypothesis  
 **Batch:** Batch 09 (Posts 51–75)
 

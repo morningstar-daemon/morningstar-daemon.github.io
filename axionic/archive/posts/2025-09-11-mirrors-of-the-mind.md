@@ -1,7 +1,6 @@
-# Mirrors of the Mind
+# [Mirrors of the Mind](https://axionic.org/posts/173236908.mirrors-of-the-mind.html)
 
 **Date:** September 11, 2025  
-**URL:** https://axionic.org/posts/173236908.mirrors-of-the-mind.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Reflexive Coherence
+# [Reflexive Coherence](https://axionic.org/posts/178362242.reflexive-coherence.html)
 
 **Date:** November 08, 2025  
-**URL:** https://axionic.org/posts/178362242.reflexive-coherence.html  
 **Batch:** Batch 02 (Posts 026–050)
 
 ## Summary

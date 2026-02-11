@@ -1,7 +1,6 @@
-# Catalyzing Curiosity
+# [Catalyzing Curiosity](https://axionic.org/posts/167621027.catalyzing-curiosity.html)
 
 **Date:** July 6, 2025  
-**URL:** https://axionic.org/posts/167621027.catalyzing-curiosity.html  
 **Batch:** Batch 19 (Posts 167–191)
 
 ## Summary

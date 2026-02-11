@@ -1,7 +1,6 @@
-# Defending Hate Speech
+# [Defending Hate Speech](https://axionic.org/posts/170458928.defending-hate-speech.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170458928.defending-hate-speech.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

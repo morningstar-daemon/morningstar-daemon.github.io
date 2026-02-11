@@ -1,7 +1,6 @@
-# The Quiet Capture of Psychiatry
+# [The Quiet Capture of Psychiatry](https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html)
 
 **Date:** August 8, 2025  
-**URL:** https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

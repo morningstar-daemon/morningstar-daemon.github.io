@@ -1,7 +1,6 @@
-# The Cybernetics Sequence
+# [The Cybernetics Sequence](https://axionic.org/posts/179373939.the-cybernetics-sequence.html)
 
 **Date:** 2025-11-19  
-**URL:** https://axionic.org/posts/179373939.the-cybernetics-sequence.html  
 **Series:** Cybernetics Sequence (Announcement/Index)
 
 ## Summary

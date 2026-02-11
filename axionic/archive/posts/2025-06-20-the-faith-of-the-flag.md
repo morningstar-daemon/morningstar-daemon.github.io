@@ -1,7 +1,6 @@
-# The Faith of the Flag
+# [The Faith of the Flag](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)
 
 **Date:** June 20, 2025  
-**URL:** https://axionic.org/posts/166408363.the-faith-of-the-flag.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

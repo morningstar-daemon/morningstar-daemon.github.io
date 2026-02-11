@@ -1,7 +1,6 @@
-# Not Up For Debate
+# [Not Up For Debate](https://axionic.org/posts/179943509.not-up-for-debate.html)
 
 **Date:** November 25, 2025  
-**URL:** https://axionic.org/posts/179943509.not-up-for-debate.html  
 **Batch:** Batch 27 (Posts 076–100)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Instinct For Submission
+# [Instinct For Submission](https://axionic.org/posts/165726066.instinct-for-submission.html)
 
 **Date:** June 11, 2025  
-**URL:** https://axionic.org/posts/165726066.instinct-for-submission.html  
 **Batch:** Batch 05 (Posts 101–125)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Digital Sovereignty
+# [Digital Sovereignty](https://axionic.org/posts/170088316.digital-sovereignty.html)
 
 **Date:** August 4, 2025  
-**URL:** https://axionic.org/posts/170088316.digital-sovereignty.html  
 **Batch:** Batch 16 (New remaining list, posts 2-26)
 
 ## Summary

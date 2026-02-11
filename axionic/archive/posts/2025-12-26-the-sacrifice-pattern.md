@@ -1,7 +1,6 @@
-# The Sacrifice Pattern
+# [The Sacrifice Pattern](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)
 
 **Date:** December 26, 2025  
-**URL:** https://axionic.org/posts/182656706.the-sacrifice-pattern.html  
 **Batch:** Batch 29 (Posts 126–150)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Intelligence as a Hyperobject
+# [Intelligence as a Hyperobject](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)
 
 **Date:** June 26, 2025  
-**URL:** https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html  
 **Batch:** Batch 07 (Posts 1–25)
 
 ## Summary

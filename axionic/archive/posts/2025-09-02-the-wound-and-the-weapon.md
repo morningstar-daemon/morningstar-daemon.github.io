@@ -1,7 +1,6 @@
-# The Wound and the Weapon
+# [The Wound and the Weapon](https://axionic.org/posts/172613358.the-wound-and-the-weapon.html)
 
 **Date:** September 2, 2025  
-**URL:** https://axionic.org/posts/172613358.the-wound-and-the-weapon.html  
 **Batch:** Batch 12 (Posts 126–150)
 
 ## Summary

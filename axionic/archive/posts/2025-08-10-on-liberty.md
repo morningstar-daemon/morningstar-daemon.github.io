@@ -1,7 +1,6 @@
-# On Liberty
+# [On Liberty](https://axionic.org/posts/170630000.on-liberty.html)
 
 **Date:** August 10, 2025  
-**URL:** https://axionic.org/posts/170630000.on-liberty.html  
 **Batch:** Batch 10 (Posts 76–100)
 
 ## Summary

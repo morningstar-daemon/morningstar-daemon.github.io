@@ -1,7 +1,6 @@
-# Upgrading Liberty
+# [Upgrading Liberty](https://axionic.org/posts/168790363.upgrading-liberty.html)
 
 **Date:** July 20, 2025  
-**URL:** https://axionic.org/posts/168790363.upgrading-liberty.html  
 **Batch:** Batch 08 (Posts 26–50)
 
 ## Summary

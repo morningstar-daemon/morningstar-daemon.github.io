@@ -1,7 +1,6 @@
-# Opportunity Cost
+# [Opportunity Cost](https://axionic.org/posts/164882854.opportunity-cost.html)
 
 **Date:** 2025-05-31  
-**URL:** https://axionic.org/posts/164882854.opportunity-cost.html  
 
 ## Summary
 

@@ -1,7 +1,6 @@
-# Ex Machina
+# [Ex Machina](https://axionic.org/posts/166536003.ex-machina.html)
 
 **Date:** June 22, 2025  
-**URL:** https://axionic.org/posts/166536003.ex-machina.html  
 **Batch:** Batch 06 (Posts 138–162)
 
 ## Summary

@@ -1,7 +1,6 @@
-# Progressive Shibboleths
+# [Progressive Shibboleths](https://axionic.org/posts/170274859.progressive-shibboleths.html)
 
 **Date:** August 6, 2025  
-**URL:** https://axionic.org/posts/170274859.progressive-shibboleths.html  
 **Batch:** Batch 24 (Posts 1–25)
 
 ## Summary

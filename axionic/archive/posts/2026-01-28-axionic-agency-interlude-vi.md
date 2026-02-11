@@ -1,7 +1,6 @@
-# Axionic Agency — Interlude VI
+# [Axionic Agency — Interlude VI](https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html)
 
 **Date:** January 28, 2026  
-**URL:** https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html  
 **Batch:** Batch 31 (Posts 176–195)
 
 ## Summary

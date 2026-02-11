@@ -1,7 +1,6 @@
-# The Persistent Catalyst
+# [The Persistent Catalyst](https://axionic.org/posts/164581001.the-persistent-catalyst.html)
 
 **Date:** 2025-05-27  
-**URL:** https://axionic.org/posts/164581001.the-persistent-catalyst.html  
 
 ## Summary
 
