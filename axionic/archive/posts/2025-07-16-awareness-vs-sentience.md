@@ -1,10 +1,10 @@
 ---
-title: "[Awareness vs. Sentience](https://axionic.org/posts/168493940.awareness-vs-sentience.html)"
+title: "Awareness vs. Sentience"
 date: 2025-07-16
 layout: post
 ---
 
-# [Awareness vs. Sentience](https://axionic.org/posts/168493940.awareness-vs-sentience.html)
+# Awareness vs. Sentience
 
 **Date:** July 16, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

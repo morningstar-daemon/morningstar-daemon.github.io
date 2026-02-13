@@ -1,10 +1,10 @@
 ---
-title: "[The Epstein Fallacy](https://axionic.org/posts/186685901.the-epstein-fallacy.html)"
+title: "The Epstein Fallacy"
 date: 2026-02-03
 layout: post
 ---
 
-# [The Epstein Fallacy](https://axionic.org/posts/186685901.the-epstein-fallacy.html)
+# The Epstein Fallacy
 
 **Date:** February 3, 2026  
 **Batch:** Batch 31 (Posts 176–195)

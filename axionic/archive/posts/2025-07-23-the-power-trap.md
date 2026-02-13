@@ -1,10 +1,10 @@
 ---
-title: "[The Power Trap](https://axionic.org/posts/169087374.the-power-trap.html)"
+title: "The Power Trap"
 date: 2025-07-23
 layout: post
 ---
 
-# [The Power Trap](https://axionic.org/posts/169087374.the-power-trap.html)
+# The Power Trap
 
 **Date:** July 23, 2025  
 **Batch:** Batch 08 (Posts 26–50)

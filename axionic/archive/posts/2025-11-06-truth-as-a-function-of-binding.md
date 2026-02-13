@@ -1,10 +1,10 @@
 ---
-title: "[Truth as a Function of Binding](https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html)"
+title: "Truth as a Function of Binding"
 date: 2025-11-06
 layout: post
 ---
 
-# [Truth as a Function of Binding](https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html)
+# Truth as a Function of Binding
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)

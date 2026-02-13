@@ -1,10 +1,10 @@
 ---
-title: "[The Boghossian Principle](https://axionic.org/posts/166359583.the-boghossian-principle.html)"
+title: "The Boghossian Principle"
 date: 2025-06-19
 layout: post
 ---
 
-# [The Boghossian Principle](https://axionic.org/posts/166359583.the-boghossian-principle.html)
+# The Boghossian Principle
 
 **Date:** June 19, 2025  
 **Batch:** Batch 05 (Posts 113–137)

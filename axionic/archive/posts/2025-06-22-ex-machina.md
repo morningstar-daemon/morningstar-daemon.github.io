@@ -1,10 +1,10 @@
 ---
-title: "[Ex Machina](https://axionic.org/posts/166536003.ex-machina.html)"
+title: "Ex Machina"
 date: 2025-06-22
 layout: post
 ---
 
-# [Ex Machina](https://axionic.org/posts/166536003.ex-machina.html)
+# Ex Machina
 
 **Date:** June 22, 2025  
 **Batch:** Batch 06 (Posts 138–162)

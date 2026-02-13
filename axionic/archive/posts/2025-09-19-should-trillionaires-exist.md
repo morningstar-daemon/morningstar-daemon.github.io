@@ -1,10 +1,10 @@
 ---
-title: "[Should Trillionaires Exist?](https://axionic.org/posts/174059558.should-trillionaires-exist.html)"
+title: "Should Trillionaires Exist?"
 date: 2025-09-19
 layout: post
 ---
 
-# [Should Trillionaires Exist?](https://axionic.org/posts/174059558.should-trillionaires-exist.html)
+# Should Trillionaires Exist?
 
 **Date:** September 19, 2025  
 **Batch:** Batch 13 (Posts 151–175)

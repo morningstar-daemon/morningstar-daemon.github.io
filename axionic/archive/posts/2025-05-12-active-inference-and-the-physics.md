@@ -1,10 +1,10 @@
 ---
-title: "[Active Inference and the Physics of Agency](https://axionic.org/posts/163365017.active-inference-and-the-physics.html)"
+title: "Active Inference and the Physics of Agency"
 date: 2025-05-12
 layout: post
 ---
 
-# [Active Inference and the Physics of Agency](https://axionic.org/posts/163365017.active-inference-and-the-physics.html)
+# Active Inference and the Physics of Agency
 
 **Date:** 2025-05-12  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Apollo's Inscriptions](https://axionic.org/posts/172523240.apollos-inscriptions.html)"
+title: "Apollo's Inscriptions"
 date: 2025-09-01
 layout: post
 ---
 
-# [Apollo's Inscriptions](https://axionic.org/posts/172523240.apollos-inscriptions.html)
+# Apollo's Inscriptions
 
 **Date:** September 1, 2025  
 **Batch:** Batch 12 (Posts 126–150)

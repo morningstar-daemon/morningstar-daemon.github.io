@@ -1,10 +1,10 @@
 ---
-title: "[Why Values Don't Align Systems](https://axionic.org/posts/183731336.why-values-dont-align-systems.html)"
+title: "Why Values Don't Align Systems"
 date: 2026-01-06
 layout: post
 ---
 
-# [Why Values Don't Align Systems](https://axionic.org/posts/183731336.why-values-dont-align-systems.html)
+# Why Values Don't Align Systems
 
 **Date:** January 6, 2026  
 **Batch:** Batch 30 (Posts 151–175)

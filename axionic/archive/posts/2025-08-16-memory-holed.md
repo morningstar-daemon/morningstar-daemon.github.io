@@ -1,10 +1,10 @@
 ---
-title: "[Memory-Holed](https://axionic.org/posts/171155815.memory-holed.html)"
+title: "Memory-Holed"
 date: 2025-08-16
 layout: post
 ---
 
-# [Memory-Holed](https://axionic.org/posts/171155815.memory-holed.html)
+# Memory-Holed
 
 **Date:** August 16, 2025  
 **Batch:** Batch 10 (Posts 76–100)

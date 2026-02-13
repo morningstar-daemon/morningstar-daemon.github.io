@@ -1,10 +1,10 @@
 ---
-title: "[Equivalence and Meaning](https://axionic.org/posts/172303106.equivalence-and-meaning.html)"
+title: "Equivalence and Meaning"
 date: 2025-08-29
 layout: post
 ---
 
-# [Equivalence and Meaning](https://axionic.org/posts/172303106.equivalence-and-meaning.html)
+# Equivalence and Meaning
 
 **Date:** August 29, 2025  
 **Batch:** Batch 11 (Posts 101–125)

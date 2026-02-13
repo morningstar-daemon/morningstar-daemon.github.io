@@ -1,10 +1,10 @@
 ---
-title: "[Chaos as Foundation](https://axionic.org/posts/177832101.chaos-as-foundation.html)"
+title: "Chaos as Foundation"
 date: 2025-11-02
 layout: post
 ---
 
-# [Chaos as Foundation](https://axionic.org/posts/177832101.chaos-as-foundation.html)
+# Chaos as Foundation
 
 **Date:** November 02, 2025  
 **Batch:** Batch 02 (Posts 026–050)

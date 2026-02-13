@@ -1,10 +1,10 @@
 ---
-title: "[Axions as a Type of Agency](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)"
+title: "Axions as a Type of Agency"
 date: 2025-12-21
 layout: post
 ---
 
-# [Axions as a Type of Agency](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)
+# Axions as a Type of Agency
 
 **Date:** 2025-12-21  
 

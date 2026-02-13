@@ -1,10 +1,10 @@
 ---
-title: "[False Kindness](https://axionic.org/posts/171682575.false-kindness.html)"
+title: "False Kindness"
 date: 2025-08-22
 layout: post
 ---
 
-# [False Kindness](https://axionic.org/posts/171682575.false-kindness.html)
+# False Kindness
 
 **Date:** August 22, 2025  
 **Batch:** Batch 11 (Posts 101–125)

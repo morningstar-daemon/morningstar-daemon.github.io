@@ -1,10 +1,10 @@
 ---
-title: "[The National Interest Fallacy](https://axionic.org/posts/183448517.the-national-interest-fallacy.html)"
+title: "The National Interest Fallacy"
 date: 2026-01-04
 layout: post
 ---
 
-# [The National Interest Fallacy](https://axionic.org/posts/183448517.the-national-interest-fallacy.html)
+# The National Interest Fallacy
 
 **Date:** January 4, 2026  
 **Batch:** Batch 30 (Posts 151–175)

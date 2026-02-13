@@ -1,10 +1,10 @@
 ---
-title: "[Beyond Gender Balance](https://axionic.org/posts/167614945.beyond-gender-balance.html)"
+title: "Beyond Gender Balance"
 date: 2025-07-05
 layout: post
 ---
 
-# [Beyond Gender Balance](https://axionic.org/posts/167614945.beyond-gender-balance.html)
+# Beyond Gender Balance
 
 **Date:** July 05, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)

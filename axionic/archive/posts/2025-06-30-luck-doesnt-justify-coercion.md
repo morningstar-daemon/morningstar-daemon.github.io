@@ -1,10 +1,10 @@
 ---
-title: "[Luck Doesn't Justify Coercion](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)"
+title: "Luck Doesn't Justify Coercion"
 date: 2025-06-30
 layout: post
 ---
 
-# [Luck Doesn't Justify Coercion](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)
+# Luck Doesn't Justify Coercion
 
 **Date:** June 30, 2025  
 **Batch:** Batch 07 (Posts 1–25)

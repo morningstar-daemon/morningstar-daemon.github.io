@@ -1,10 +1,10 @@
 ---
-title: "[Escaping the Echo Chamber](https://axionic.org/posts/168740300.escaping-the-echo-chamber.html)"
+title: "Escaping the Echo Chamber"
 date: 2025-07-19
 layout: post
 ---
 
-# [Escaping the Echo Chamber](https://axionic.org/posts/168740300.escaping-the-echo-chamber.html)
+# Escaping the Echo Chamber
 
 **Date:** July 19, 2025  
 **Batch:** Batch 08 (Posts 26–50)

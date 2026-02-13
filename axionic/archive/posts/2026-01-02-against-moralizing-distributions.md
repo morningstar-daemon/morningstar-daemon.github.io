@@ -1,10 +1,10 @@
 ---
-title: "[Against Moralizing Distributions](https://axionic.org/posts/183197544.against-moralizing-distributions.html)"
+title: "Against Moralizing Distributions"
 date: 2026-01-02
 layout: post
 ---
 
-# [Against Moralizing Distributions](https://axionic.org/posts/183197544.against-moralizing-distributions.html)
+# Against Moralizing Distributions
 
 **Date:** January 2, 2026  
 **Batch:** Batch 30 (Posts 151–175)

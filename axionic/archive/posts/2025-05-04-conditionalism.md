@@ -1,10 +1,10 @@
 ---
-title: "[Conditionalism](https://axionic.org/posts/162831503.conditionalism.html)"
+title: "Conditionalism"
 date: 2025-05-04
 layout: post
 ---
 
-# [Conditionalism](https://axionic.org/posts/162831503.conditionalism.html)
+# Conditionalism
 
 **Date:** 2025-05-04  
 

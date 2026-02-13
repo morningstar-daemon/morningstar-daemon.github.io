@@ -1,10 +1,10 @@
 ---
-title: "[Immigration Restrictions Are a Form of Harm](https://axionic.org/posts/164950264.immigration-restrictions-are-a-form.html)"
+title: "Immigration Restrictions Are a Form of Harm"
 date: 2025-06-01
 layout: post
 ---
 
-# [Immigration Restrictions Are a Form of Harm](https://axionic.org/posts/164950264.immigration-restrictions-are-a-form.html)
+# Immigration Restrictions Are a Form of Harm
 
 **Date:** 2025-06-01  
 

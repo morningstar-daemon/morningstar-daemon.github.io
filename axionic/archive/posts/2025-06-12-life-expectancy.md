@@ -1,10 +1,10 @@
 ---
-title: "[Life Expectancy](https://axionic.org/posts/165785917.life-expectancy.html)"
+title: "Life Expectancy"
 date: 2025-06-12
 layout: post
 ---
 
-# [Life Expectancy](https://axionic.org/posts/165785917.life-expectancy.html)
+# Life Expectancy
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

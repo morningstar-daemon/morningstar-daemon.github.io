@@ -1,10 +1,10 @@
 ---
-title: "[Agency Conservation](https://axionic.org/posts/180046178.agency-conservation.html)"
+title: "Agency Conservation"
 date: 2025-11-26
 layout: post
 ---
 
-# [Agency Conservation](https://axionic.org/posts/180046178.agency-conservation.html)
+# Agency Conservation
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)

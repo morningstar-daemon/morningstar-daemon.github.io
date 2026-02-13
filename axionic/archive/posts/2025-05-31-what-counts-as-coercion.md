@@ -1,10 +1,10 @@
 ---
-title: "[What Counts As Coercion](https://axionic.org/posts/164902314.what-counts-as-coercion.html)"
+title: "What Counts As Coercion"
 date: 2025-05-31
 layout: post
 ---
 
-# [What Counts As Coercion](https://axionic.org/posts/164902314.what-counts-as-coercion.html)
+# What Counts As Coercion
 
 **Date:** 2025-05-31  
 

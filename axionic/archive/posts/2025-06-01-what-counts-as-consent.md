@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Consent](https://axionic.org/posts/164911762.what-counts-as-consent.html)"
+title: "What Counts as Consent"
 date: 2025-06-01
 layout: post
 ---
 
-# [What Counts as Consent](https://axionic.org/posts/164911762.what-counts-as-consent.html)
+# What Counts as Consent
 
 **Date:** 2025-06-01  
 

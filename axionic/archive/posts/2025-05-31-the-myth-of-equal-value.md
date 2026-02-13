@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Equal Value](https://axionic.org/posts/164900237.the-myth-of-equal-value.html)"
+title: "The Myth of Equal Value"
 date: 2025-05-31
 layout: post
 ---
 
-# [The Myth of Equal Value](https://axionic.org/posts/164900237.the-myth-of-equal-value.html)
+# The Myth of Equal Value
 
 **Date:** 2025-05-31  
 

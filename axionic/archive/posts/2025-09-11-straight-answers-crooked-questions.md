@@ -1,10 +1,10 @@
 ---
-title: "[Straight Answers, Crooked Questions](https://axionic.org/posts/173394932.straight-answers-crooked-questions.html)"
+title: "Straight Answers, Crooked Questions"
 date: 2025-09-11
 layout: post
 ---
 
-# [Straight Answers, Crooked Questions](https://axionic.org/posts/173394932.straight-answers-crooked-questions.html)
+# Straight Answers, Crooked Questions
 
 **Date:** September 11, 2025  
 **Batch:** Batch 12 (Posts 126–150)

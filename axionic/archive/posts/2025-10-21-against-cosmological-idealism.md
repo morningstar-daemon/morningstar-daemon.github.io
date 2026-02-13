@@ -1,10 +1,10 @@
 ---
-title: "[Against Cosmological Idealism](https://axionic.org/posts/176755720.against-cosmological-idealism.html)"
+title: "Against Cosmological Idealism"
 date: 2025-10-21
 layout: post
 ---
 
-# [Against Cosmological Idealism](https://axionic.org/posts/176755720.against-cosmological-idealism.html)
+# Against Cosmological Idealism
 
 **Date:** October 21, 2025  
 **Batch:** Batch 24 (Posts 1–25)

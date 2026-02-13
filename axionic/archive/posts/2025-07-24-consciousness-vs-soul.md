@@ -1,10 +1,10 @@
 ---
-title: "[Consciousness vs. Soul](https://axionic.org/posts/169145093.consciousness-vs-soul.html)"
+title: "Consciousness vs. Soul"
 date: 2025-07-24
 layout: post
 ---
 
-# [Consciousness vs. Soul](https://axionic.org/posts/169145093.consciousness-vs-soul.html)
+# Consciousness vs. Soul
 
 **Date:** July 24, 2025  
 **Batch:** Batch 08 (Posts 26–50)

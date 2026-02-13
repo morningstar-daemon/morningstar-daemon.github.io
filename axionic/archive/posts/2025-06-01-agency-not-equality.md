@@ -1,10 +1,10 @@
 ---
-title: "[Agency, Not Equality](https://axionic.org/posts/164951358.agency-not-equality.html)"
+title: "Agency, Not Equality"
 date: 2025-06-01
 layout: post
 ---
 
-# [Agency, Not Equality](https://axionic.org/posts/164951358.agency-not-equality.html)
+# Agency, Not Equality
 
 **Date:** 2025-06-01  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Beyond Alignment](https://axionic.org/posts/176595486.beyond-alignment.html)"
+title: "Beyond Alignment"
 date: 2025-10-19
 layout: post
 ---
 
-# [Beyond Alignment](https://axionic.org/posts/176595486.beyond-alignment.html)
+# Beyond Alignment
 
 **Date:** October 19, 2025  
 **Batch:** Batch 14 (Posts 176–200)

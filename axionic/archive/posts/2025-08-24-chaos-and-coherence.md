@@ -1,10 +1,10 @@
 ---
-title: "[Chaos and Coherence](https://axionic.org/posts/171841572.chaos-and-coherence.html)"
+title: "Chaos and Coherence"
 date: 2025-08-24
 layout: post
 ---
 
-# [Chaos and Coherence](https://axionic.org/posts/171841572.chaos-and-coherence.html)
+# Chaos and Coherence
 
 **Date:** August 24, 2025  
 **Batch:** Batch 11 (Posts 101–125)

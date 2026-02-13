@@ -1,10 +1,10 @@
 ---
-title: "[From Sovereignty to Slavery](https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html)"
+title: "From Sovereignty to Slavery"
 date: 2025-05-28
 layout: post
 ---
 
-# [From Sovereignty to Slavery](https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html)
+# From Sovereignty to Slavery
 
 **Date:** 2025-05-28  
 

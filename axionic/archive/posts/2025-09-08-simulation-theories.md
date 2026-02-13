@@ -1,10 +1,10 @@
 ---
-title: "[Simulation Theories](https://axionic.org/posts/173133945.simulation-theories.html)"
+title: "Simulation Theories"
 date: 2025-09-08
 layout: post
 ---
 
-# [Simulation Theories](https://axionic.org/posts/173133945.simulation-theories.html)
+# Simulation Theories
 
 **Date:** September 8, 2025  
 **Batch:** Batch 12 (Posts 126–150)

@@ -1,10 +1,10 @@
 ---
-title: "[In Defense of Centrism](https://axionic.org/posts/184137688.in-defense-of-centrism.html)"
+title: "In Defense of Centrism"
 date: 2026-01-10
 layout: post
 ---
 
-# [In Defense of Centrism](https://axionic.org/posts/184137688.in-defense-of-centrism.html)
+# In Defense of Centrism
 
 **Date:** January 10, 2026  
 **Batch:** Batch 31 (Posts 176–195)

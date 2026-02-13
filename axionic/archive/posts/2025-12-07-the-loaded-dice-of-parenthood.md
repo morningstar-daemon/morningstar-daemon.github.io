@@ -1,10 +1,10 @@
 ---
-title: "[The Loaded Dice of Parenthood](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)"
+title: "The Loaded Dice of Parenthood"
 date: 2025-12-07
 layout: post
 ---
 
-# [The Loaded Dice of Parenthood](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)
+# The Loaded Dice of Parenthood
 
 **Date:** December 7, 2025  
 **Batch:** Batch 27 (Posts 076–100)

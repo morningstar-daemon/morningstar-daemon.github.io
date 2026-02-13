@@ -1,10 +1,10 @@
 ---
-title: "[Artificial Intimacy](https://axionic.org/posts/165904190.artificial-intimacy.html)"
+title: "Artificial Intimacy"
 date: 2025-06-13
 layout: post
 ---
 
-# [Artificial Intimacy](https://axionic.org/posts/165904190.artificial-intimacy.html)
+# Artificial Intimacy
 
 **Date:** June 13, 2025  
 **Batch:** Batch 05 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Thinking With AI](https://axionic.org/posts/168904359.thinking-with-ai.html)"
+title: "Thinking With AI"
 date: 2025-07-21
 layout: post
 ---
 
-# [Thinking With AI](https://axionic.org/posts/168904359.thinking-with-ai.html)
+# Thinking With AI
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)

@@ -1,10 +1,10 @@
 ---
-title: "[Against Antinatalism](https://axionic.org/posts/171515563.against-antinatalism.html)"
+title: "Against Antinatalism"
 date: 2025-08-20
 layout: post
 ---
 
-# [Against Antinatalism](https://axionic.org/posts/171515563.against-antinatalism.html)
+# Against Antinatalism
 
 **Date:** August 20, 2025  
 **Batch:** Batch 10 (Posts 76–100)

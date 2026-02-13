@@ -1,10 +1,10 @@
 ---
-title: "[Ungovernable by Design](https://axionic.org/posts/178199698.ungovernable-by-design.html)"
+title: "Ungovernable by Design"
 date: 2025-11-06
 layout: post
 ---
 
-# [Ungovernable by Design](https://axionic.org/posts/178199698.ungovernable-by-design.html)
+# Ungovernable by Design
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)

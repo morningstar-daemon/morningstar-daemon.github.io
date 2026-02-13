@@ -1,10 +1,10 @@
 ---
-title: "[Against Faith](https://axionic.org/posts/177598036.against-faith.html)"
+title: "Against Faith"
 date: 2025-10-30
 layout: post
 ---
 
-# [Against Faith](https://axionic.org/posts/177598036.against-faith.html)
+# Against Faith
 
 **Date:** October 30, 2025  
 **Batch:** Batch 02 (Posts 026–050)

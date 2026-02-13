@@ -1,10 +1,10 @@
 ---
-title: "[You Are Your Choices](https://axionic.org/posts/178311820.you-are-your-choices.html)"
+title: "You Are Your Choices"
 date: 2025-11-07
 layout: post
 ---
 
-# [You Are Your Choices](https://axionic.org/posts/178311820.you-are-your-choices.html)
+# You Are Your Choices
 
 **Date:** November 07, 2025  
 **Batch:** Batch 02 (Posts 026–050)

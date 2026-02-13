@@ -1,10 +1,10 @@
 ---
-title: "[Statism Is Always Authoritarian](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)"
+title: "Statism Is Always Authoritarian"
 date: 2025-08-12
 layout: post
 ---
 
-# [Statism Is Always Authoritarian](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)
+# Statism Is Always Authoritarian
 
 **Date:** August 12, 2025  
 **Batch:** Batch 10 (Posts 76–100)

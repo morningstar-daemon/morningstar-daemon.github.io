@@ -1,10 +1,10 @@
 ---
-title: "[An AI Box Dialog](https://axionic.org/posts/182241641.an-ai-box-dialog.html)"
+title: "An AI Box Dialog"
 date: 2025-12-21
 layout: post
 ---
 
-# [An AI Box Dialog](https://axionic.org/posts/182241641.an-ai-box-dialog.html)
+# An AI Box Dialog
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)

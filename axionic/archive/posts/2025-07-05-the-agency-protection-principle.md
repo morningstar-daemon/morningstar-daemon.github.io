@@ -1,10 +1,10 @@
 ---
-title: "[The Agency Protection Principle](https://axionic.org/posts/167587968.the-agency-protection-principle.html)"
+title: "The Agency Protection Principle"
 date: 2025-07-05
 layout: post
 ---
 
-# [The Agency Protection Principle](https://axionic.org/posts/167587968.the-agency-protection-principle.html)
+# The Agency Protection Principle
 
 **Date:** July 05, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)

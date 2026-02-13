@@ -1,10 +1,10 @@
 ---
-title: "[The Metagame of Incentives](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)"
+title: "The Metagame of Incentives"
 date: 2025-11-26
 layout: post
 ---
 
-# [The Metagame of Incentives](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)
+# The Metagame of Incentives
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)

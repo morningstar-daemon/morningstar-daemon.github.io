@@ -1,10 +1,10 @@
 ---
-title: "[Interpreting Dreams](https://axionic.org/posts/170103594.interpreting-dreams.html)"
+title: "Interpreting Dreams"
 date: 2025-08-04
 layout: post
 ---
 
-# [Interpreting Dreams](https://axionic.org/posts/170103594.interpreting-dreams.html)
+# Interpreting Dreams
 
 **Date:** August 04, 2025  
 **Subtitle:** Random inputs can still yield meaningful insights  

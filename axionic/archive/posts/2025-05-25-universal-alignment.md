@@ -1,10 +1,10 @@
 ---
-title: "[Universal Alignment](https://axionic.org/posts/164437547.universal-alignment.html)"
+title: "Universal Alignment"
 date: 2025-05-25
 layout: post
 ---
 
-# [Universal Alignment](https://axionic.org/posts/164437547.universal-alignment.html)
+# Universal Alignment
 
 **Date:** 2025-05-25  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Absurdity vs. Freedom](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)"
+title: "Absurdity vs. Freedom"
 date: 2025-06-21
 layout: post
 ---
 
-# [Absurdity vs. Freedom](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)
+# Absurdity vs. Freedom
 
 **Date:** June 21, 2025  
 **Batch:** Batch 06 (Posts 138–162)

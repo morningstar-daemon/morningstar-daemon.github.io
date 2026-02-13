@@ -1,10 +1,10 @@
 ---
-title: "[Minds and Agents](https://axionic.org/posts/167297761.minds-and-agents.html)"
+title: "Minds and Agents"
 date: 2025-07-01
 layout: post
 ---
 
-# [Minds and Agents](https://axionic.org/posts/167297761.minds-and-agents.html)
+# Minds and Agents
 
 **Date:** July 1, 2025  
 **Batch:** Batch 07 (Posts 1–25)

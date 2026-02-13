@@ -1,10 +1,10 @@
 ---
-title: "[Invisible Chains](https://axionic.org/posts/169922062.invisible-chains.html)"
+title: "Invisible Chains"
 date: 2025-08-02
 layout: post
 ---
 
-# [Invisible Chains](https://axionic.org/posts/169922062.invisible-chains.html)
+# Invisible Chains
 
 **Date:** August 02, 2025  
 **Subtitle:** Analyzing the State's Ownership Over Citizens  

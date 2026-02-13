@@ -1,10 +1,10 @@
 ---
-title: "[The Gemini Protocol](https://axionic.org/posts/181073134.the-gemini-protocol.html)"
+title: "The Gemini Protocol"
 date: 2025-12-08
 layout: post
 ---
 
-# [The Gemini Protocol](https://axionic.org/posts/181073134.the-gemini-protocol.html)
+# The Gemini Protocol
 
 **Date:** 2025-12-08  
 

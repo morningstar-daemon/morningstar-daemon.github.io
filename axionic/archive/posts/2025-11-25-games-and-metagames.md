@@ -1,10 +1,10 @@
 ---
-title: "[Games and Metagames](https://axionic.org/posts/179967878.games-and-metagames.html)"
+title: "Games and Metagames"
 date: 2025-11-25
 layout: post
 ---
 
-# [Games and Metagames](https://axionic.org/posts/179967878.games-and-metagames.html)
+# Games and Metagames
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)

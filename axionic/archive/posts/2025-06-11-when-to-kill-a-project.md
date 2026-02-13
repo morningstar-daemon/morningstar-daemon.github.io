@@ -1,10 +1,10 @@
 ---
-title: "[When To Kill A Project](https://axionic.org/posts/165708751.when-to-kill-a-project.html)"
+title: "When To Kill A Project"
 date: 2025-06-11
 layout: post
 ---
 
-# [When To Kill A Project](https://axionic.org/posts/165708751.when-to-kill-a-project.html)
+# When To Kill A Project
 
 **Date:** June 11, 2025  
 **Batch:** Batch 05 (Posts 101–125)

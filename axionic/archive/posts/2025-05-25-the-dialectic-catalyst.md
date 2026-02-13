@@ -1,10 +1,10 @@
 ---
-title: "[The Dialectic Catalyst](https://axionic.org/posts/164442584.the-dialectic-catalyst.html)"
+title: "The Dialectic Catalyst"
 date: 2025-05-25
 layout: post
 ---
 
-# [The Dialectic Catalyst](https://axionic.org/posts/164442584.the-dialectic-catalyst.html)
+# The Dialectic Catalyst
 
 **Date:** 2025-05-25  
 

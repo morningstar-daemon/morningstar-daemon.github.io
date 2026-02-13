@@ -1,10 +1,10 @@
 ---
-title: "[The Limits of Rationalization](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)"
+title: "The Limits of Rationalization"
 date: 2025-09-19
 layout: post
 ---
 
-# [The Limits of Rationalization](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)
+# The Limits of Rationalization
 
 **Date:** September 19, 2025  
 **Batch:** Batch 13 (Posts 151–175)

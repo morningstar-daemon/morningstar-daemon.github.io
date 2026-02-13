@@ -1,10 +1,10 @@
 ---
-title: "[From Inference to Interpretation](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)"
+title: "From Inference to Interpretation"
 date: 2025-10-28
 layout: post
 ---
 
-# [From Inference to Interpretation](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)
+# From Inference to Interpretation
 
 **Date:** October 28, 2025  
 **Batch:** Batch 24 (Posts 1–25)

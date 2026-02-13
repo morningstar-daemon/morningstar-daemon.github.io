@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Technology](https://axionic.org/posts/176597723.what-counts-as-technology.html)"
+title: "What Counts as Technology"
 date: 2025-10-19
 layout: post
 ---
 
-# [What Counts as Technology](https://axionic.org/posts/176597723.what-counts-as-technology.html)
+# What Counts as Technology
 
 **Date:** October 19, 2025  
 **Batch:** Batch 14 (Posts 176–200)

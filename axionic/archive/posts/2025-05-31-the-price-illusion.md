@@ -1,10 +1,10 @@
 ---
-title: "[The Price Illusion](https://axionic.org/posts/164884396.the-price-illusion.html)"
+title: "The Price Illusion"
 date: 2025-05-31
 layout: post
 ---
 
-# [The Price Illusion](https://axionic.org/posts/164884396.the-price-illusion.html)
+# The Price Illusion
 
 **Date:** 2025-05-31  
 

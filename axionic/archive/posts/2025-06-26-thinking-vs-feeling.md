@@ -1,10 +1,10 @@
 ---
-title: "[Thinking vs. Feeling](https://axionic.org/posts/166902989.thinking-vs-feeling.html)"
+title: "Thinking vs. Feeling"
 date: 2025-06-26
 layout: post
 ---
 
-# [Thinking vs. Feeling](https://axionic.org/posts/166902989.thinking-vs-feeling.html)
+# Thinking vs. Feeling
 
 **Date:** June 26, 2025  
 **Batch:** Batch 07 (Posts 1–25)

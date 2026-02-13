@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Knowledge](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)"
+title: "What Counts as Knowledge"
 date: 2025-06-27
 layout: post
 ---
 
-# [What Counts as Knowledge](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)
+# What Counts as Knowledge
 
 **Date:** June 27, 2025  
 **Batch:** Batch 07 (Posts 1–25)

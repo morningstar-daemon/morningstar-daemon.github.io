@@ -1,10 +1,10 @@
 ---
-title: "[Hijacking Liberalism](https://axionic.org/posts/169312064.hijacking-liberalism.html)"
+title: "Hijacking Liberalism"
 date: 2025-07-26
 layout: post
 ---
 
-# [Hijacking Liberalism](https://axionic.org/posts/169312064.hijacking-liberalism.html)
+# Hijacking Liberalism
 
 **Date:** July 26, 2025  
 **Batch:** Batch 08 (Posts 26–50)

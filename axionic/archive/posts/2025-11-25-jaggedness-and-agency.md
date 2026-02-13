@@ -1,10 +1,10 @@
 ---
-title: "[Jaggedness and Agency](https://axionic.org/posts/179922989.jaggedness-and-agency.html)"
+title: "Jaggedness and Agency"
 date: 2025-11-25
 layout: post
 ---
 
-# [Jaggedness and Agency](https://axionic.org/posts/179922989.jaggedness-and-agency.html)
+# Jaggedness and Agency
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)

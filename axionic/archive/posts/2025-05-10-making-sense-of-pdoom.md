@@ -1,10 +1,10 @@
 ---
-title: "[Making Sense of P(doom)](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)"
+title: "Making Sense of P(doom)"
 date: 2025-05-10
 layout: post
 ---
 
-# [Making Sense of P(doom)](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)
+# Making Sense of P(doom)
 
 **Date:** 2025-05-10  
 

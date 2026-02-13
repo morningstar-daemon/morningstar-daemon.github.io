@@ -1,10 +1,10 @@
 ---
-title: "[The Quiet Capture of Psychiatry](https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html)"
+title: "The Quiet Capture of Psychiatry"
 date: 2025-08-08
 layout: post
 ---
 
-# [The Quiet Capture of Psychiatry](https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html)
+# The Quiet Capture of Psychiatry
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)

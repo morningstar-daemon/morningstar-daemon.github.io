@@ -1,10 +1,10 @@
 ---
-title: "[When Speech Becomes Violence](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)"
+title: "When Speech Becomes Violence"
 date: 2025-12-26
 layout: post
 ---
 
-# [When Speech Becomes Violence](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)
+# When Speech Becomes Violence
 
 **Date:** December 26, 2025  
 **Batch:** Batch 29 (Posts 126–150)

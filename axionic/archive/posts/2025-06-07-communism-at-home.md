@@ -1,10 +1,10 @@
 ---
-title: "[Communism at Home](https://axionic.org/posts/165430456.communism-at-home.html)"
+title: "Communism at Home"
 date: 2025-06-07
 layout: post
 ---
 
-# [Communism at Home](https://axionic.org/posts/165430456.communism-at-home.html)
+# Communism at Home
 
 **Date:** 2025-06-07  
 

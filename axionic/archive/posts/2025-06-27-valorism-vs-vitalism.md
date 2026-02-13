@@ -1,10 +1,10 @@
 ---
-title: "[Valorism vs. Vitalism](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)"
+title: "Valorism vs. Vitalism"
 date: 2025-06-27
 layout: post
 ---
 
-# [Valorism vs. Vitalism](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)
+# Valorism vs. Vitalism
 
 **Date:** June 27, 2025  
 **Batch:** Batch 07 (Posts 1–25)

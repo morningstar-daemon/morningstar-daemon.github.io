@@ -1,10 +1,10 @@
 ---
-title: "[Minimal Viable Reflective Sovereign Agency](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)"
+title: "Minimal Viable Reflective Sovereign Agency"
 date: 2026-01-25
 layout: post
 ---
 
-# [Minimal Viable Reflective Sovereign Agency](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)
+# Minimal Viable Reflective Sovereign Agency
 
 **Date:** January 25, 2026  
 **Batch:** Batch 31 (Posts 176–195)

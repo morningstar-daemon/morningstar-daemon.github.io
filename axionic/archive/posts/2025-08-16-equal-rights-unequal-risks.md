@@ -1,10 +1,10 @@
 ---
-title: "[Equal Rights, Unequal Risks](https://axionic.org/posts/171151963.equal-rights-unequal-risks.html)"
+title: "Equal Rights, Unequal Risks"
 date: 2025-08-16
 layout: post
 ---
 
-# [Equal Rights, Unequal Risks](https://axionic.org/posts/171151963.equal-rights-unequal-risks.html)
+# Equal Rights, Unequal Risks
 
 **Date:** August 16, 2025  
 **Batch:** Batch 10 (Posts 76–100)

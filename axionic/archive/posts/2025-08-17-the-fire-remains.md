@@ -1,10 +1,10 @@
 ---
-title: "[The Fire Remains](https://axionic.org/posts/171221751.the-fire-remains.html)"
+title: "The Fire Remains"
 date: 2025-08-17
 layout: post
 ---
 
-# [The Fire Remains](https://axionic.org/posts/171221751.the-fire-remains.html)
+# The Fire Remains
 
 **Date:** August 17, 2025  
 **Batch:** Batch 10 (Posts 76–100)

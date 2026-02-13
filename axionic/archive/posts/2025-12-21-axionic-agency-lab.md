@@ -1,10 +1,10 @@
 ---
-title: "[Axionic Agency Lab](https://axionic.org/posts/182271053.agency-coherence-lab.html)"
+title: "Axionic Agency Lab"
 date: 2025-12-21
 layout: post
 ---
 
-# [Axionic Agency Lab](https://axionic.org/posts/182271053.agency-coherence-lab.html)
+# Axionic Agency Lab
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)

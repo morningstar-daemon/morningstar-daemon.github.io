@@ -1,10 +1,10 @@
 ---
-title: "[Coming soon](https://axionic.org/posts/74914738.coming-soon.html)"
+title: "Coming soon"
 date: 2022-09-25
 layout: post
 ---
 
-# [Coming soon](https://axionic.org/posts/74914738.coming-soon.html)
+# Coming soon
 
 **Date:** 2022-09-25  
 **Status:** Placeholder/announcement post

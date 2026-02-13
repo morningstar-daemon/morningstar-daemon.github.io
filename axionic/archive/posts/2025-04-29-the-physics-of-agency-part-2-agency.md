@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency](https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html)"
+title: "The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency"
 date: 2025-04-29
 layout: post
 ---
 
-# [The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency](https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html)
+# The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency
 
 **Date:** 2025-04-29  
 **Series:** Physics of Agency (Part 2 of 10)

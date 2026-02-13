@@ -1,10 +1,10 @@
 ---
-title: "[The Tariff Illusion](https://axionic.org/posts/170447759.the-tariff-illusion.html)"
+title: "The Tariff Illusion"
 date: 2025-08-08
 layout: post
 ---
 
-# [The Tariff Illusion](https://axionic.org/posts/170447759.the-tariff-illusion.html)
+# The Tariff Illusion
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)

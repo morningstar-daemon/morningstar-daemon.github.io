@@ -1,10 +1,10 @@
 ---
-title: "[Against Positive Rights](https://axionic.org/posts/165967029.against-positive-rights.html)"
+title: "Against Positive Rights"
 date: 2025-06-14
 layout: post
 ---
 
-# [Against Positive Rights](https://axionic.org/posts/165967029.against-positive-rights.html)
+# Against Positive Rights
 
 **Date:** June 14, 2025  
 **Batch:** Batch 05 (Posts 101–125)

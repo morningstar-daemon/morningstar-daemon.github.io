@@ -1,10 +1,10 @@
 ---
-title: "[Understanding Culture](https://axionic.org/posts/166080146.understanding-culture.html)"
+title: "Understanding Culture"
 date: 2025-06-16
 layout: post
 ---
 
-# [Understanding Culture](https://axionic.org/posts/166080146.understanding-culture.html)
+# Understanding Culture
 
 **Date:** June 16, 2025  
 **Batch:** Batch 05 (Posts 113–137)

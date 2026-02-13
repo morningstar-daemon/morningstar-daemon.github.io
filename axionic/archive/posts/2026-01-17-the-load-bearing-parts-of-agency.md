@@ -1,10 +1,10 @@
 ---
-title: "[The Load-Bearing Parts of Agency](https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html)"
+title: "The Load-Bearing Parts of Agency"
 date: 2026-01-17
 layout: post
 ---
 
-# [The Load-Bearing Parts of Agency](https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html)
+# The Load-Bearing Parts of Agency
 
 **Date:** January 17, 2026  
 **Batch:** Batch 31 (Posts 176–195)

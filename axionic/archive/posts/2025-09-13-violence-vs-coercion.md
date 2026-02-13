@@ -1,10 +1,10 @@
 ---
-title: "[Violence vs. Coercion](https://axionic.org/posts/173538253.violence-vs-coercion.html)"
+title: "Violence vs. Coercion"
 date: 2025-09-13
 layout: post
 ---
 
-# [Violence vs. Coercion](https://axionic.org/posts/173538253.violence-vs-coercion.html)
+# Violence vs. Coercion
 
 **Date:** September 13, 2025  
 **Batch:** Batch 13 (Posts 151–175)

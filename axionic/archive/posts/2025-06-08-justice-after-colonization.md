@@ -1,10 +1,10 @@
 ---
-title: "[Justice After Colonization](https://axionic.org/posts/165499243.justice-after-colonization.html)"
+title: "Justice After Colonization"
 date: 2025-06-08
 layout: post
 ---
 
-# [Justice After Colonization](https://axionic.org/posts/165499243.justice-after-colonization.html)
+# Justice After Colonization
 
 **Date:** 2025-06-08  
 

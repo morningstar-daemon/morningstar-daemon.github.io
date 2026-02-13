@@ -1,10 +1,10 @@
 ---
-title: "[Quantum Chess](https://axionic.org/posts/166481044.quantum-chess.html)"
+title: "Quantum Chess"
 date: 2025-06-21
 layout: post
 ---
 
-# [Quantum Chess](https://axionic.org/posts/166481044.quantum-chess.html)
+# Quantum Chess
 
 **Date:** June 21, 2025  
 **Batch:** Batch 06 (Posts 138–162)

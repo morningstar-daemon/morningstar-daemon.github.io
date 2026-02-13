@@ -1,10 +1,10 @@
 ---
-title: "[Echoes of Freud](https://axionic.org/posts/182785676.echoes-of-freud.html)"
+title: "Echoes of Freud"
 date: 2025-12-28
 layout: post
 ---
 
-# [Echoes of Freud](https://axionic.org/posts/182785676.echoes-of-freud.html)
+# Echoes of Freud
 
 **Date:** December 28, 2025  
 **Batch:** Batch 30 (Posts 151–175)

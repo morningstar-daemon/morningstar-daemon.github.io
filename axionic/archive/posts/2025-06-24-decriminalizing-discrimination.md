@@ -1,10 +1,10 @@
 ---
-title: "[Decriminalizing Discrimination](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)"
+title: "Decriminalizing Discrimination"
 date: 2025-06-24
 layout: post
 ---
 
-# [Decriminalizing Discrimination](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)
+# Decriminalizing Discrimination
 
 **Date:** June 24, 2025  
 **Batch:** Batch 07 (Posts 1–25)

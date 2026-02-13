@@ -1,10 +1,10 @@
 ---
-title: "[Everything Has a Price](https://axionic.org/posts/167735185.everything-has-a-price.html)"
+title: "Everything Has a Price"
 date: 2025-07-07
 layout: post
 ---
 
-# [Everything Has a Price](https://axionic.org/posts/167735185.everything-has-a-price.html)
+# Everything Has a Price
 
 **Date:** July 7, 2025  
 **Batch:** Batch 19 (Posts 167–191)

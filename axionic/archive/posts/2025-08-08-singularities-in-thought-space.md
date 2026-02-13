@@ -1,10 +1,10 @@
 ---
-title: "[Singularities in Thought Space](https://axionic.org/posts/170492163.singularities-in-thought-space.html)"
+title: "Singularities in Thought Space"
 date: 2025-08-08
 layout: post
 ---
 
-# [Singularities in Thought Space](https://axionic.org/posts/170492163.singularities-in-thought-space.html)
+# Singularities in Thought Space
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)

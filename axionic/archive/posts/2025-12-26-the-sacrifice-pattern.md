@@ -1,10 +1,10 @@
 ---
-title: "[The Sacrifice Pattern](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)"
+title: "The Sacrifice Pattern"
 date: 2025-12-26
 layout: post
 ---
 
-# [The Sacrifice Pattern](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)
+# The Sacrifice Pattern
 
 **Date:** December 26, 2025  
 **Batch:** Batch 29 (Posts 126–150)

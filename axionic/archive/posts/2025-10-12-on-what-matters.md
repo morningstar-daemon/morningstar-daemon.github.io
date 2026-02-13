@@ -1,10 +1,10 @@
 ---
-title: "[On What Matters](https://axionic.org/posts/175970360.on-what-matters.html)"
+title: "On What Matters"
 date: 2025-10-12
 layout: post
 ---
 
-# [On What Matters](https://axionic.org/posts/175970360.on-what-matters.html)
+# On What Matters
 
 **Date:** October 12, 2025  
 **Batch:** Batch 14 (Posts 176–200)

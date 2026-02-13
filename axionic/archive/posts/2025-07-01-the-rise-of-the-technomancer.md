@@ -1,10 +1,10 @@
 ---
-title: "[The Rise of the Technomancer](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)"
+title: "The Rise of the Technomancer"
 date: 2025-07-01
 layout: post
 ---
 
-# [The Rise of the Technomancer](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)
+# The Rise of the Technomancer
 
 **Date:** July 1, 2025  
 **Batch:** Batch 07 (Posts 1–25)

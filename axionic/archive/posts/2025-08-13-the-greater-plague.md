@@ -1,10 +1,10 @@
 ---
-title: "[The Greater Plague](https://axionic.org/posts/170913856.the-greater-plague.html)"
+title: "The Greater Plague"
 date: 2025-08-13
 layout: post
 ---
 
-# [The Greater Plague](https://axionic.org/posts/170913856.the-greater-plague.html)
+# The Greater Plague
 
 **Date:** August 13, 2025  
 **Batch:** Batch 10 (Posts 76–100)

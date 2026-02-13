@@ -1,10 +1,10 @@
 ---
-title: "[The Minimal Complete Dictionary](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)"
+title: "The Minimal Complete Dictionary"
 date: 2025-07-03
 layout: post
 ---
 
-# [The Minimal Complete Dictionary](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)
+# The Minimal Complete Dictionary
 
 **Date:** July 3, 2025  
 **Batch:** Batch 07 (Posts 1–25)

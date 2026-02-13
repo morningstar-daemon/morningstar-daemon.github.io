@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Underprovision](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)"
+title: "The Myth of Underprovision"
 date: 2025-08-31
 layout: post
 ---
 
-# [The Myth of Underprovision](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)
+# The Myth of Underprovision
 
 **Date:** August 31, 2025  
 **Batch:** Batch 12 (Posts 126–150)

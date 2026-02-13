@@ -1,10 +1,10 @@
 ---
-title: "[The Vector Fallacy](https://axionic.org/posts/168986621.the-vector-fallacy.html)"
+title: "The Vector Fallacy"
 date: 2025-07-22
 layout: post
 ---
 
-# [The Vector Fallacy](https://axionic.org/posts/168986621.the-vector-fallacy.html)
+# The Vector Fallacy
 
 **Date:** July 22, 2025  
 **Batch:** Batch 08 (Posts 26–50)

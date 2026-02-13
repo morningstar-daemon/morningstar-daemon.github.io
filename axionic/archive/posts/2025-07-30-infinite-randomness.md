@@ -1,10 +1,10 @@
 ---
-title: "[Infinite Randomness](https://axionic.org/posts/169620752.infinite-randomness.html)"
+title: "Infinite Randomness"
 date: 2025-07-30
 layout: post
 ---
 
-# [Infinite Randomness](https://axionic.org/posts/169620752.infinite-randomness.html)
+# Infinite Randomness
 
 **Date:** July 30, 2025  
 **Subtitle:** Beyond Boltzmann Brains and the Simulation Hypothesis  

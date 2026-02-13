@@ -1,10 +1,10 @@
 ---
-title: "[The Axionic Alignment Sequence](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)"
+title: "The Axionic Alignment Sequence"
 date: 2025-12-19
 layout: post
 ---
 
-# [The Axionic Alignment Sequence](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)
+# The Axionic Alignment Sequence
 
 **Date:** 2025-12-19  
 **Series:** Axionic Agency Sequence (Announcement/Index)

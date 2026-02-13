@@ -1,10 +1,10 @@
 ---
-title: "[Authority Without Delegation](https://axionic.org/posts/183068808.authority-without-delegation.html)"
+title: "Authority Without Delegation"
 date: 2025-12-31
 layout: post
 ---
 
-# [Authority Without Delegation](https://axionic.org/posts/183068808.authority-without-delegation.html)
+# Authority Without Delegation
 
 **Date:** December 31, 2025  
 **Batch:** Batch 30 (Posts 151–175)

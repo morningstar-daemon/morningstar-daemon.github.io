@@ -1,10 +1,10 @@
 ---
-title: "[Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html)"
+title: "Control Requires Models"
 date: 2025-11-16
 layout: post
 ---
 
-# [Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html)
+# Control Requires Models
 
 **Date:** November 16, 2025  
 **Series:** Epistemology / Control Theory  

@@ -1,10 +1,10 @@
 ---
-title: "[The Ethics of Affluence](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)"
+title: "The Ethics of Affluence"
 date: 2025-09-27
 layout: post
 ---
 
-# [The Ethics of Affluence](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)
+# The Ethics of Affluence
 
 **Date:** September 27, 2025  
 **Batch:** Batch 13 (Posts 151–175)

@@ -1,10 +1,10 @@
 ---
-title: "[Agency Under Pressure](https://axionic.org/posts/183363135.agency-under-pressure.html)"
+title: "Agency Under Pressure"
 date: 2026-01-03
 layout: post
 ---
 
-# [Agency Under Pressure](https://axionic.org/posts/183363135.agency-under-pressure.html)
+# Agency Under Pressure
 
 **Date:** January 3, 2026  
 **Batch:** Batch 30 (Posts 151–175)

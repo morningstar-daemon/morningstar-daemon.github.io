@@ -1,10 +1,10 @@
 ---
-title: "[The Fall of the Ivory Tower](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)"
+title: "The Fall of the Ivory Tower"
 date: 2025-08-19
 layout: post
 ---
 
-# [The Fall of the Ivory Tower](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)
+# The Fall of the Ivory Tower
 
 **Date:** August 19, 2025  
 **Batch:** Batch 10 (Posts 76–100)

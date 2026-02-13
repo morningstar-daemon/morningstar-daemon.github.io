@@ -1,10 +1,10 @@
 ---
-title: "[The Case for Structural Alignment](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)"
+title: "The Case for Structural Alignment"
 date: 2025-12-19
 layout: post
 ---
 
-# [The Case for Structural Alignment](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)
+# The Case for Structural Alignment
 
 **Date:** December 19, 2025  
 **Batch:** Batch 29 (Posts 126–150)

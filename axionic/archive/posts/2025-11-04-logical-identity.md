@@ -1,10 +1,10 @@
 ---
-title: "[Logical Identity](https://axionic.org/posts/178033688.logical-identity.html)"
+title: "Logical Identity"
 date: 2025-11-04
 layout: post
 ---
 
-# [Logical Identity](https://axionic.org/posts/178033688.logical-identity.html)
+# Logical Identity
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)

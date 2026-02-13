@@ -1,10 +1,10 @@
 ---
-title: "[Quantum Free Will](https://axionic.org/posts/175664749.quantum-free-will.html)"
+title: "Quantum Free Will"
 date: 2025-10-08
 layout: post
 ---
 
-# [Quantum Free Will](https://axionic.org/posts/175664749.quantum-free-will.html)
+# Quantum Free Will
 
 **Date:** October 8, 2025  
 **Batch:** Batch 14 (Posts 176–200)

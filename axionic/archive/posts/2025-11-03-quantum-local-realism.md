@@ -1,10 +1,10 @@
 ---
-title: "[Quantum Local Realism](https://axionic.org/posts/177913654.quantum-local-realism.html)"
+title: "Quantum Local Realism"
 date: 2025-11-03
 layout: post
 ---
 
-# [Quantum Local Realism](https://axionic.org/posts/177913654.quantum-local-realism.html)
+# Quantum Local Realism
 
 **Date:** November 03, 2025  
 **Batch:** Batch 02 (Posts 026–050)

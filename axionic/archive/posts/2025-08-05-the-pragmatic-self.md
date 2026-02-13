@@ -1,10 +1,10 @@
 ---
-title: "[The Pragmatic Self](https://axionic.org/posts/170205491.the-pragmatic-self.html)"
+title: "The Pragmatic Self"
 date: 2025-08-05
 layout: post
 ---
 
-# [The Pragmatic Self](https://axionic.org/posts/170205491.the-pragmatic-self.html)
+# The Pragmatic Self
 
 **Date:** August 5, 2025  
 **Batch:** Batch 16 (New remaining list, posts 2-26)

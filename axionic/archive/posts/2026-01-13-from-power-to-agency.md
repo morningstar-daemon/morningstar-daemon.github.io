@@ -1,10 +1,10 @@
 ---
-title: "[From Power to Agency](https://axionic.org/posts/184458876.from-power-to-agency.html)"
+title: "From Power to Agency"
 date: 2026-01-13
 layout: post
 ---
 
-# [From Power to Agency](https://axionic.org/posts/184458876.from-power-to-agency.html)
+# From Power to Agency
 
 **Date:** January 13, 2026  
 **Batch:** Batch 31 (Posts 176–195)

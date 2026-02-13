@@ -1,10 +1,10 @@
 ---
-title: "[The Three Thermodynamic Laws of Agency](https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html)"
+title: "The Three Thermodynamic Laws of Agency"
 date: 2025-05-11
 layout: post
 ---
 
-# [The Three Thermodynamic Laws of Agency](https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html)
+# The Three Thermodynamic Laws of Agency
 
 **Date:** 2025-05-11  
 

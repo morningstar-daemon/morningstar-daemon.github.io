@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy](https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html)"
+title: "The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy"
 date: 2025-04-30
 layout: post
 ---
 
-# [The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy](https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html)
+# The Physics of Agency, Part 4: The Law of Control Work — Agency Costs Energy
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 4 of 10)

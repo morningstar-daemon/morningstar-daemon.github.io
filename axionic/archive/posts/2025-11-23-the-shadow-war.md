@@ -1,10 +1,10 @@
 ---
-title: "[The Shadow War](https://axionic.org/posts/179726756.the-shadow-war.html)"
+title: "The Shadow War"
 date: 2025-11-23
 layout: post
 ---
 
-# [The Shadow War](https://axionic.org/posts/179726756.the-shadow-war.html)
+# The Shadow War
 
 **Date:** November 23, 2025  
 **Batch:** Batch 27 (Posts 076–100)

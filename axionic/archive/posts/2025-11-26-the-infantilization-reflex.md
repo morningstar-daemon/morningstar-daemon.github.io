@@ -1,10 +1,10 @@
 ---
-title: "[The Infantilization Reflex](https://axionic.org/posts/180036525.the-infantilization-reflex.html)"
+title: "The Infantilization Reflex"
 date: 2025-11-26
 layout: post
 ---
 
-# [The Infantilization Reflex](https://axionic.org/posts/180036525.the-infantilization-reflex.html)
+# The Infantilization Reflex
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)

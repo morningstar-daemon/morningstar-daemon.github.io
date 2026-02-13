@@ -1,10 +1,10 @@
 ---
-title: "[In Defense of IQ](https://axionic.org/posts/184234856.in-defense-of-iq.html)"
+title: "In Defense of IQ"
 date: 2026-01-11
 layout: post
 ---
 
-# [In Defense of IQ](https://axionic.org/posts/184234856.in-defense-of-iq.html)
+# In Defense of IQ
 
 **Date:** January 11, 2026  
 **Batch:** Batch 31 (Posts 176–195)

@@ -1,10 +1,10 @@
 ---
-title: "[Near Future Optimism](https://axionic.org/posts/165786637.near-future-optimism.html)"
+title: "Near Future Optimism"
 date: 2025-06-12
 layout: post
 ---
 
-# [Near Future Optimism](https://axionic.org/posts/165786637.near-future-optimism.html)
+# Near Future Optimism
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

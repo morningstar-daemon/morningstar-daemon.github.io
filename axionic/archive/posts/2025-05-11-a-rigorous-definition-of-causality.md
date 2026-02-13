@@ -1,10 +1,10 @@
 ---
-title: "[A Rigorous Definition of Causality](https://axionic.org/posts/163348907.a-rigorous-definition-of-causality.html)"
+title: "A Rigorous Definition of Causality"
 date: 2025-05-11
 layout: post
 ---
 
-# [A Rigorous Definition of Causality](https://axionic.org/posts/163348907.a-rigorous-definition-of-causality.html)
+# A Rigorous Definition of Causality
 
 **Date:** 2025-05-11  
 

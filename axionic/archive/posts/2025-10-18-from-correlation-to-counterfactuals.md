@@ -1,10 +1,10 @@
 ---
-title: "[From Correlation to Counterfactuals](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)"
+title: "From Correlation to Counterfactuals"
 date: 2025-10-18
 layout: post
 ---
 
-# [From Correlation to Counterfactuals](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)
+# From Correlation to Counterfactuals
 
 **Date:** October 18, 2025  
 **Batch:** Batch 14 (Posts 176–200)

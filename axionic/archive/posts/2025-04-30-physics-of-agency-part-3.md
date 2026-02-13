@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 3: The Kybit — A New Unit of Control](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)"
+title: "The Physics of Agency, Part 3: The Kybit — A New Unit of Control"
 date: 2025-04-30
 layout: post
 ---
 
-# [The Physics of Agency, Part 3: The Kybit — A New Unit of Control](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)
+# The Physics of Agency, Part 3: The Kybit — A New Unit of Control
 
 **Date:** April 30, 2025  
 **Batch:** Batch 01 (Posts 001–020)

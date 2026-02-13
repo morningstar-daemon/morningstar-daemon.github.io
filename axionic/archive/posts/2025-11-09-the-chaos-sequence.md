@@ -1,10 +1,10 @@
 ---
-title: "[The Chaos Sequence](https://axionic.org/posts/178432176.the-chaos-sequence.html)"
+title: "The Chaos Sequence"
 date: 2025-11-09
 layout: post
 ---
 
-# [The Chaos Sequence](https://axionic.org/posts/178432176.the-chaos-sequence.html)
+# The Chaos Sequence
 
 **Date:** November 09, 2025  
 **Type:** Sequence Navigation  

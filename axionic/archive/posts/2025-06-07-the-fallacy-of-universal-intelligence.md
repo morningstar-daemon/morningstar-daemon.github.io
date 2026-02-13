@@ -1,10 +1,10 @@
 ---
-title: "[The Fallacy of Universal Intelligence](https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html)"
+title: "The Fallacy of Universal Intelligence"
 date: 2025-06-07
 layout: post
 ---
 
-# [The Fallacy of Universal Intelligence](https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html)
+# The Fallacy of Universal Intelligence
 
 **Date:** 2025-06-07  
 

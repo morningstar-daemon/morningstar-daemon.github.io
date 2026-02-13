@@ -1,10 +1,10 @@
 ---
-title: "[The Three Levels of Truth](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)"
+title: "The Three Levels of Truth"
 date: 2025-06-13
 layout: post
 ---
 
-# [The Three Levels of Truth](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)
+# The Three Levels of Truth
 
 **Date:** June 13, 2025  
 **Batch:** Batch 05 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Extortion-Funded Organizations](https://axionic.org/posts/171905629.extortion-funded-organizations.html)"
+title: "Extortion-Funded Organizations"
 date: 2025-08-25
 layout: post
 ---
 
-# [Extortion-Funded Organizations](https://axionic.org/posts/171905629.extortion-funded-organizations.html)
+# Extortion-Funded Organizations
 
 **Date:** August 25, 2025  
 **Batch:** Batch 11 (Posts 101–125)

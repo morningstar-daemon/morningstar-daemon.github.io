@@ -1,10 +1,10 @@
 ---
-title: "[The Adolescence of Technology](https://axionic.org/posts/185907078.the-adolescence-of-technology.html)"
+title: "The Adolescence of Technology"
 date: 2026-01-27
 layout: post
 ---
 
-# [The Adolescence of Technology](https://axionic.org/posts/185907078.the-adolescence-of-technology.html)
+# The Adolescence of Technology
 
 **Date:** January 27, 2026  
 **Batch:** Batch 31 (Posts 176–195)

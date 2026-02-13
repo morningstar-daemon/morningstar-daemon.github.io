@@ -1,10 +1,10 @@
 ---
-title: "[Secular Sacredness](https://axionic.org/posts/179826744.secular-sacredness.html)"
+title: "Secular Sacredness"
 date: 2025-11-24
 layout: post
 ---
 
-# [Secular Sacredness](https://axionic.org/posts/179826744.secular-sacredness.html)
+# Secular Sacredness
 
 **Date:** November 24, 2025  
 **Batch:** Batch 27 (Posts 076–100)

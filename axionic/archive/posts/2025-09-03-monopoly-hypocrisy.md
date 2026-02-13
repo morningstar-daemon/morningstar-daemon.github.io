@@ -1,10 +1,10 @@
 ---
-title: "[Monopoly Hypocrisy](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)"
+title: "Monopoly Hypocrisy"
 date: 2025-09-03
 layout: post
 ---
 
-# [Monopoly Hypocrisy](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)
+# Monopoly Hypocrisy
 
 **Date:** September 3, 2025  
 **Batch:** Batch 12 (Posts 126–150)

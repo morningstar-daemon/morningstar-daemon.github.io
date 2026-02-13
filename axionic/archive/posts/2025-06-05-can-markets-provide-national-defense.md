@@ -1,10 +1,10 @@
 ---
-title: "[Can Markets Provide National Defense?](https://axionic.org/posts/165271623.can-markets-provide-national-defense.html)"
+title: "Can Markets Provide National Defense?"
 date: 2025-06-05
 layout: post
 ---
 
-# [Can Markets Provide National Defense?](https://axionic.org/posts/165271623.can-markets-provide-national-defense.html)
+# Can Markets Provide National Defense?
 
 **Date:** 2025-06-05  
 

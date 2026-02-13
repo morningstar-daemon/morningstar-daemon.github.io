@@ -1,10 +1,10 @@
 ---
-title: "[The Sysop and the Cassandra](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)"
+title: "The Sysop and the Cassandra"
 date: 2025-09-12
 layout: post
 ---
 
-# [The Sysop and the Cassandra](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)
+# The Sysop and the Cassandra
 
 **Date:** September 12, 2025  
 **Batch:** Batch 12 (Posts 126–150)

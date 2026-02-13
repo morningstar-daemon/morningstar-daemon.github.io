@@ -1,10 +1,10 @@
 ---
-title: "[Critical Mass](https://axionic.org/posts/172927102.critical-mass.html)"
+title: "Critical Mass"
 date: 2025-09-06
 layout: post
 ---
 
-# [Critical Mass](https://axionic.org/posts/172927102.critical-mass.html)
+# Critical Mass
 
 **Date:** September 6, 2025  
 **Batch:** Batch 12 (Posts 126–150)

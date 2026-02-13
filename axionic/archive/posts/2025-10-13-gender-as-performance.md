@@ -1,10 +1,10 @@
 ---
-title: "[Gender As Performance](https://axionic.org/posts/176036886.gender-as-performance.html)"
+title: "Gender As Performance"
 date: 2025-10-13
 layout: post
 ---
 
-# [Gender As Performance](https://axionic.org/posts/176036886.gender-as-performance.html)
+# Gender As Performance
 
 **Date:** October 13, 2025  
 **Batch:** Batch 14 (Posts 176–200)

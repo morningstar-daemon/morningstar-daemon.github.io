@@ -1,10 +1,10 @@
 ---
-title: "[Explaining Axionic Alignment III](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)"
+title: "Explaining Axionic Alignment III"
 date: 2025-12-19
 layout: post
 ---
 
-# [Explaining Axionic Alignment III](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)
+# Explaining Axionic Alignment III
 
 **Date:** December 19, 2025  
 **Batch:** Batch 29 (Posts 126–150)

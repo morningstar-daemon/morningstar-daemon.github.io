@@ -1,10 +1,10 @@
 ---
-title: "[A Note on Verifiable Causal Agency](https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html)"
+title: "A Note on Verifiable Causal Agency"
 date: 2025-12-29
 layout: post
 ---
 
-# [A Note on Verifiable Causal Agency](https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html)
+# A Note on Verifiable Causal Agency
 
 **Date:** December 29, 2025  
 **Batch:** Batch 30 (Posts 151–175)

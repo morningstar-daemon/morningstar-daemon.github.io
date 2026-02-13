@@ -1,10 +1,10 @@
 ---
-title: "[Dialectical Evolution](https://axionic.org/posts/167117084.dialectical-evolution.html)"
+title: "Dialectical Evolution"
 date: 2025-06-29
 layout: post
 ---
 
-# [Dialectical Evolution](https://axionic.org/posts/167117084.dialectical-evolution.html)
+# Dialectical Evolution
 
 **Date:** June 29, 2025  
 **Batch:** Batch 07 (Posts 1–25)

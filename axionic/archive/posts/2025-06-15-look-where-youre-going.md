@@ -1,10 +1,10 @@
 ---
-title: "[Look Where You're Going](https://axionic.org/posts/166024344.look-where-youre-going.html)"
+title: "Look Where You're Going"
 date: 2025-06-15
 layout: post
 ---
 
-# [Look Where You're Going](https://axionic.org/posts/166024344.look-where-youre-going.html)
+# Look Where You're Going
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

@@ -1,10 +1,10 @@
 ---
-title: "[The Axio Index](https://axionic.org/posts/180343052.the-axio-index.html)"
+title: "The Axio Index"
 date: 2025-11-30
 layout: post
 ---
 
-# [The Axio Index](https://axionic.org/posts/180343052.the-axio-index.html)
+# The Axio Index
 
 **Date:** November 30, 2025  
 **Batch:** Batch 05 (Posts 101–125)

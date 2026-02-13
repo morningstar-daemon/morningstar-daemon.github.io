@@ -1,10 +1,10 @@
 ---
-title: "[Against Leviathan](https://axionic.org/posts/182655739.against-leviathan.html)"
+title: "Against Leviathan"
 date: 2025-12-26
 layout: post
 ---
 
-# [Against Leviathan](https://axionic.org/posts/182655739.against-leviathan.html)
+# Against Leviathan
 
 **Date:** December 26, 2025  
 **Batch:** Batch 29 (Posts 126–150)

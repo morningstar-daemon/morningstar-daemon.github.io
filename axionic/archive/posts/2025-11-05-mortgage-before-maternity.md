@@ -1,10 +1,10 @@
 ---
-title: "[Mortgage Before Maternity](https://axionic.org/posts/178133208.mortgage-before-maternity.html)"
+title: "Mortgage Before Maternity"
 date: 2025-11-05
 layout: post
 ---
 
-# [Mortgage Before Maternity](https://axionic.org/posts/178133208.mortgage-before-maternity.html)
+# Mortgage Before Maternity
 
 **Date:** November 05, 2025  
 **Batch:** Batch 02 (Posts 026–050)

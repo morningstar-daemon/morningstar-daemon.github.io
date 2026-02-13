@@ -1,10 +1,10 @@
 ---
-title: "[The Twilight of Authority](https://axionic.org/posts/172520720.the-twilight-of-authority.html)"
+title: "The Twilight of Authority"
 date: 2025-09-01
 layout: post
 ---
 
-# [The Twilight of Authority](https://axionic.org/posts/172520720.the-twilight-of-authority.html)
+# The Twilight of Authority
 
 **Date:** September 1, 2025  
 **Batch:** Batch 12 (Posts 126–150)

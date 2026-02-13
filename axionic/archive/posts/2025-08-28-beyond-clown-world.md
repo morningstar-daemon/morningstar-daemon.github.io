@@ -1,10 +1,10 @@
 ---
-title: "[Beyond Clown World](https://axionic.org/posts/172141003.beyond-clown-world.html)"
+title: "Beyond Clown World"
 date: 2025-08-28
 layout: post
 ---
 
-# [Beyond Clown World](https://axionic.org/posts/172141003.beyond-clown-world.html)
+# Beyond Clown World
 
 **Date:** August 28, 2025  
 **Batch:** Batch 11 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[The Free Rider Fallacy](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)"
+title: "The Free Rider Fallacy"
 date: 2025-05-31
 layout: post
 ---
 
-# [The Free Rider Fallacy](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)
+# The Free Rider Fallacy
 
 **Date:** 2025-05-31  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Culture Hierarchies](https://axionic.org/posts/166409545.culture-hierarchies.html)"
+title: "Culture Hierarchies"
 date: 2025-06-20
 layout: post
 ---
 
-# [Culture Hierarchies](https://axionic.org/posts/166409545.culture-hierarchies.html)
+# Culture Hierarchies
 
 **Date:** June 20, 2025  
 **Batch:** Batch 06 (Posts 138–162)

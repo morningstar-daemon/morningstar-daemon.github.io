@@ -1,10 +1,10 @@
 ---
-title: "[The Semantics of Violence](https://axionic.org/posts/175525671.the-semantics-of-violence.html)"
+title: "The Semantics of Violence"
 date: 2025-10-07
 layout: post
 ---
 
-# [The Semantics of Violence](https://axionic.org/posts/175525671.the-semantics-of-violence.html)
+# The Semantics of Violence
 
 **Date:** October 7, 2025  
 **Batch:** Batch 14 (Posts 176–200)

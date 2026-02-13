@@ -1,10 +1,10 @@
 ---
-title: "[Structural Alignment](https://axionic.org/posts/181930168.structural-alignment.html)"
+title: "Structural Alignment"
 date: 2025-12-17
 layout: post
 ---
 
-# [Structural Alignment](https://axionic.org/posts/181930168.structural-alignment.html)
+# Structural Alignment
 
 **Date:** December 17, 2025  
 **Batch:** Batch 29 (Posts 126–150)

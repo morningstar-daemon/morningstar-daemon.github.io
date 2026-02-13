@@ -1,10 +1,10 @@
 ---
-title: "[Intelligence as a Hyperobject](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)"
+title: "Intelligence as a Hyperobject"
 date: 2025-06-26
 layout: post
 ---
 
-# [Intelligence as a Hyperobject](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)
+# Intelligence as a Hyperobject
 
 **Date:** June 26, 2025  
 **Batch:** Batch 07 (Posts 1–25)

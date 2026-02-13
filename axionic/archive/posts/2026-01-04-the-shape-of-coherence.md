@@ -1,10 +1,10 @@
 ---
-title: "[The Shape of Coherence](https://axionic.org/posts/183495093.the-shape-of-coherence.html)"
+title: "The Shape of Coherence"
 date: 2026-01-04
 layout: post
 ---
 
-# [The Shape of Coherence](https://axionic.org/posts/183495093.the-shape-of-coherence.html)
+# The Shape of Coherence
 
 **Date:** January 4, 2026  
 **Batch:** Batch 30 (Posts 151–175)

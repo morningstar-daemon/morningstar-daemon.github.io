@@ -1,10 +1,10 @@
 ---
-title: "[Rethinking Justice](https://axionic.org/posts/167669720.rethinking-justice.html)"
+title: "Rethinking Justice"
 date: 2025-07-06
 layout: post
 ---
 
-# [Rethinking Justice](https://axionic.org/posts/167669720.rethinking-justice.html)
+# Rethinking Justice
 
 **Date:** July 06, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)

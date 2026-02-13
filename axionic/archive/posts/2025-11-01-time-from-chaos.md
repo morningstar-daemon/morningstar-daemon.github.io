@@ -1,10 +1,10 @@
 ---
-title: "[Time From Chaos](https://axionic.org/posts/177758736.time-from-chaos.html)"
+title: "Time From Chaos"
 date: 2025-11-01
 layout: post
 ---
 
-# [Time From Chaos](https://axionic.org/posts/177758736.time-from-chaos.html)
+# Time From Chaos
 
 **Date:** November 01, 2025  
 **Batch:** Batch 02 (Posts 026–050)

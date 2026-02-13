@@ -1,10 +1,10 @@
 ---
-title: "[Beauty and Truth](https://axionic.org/posts/176838567.beauty-and-truth.html)"
+title: "Beauty and Truth"
 date: 2025-10-22
 layout: post
 ---
 
-# [Beauty and Truth](https://axionic.org/posts/176838567.beauty-and-truth.html)
+# Beauty and Truth
 
 **Date:** October 22, 2025  
 **Batch:** Batch 24 (Posts 1–25)

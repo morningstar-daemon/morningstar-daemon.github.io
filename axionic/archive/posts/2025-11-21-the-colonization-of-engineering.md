@@ -1,10 +1,10 @@
 ---
-title: "[The Colonization of Engineering](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)"
+title: "The Colonization of Engineering"
 date: 2025-11-21
 layout: post
 ---
 
-# [The Colonization of Engineering](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)
+# The Colonization of Engineering
 
 **Date:** 2025-11-21  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Lessons From Peak Oil](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)"
+title: "Lessons From Peak Oil"
 date: 2025-07-21
 layout: post
 ---
 
-# [Lessons From Peak Oil](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)
+# Lessons From Peak Oil
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)

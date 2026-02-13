@@ -1,10 +1,10 @@
 ---
-title: "[The Illusion of Moral Collapse](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)"
+title: "The Illusion of Moral Collapse"
 date: 2025-11-03
 layout: post
 ---
 
-# [The Illusion of Moral Collapse](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)
+# The Illusion of Moral Collapse
 
 **Date:** November 03, 2025  
 **Batch:** Batch 02 (Posts 026–050)

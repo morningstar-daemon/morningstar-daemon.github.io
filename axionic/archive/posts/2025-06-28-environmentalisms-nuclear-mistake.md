@@ -1,10 +1,10 @@
 ---
-title: "[Environmentalism's Nuclear Mistake](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)"
+title: "Environmentalism's Nuclear Mistake"
 date: 2025-06-28
 layout: post
 ---
 
-# [Environmentalism's Nuclear Mistake](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)
+# Environmentalism's Nuclear Mistake
 
 **Date:** June 28, 2025  
 **Batch:** Batch 07 (Posts 1–25)

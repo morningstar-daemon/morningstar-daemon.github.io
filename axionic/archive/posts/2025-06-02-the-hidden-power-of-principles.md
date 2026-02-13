@@ -1,10 +1,10 @@
 ---
-title: "[The Hidden Power of Principles](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)"
+title: "The Hidden Power of Principles"
 date: 2025-06-02
 layout: post
 ---
 
-# [The Hidden Power of Principles](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)
+# The Hidden Power of Principles
 
 **Date:** 2025-06-02  
 

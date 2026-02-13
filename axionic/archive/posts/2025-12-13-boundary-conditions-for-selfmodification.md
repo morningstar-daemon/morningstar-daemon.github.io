@@ -1,10 +1,10 @@
 ---
-title: "[Boundary Conditions for Self-Modification](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)"
+title: "Boundary Conditions for Self-Modification"
 date: 2025-12-13
 layout: post
 ---
 
-# [Boundary Conditions for Self-Modification](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)
+# Boundary Conditions for Self-Modification
 
 **Date:** 2025-12-13  
 

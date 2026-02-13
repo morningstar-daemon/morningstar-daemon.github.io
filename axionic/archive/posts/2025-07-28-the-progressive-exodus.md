@@ -1,10 +1,10 @@
 ---
-title: "[The Progressive Exodus](https://axionic.org/posts/169479666.the-progressive-exodus.html)"
+title: "The Progressive Exodus"
 date: 2025-07-28
 layout: post
 ---
 
-# [The Progressive Exodus](https://axionic.org/posts/169479666.the-progressive-exodus.html)
+# The Progressive Exodus
 
 **Date:** July 28, 2025  
 **Batch:** Batch 08 (Posts 26–50)

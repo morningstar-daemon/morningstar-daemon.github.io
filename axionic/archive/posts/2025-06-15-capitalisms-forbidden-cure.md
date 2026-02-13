@@ -1,10 +1,10 @@
 ---
-title: "[Capitalism's Forbidden Cure](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)"
+title: "Capitalism's Forbidden Cure"
 date: 2025-06-15
 layout: post
 ---
 
-# [Capitalism's Forbidden Cure](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)
+# Capitalism's Forbidden Cure
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

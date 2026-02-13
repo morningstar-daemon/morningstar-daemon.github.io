@@ -1,10 +1,10 @@
 ---
-title: "[AI and Copyright](https://axionic.org/posts/165479695.ai-and-copyright.html)"
+title: "AI and Copyright"
 date: 2025-06-08
 layout: post
 ---
 
-# [AI and Copyright](https://axionic.org/posts/165479695.ai-and-copyright.html)
+# AI and Copyright
 
 **Date:** 2025-06-08  
 

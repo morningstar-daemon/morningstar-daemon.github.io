@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of the Collective Will](https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html)"
+title: "The Myth of the Collective Will"
 date: 2025-06-05
 layout: post
 ---
 
-# [The Myth of the Collective Will](https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html)
+# The Myth of the Collective Will
 
 **Date:** 2025-06-05  
 

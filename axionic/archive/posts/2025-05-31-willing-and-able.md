@@ -1,10 +1,10 @@
 ---
-title: "[Willing and Able](https://axionic.org/posts/164878445.willing-and-able.html)"
+title: "Willing and Able"
 date: 2025-05-31
 layout: post
 ---
 
-# [Willing and Able](https://axionic.org/posts/164878445.willing-and-able.html)
+# Willing and Able
 
 **Date:** 2025-05-31  
 

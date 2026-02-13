@@ -1,10 +1,10 @@
 ---
-title: "[Alignment Beyond Epistemics](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)"
+title: "Alignment Beyond Epistemics"
 date: 2026-01-09
 layout: post
 ---
 
-# [Alignment Beyond Epistemics](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)
+# Alignment Beyond Epistemics
 
 **Date:** January 9, 2026  
 **Batch:** Batch 30 (Posts 151–175)

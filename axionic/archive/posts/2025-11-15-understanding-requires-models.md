@@ -1,10 +1,10 @@
 ---
-title: "[Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)"
+title: "Understanding Requires Models"
 date: 2025-11-15
 layout: post
 ---
 
-# [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)
+# Understanding Requires Models
 
 **Date:** November 15, 2025  
 **Series:** Epistemology / Philosophy of Science  

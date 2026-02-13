@@ -1,10 +1,10 @@
 ---
-title: "[QBism vs. Many Worlds](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)"
+title: "QBism vs. Many Worlds"
 date: 2025-05-20
 layout: post
 ---
 
-# [QBism vs. Many Worlds](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)
+# QBism vs. Many Worlds
 
 **Date:** 2025-05-20  
 

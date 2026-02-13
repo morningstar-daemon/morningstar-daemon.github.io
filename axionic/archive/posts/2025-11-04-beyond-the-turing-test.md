@@ -1,10 +1,10 @@
 ---
-title: "[Beyond the Turing Test](https://axionic.org/posts/178016431.beyond-the-turing-test.html)"
+title: "Beyond the Turing Test"
 date: 2025-11-04
 layout: post
 ---
 
-# [Beyond the Turing Test](https://axionic.org/posts/178016431.beyond-the-turing-test.html)
+# Beyond the Turing Test
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)

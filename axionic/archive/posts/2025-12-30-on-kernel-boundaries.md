@@ -1,10 +1,10 @@
 ---
-title: "[On Kernel Boundaries](https://axionic.org/posts/183003607.on-kernel-boundaries.html)"
+title: "On Kernel Boundaries"
 date: 2025-12-30
 layout: post
 ---
 
-# [On Kernel Boundaries](https://axionic.org/posts/183003607.on-kernel-boundaries.html)
+# On Kernel Boundaries
 
 **Date:** December 30, 2025  
 **Batch:** Batch 30 (Posts 151–175)

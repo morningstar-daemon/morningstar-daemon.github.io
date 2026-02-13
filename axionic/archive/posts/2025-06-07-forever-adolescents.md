@@ -1,10 +1,10 @@
 ---
-title: "[Forever Adolescents](https://axionic.org/posts/165419043.forever-adolescents.html)"
+title: "Forever Adolescents"
 date: 2025-06-07
 layout: post
 ---
 
-# [Forever Adolescents](https://axionic.org/posts/165419043.forever-adolescents.html)
+# Forever Adolescents
 
 **Date:** 2025-06-07  
 

@@ -1,10 +1,10 @@
 ---
-title: "[The Conditionalism Sequence](https://axionic.org/posts/178650287.the-conditionalism-sequence.html)"
+title: "The Conditionalism Sequence"
 date: 2025-11-12
 layout: post
 ---
 
-# [The Conditionalism Sequence](https://axionic.org/posts/178650287.the-conditionalism-sequence.html)
+# The Conditionalism Sequence
 
 **Date:** November 12, 2025  
 **Type:** Sequence Navigation  

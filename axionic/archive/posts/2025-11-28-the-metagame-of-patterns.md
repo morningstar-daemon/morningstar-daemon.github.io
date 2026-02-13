@@ -1,10 +1,10 @@
 ---
-title: "[The Metagame of Patterns](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)"
+title: "The Metagame of Patterns"
 date: 2025-11-28
 layout: post
 ---
 
-# [The Metagame of Patterns](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)
+# The Metagame of Patterns
 
 **Date:** November 28, 2025  
 **Batch:** Batch 27 (Posts 076–100)

@@ -1,10 +1,10 @@
 ---
-title: "[Begging The Question](https://axionic.org/posts/170918524.begging-the-question.html)"
+title: "Begging The Question"
 date: 2025-08-13
 layout: post
 ---
 
-# [Begging The Question](https://axionic.org/posts/170918524.begging-the-question.html)
+# Begging The Question
 
 **Date:** August 13, 2025  
 **Batch:** Batch 10 (Posts 76–100)

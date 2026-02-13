@@ -1,10 +1,10 @@
 ---
-title: "[The Trinity and Relational Metaphysics](https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html)"
+title: "The Trinity and Relational Metaphysics"
 date: 2025-06-12
 layout: post
 ---
 
-# [The Trinity and Relational Metaphysics](https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html)
+# The Trinity and Relational Metaphysics
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

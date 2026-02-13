@@ -1,10 +1,10 @@
 ---
-title: "[Sentience vs. Sapience](https://axionic.org/posts/166538433.sentience-vs-sapience.html)"
+title: "Sentience vs. Sapience"
 date: 2025-06-22
 layout: post
 ---
 
-# [Sentience vs. Sapience](https://axionic.org/posts/166538433.sentience-vs-sapience.html)
+# Sentience vs. Sapience
 
 **Date:** June 22, 2025  
 **Batch:** Batch 06 (Posts 138–162)

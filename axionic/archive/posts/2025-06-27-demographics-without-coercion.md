@@ -1,10 +1,10 @@
 ---
-title: "[Demographics Without Coercion](https://axionic.org/posts/166945477.demographics-without-coercion.html)"
+title: "Demographics Without Coercion"
 date: 2025-06-27
 layout: post
 ---
 
-# [Demographics Without Coercion](https://axionic.org/posts/166945477.demographics-without-coercion.html)
+# Demographics Without Coercion
 
 **Date:** June 27, 2025  
 **Batch:** Batch 07 (Posts 1–25)

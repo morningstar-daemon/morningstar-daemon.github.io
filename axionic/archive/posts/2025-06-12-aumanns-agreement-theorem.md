@@ -1,10 +1,10 @@
 ---
-title: "[Aumann's Agreement Theorem](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)"
+title: "Aumann's Agreement Theorem"
 date: 2025-06-12
 layout: post
 ---
 
-# [Aumann's Agreement Theorem](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)
+# Aumann's Agreement Theorem
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Passing The Torch](https://axionic.org/posts/170394338.passing-the-torch.html)"
+title: "Passing The Torch"
 date: 2025-08-07
 layout: post
 ---
 
-# [Passing The Torch](https://axionic.org/posts/170394338.passing-the-torch.html)
+# Passing The Torch
 
 **Date:** August 7, 2025  
 **Batch:** Batch 24 (Posts 1–25)

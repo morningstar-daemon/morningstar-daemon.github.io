@@ -1,10 +1,10 @@
 ---
-title: "[Justice Without Juries](https://axionic.org/posts/167356408.justice-without-juries.html)"
+title: "Justice Without Juries"
 date: 2025-07-02
 layout: post
 ---
 
-# [Justice Without Juries](https://axionic.org/posts/167356408.justice-without-juries.html)
+# Justice Without Juries
 
 **Date:** July 2, 2025  
 **Batch:** Batch 07 (Posts 1–25)

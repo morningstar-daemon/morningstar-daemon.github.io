@@ -1,10 +1,10 @@
 ---
-title: "[Cognition vs. Authority](https://axionic.org/posts/184258470.cognition-vs-authority.html)"
+title: "Cognition vs. Authority"
 date: 2026-01-11
 layout: post
 ---
 
-# [Cognition vs. Authority](https://axionic.org/posts/184258470.cognition-vs-authority.html)
+# Cognition vs. Authority
 
 **Date:** January 11, 2026  
 **Batch:** Batch 31 (Posts 176–195)

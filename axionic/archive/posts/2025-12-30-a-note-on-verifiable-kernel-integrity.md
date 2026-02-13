@@ -1,10 +1,10 @@
 ---
-title: "[A Note on Verifiable Kernel Integrity](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)"
+title: "A Note on Verifiable Kernel Integrity"
 date: 2025-12-30
 layout: post
 ---
 
-# [A Note on Verifiable Kernel Integrity](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)
+# A Note on Verifiable Kernel Integrity
 
 **Date:** December 30, 2025  
 **Batch:** Batch 30 (Posts 151–175)

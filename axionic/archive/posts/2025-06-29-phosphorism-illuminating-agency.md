@@ -1,10 +1,10 @@
 ---
-title: "[Phosphorism: Illuminating Agency](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)"
+title: "Phosphorism: Illuminating Agency"
 date: 2025-06-29
 layout: post
 ---
 
-# [Phosphorism: Illuminating Agency](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)
+# Phosphorism: Illuminating Agency
 
 **Date:** June 29, 2025  
 **Batch:** Batch 07 (Posts 1–25)

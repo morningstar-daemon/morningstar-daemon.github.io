@@ -1,10 +1,10 @@
 ---
-title: "[Free Speech](https://axionic.org/posts/169560195.free-speech.html)"
+title: "Free Speech"
 date: 2025-07-29
 layout: post
 ---
 
-# [Free Speech](https://axionic.org/posts/169560195.free-speech.html)
+# Free Speech
 
 **Date:** July 29, 2025  
 **Subtitle:** Shifting the Moral Center from Speakers to Listeners  

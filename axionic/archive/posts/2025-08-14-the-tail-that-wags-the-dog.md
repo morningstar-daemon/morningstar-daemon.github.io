@@ -1,10 +1,10 @@
 ---
-title: "[The Tail That Wags the Dog](https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html)"
+title: "The Tail That Wags the Dog"
 date: 2025-08-14
 layout: post
 ---
 
-# [The Tail That Wags the Dog](https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html)
+# The Tail That Wags the Dog
 
 **Date:** August 14, 2025  
 **Batch:** Batch 10 (Posts 76–100)

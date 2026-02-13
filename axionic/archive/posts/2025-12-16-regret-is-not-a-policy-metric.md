@@ -1,10 +1,10 @@
 ---
-title: "[Regret Is Not a Policy Metric](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)"
+title: "Regret Is Not a Policy Metric"
 date: 2025-12-16
 layout: post
 ---
 
-# [Regret Is Not a Policy Metric](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)
+# Regret Is Not a Policy Metric
 
 **Date:** 2025-12-16  
 

@@ -1,10 +1,10 @@
 ---
-title: "[How Quantum Measurement Shapes Cosmic History](https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html)"
+title: "How Quantum Measurement Shapes Cosmic History"
 date: 2025-05-10
 layout: post
 ---
 
-# [How Quantum Measurement Shapes Cosmic History](https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html)
+# How Quantum Measurement Shapes Cosmic History
 
 **Date:** 2025-05-10  
 

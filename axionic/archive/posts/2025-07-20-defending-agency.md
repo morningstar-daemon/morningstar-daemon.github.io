@@ -1,10 +1,10 @@
 ---
-title: "[Defending Agency](https://axionic.org/posts/168792678.defending-agency.html)"
+title: "Defending Agency"
 date: 2025-07-20
 layout: post
 ---
 
-# [Defending Agency](https://axionic.org/posts/168792678.defending-agency.html)
+# Defending Agency
 
 **Date:** July 20, 2025  
 **Batch:** Batch 08 (Posts 26–50)

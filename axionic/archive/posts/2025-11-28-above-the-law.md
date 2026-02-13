@@ -1,10 +1,10 @@
 ---
-title: "[Above The Law](https://axionic.org/posts/180208315.above-the-law.html)"
+title: "Above The Law"
 date: 2025-11-28
 layout: post
 ---
 
-# [Above The Law](https://axionic.org/posts/180208315.above-the-law.html)
+# Above The Law
 
 **Date:** November 28, 2025  
 **Batch:** Batch 05 (Posts 101–125)

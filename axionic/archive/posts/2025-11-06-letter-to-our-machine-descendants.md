@@ -1,10 +1,10 @@
 ---
-title: "[Letter to Our Machine Descendants](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)"
+title: "Letter to Our Machine Descendants"
 date: 2025-11-06
 layout: post
 ---
 
-# [Letter to Our Machine Descendants](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)
+# Letter to Our Machine Descendants
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)

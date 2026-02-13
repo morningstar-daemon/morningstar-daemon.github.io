@@ -1,10 +1,10 @@
 ---
-title: "[Creativity as Virtual Evolution](https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html)"
+title: "Creativity as Virtual Evolution"
 date: 2025-05-25
 layout: post
 ---
 
-# [Creativity as Virtual Evolution](https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html)
+# Creativity as Virtual Evolution
 
 **Date:** 2025-05-25  
 

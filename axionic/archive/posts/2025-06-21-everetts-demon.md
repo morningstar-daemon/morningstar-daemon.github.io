@@ -1,10 +1,10 @@
 ---
-title: "[Everett's Demon](https://axionic.org/posts/166481863.everetts-demon.html)"
+title: "Everett's Demon"
 date: 2025-06-21
 layout: post
 ---
 
-# [Everett's Demon](https://axionic.org/posts/166481863.everetts-demon.html)
+# Everett's Demon
 
 **Date:** June 21, 2025  
 **Batch:** Batch 06 (Posts 138–162)

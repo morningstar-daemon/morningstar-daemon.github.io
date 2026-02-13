@@ -1,10 +1,10 @@
 ---
-title: "[Your Brain on ChatGPT](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)"
+title: "Your Brain on ChatGPT"
 date: 2025-06-23
 layout: post
 ---
 
-# [Your Brain on ChatGPT](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)
+# Your Brain on ChatGPT
 
 **Date:** June 23, 2025  
 **Batch:** Batch 07 (Posts 1–25)

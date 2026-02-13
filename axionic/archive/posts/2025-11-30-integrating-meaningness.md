@@ -1,10 +1,10 @@
 ---
-title: "[Integrating Meaningness](https://axionic.org/posts/180330920.integrating-meaningness.html)"
+title: "Integrating Meaningness"
 date: 2025-11-30
 layout: post
 ---
 
-# [Integrating Meaningness](https://axionic.org/posts/180330920.integrating-meaningness.html)
+# Integrating Meaningness
 
 **Date:** November 30, 2025  
 **Batch:** Batch 27 (Posts 076–100)

@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Cultural Threat](https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html)"
+title: "The Myth of Cultural Threat"
 date: 2025-06-01
 layout: post
 ---
 
-# [The Myth of Cultural Threat](https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html)
+# The Myth of Cultural Threat
 
 **Date:** 2025-06-01  
 

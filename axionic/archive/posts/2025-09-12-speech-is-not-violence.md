@@ -1,10 +1,10 @@
 ---
-title: "[Speech Is Not Violence](https://axionic.org/posts/173476672.speech-is-not-violence.html)"
+title: "Speech Is Not Violence"
 date: 2025-09-12
 layout: post
 ---
 
-# [Speech Is Not Violence](https://axionic.org/posts/173476672.speech-is-not-violence.html)
+# Speech Is Not Violence
 
 **Date:** September 12, 2025  
 **Batch:** Batch 12 (Posts 126–150)

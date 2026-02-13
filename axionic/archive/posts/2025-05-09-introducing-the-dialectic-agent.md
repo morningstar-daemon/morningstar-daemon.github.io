@@ -1,10 +1,10 @@
 ---
-title: "[The Dialectic Agent](https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html)"
+title: "The Dialectic Agent"
 date: 2025-05-09
 layout: post
 ---
 
-# [The Dialectic Agent](https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html)
+# The Dialectic Agent
 
 **Date:** 2025-05-09  
 

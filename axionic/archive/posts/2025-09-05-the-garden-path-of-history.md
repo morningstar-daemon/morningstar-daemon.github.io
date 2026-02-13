@@ -1,10 +1,10 @@
 ---
-title: "[The Garden Path of History](https://axionic.org/posts/172914356.the-garden-path-of-history.html)"
+title: "The Garden Path of History"
 date: 2025-09-05
 layout: post
 ---
 
-# [The Garden Path of History](https://axionic.org/posts/172914356.the-garden-path-of-history.html)
+# The Garden Path of History
 
 **Date:** September 5, 2025  
 **Batch:** Batch 12 (Posts 126–150)

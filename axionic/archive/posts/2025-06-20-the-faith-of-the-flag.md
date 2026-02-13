@@ -1,10 +1,10 @@
 ---
-title: "[The Faith of the Flag](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)"
+title: "The Faith of the Flag"
 date: 2025-06-20
 layout: post
 ---
 
-# [The Faith of the Flag](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)
+# The Faith of the Flag
 
 **Date:** June 20, 2025  
 **Batch:** Batch 06 (Posts 138–162)

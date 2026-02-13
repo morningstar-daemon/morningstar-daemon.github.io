@@ -1,10 +1,10 @@
 ---
-title: "[The Spiral of Certainty](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)"
+title: "The Spiral of Certainty"
 date: 2025-09-06
 layout: post
 ---
 
-# [The Spiral of Certainty](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)
+# The Spiral of Certainty
 
 **Date:** September 6, 2025  
 **Batch:** Batch 12 (Posts 126–150)

@@ -1,10 +1,10 @@
 ---
-title: "[The Authoritarian Cycle](https://axionic.org/posts/165023774.the-authoritarian-cycle.html)"
+title: "The Authoritarian Cycle"
 date: 2025-06-02
 layout: post
 ---
 
-# [The Authoritarian Cycle](https://axionic.org/posts/165023774.the-authoritarian-cycle.html)
+# The Authoritarian Cycle
 
 **Date:** 2025-06-02  
 

@@ -1,10 +1,10 @@
 ---
-title: "[The Future Is Extropian](https://axionic.org/posts/180128433.the-future-is-extropian.html)"
+title: "The Future Is Extropian"
 date: 2025-11-27
 layout: post
 ---
 
-# [The Future Is Extropian](https://axionic.org/posts/180128433.the-future-is-extropian.html)
+# The Future Is Extropian
 
 **Date:** November 27, 2025  
 **Batch:** Batch 27 (Posts 076–100)

@@ -1,10 +1,10 @@
 ---
-title: "[A Genealogy of Agency](https://axionic.org/posts/172964152.a-genealogy-of-agency.html)"
+title: "A Genealogy of Agency"
 date: 2025-09-06
 layout: post
 ---
 
-# [A Genealogy of Agency](https://axionic.org/posts/172964152.a-genealogy-of-agency.html)
+# A Genealogy of Agency
 
 **Date:** September 6, 2025  
 **Batch:** Batch 12 (Posts 126–150)

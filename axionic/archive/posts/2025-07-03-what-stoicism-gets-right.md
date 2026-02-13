@@ -1,10 +1,10 @@
 ---
-title: "[What Stoicism Gets Right](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)"
+title: "What Stoicism Gets Right"
 date: 2025-07-03
 layout: post
 ---
 
-# [What Stoicism Gets Right](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)
+# What Stoicism Gets Right
 
 **Date:** July 3, 2025  
 **Batch:** Batch 19 (Posts 167–191)

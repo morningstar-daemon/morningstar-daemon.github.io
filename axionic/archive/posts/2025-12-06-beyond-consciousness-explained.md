@@ -1,10 +1,10 @@
 ---
-title: "[Beyond Consciousness Explained](https://axionic.org/posts/180915271.beyond-consciousness-explained.html)"
+title: "Beyond Consciousness Explained"
 date: 2025-12-06
 layout: post
 ---
 
-# [Beyond Consciousness Explained](https://axionic.org/posts/180915271.beyond-consciousness-explained.html)
+# Beyond Consciousness Explained
 
 **Date:** December 6, 2025  
 **Batch:** Batch 27 (Posts 076–100)

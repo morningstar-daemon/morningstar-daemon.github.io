@@ -1,10 +1,10 @@
 ---
-title: "[Liberty Without Monopoly](https://axionic.org/posts/167552421.liberty-without-monopoly.html)"
+title: "Liberty Without Monopoly"
 date: 2025-07-04
 layout: post
 ---
 
-# [Liberty Without Monopoly](https://axionic.org/posts/167552421.liberty-without-monopoly.html)
+# Liberty Without Monopoly
 
 **Date:** July 4, 2025  
 **Batch:** Batch 19 (Posts 167–191)

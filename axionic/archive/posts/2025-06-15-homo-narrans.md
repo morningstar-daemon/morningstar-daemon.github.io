@@ -1,10 +1,10 @@
 ---
-title: "[Homo Narrans](https://axionic.org/posts/166013336.homo-narrans.html)"
+title: "Homo Narrans"
 date: 2025-06-15
 layout: post
 ---
 
-# [Homo Narrans](https://axionic.org/posts/166013336.homo-narrans.html)
+# Homo Narrans
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

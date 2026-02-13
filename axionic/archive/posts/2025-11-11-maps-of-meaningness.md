@@ -1,10 +1,10 @@
 ---
-title: "[Maps of Meaningness](https://axionic.org/posts/178642080.maps-of-meaningness.html)"
+title: "Maps of Meaningness"
 date: 2025-11-11
 layout: post
 ---
 
-# [Maps of Meaningness](https://axionic.org/posts/178642080.maps-of-meaningness.html)
+# Maps of Meaningness
 
 **Date:** November 11, 2025  
 **Series:** Comparative Philosophy / Coherence Theory

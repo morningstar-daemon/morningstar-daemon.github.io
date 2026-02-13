@@ -1,10 +1,10 @@
 ---
-title: "[The False Equivalence of Minds](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)"
+title: "The False Equivalence of Minds"
 date: 2025-10-24
 layout: post
 ---
 
-# [The False Equivalence of Minds](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)
+# The False Equivalence of Minds
 
 **Date:** October 24, 2025  
 **Batch:** Batch 24 (Posts 1–25)

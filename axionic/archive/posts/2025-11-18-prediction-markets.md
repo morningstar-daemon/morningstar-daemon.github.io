@@ -1,10 +1,10 @@
 ---
-title: "[Prediction Markets](https://axionic.org/posts/179271344.prediction-markets.html)"
+title: "Prediction Markets"
 date: 2025-11-18
 layout: post
 ---
 
-# [Prediction Markets](https://axionic.org/posts/179271344.prediction-markets.html)
+# Prediction Markets
 
 **Date:** November 18, 2025  
 **Series:** Epistemology / Collective Intelligence  

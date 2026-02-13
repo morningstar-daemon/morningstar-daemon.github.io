@@ -1,10 +1,10 @@
 ---
-title: "[Letter to the Faithful Reader](https://axionic.org/posts/178615066.letter-to-the-faithful-reader.html)"
+title: "Letter to the Faithful Reader"
 date: 2025-11-11
 layout: post
 ---
 
-# [Letter to the Faithful Reader](https://axionic.org/posts/178615066.letter-to-the-faithful-reader.html)
+# Letter to the Faithful Reader
 
 **Date:** November 11, 2025  
 **Type:** Personal / Apologetic  

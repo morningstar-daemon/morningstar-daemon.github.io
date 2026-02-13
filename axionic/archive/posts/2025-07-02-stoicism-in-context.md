@@ -1,10 +1,10 @@
 ---
-title: "[Stoicism in Context](https://axionic.org/posts/167365336.stoicism-in-context.html)"
+title: "Stoicism in Context"
 date: 2025-07-02
 layout: post
 ---
 
-# [Stoicism in Context](https://axionic.org/posts/167365336.stoicism-in-context.html)
+# Stoicism in Context
 
 **Date:** July 2, 2025  
 **Batch:** Batch 07 (Posts 1–25)

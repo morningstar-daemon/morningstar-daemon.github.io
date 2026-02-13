@@ -1,10 +1,10 @@
 ---
-title: "[Axionic Agency — Interlude III](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)"
+title: "Axionic Agency — Interlude III"
 date: 2025-12-23
 layout: post
 ---
 
-# [Axionic Agency — Interlude III](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
+# Axionic Agency — Interlude III
 
 **Date:** 2025-12-23  
 **Series:** Axionic Agency Sequence (Interlude III)

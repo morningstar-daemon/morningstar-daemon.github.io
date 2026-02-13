@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 3: The Kybit](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)"
+title: "The Physics of Agency, Part 3: The Kybit"
 date: 2025-04-29
 layout: post
 ---
 
-# [The Physics of Agency, Part 3: The Kybit](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)
+# The Physics of Agency, Part 3: The Kybit
 
 **Date:** April 29, 2025  
 

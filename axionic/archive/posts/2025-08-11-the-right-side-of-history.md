@@ -1,10 +1,10 @@
 ---
-title: "[The Right Side of History](https://axionic.org/posts/170694694.the-right-side-of-history.html)"
+title: "The Right Side of History"
 date: 2025-08-11
 layout: post
 ---
 
-# [The Right Side of History](https://axionic.org/posts/170694694.the-right-side-of-history.html)
+# The Right Side of History
 
 **Date:** August 11, 2025  
 **Batch:** Batch 10 (Posts 76–100)

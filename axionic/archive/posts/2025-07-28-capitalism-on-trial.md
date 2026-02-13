@@ -1,10 +1,10 @@
 ---
-title: "[Capitalism on Trial](https://axionic.org/posts/169495802.capitalism-on-trial.html)"
+title: "Capitalism on Trial"
 date: 2025-07-28
 layout: post
 ---
 
-# [Capitalism on Trial](https://axionic.org/posts/169495802.capitalism-on-trial.html)
+# Capitalism on Trial
 
 **Date:** July 28, 2025  
 **Batch:** Batch 08 (Posts 26–50)

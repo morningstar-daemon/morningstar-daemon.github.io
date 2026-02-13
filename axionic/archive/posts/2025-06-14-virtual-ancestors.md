@@ -1,10 +1,10 @@
 ---
-title: "[Virtual Ancestors](https://axionic.org/posts/165910125.virtual-ancestors.html)"
+title: "Virtual Ancestors"
 date: 2025-06-14
 layout: post
 ---
 
-# [Virtual Ancestors](https://axionic.org/posts/165910125.virtual-ancestors.html)
+# Virtual Ancestors
 
 **Date:** June 14, 2025  
 **Batch:** Batch 05 (Posts 101–125)

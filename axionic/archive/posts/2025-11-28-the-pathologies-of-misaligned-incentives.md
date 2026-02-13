@@ -1,10 +1,10 @@
 ---
-title: "[The Pathologies of Misaligned Incentives](https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html)"
+title: "The Pathologies of Misaligned Incentives"
 date: 2025-11-28
 layout: post
 ---
 
-# [The Pathologies of Misaligned Incentives](https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html)
+# The Pathologies of Misaligned Incentives
 
 **Date:** November 28, 2025  
 **Batch:** Batch 27 (Posts 076–100)

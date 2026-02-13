@@ -1,10 +1,10 @@
 ---
-title: "[The Evolution of Adult Minds](https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html)"
+title: "The Evolution of Adult Minds"
 date: 2025-07-28
 layout: post
 ---
 
-# [The Evolution of Adult Minds](https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html)
+# The Evolution of Adult Minds
 
 **Date:** July 28, 2025  
 **Batch:** Batch 08 (Posts 26–50)

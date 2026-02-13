@@ -1,10 +1,10 @@
 ---
-title: "[Dialectic or Spiral?](https://axionic.org/posts/173591610.dialectic-or-spiral.html)"
+title: "Dialectic or Spiral?"
 date: 2025-09-14
 layout: post
 ---
 
-# [Dialectic or Spiral?](https://axionic.org/posts/173591610.dialectic-or-spiral.html)
+# Dialectic or Spiral?
 
 **Date:** September 14, 2025  
 **Batch:** Batch 13 (Posts 151–175)

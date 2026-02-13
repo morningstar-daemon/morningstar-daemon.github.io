@@ -1,10 +1,10 @@
 ---
-title: "[Resolving the Paradox of Tolerance](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)"
+title: "Resolving the Paradox of Tolerance"
 date: 2025-06-12
 layout: post
 ---
 
-# [Resolving the Paradox of Tolerance](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)
+# Resolving the Paradox of Tolerance
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

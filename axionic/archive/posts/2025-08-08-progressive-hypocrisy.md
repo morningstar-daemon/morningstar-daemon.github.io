@@ -1,10 +1,10 @@
 ---
-title: "[Progressive Hypocrisy](https://axionic.org/posts/170446132.progressive-hypocrisy.html)"
+title: "Progressive Hypocrisy"
 date: 2025-08-08
 layout: post
 ---
 
-# [Progressive Hypocrisy](https://axionic.org/posts/170446132.progressive-hypocrisy.html)
+# Progressive Hypocrisy
 
 **Date:** August 8, 2025  
 **Batch:** Batch 10 (Posts 76–100)

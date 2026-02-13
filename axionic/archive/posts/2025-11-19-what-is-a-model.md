@@ -1,10 +1,10 @@
 ---
-title: "[What Is a Model?](https://axionic.org/posts/179372278.what-is-a-model.html)"
+title: "What Is a Model?"
 date: 2025-11-19
 layout: post
 ---
 
-# [What Is a Model?](https://axionic.org/posts/179372278.what-is-a-model.html)
+# What Is a Model?
 
 **Date:** 2025-11-19  
 **Series:** Cybernetics Sequence

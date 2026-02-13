@@ -1,10 +1,10 @@
 ---
-title: "[AGI Economics](https://axionic.org/posts/166330539.agi-economics.html)"
+title: "AGI Economics"
 date: 2025-06-19
 layout: post
 ---
 
-# [AGI Economics](https://axionic.org/posts/166330539.agi-economics.html)
+# AGI Economics
 
 **Date:** June 19, 2025  
 **Batch:** Batch 05 (Posts 113–137)

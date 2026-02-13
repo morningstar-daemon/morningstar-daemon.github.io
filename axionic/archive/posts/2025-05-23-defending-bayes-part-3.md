@@ -1,10 +1,10 @@
 ---
-title: "[Defending Bayes, Part 3](https://axionic.org/posts/164270270.defending-bayes-part-3.html)"
+title: "Defending Bayes, Part 3"
 date: 2025-05-23
 layout: post
 ---
 
-# [Defending Bayes, Part 3](https://axionic.org/posts/164270270.defending-bayes-part-3.html)
+# Defending Bayes, Part 3
 
 **Date:** 2025-05-23  
 

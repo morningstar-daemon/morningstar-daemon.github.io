@@ -1,10 +1,10 @@
 ---
-title: "[Pancritical Rationalism](https://axionic.org/posts/167452557.pancritical-rationalism.html)"
+title: "Pancritical Rationalism"
 date: 2025-07-03
 layout: post
 ---
 
-# [Pancritical Rationalism](https://axionic.org/posts/167452557.pancritical-rationalism.html)
+# Pancritical Rationalism
 
 **Date:** July 3, 2025  
 **Batch:** Batch 19 (Posts 167–191)

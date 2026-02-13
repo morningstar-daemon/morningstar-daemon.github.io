@@ -1,10 +1,10 @@
 ---
-title: "[Mythogenesis](https://axionic.org/posts/175193629.mythogenesis.html)"
+title: "Mythogenesis"
 date: 2025-10-03
 layout: post
 ---
 
-# [Mythogenesis](https://axionic.org/posts/175193629.mythogenesis.html)
+# Mythogenesis
 
 **Date:** October 3, 2025  
 **Batch:** Batch 14 (Posts 176–200)

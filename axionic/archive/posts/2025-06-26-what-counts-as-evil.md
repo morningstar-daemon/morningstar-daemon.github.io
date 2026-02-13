@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Evil](https://axionic.org/posts/166913167.what-counts-as-evil.html)"
+title: "What Counts as Evil"
 date: 2025-06-26
 layout: post
 ---
 
-# [What Counts as Evil](https://axionic.org/posts/166913167.what-counts-as-evil.html)
+# What Counts as Evil
 
 **Date:** June 26, 2025  
 **Batch:** Batch 07 (Posts 1–25)

@@ -1,10 +1,10 @@
 ---
-title: "[A Gigaplex of Parallel Lives](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)"
+title: "A Gigaplex of Parallel Lives"
 date: 2025-05-25
 layout: post
 ---
 
-# [A Gigaplex of Parallel Lives](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)
+# A Gigaplex of Parallel Lives
 
 **Date:** 2025-05-25  
 

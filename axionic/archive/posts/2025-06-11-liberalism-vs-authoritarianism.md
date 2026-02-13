@@ -1,10 +1,10 @@
 ---
-title: "[Liberalism vs. Authoritarianism](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)"
+title: "Liberalism vs. Authoritarianism"
 date: 2025-06-11
 layout: post
 ---
 
-# [Liberalism vs. Authoritarianism](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)
+# Liberalism vs. Authoritarianism
 
 **Date:** June 11, 2025  
 **Batch:** Batch 05 (Posts 101–125)

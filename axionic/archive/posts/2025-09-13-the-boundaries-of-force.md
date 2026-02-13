@@ -1,10 +1,10 @@
 ---
-title: "[The Boundaries of Force](https://axionic.org/posts/173541004.the-boundaries-of-force.html)"
+title: "The Boundaries of Force"
 date: 2025-09-13
 layout: post
 ---
 
-# [The Boundaries of Force](https://axionic.org/posts/173541004.the-boundaries-of-force.html)
+# The Boundaries of Force
 
 **Date:** September 13, 2025  
 **Batch:** Batch 13 (Posts 151–175)

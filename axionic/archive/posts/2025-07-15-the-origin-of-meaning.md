@@ -1,10 +1,10 @@
 ---
-title: "[The Origin of Meaning](https://axionic.org/posts/168423727.the-origin-of-meaning.html)"
+title: "The Origin of Meaning"
 date: 2025-07-15
 layout: post
 ---
 
-# [The Origin of Meaning](https://axionic.org/posts/168423727.the-origin-of-meaning.html)
+# The Origin of Meaning
 
 **Date:** July 15, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

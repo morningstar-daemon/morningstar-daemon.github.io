@@ -1,10 +1,10 @@
 ---
-title: "[Abolish Time Zones](https://axionic.org/posts/177892456.abolish-time-zones.html)"
+title: "Abolish Time Zones"
 date: 2025-11-03
 layout: post
 ---
 
-# [Abolish Time Zones](https://axionic.org/posts/177892456.abolish-time-zones.html)
+# Abolish Time Zones
 
 **Date:** November 03, 2025  
 **Batch:** Batch 02 (Posts 026–050)

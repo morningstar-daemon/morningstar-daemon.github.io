@@ -1,10 +1,10 @@
 ---
-title: "[Negative Rights in Conflict](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)"
+title: "Negative Rights in Conflict"
 date: 2025-06-15
 layout: post
 ---
 
-# [Negative Rights in Conflict](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)
+# Negative Rights in Conflict
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

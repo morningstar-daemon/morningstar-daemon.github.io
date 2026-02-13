@@ -1,10 +1,10 @@
 ---
-title: "[The Price of Agency](https://axionic.org/posts/184979362.the-price-of-agency.html)"
+title: "The Price of Agency"
 date: 2026-01-18
 layout: post
 ---
 
-# [The Price of Agency](https://axionic.org/posts/184979362.the-price-of-agency.html)
+# The Price of Agency
 
 **Date:** January 18, 2026  
 **Batch:** Batch 31 (Posts 176–195)

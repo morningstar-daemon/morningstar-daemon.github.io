@@ -1,10 +1,10 @@
 ---
-title: "[Law and Order](https://axionic.org/posts/166356539.law-and-order.html)"
+title: "Law and Order"
 date: 2025-06-19
 layout: post
 ---
 
-# [Law and Order](https://axionic.org/posts/166356539.law-and-order.html)
+# Law and Order
 
 **Date:** June 19, 2025  
 **Batch:** Batch 05 (Posts 113–137)

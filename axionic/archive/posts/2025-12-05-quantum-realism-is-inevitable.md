@@ -1,10 +1,10 @@
 ---
-title: "[Quantum Realism Is Inevitable](https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html)"
+title: "Quantum Realism Is Inevitable"
 date: 2025-12-05
 layout: post
 ---
 
-# [Quantum Realism Is Inevitable](https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html)
+# Quantum Realism Is Inevitable
 
 **Date:** December 5, 2025  
 **Batch:** Batch 27 (Posts 076–100)

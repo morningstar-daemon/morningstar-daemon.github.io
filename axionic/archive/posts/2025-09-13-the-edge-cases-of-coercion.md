@@ -1,10 +1,10 @@
 ---
-title: "[The Edge Cases of Coercion](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)"
+title: "The Edge Cases of Coercion"
 date: 2025-09-13
 layout: post
 ---
 
-# [The Edge Cases of Coercion](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)
+# The Edge Cases of Coercion
 
 **Date:** September 13, 2025  
 **Batch:** Batch 12 (Posts 126–150)

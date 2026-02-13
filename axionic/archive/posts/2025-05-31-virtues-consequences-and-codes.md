@@ -1,10 +1,10 @@
 ---
-title: "[Virtues, Consequences, and Codes](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)"
+title: "Virtues, Consequences, and Codes"
 date: 2025-05-31
 layout: post
 ---
 
-# [Virtues, Consequences, and Codes](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)
+# Virtues, Consequences, and Codes
 
 **Date:** 2025-05-31  
 

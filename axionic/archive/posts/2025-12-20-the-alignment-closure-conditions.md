@@ -1,10 +1,10 @@
 ---
-title: "[The Alignment Closure Conditions](https://axionic.org/posts/182145873.the-alignment-closure-conditions.html)"
+title: "The Alignment Closure Conditions"
 date: 2025-12-20
 layout: post
 ---
 
-# [The Alignment Closure Conditions](https://axionic.org/posts/182145873.the-alignment-closure-conditions.html)
+# The Alignment Closure Conditions
 
 **Date:** December 20, 2025  
 **Batch:** Batch 29 (Posts 126–150)

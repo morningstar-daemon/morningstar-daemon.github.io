@@ -1,10 +1,10 @@
 ---
-title: "[A Minimal Ontology](https://axionic.org/posts/167444843.a-minimal-ontology.html)"
+title: "A Minimal Ontology"
 date: 2025-07-03
 layout: post
 ---
 
-# [A Minimal Ontology](https://axionic.org/posts/167444843.a-minimal-ontology.html)
+# A Minimal Ontology
 
 **Date:** July 3, 2025  
 **Batch:** Batch 19 (Posts 167–191)

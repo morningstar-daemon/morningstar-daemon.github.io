@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Objective Value](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)"
+title: "The Myth of Objective Value"
 date: 2025-05-31
 layout: post
 ---
 
-# [The Myth of Objective Value](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)
+# The Myth of Objective Value
 
 **Date:** 2025-05-31  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Observer Class Alignment](https://axionic.org/posts/165410248.html)"
+title: "Observer Class Alignment"
 date: 2025-06-07
 layout: post
 ---
 
-# [Observer Class Alignment](https://axionic.org/posts/165410248.html)
+# Observer Class Alignment
 
 **Date:** 2025-06-07  
 

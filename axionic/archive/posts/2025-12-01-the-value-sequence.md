@@ -1,10 +1,10 @@
 ---
-title: "[The Value Sequence](https://axionic.org/posts/180411867.the-value-sequence.html)"
+title: "The Value Sequence"
 date: 2025-12-01
 layout: post
 ---
 
-# [The Value Sequence](https://axionic.org/posts/180411867.the-value-sequence.html)
+# The Value Sequence
 
 **Date:** December 1, 2025  
 **Batch:** Batch 27 (Posts 076–100)

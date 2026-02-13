@@ -1,10 +1,10 @@
 ---
-title: "[Rights Are Forged](https://axionic.org/posts/164901368.rights-are-forged.html)"
+title: "Rights Are Forged"
 date: 2025-05-31
 layout: post
 ---
 
-# [Rights Are Forged](https://axionic.org/posts/164901368.rights-are-forged.html)
+# Rights Are Forged
 
 **Date:** 2025-05-31  
 

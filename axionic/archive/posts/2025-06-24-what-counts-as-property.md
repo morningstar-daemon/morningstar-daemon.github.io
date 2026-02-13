@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Property](https://axionic.org/posts/166739921.what-counts-as-property.html)"
+title: "What Counts as Property"
 date: 2025-06-24
 layout: post
 ---
 
-# [What Counts as Property](https://axionic.org/posts/166739921.what-counts-as-property.html)
+# What Counts as Property
 
 **Date:** June 24, 2025  
 **Batch:** Batch 07 (Posts 1–25)

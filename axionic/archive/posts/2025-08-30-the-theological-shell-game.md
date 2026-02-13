@@ -1,10 +1,10 @@
 ---
-title: "[The Theological Shell Game](https://axionic.org/posts/172226036.the-theological-shell-game.html)"
+title: "The Theological Shell Game"
 date: 2025-08-30
 layout: post
 ---
 
-# [The Theological Shell Game](https://axionic.org/posts/172226036.the-theological-shell-game.html)
+# The Theological Shell Game
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)

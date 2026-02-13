@@ -1,10 +1,10 @@
 ---
-title: "[Against Utopia](https://axionic.org/posts/182729118.against-utopia.html)"
+title: "Against Utopia"
 date: 2025-12-27
 layout: post
 ---
 
-# [Against Utopia](https://axionic.org/posts/182729118.against-utopia.html)
+# Against Utopia
 
 **Date:** December 27, 2025  
 **Batch:** Batch 29 (Posts 126–150)

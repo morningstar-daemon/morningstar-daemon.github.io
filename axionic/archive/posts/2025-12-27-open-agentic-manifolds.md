@@ -1,10 +1,10 @@
 ---
-title: "[Open Agentic Manifolds](https://axionic.org/posts/182730025.open-agentic-manifolds.html)"
+title: "Open Agentic Manifolds"
 date: 2025-12-27
 layout: post
 ---
 
-# [Open Agentic Manifolds](https://axionic.org/posts/182730025.open-agentic-manifolds.html)
+# Open Agentic Manifolds
 
 **Date:** December 27, 2025  
 **Batch:** Batch 29 (Posts 126–150)

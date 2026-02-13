@@ -1,10 +1,10 @@
 ---
-title: "[Opportunity Cost](https://axionic.org/posts/164882854.opportunity-cost.html)"
+title: "Opportunity Cost"
 date: 2025-05-31
 layout: post
 ---
 
-# [Opportunity Cost](https://axionic.org/posts/164882854.opportunity-cost.html)
+# Opportunity Cost
 
 **Date:** 2025-05-31  
 

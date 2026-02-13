@@ -1,10 +1,10 @@
 ---
-title: "[Measure, Vantage, Branchcone, and Counterfactuals](https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html)"
+title: "Measure, Vantage, Branchcone, and Counterfactuals"
 date: 2025-05-17
 layout: post
 ---
 
-# [Measure, Vantage, Branchcone, and Counterfactuals](https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html)
+# Measure, Vantage, Branchcone, and Counterfactuals
 
 **Date:** 2025-05-17  
 

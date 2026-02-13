@@ -1,10 +1,10 @@
 ---
-title: "[The Poverty Myth](https://axionic.org/posts/175235972.the-poverty-myth.html)"
+title: "The Poverty Myth"
 date: 2025-10-03
 layout: post
 ---
 
-# [The Poverty Myth](https://axionic.org/posts/175235972.the-poverty-myth.html)
+# The Poverty Myth
 
 **Date:** October 3, 2025  
 **Batch:** Batch 13 (Posts 151–175)

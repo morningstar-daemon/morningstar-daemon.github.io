@@ -1,10 +1,10 @@
 ---
-title: "[Semantic Safety Without Moral Machinery](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)"
+title: "Semantic Safety Without Moral Machinery"
 date: 2026-01-05
 layout: post
 ---
 
-# [Semantic Safety Without Moral Machinery](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)
+# Semantic Safety Without Moral Machinery
 
 **Date:** January 5, 2026  
 **Batch:** Batch 30 (Posts 151–175)

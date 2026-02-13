@@ -1,10 +1,10 @@
 ---
-title: "[The Paradox of Classical Liberalism](https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html)"
+title: "The Paradox of Classical Liberalism"
 date: 2025-06-08
 layout: post
 ---
 
-# [The Paradox of Classical Liberalism](https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html)
+# The Paradox of Classical Liberalism
 
 **Date:** 2025-06-08  
 

@@ -1,10 +1,10 @@
 ---
-title: "[The Woke Right](https://axionic.org/posts/165721326.the-woke-right.html)"
+title: "The Woke Right"
 date: 2025-06-11
 layout: post
 ---
 
-# [The Woke Right](https://axionic.org/posts/165721326.the-woke-right.html)
+# The Woke Right
 
 **Date:** June 11, 2025  
 **Batch:** Batch 05 (Posts 101–125)

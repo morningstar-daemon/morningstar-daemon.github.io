@@ -1,10 +1,10 @@
 ---
-title: "[The Axiocracy Sequence](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)"
+title: "The Axiocracy Sequence"
 date: 2025-12-02
 layout: post
 ---
 
-# [The Axiocracy Sequence](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)
+# The Axiocracy Sequence
 
 **Date:** December 2, 2025  
 **Batch:** Batch 27 (Posts 076–100)

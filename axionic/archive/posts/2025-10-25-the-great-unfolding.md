@@ -1,10 +1,10 @@
 ---
-title: "[The Great Unfolding](https://axionic.org/posts/177107243.the-great-unfolding.html)"
+title: "The Great Unfolding"
 date: 2025-10-25
 layout: post
 ---
 
-# [The Great Unfolding](https://axionic.org/posts/177107243.the-great-unfolding.html)
+# The Great Unfolding
 
 **Date:** October 25, 2025  
 **Batch:** Batch 24 (Posts 1–25)

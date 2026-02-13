@@ -1,10 +1,10 @@
 ---
-title: "[The AGI Torment Nexus](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)"
+title: "The AGI Torment Nexus"
 date: 2025-11-23
 layout: post
 ---
 
-# [The AGI Torment Nexus](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)
+# The AGI Torment Nexus
 
 **Date:** November 23, 2025  
 **Batch:** Batch 27 (Posts 076–100)

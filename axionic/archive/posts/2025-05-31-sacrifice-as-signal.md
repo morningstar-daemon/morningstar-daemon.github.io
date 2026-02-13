@@ -1,10 +1,10 @@
 ---
-title: "[Sacrifice as Signal](https://axionic.org/posts/164851202.sacrifice-as-signal.html)"
+title: "Sacrifice as Signal"
 date: 2025-05-31
 layout: post
 ---
 
-# [Sacrifice as Signal](https://axionic.org/posts/164851202.sacrifice-as-signal.html)
+# Sacrifice as Signal
 
 **Date:** 2025-05-31  
 

@@ -1,10 +1,10 @@
 ---
-title: "[The Symmetry of Belief](https://axionic.org/posts/177934551.the-symmetry-of-belief.html)"
+title: "The Symmetry of Belief"
 date: 2025-11-03
 layout: post
 ---
 
-# [The Symmetry of Belief](https://axionic.org/posts/177934551.the-symmetry-of-belief.html)
+# The Symmetry of Belief
 
 **Date:** November 03, 2025  
 **Batch:** Batch 02 (Posts 026–050)

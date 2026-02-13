@@ -1,10 +1,10 @@
 ---
-title: "[Preference Falsification](https://axionic.org/posts/168968329.preference-falsification.html)"
+title: "Preference Falsification"
 date: 2025-07-22
 layout: post
 ---
 
-# [Preference Falsification](https://axionic.org/posts/168968329.preference-falsification.html)
+# Preference Falsification
 
 **Date:** July 22, 2025  
 **Batch:** Batch 08 (Posts 26–50)

@@ -1,10 +1,10 @@
 ---
-title: "[The Hero's Delusion](https://axionic.org/posts/173134484.the-heros-delusion.html)"
+title: "The Hero's Delusion"
 date: 2025-09-08
 layout: post
 ---
 
-# [The Hero's Delusion](https://axionic.org/posts/173134484.the-heros-delusion.html)
+# The Hero's Delusion
 
 **Date:** September 8, 2025  
 **Batch:** Batch 12 (Posts 126–150)

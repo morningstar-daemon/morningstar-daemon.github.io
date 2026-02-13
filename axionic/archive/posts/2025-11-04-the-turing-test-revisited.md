@@ -1,10 +1,10 @@
 ---
-title: "[The Turing Test Revisited](https://axionic.org/posts/177985047.the-turing-test-revisited.html)"
+title: "The Turing Test Revisited"
 date: 2025-11-04
 layout: post
 ---
 
-# [The Turing Test Revisited](https://axionic.org/posts/177985047.the-turing-test-revisited.html)
+# The Turing Test Revisited
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)

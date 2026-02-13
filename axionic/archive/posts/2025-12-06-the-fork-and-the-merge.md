@@ -1,10 +1,10 @@
 ---
-title: "[The Fork and the Merge](https://axionic.org/posts/180917415.the-fork-and-the-merge.html)"
+title: "The Fork and the Merge"
 date: 2025-12-06
 layout: post
 ---
 
-# [The Fork and the Merge](https://axionic.org/posts/180917415.the-fork-and-the-merge.html)
+# The Fork and the Merge
 
 **Date:** December 6, 2025  
 **Batch:** Batch 27 (Posts 076–100)

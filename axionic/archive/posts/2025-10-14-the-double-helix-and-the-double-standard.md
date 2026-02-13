@@ -1,10 +1,10 @@
 ---
-title: "[The Double Helix and the Double Standard](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)"
+title: "The Double Helix and the Double Standard"
 date: 2025-10-14
 layout: post
 ---
 
-# [The Double Helix and the Double Standard](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)
+# The Double Helix and the Double Standard
 
 **Date:** October 14, 2025  
 **Batch:** Batch 14 (Posts 176–200)

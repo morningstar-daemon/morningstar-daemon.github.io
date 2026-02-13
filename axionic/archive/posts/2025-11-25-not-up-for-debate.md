@@ -1,10 +1,10 @@
 ---
-title: "[Not Up For Debate](https://axionic.org/posts/179943509.not-up-for-debate.html)"
+title: "Not Up For Debate"
 date: 2025-11-25
 layout: post
 ---
 
-# [Not Up For Debate](https://axionic.org/posts/179943509.not-up-for-debate.html)
+# Not Up For Debate
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)

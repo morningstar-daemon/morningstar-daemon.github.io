@@ -1,10 +1,10 @@
 ---
-title: "[When Consensus Entrenches Authority](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)"
+title: "When Consensus Entrenches Authority"
 date: 2026-01-10
 layout: post
 ---
 
-# [When Consensus Entrenches Authority](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)
+# When Consensus Entrenches Authority
 
 **Date:** January 10, 2026  
 **Batch:** Batch 31 (Posts 176–195)

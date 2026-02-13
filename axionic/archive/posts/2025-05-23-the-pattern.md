@@ -1,10 +1,10 @@
 ---
-title: "[The Pattern](https://axionic.org/posts/164271340.the-pattern.html)"
+title: "The Pattern"
 date: 2025-05-23
 layout: post
 ---
 
-# [The Pattern](https://axionic.org/posts/164271340.the-pattern.html)
+# The Pattern
 
 **Date:** 2025-05-23  
 

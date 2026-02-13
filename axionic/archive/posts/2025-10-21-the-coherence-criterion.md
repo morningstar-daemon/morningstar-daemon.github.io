@@ -1,10 +1,10 @@
 ---
-title: "[The Coherence Criterion](https://axionic.org/posts/176742358.the-coherence-criterion.html)"
+title: "The Coherence Criterion"
 date: 2025-10-21
 layout: post
 ---
 
-# [The Coherence Criterion](https://axionic.org/posts/176742358.the-coherence-criterion.html)
+# The Coherence Criterion
 
 **Date:** October 21, 2025  
 **Batch:** Batch 24 (Posts 1–25)

@@ -1,10 +1,10 @@
 ---
-title: "[The Ultimate Metagame](https://axionic.org/posts/180026930.the-ultimate-metagame.html)"
+title: "The Ultimate Metagame"
 date: 2025-11-26
 layout: post
 ---
 
-# [The Ultimate Metagame](https://axionic.org/posts/180026930.the-ultimate-metagame.html)
+# The Ultimate Metagame
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)

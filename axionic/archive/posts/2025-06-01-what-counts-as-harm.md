@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as Harm](https://axionic.org/posts/164935709.what-counts-as-harm.html)"
+title: "What Counts as Harm"
 date: 2025-06-01
 layout: post
 ---
 
-# [What Counts as Harm](https://axionic.org/posts/164935709.what-counts-as-harm.html)
+# What Counts as Harm
 
 **Date:** 2025-06-01  
 

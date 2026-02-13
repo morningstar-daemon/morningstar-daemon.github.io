@@ -1,10 +1,10 @@
 ---
-title: "[What Is Money?](https://axionic.org/posts/164883871.what-is-money.html)"
+title: "What Is Money?"
 date: 2025-05-31
 layout: post
 ---
 
-# [What Is Money?](https://axionic.org/posts/164883871.what-is-money.html)
+# What Is Money?
 
 **Date:** 2025-05-31  
 

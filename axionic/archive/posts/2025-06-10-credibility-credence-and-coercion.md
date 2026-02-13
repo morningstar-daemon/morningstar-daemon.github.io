@@ -1,10 +1,10 @@
 ---
-title: "[Credibility, Credence, and Coercion](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)"
+title: "Credibility, Credence, and Coercion"
 date: 2025-06-10
 layout: post
 ---
 
-# [Credibility, Credence, and Coercion](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)
+# Credibility, Credence, and Coercion
 
 **Date:** June 10, 2025  
 **Batch:** Batch 05 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Against Death Complacency](https://axionic.org/posts/169150004.against-death-complacency.html)"
+title: "Against Death Complacency"
 date: 2025-07-24
 layout: post
 ---
 
-# [Against Death Complacency](https://axionic.org/posts/169150004.against-death-complacency.html)
+# Against Death Complacency
 
 **Date:** July 24, 2025  
 **Batch:** Batch 08 (Posts 26–50)

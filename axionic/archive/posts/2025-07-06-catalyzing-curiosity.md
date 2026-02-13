@@ -1,10 +1,10 @@
 ---
-title: "[Catalyzing Curiosity](https://axionic.org/posts/167621027.catalyzing-curiosity.html)"
+title: "Catalyzing Curiosity"
 date: 2025-07-06
 layout: post
 ---
 
-# [Catalyzing Curiosity](https://axionic.org/posts/167621027.catalyzing-curiosity.html)
+# Catalyzing Curiosity
 
 **Date:** July 6, 2025  
 **Batch:** Batch 19 (Posts 167–191)

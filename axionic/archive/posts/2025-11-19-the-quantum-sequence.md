@@ -1,10 +1,10 @@
 ---
-title: "[The Quantum Sequence](https://axionic.org/posts/179387335.the-quantum-sequence.html)"
+title: "The Quantum Sequence"
 date: 2025-11-19
 layout: post
 ---
 
-# [The Quantum Sequence](https://axionic.org/posts/179387335.the-quantum-sequence.html)
+# The Quantum Sequence
 
 **Date:** 2025-11-19  
 **Series:** Quantum Sequence (Announcement/Index)

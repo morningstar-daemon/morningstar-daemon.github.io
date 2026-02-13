@@ -1,10 +1,10 @@
 ---
-title: "[Effective Decision Theory](https://axionic.org/posts/163356868.effective-decision-theory.html)"
+title: "Effective Decision Theory"
 date: 2025-05-11
 layout: post
 ---
 
-# [Effective Decision Theory](https://axionic.org/posts/163356868.effective-decision-theory.html)
+# Effective Decision Theory
 
 **Date:** 2025-05-11  
 

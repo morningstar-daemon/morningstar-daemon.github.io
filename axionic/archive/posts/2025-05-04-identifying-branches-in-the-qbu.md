@@ -1,10 +1,10 @@
 ---
-title: "[Identifying Branches in the QBU](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)"
+title: "Identifying Branches in the QBU"
 date: 2025-05-04
 layout: post
 ---
 
-# [Identifying Branches in the QBU](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)
+# Identifying Branches in the QBU
 
 **Date:** 2025-05-04  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Is Faith Ever Justifiable?](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)"
+title: "Is Faith Ever Justifiable?"
 date: 2025-10-31
 layout: post
 ---
 
-# [Is Faith Ever Justifiable?](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)
+# Is Faith Ever Justifiable?
 
 **Date:** October 31, 2025  
 **Batch:** Batch 02 (Posts 026–050)

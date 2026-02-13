@@ -1,10 +1,10 @@
 ---
-title: "[Demystifying Evil](https://axionic.org/posts/172358359.demystifying-evil.html)"
+title: "Demystifying Evil"
 date: 2025-08-30
 layout: post
 ---
 
-# [Demystifying Evil](https://axionic.org/posts/172358359.demystifying-evil.html)
+# Demystifying Evil
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)

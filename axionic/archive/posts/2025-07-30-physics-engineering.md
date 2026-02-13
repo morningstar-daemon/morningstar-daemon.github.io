@@ -1,10 +1,10 @@
 ---
-title: "[Physics Engineering](https://axionic.org/posts/169627584.physics-engineering.html)"
+title: "Physics Engineering"
 date: 2025-07-30
 layout: post
 ---
 
-# [Physics Engineering](https://axionic.org/posts/169627584.physics-engineering.html)
+# Physics Engineering
 
 **Date:** July 30, 2025  
 **Subtitle:** Creating Reality from Informational Coherence  

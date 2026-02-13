@@ -1,10 +1,10 @@
 ---
-title: "[On Liberty](https://axionic.org/posts/170630000.on-liberty.html)"
+title: "On Liberty"
 date: 2025-08-10
 layout: post
 ---
 
-# [On Liberty](https://axionic.org/posts/170630000.on-liberty.html)
+# On Liberty
 
 **Date:** August 10, 2025  
 **Batch:** Batch 10 (Posts 76–100)

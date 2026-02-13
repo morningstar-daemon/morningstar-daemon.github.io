@@ -1,10 +1,10 @@
 ---
-title: "[Why I'm an Individualist](https://axionic.org/posts/163272667.why-im-an-individualist.html)"
+title: "Why I'm an Individualist"
 date: 2025-05-10
 layout: post
 ---
 
-# [Why I'm an Individualist](https://axionic.org/posts/163272667.why-im-an-individualist.html)
+# Why I'm an Individualist
 
 **Date:** 2025-05-10  
 

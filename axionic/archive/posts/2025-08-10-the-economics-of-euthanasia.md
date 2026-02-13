@@ -1,10 +1,10 @@
 ---
-title: "[The Economics of Euthanasia](https://axionic.org/posts/170629256.the-economics-of-euthanasia.html)"
+title: "The Economics of Euthanasia"
 date: 2025-08-10
 layout: post
 ---
 
-# [The Economics of Euthanasia](https://axionic.org/posts/170629256.the-economics-of-euthanasia.html)
+# The Economics of Euthanasia
 
 **Date:** August 10, 2025  
 **Batch:** Batch 10 (Posts 76–100)

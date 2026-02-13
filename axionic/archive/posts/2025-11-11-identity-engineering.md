@@ -1,10 +1,10 @@
 ---
-title: "[Identity Engineering](https://axionic.org/posts/178618635.identity-engineering.html)"
+title: "Identity Engineering"
 date: 2025-11-11
 layout: post
 ---
 
-# [Identity Engineering](https://axionic.org/posts/178618635.identity-engineering.html)
+# Identity Engineering
 
 **Date:** November 11, 2025  
 **Series:** AI Interaction / Dialectic Catalyst

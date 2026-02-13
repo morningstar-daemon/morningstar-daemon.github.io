@@ -1,10 +1,10 @@
 ---
-title: "[Cosmic Coincidence](https://axionic.org/posts/167015115.cosmic-coincidence.html)"
+title: "Cosmic Coincidence"
 date: 2025-06-28
 layout: post
 ---
 
-# [Cosmic Coincidence](https://axionic.org/posts/167015115.cosmic-coincidence.html)
+# Cosmic Coincidence
 
 **Date:** June 28, 2025  
 **Batch:** Batch 07 (Posts 1–25)

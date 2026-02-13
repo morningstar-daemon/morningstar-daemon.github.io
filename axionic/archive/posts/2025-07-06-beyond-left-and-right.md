@@ -1,10 +1,10 @@
 ---
-title: "[Beyond Left and Right](https://axionic.org/posts/167677533.beyond-left-and-right.html)"
+title: "Beyond Left and Right"
 date: 2025-07-06
 layout: post
 ---
 
-# [Beyond Left and Right](https://axionic.org/posts/167677533.beyond-left-and-right.html)
+# Beyond Left and Right
 
 **Date:** July 06, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)

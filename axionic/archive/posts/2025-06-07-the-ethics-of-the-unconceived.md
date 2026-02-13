@@ -1,10 +1,10 @@
 ---
-title: "[The Ethics of the Unconceived](https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html)"
+title: "The Ethics of the Unconceived"
 date: 2025-06-07
 layout: post
 ---
 
-# [The Ethics of the Unconceived](https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html)
+# The Ethics of the Unconceived
 
 **Date:** 2025-06-07  
 

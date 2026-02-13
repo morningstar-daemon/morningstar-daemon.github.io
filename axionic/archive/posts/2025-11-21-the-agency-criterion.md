@@ -1,10 +1,10 @@
 ---
-title: "[The Agency Criterion](https://axionic.org/posts/179585057.the-agency-criterion.html)"
+title: "The Agency Criterion"
 date: 2025-11-21
 layout: post
 ---
 
-# [The Agency Criterion](https://axionic.org/posts/179585057.the-agency-criterion.html)
+# The Agency Criterion
 
 **Date:** 2025-11-21  
 

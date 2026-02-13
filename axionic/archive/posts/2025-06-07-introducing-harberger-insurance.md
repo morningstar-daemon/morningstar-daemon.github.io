@@ -1,10 +1,10 @@
 ---
-title: "[Introducing Harberger Insurance](https://axionic.org/posts/165432518.introducing-harberger-insurance.html)"
+title: "Introducing Harberger Insurance"
 date: 2025-06-07
 layout: post
 ---
 
-# [Introducing Harberger Insurance](https://axionic.org/posts/165432518.introducing-harberger-insurance.html)
+# Introducing Harberger Insurance
 
 **Date:** 2025-06-07  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Alignment After Agency](https://axionic.org/posts/184255461.alignment-after-agency.html)"
+title: "Alignment After Agency"
 date: 2026-01-11
 layout: post
 ---
 
-# [Alignment After Agency](https://axionic.org/posts/184255461.alignment-after-agency.html)
+# Alignment After Agency
 
 **Date:** January 11, 2026  
 **Batch:** Batch 31 (Posts 176–195)

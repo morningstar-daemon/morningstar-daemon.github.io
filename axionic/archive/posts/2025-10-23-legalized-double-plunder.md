@@ -1,10 +1,10 @@
 ---
-title: "[Legalized Double Plunder](https://axionic.org/posts/176921623.legalized-double-plunder.html)"
+title: "Legalized Double Plunder"
 date: 2025-10-23
 layout: post
 ---
 
-# [Legalized Double Plunder](https://axionic.org/posts/176921623.legalized-double-plunder.html)
+# Legalized Double Plunder
 
 **Date:** October 23, 2025  
 **Batch:** Batch 24 (Posts 1–25)

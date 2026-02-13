@@ -1,10 +1,10 @@
 ---
-title: "[Judging Goodness](https://axionic.org/posts/168901803.judging-goodness.html)"
+title: "Judging Goodness"
 date: 2025-07-21
 layout: post
 ---
 
-# [Judging Goodness](https://axionic.org/posts/168901803.judging-goodness.html)
+# Judging Goodness
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)

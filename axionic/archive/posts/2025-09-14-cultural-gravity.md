@@ -1,10 +1,10 @@
 ---
-title: "[Cultural Gravity](https://axionic.org/posts/173608962.cultural-gravity.html)"
+title: "Cultural Gravity"
 date: 2025-09-14
 layout: post
 ---
 
-# [Cultural Gravity](https://axionic.org/posts/173608962.cultural-gravity.html)
+# Cultural Gravity
 
 **Date:** September 14, 2025  
 **Batch:** Batch 13 (Posts 151–175)

@@ -1,10 +1,10 @@
 ---
-title: "[The Nuclear Counterfactual](https://axionic.org/posts/179578628.the-nuclear-counterfactual.html)"
+title: "The Nuclear Counterfactual"
 date: 2025-11-21
 layout: post
 ---
 
-# [The Nuclear Counterfactual](https://axionic.org/posts/179578628.the-nuclear-counterfactual.html)
+# The Nuclear Counterfactual
 
 **Date:** 2025-11-21  
 

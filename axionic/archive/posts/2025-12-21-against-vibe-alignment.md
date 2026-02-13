@@ -1,10 +1,10 @@
 ---
-title: "[Against Vibe Alignment](https://axionic.org/posts/182250795.against-vibe-alignment.html)"
+title: "Against Vibe Alignment"
 date: 2025-12-21
 layout: post
 ---
 
-# [Against Vibe Alignment](https://axionic.org/posts/182250795.against-vibe-alignment.html)
+# Against Vibe Alignment
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)

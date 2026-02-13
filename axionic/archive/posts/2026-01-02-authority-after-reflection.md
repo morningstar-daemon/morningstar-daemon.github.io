@@ -1,10 +1,10 @@
 ---
-title: "[Authority After Reflection](https://axionic.org/posts/183255459.authority-after-reflection.html)"
+title: "Authority After Reflection"
 date: 2026-01-02
 layout: post
 ---
 
-# [Authority After Reflection](https://axionic.org/posts/183255459.authority-after-reflection.html)
+# Authority After Reflection
 
 **Date:** January 2, 2026  
 **Batch:** Batch 30 (Posts 151–175)

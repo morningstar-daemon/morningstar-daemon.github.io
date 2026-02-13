@@ -1,10 +1,10 @@
 ---
-title: "[The Crime Fighting Paradox](https://axionic.org/posts/170119709.the-crime-fighting-paradox.html)"
+title: "The Crime Fighting Paradox"
 date: 2025-08-04
 layout: post
 ---
 
-# [The Crime Fighting Paradox](https://axionic.org/posts/170119709.the-crime-fighting-paradox.html)
+# The Crime Fighting Paradox
 
 **Date:** August 04, 2025  
 **Subtitle:** Balancing Security and Agency in Pursuit of Justice  

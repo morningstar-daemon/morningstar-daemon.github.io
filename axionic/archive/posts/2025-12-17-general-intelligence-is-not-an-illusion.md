@@ -1,10 +1,10 @@
 ---
-title: "[General Intelligence Is Not an Illusion](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)"
+title: "General Intelligence Is Not an Illusion"
 date: 2025-12-17
 layout: post
 ---
 
-# [General Intelligence Is Not an Illusion](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)
+# General Intelligence Is Not an Illusion
 
 **Date:** December 17, 2025  
 **Batch:** Batch 29 (Posts 126–150)

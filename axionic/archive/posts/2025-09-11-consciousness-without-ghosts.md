@@ -1,10 +1,10 @@
 ---
-title: "[Consciousness Without Ghosts](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)"
+title: "Consciousness Without Ghosts"
 date: 2025-09-11
 layout: post
 ---
 
-# [Consciousness Without Ghosts](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)
+# Consciousness Without Ghosts
 
 **Date:** September 11, 2025  
 **Batch:** Batch 12 (Posts 126–150)

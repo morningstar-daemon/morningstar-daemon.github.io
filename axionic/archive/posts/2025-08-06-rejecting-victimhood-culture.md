@@ -1,10 +1,10 @@
 ---
-title: "[Rejecting Victimhood Culture](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)"
+title: "Rejecting Victimhood Culture"
 date: 2025-08-06
 layout: post
 ---
 
-# [Rejecting Victimhood Culture](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)
+# Rejecting Victimhood Culture
 
 **Date:** August 6, 2025  
 **Batch:** Batch 24 (Posts 1–25)

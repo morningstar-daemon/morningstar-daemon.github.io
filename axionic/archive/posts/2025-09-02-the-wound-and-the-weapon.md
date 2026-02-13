@@ -1,10 +1,10 @@
 ---
-title: "[The Wound and the Weapon](https://axionic.org/posts/172613358.the-wound-and-the-weapon.html)"
+title: "The Wound and the Weapon"
 date: 2025-09-02
 layout: post
 ---
 
-# [The Wound and the Weapon](https://axionic.org/posts/172613358.the-wound-and-the-weapon.html)
+# The Wound and the Weapon
 
 **Date:** September 2, 2025  
 **Batch:** Batch 12 (Posts 126–150)

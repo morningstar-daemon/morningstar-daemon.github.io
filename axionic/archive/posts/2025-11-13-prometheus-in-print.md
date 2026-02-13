@@ -1,10 +1,10 @@
 ---
-title: "[Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)"
+title: "Prometheus in Print"
 date: 2025-11-13
 layout: post
 ---
 
-# [Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)
+# Prometheus in Print
 
 **Date:** November 13, 2025  
 **Series:** Technology & Civilization / Historical Analysis  

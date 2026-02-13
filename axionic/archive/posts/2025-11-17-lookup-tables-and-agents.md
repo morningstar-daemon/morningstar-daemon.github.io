@@ -1,10 +1,10 @@
 ---
-title: "[Lookup Tables and Agents](https://axionic.org/posts/179150747.lookup-tables-and-agents.html)"
+title: "Lookup Tables and Agents"
 date: 2025-11-17
 layout: post
 ---
 
-# [Lookup Tables and Agents](https://axionic.org/posts/179150747.lookup-tables-and-agents.html)
+# Lookup Tables and Agents
 
 **Date:** November 17, 2025  
 **Series:** Agency Theory / Philosophy of Mind  

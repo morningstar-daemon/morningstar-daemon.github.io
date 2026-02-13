@@ -1,10 +1,10 @@
 ---
-title: "[Do Ideas Move Atoms?](https://axionic.org/posts/164572808.do-ideas-move-atoms.html)"
+title: "Do Ideas Move Atoms?"
 date: 2025-05-27
 layout: post
 ---
 
-# [Do Ideas Move Atoms?](https://axionic.org/posts/164572808.do-ideas-move-atoms.html)
+# Do Ideas Move Atoms?
 
 **Date:** 2025-05-27  
 

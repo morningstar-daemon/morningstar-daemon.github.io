@@ -1,10 +1,10 @@
 ---
-title: "[Defending The Strong](https://axionic.org/posts/168596138.defending-the-strong.html)"
+title: "Defending The Strong"
 date: 2025-07-17
 layout: post
 ---
 
-# [Defending The Strong](https://axionic.org/posts/168596138.defending-the-strong.html)
+# Defending The Strong
 
 **Date:** July 17, 2025  
 **Batch:** Batch 08 (Posts 26–50)

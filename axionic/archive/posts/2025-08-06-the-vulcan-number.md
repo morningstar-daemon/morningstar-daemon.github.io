@@ -1,10 +1,10 @@
 ---
-title: "[The Vulcan Number](https://axionic.org/posts/170284204.the-vulcan-number.html)"
+title: "The Vulcan Number"
 date: 2025-08-06
 layout: post
 ---
 
-# [The Vulcan Number](https://axionic.org/posts/170284204.the-vulcan-number.html)
+# The Vulcan Number
 
 **Date:** August 6, 2025  
 **Batch:** Batch 24 (Posts 1–25)

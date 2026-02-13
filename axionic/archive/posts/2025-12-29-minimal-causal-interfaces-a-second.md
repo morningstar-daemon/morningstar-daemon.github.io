@@ -1,10 +1,10 @@
 ---
-title: "[Minimal Causal Interfaces](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)"
+title: "Minimal Causal Interfaces"
 date: 2025-12-29
 layout: post
 ---
 
-# [Minimal Causal Interfaces](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
+# Minimal Causal Interfaces
 
 **Date:** 2025-12-29  
 **Series:** Structural Verification (Marker 2)

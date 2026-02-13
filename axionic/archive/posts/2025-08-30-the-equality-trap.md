@@ -1,10 +1,10 @@
 ---
-title: "[The Equality Trap](https://axionic.org/posts/172367780.the-equality-trap.html)"
+title: "The Equality Trap"
 date: 2025-08-30
 layout: post
 ---
 
-# [The Equality Trap](https://axionic.org/posts/172367780.the-equality-trap.html)
+# The Equality Trap
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)

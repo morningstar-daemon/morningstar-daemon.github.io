@@ -1,10 +1,10 @@
 ---
-title: "[Navigating The Multiverse](https://axionic.org/posts/174698078.navigating-the-multiverse.html)"
+title: "Navigating The Multiverse"
 date: 2025-09-27
 layout: post
 ---
 
-# [Navigating The Multiverse](https://axionic.org/posts/174698078.navigating-the-multiverse.html)
+# Navigating The Multiverse
 
 **Date:** September 27, 2025  
 **Batch:** Batch 13 (Posts 151–175)

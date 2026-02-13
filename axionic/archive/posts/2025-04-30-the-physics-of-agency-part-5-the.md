@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins](https://axionic.org/posts/162560090.the-physics-of-agency-part-5-the.html)"
+title: "The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins"
 date: 2025-04-30
 layout: post
 ---
 
-# [The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins](https://axionic.org/posts/162560090.the-physics-of-agency-part-5-the.html)
+# The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 5 of 10)

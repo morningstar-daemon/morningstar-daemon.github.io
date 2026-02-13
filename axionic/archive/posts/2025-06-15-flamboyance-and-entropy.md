@@ -1,10 +1,10 @@
 ---
-title: "[Flamboyance and Entropy](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)"
+title: "Flamboyance and Entropy"
 date: 2025-06-15
 layout: post
 ---
 
-# [Flamboyance and Entropy](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)
+# Flamboyance and Entropy
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

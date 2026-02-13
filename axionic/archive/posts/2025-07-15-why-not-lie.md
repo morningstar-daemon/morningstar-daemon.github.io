@@ -1,10 +1,10 @@
 ---
-title: "[Why Not Lie?](https://axionic.org/posts/168391300.why-not-lie.html)"
+title: "Why Not Lie?"
 date: 2025-07-15
 layout: post
 ---
 
-# [Why Not Lie?](https://axionic.org/posts/168391300.why-not-lie.html)
+# Why Not Lie?
 
 **Date:** July 15, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

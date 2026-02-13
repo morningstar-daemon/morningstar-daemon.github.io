@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Late-Stage Capitalism](https://axionic.org/posts/168875141.the-myth-of-late-stage-capitalism.html)"
+title: "The Myth of Late-Stage Capitalism"
 date: 2025-07-21
 layout: post
 ---
 
-# [The Myth of Late-Stage Capitalism](https://axionic.org/posts/168875141.the-myth-of-late-stage-capitalism.html)
+# The Myth of Late-Stage Capitalism
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)

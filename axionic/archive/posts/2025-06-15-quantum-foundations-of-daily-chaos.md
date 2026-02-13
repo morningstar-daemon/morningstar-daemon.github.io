@@ -1,10 +1,10 @@
 ---
-title: "[Quantum Foundations of Daily Chaos](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)"
+title: "Quantum Foundations of Daily Chaos"
 date: 2025-06-15
 layout: post
 ---
 
-# [Quantum Foundations of Daily Chaos](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)
+# Quantum Foundations of Daily Chaos
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

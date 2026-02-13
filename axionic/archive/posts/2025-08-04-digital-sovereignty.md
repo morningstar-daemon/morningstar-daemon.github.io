@@ -1,10 +1,10 @@
 ---
-title: "[Digital Sovereignty](https://axionic.org/posts/170088316.digital-sovereignty.html)"
+title: "Digital Sovereignty"
 date: 2025-08-04
 layout: post
 ---
 
-# [Digital Sovereignty](https://axionic.org/posts/170088316.digital-sovereignty.html)
+# Digital Sovereignty
 
 **Date:** August 4, 2025  
 **Batch:** Batch 16 (New remaining list, posts 2-26)

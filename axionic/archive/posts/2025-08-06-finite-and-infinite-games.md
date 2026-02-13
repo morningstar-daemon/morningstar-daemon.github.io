@@ -1,10 +1,10 @@
 ---
-title: "[Finite and Infinite Games](https://axionic.org/posts/170298982.finite-and-infinite-games.html)"
+title: "Finite and Infinite Games"
 date: 2025-08-06
 layout: post
 ---
 
-# [Finite and Infinite Games](https://axionic.org/posts/170298982.finite-and-infinite-games.html)
+# Finite and Infinite Games
 
 **Date:** August 6, 2025  
 **Batch:** Batch 24 (Posts 1–25)

@@ -1,10 +1,10 @@
 ---
-title: "[Radical Contingency](https://axionic.org/posts/170091078.radical-contingency.html)"
+title: "Radical Contingency"
 date: 2025-08-04
 layout: post
 ---
 
-# [Radical Contingency](https://axionic.org/posts/170091078.radical-contingency.html)
+# Radical Contingency
 
 **Date:** August 4, 2025  
 **Batch:** Batch 22 (Posts 236–260)

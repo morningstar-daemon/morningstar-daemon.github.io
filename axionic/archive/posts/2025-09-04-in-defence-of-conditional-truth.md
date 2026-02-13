@@ -1,10 +1,10 @@
 ---
-title: "[In Defence of Conditional Truth](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)"
+title: "In Defence of Conditional Truth"
 date: 2025-09-04
 layout: post
 ---
 
-# [In Defence of Conditional Truth](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)
+# In Defence of Conditional Truth
 
 **Date:** September 4, 2025  
 **Batch:** Batch 12 (Posts 126–150)

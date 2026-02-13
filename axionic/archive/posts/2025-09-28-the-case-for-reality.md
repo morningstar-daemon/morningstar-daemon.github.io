@@ -1,10 +1,10 @@
 ---
-title: "[The Case for Reality](https://axionic.org/posts/174785128.the-case-for-reality.html)"
+title: "The Case for Reality"
 date: 2025-09-28
 layout: post
 ---
 
-# [The Case for Reality](https://axionic.org/posts/174785128.the-case-for-reality.html)
+# The Case for Reality
 
 **Date:** September 28, 2025  
 **Batch:** Batch 13 (Posts 151–175)

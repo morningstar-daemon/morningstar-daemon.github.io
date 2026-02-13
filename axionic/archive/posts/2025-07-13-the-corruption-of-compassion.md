@@ -1,10 +1,10 @@
 ---
-title: "[The Corruption of Compassion](https://axionic.org/posts/168217804.the-corruption-of-compassion.html)"
+title: "The Corruption of Compassion"
 date: 2025-07-13
 layout: post
 ---
 
-# [The Corruption of Compassion](https://axionic.org/posts/168217804.the-corruption-of-compassion.html)
+# The Corruption of Compassion
 
 **Date:** July 13, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

@@ -1,10 +1,10 @@
 ---
-title: "[Order from Contrast](https://axionic.org/posts/177311215.order-from-contrast.html)"
+title: "Order from Contrast"
 date: 2025-10-27
 layout: post
 ---
 
-# [Order from Contrast](https://axionic.org/posts/177311215.order-from-contrast.html)
+# Order from Contrast
 
 **Date:** October 27, 2025  
 **Batch:** Batch 24 (Posts 1–25)

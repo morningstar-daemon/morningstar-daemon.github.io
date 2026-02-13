@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of China's Communist Success](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)"
+title: "The Myth of China's Communist Success"
 date: 2025-10-21
 layout: post
 ---
 
-# [The Myth of China's Communist Success](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)
+# The Myth of China's Communist Success
 
 **Date:** October 21, 2025  
 **Batch:** Batch 14 (Posts 176–200)

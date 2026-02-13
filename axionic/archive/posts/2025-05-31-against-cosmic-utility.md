@@ -1,10 +1,10 @@
 ---
-title: "[Against Cosmic Utility](https://axionic.org/posts/164891451.against-cosmic-utility.html)"
+title: "Against Cosmic Utility"
 date: 2025-05-31
 layout: post
 ---
 
-# [Against Cosmic Utility](https://axionic.org/posts/164891451.against-cosmic-utility.html)
+# Against Cosmic Utility
 
 **Date:** 2025-05-31  
 

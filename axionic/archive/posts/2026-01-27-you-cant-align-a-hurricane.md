@@ -1,10 +1,10 @@
 ---
-title: "[You Can't Align a Hurricane](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)"
+title: "You Can't Align a Hurricane"
 date: 2026-01-27
 layout: post
 ---
 
-# [You Can't Align a Hurricane](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)
+# You Can't Align a Hurricane
 
 **Date:** January 27, 2026  
 **Batch:** Batch 31 (Posts 176–195)

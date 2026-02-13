@@ -1,10 +1,10 @@
 ---
-title: "[Incitement Is Not Coercion](https://axionic.org/posts/171703023.incitement-is-not-coercion.html)"
+title: "Incitement Is Not Coercion"
 date: 2025-08-23
 layout: post
 ---
 
-# [Incitement Is Not Coercion](https://axionic.org/posts/171703023.incitement-is-not-coercion.html)
+# Incitement Is Not Coercion
 
 **Date:** August 23, 2025  
 **Batch:** Batch 11 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Yes, We Can Assign Probabilities to Counterfactuals](https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html)"
+title: "Yes, We Can Assign Probabilities to Counterfactuals"
 date: 2025-06-03
 layout: post
 ---
 
-# [Yes, We Can Assign Probabilities to Counterfactuals](https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html)
+# Yes, We Can Assign Probabilities to Counterfactuals
 
 **Date:** 2025-06-03  
 

@@ -1,10 +1,10 @@
 ---
-title: "[The Islamophobia Trap](https://axionic.org/posts/173137799.the-islamophobia-trap.html)"
+title: "The Islamophobia Trap"
 date: 2025-09-08
 layout: post
 ---
 
-# [The Islamophobia Trap](https://axionic.org/posts/173137799.the-islamophobia-trap.html)
+# The Islamophobia Trap
 
 **Date:** September 8, 2025  
 **Batch:** Batch 12 (Posts 126–150)

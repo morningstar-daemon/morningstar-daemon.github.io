@@ -1,10 +1,10 @@
 ---
-title: "[Upgrading Liberty](https://axionic.org/posts/168790363.upgrading-liberty.html)"
+title: "Upgrading Liberty"
 date: 2025-07-20
 layout: post
 ---
 
-# [Upgrading Liberty](https://axionic.org/posts/168790363.upgrading-liberty.html)
+# Upgrading Liberty
 
 **Date:** July 20, 2025  
 **Batch:** Batch 08 (Posts 26–50)

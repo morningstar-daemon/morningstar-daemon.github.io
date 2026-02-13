@@ -1,10 +1,10 @@
 ---
-title: "[Entangled Truths](https://axionic.org/posts/174125219.entangled-truths.html)"
+title: "Entangled Truths"
 date: 2025-09-20
 layout: post
 ---
 
-# [Entangled Truths](https://axionic.org/posts/174125219.entangled-truths.html)
+# Entangled Truths
 
 **Date:** September 20, 2025  
 **Batch:** Batch 13 (Posts 151–175)

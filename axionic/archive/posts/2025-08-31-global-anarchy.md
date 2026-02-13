@@ -1,10 +1,10 @@
 ---
-title: "[Global Anarchy](https://axionic.org/posts/172427377.global-anarchy.html)"
+title: "Global Anarchy"
 date: 2025-08-31
 layout: post
 ---
 
-# [Global Anarchy](https://axionic.org/posts/172427377.global-anarchy.html)
+# Global Anarchy
 
 **Date:** August 31, 2025  
 **Batch:** Batch 12 (Posts 126–150)

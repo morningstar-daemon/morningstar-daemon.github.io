@@ -1,10 +1,10 @@
 ---
-title: "[Exemplars and Agency](https://axionic.org/posts/182596460.exemplars-and-agency.html)"
+title: "Exemplars and Agency"
 date: 2025-12-25
 layout: post
 ---
 
-# [Exemplars and Agency](https://axionic.org/posts/182596460.exemplars-and-agency.html)
+# Exemplars and Agency
 
 **Date:** December 25, 2025  
 **Batch:** Batch 29 (Posts 126–150)

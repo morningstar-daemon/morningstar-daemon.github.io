@@ -1,10 +1,10 @@
 ---
-title: "[The Case for West Asia](https://axionic.org/posts/165906304.the-case-for-west-asia.html)"
+title: "The Case for West Asia"
 date: 2025-06-13
 layout: post
 ---
 
-# [The Case for West Asia](https://axionic.org/posts/165906304.the-case-for-west-asia.html)
+# The Case for West Asia
 
 **Date:** June 13, 2025  
 **Batch:** Batch 05 (Posts 101–125)

@@ -1,10 +1,10 @@
 ---
-title: "[Truth Machines](https://axionic.org/posts/177760320.truth-machines.html)"
+title: "Truth Machines"
 date: 2025-11-01
 layout: post
 ---
 
-# [Truth Machines](https://axionic.org/posts/177760320.truth-machines.html)
+# Truth Machines
 
 **Date:** November 01, 2025  
 **Batch:** Batch 02 (Posts 026–050)

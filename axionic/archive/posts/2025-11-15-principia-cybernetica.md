@@ -1,10 +1,10 @@
 ---
-title: "[Principia Cybernetica](https://axionic.org/posts/179007101.principia-cybernetica.html)"
+title: "Principia Cybernetica"
 date: 2025-11-15
 layout: post
 ---
 
-# [Principia Cybernetica](https://axionic.org/posts/179007101.principia-cybernetica.html)
+# Principia Cybernetica
 
 **Date:** November 15, 2025  
 **Series:** Intellectual History / Systems Philosophy  

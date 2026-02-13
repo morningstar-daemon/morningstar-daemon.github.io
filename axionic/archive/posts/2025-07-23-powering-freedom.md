@@ -1,10 +1,10 @@
 ---
-title: "[Powering Freedom](https://axionic.org/posts/169071397.powering-freedom.html)"
+title: "Powering Freedom"
 date: 2025-07-23
 layout: post
 ---
 
-# [Powering Freedom](https://axionic.org/posts/169071397.powering-freedom.html)
+# Powering Freedom
 
 **Date:** July 23, 2025  
 **Batch:** Batch 08 (Posts 26–50)

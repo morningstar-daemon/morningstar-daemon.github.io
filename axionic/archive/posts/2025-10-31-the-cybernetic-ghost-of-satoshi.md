@@ -1,10 +1,10 @@
 ---
-title: "[The Cybernetic Ghost of Satoshi](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)"
+title: "The Cybernetic Ghost of Satoshi"
 date: 2025-10-31
 layout: post
 ---
 
-# [The Cybernetic Ghost of Satoshi](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)
+# The Cybernetic Ghost of Satoshi
 
 **Date:** October 31, 2025  
 **Batch:** Batch 02 (Posts 026–050)

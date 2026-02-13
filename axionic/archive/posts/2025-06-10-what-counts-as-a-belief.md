@@ -1,10 +1,10 @@
 ---
-title: "[What Counts as a Belief](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)"
+title: "What Counts as a Belief"
 date: 2025-06-10
 layout: post
 ---
 
-# [What Counts as a Belief](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)
+# What Counts as a Belief
 
 **Date:** 2025-06-10  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Foresight Is Not Intelligence](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)"
+title: "Foresight Is Not Intelligence"
 date: 2025-09-05
 layout: post
 ---
 
-# [Foresight Is Not Intelligence](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)
+# Foresight Is Not Intelligence
 
 **Date:** September 5, 2025  
 **Batch:** Batch 12 (Posts 126–150)

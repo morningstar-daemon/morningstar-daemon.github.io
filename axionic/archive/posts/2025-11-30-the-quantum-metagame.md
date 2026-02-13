@@ -1,10 +1,10 @@
 ---
-title: "[The Quantum Metagame](https://axionic.org/posts/180339872.the-quantum-metagame.html)"
+title: "The Quantum Metagame"
 date: 2025-11-30
 layout: post
 ---
 
-# [The Quantum Metagame](https://axionic.org/posts/180339872.the-quantum-metagame.html)
+# The Quantum Metagame
 
 **Date:** November 30, 2025  
 **Batch:** Batch 05 (Posts 101–125)

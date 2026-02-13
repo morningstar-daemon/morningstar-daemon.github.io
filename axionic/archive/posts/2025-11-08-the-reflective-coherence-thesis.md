@@ -1,10 +1,10 @@
 ---
-title: "[The Reflective Coherence Thesis](https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html)"
+title: "The Reflective Coherence Thesis"
 date: 2025-11-08
 layout: post
 ---
 
-# [The Reflective Coherence Thesis](https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html)
+# The Reflective Coherence Thesis
 
 **Date:** November 08, 2025  
 **Series:** Phosphorism / Intelligence Theory

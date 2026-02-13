@@ -1,10 +1,10 @@
 ---
-title: "[Consciousness From Constructors](https://axionic.org/posts/171909085.consciousness-from-constructors.html)"
+title: "Consciousness From Constructors"
 date: 2025-08-25
 layout: post
 ---
 
-# [Consciousness From Constructors](https://axionic.org/posts/171909085.consciousness-from-constructors.html)
+# Consciousness From Constructors
 
 **Date:** August 25, 2025  
 **Batch:** Batch 11 (Posts 101–125)

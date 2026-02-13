@@ -1,10 +1,10 @@
 ---
-title: "[The Vastness of π](https://axionic.org/posts/167947701.the-vastness-of.html)"
+title: "The Vastness of π"
 date: 2025-07-09
 layout: post
 ---
 
-# [The Vastness of π](https://axionic.org/posts/167947701.the-vastness-of.html)
+# The Vastness of π
 
 **Date:** July 9, 2025  
 **Batch:** Batch 24 (Posts 1–25)

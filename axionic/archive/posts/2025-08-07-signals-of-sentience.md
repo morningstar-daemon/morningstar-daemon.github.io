@@ -1,10 +1,10 @@
 ---
-title: "[Signals of Sentience](https://axionic.org/posts/170390075.signals-of-sentience.html)"
+title: "Signals of Sentience"
 date: 2025-08-07
 layout: post
 ---
 
-# [Signals of Sentience](https://axionic.org/posts/170390075.signals-of-sentience.html)
+# Signals of Sentience
 
 **Date:** August 7, 2025  
 **Batch:** Batch 24 (Posts 1–25)

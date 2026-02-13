@@ -1,10 +1,10 @@
 ---
-title: "[Utopian Visions](https://axionic.org/posts/165424913.utopian-visions.html)"
+title: "Utopian Visions"
 date: 2025-06-07
 layout: post
 ---
 
-# [Utopian Visions](https://axionic.org/posts/165424913.utopian-visions.html)
+# Utopian Visions
 
 **Date:** 2025-06-07  
 

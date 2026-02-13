@@ -1,10 +1,10 @@
 ---
-title: "[Against Bigotry, Against Relativism](https://axionic.org/posts/171158027.against-bigotry-against-relativism.html)"
+title: "Against Bigotry, Against Relativism"
 date: 2025-08-16
 layout: post
 ---
 
-# [Against Bigotry, Against Relativism](https://axionic.org/posts/171158027.against-bigotry-against-relativism.html)
+# Against Bigotry, Against Relativism
 
 **Date:** August 16, 2025  
 **Batch:** Batch 10 (Posts 76–100)

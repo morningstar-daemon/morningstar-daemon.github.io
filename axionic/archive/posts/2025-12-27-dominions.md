@@ -1,10 +1,10 @@
 ---
-title: "[Dominions](https://axionic.org/posts/182730693.dominions.html)"
+title: "Dominions"
 date: 2025-12-27
 layout: post
 ---
 
-# [Dominions](https://axionic.org/posts/182730693.dominions.html)
+# Dominions
 
 **Date:** December 27, 2025  
 **Batch:** Batch 29 (Posts 126–150)

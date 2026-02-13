@@ -1,10 +1,10 @@
 ---
-title: "[When Marx Meets Moloch](https://axionic.org/posts/170886757.when-marx-meets-moloch.html)"
+title: "When Marx Meets Moloch"
 date: 2025-08-13
 layout: post
 ---
 
-# [When Marx Meets Moloch](https://axionic.org/posts/170886757.when-marx-meets-moloch.html)
+# When Marx Meets Moloch
 
 **Date:** August 13, 2025  
 **Batch:** Batch 10 (Posts 76–100)

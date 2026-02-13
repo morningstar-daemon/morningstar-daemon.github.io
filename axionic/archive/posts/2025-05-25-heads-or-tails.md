@@ -1,10 +1,10 @@
 ---
-title: "[Heads or Tails](https://axionic.org/posts/164425191.heads-or-tails.html)"
+title: "Heads or Tails"
 date: 2025-05-25
 layout: post
 ---
 
-# [Heads or Tails](https://axionic.org/posts/164425191.heads-or-tails.html)
+# Heads or Tails
 
 **Date:** 2025-05-25  
 

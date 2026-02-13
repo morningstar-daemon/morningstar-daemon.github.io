@@ -1,10 +1,10 @@
 ---
-title: "[Pearl and the Machine](https://axionic.org/posts/176518519.pearl-and-the-machine.html)"
+title: "Pearl and the Machine"
 date: 2025-10-18
 layout: post
 ---
 
-# [Pearl and the Machine](https://axionic.org/posts/176518519.pearl-and-the-machine.html)
+# Pearl and the Machine
 
 **Date:** October 18, 2025  
 **Batch:** Batch 14 (Posts 176–200)

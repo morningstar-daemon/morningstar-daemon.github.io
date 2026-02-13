@@ -1,10 +1,10 @@
 ---
-title: "[Progressive Shibboleths](https://axionic.org/posts/170274859.progressive-shibboleths.html)"
+title: "Progressive Shibboleths"
 date: 2025-08-06
 layout: post
 ---
 
-# [Progressive Shibboleths](https://axionic.org/posts/170274859.progressive-shibboleths.html)
+# Progressive Shibboleths
 
 **Date:** August 6, 2025  
 **Batch:** Batch 24 (Posts 1–25)

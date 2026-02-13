@@ -1,10 +1,10 @@
 ---
-title: "[Cancel Culture](https://axionic.org/posts/173950922.cancel-culture.html)"
+title: "Cancel Culture"
 date: 2025-09-18
 layout: post
 ---
 
-# [Cancel Culture](https://axionic.org/posts/173950922.cancel-culture.html)
+# Cancel Culture
 
 **Date:** September 18, 2025  
 **Batch:** Batch 13 (Posts 151–175)

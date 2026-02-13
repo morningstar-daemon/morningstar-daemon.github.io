@@ -1,10 +1,10 @@
 ---
-title: "[Alignment Through Competing Lenses](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)"
+title: "Alignment Through Competing Lenses"
 date: 2025-12-21
 layout: post
 ---
 
-# [Alignment Through Competing Lenses](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)
+# Alignment Through Competing Lenses
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)

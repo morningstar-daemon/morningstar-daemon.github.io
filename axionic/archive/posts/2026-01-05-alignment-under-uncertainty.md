@@ -1,10 +1,10 @@
 ---
-title: "[Alignment Under Uncertainty](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)"
+title: "Alignment Under Uncertainty"
 date: 2026-01-05
 layout: post
 ---
 
-# [Alignment Under Uncertainty](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)
+# Alignment Under Uncertainty
 
 **Date:** January 5, 2026  
 **Batch:** Batch 30 (Posts 151–175)

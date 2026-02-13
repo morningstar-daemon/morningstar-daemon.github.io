@@ -1,10 +1,10 @@
 ---
-title: "[The Metagame Sequence](https://axionic.org/posts/180340867.the-metagame-sequence.html)"
+title: "The Metagame Sequence"
 date: 2025-11-30
 layout: post
 ---
 
-# [The Metagame Sequence](https://axionic.org/posts/180340867.the-metagame-sequence.html)
+# The Metagame Sequence
 
 **Date:** November 30, 2025  
 **Batch:** Batch 05 (Posts 101–125)

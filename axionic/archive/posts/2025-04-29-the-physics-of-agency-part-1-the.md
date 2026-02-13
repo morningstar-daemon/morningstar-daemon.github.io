@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency, Part 1: The Physical Nature of Agency](https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html)"
+title: "The Physics of Agency, Part 1: The Physical Nature of Agency"
 date: 2025-04-29
 layout: post
 ---
 
-# [The Physics of Agency, Part 1: The Physical Nature of Agency](https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html)
+# The Physics of Agency, Part 1: The Physical Nature of Agency
 
 **Date:** 2025-04-29  
 **Series:** Physics of Agency (Part 1 of 10)

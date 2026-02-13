@@ -1,10 +1,10 @@
 ---
-title: "[Defending GEB](https://axionic.org/posts/179971939.defending-geb.html)"
+title: "Defending GEB"
 date: 2025-11-25
 layout: post
 ---
 
-# [Defending GEB](https://axionic.org/posts/179971939.defending-geb.html)
+# Defending GEB
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)

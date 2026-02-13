@@ -1,10 +1,10 @@
 ---
-title: "[Great Progress](https://axionic.org/posts/171156280.great-progress.html)"
+title: "Great Progress"
 date: 2025-08-16
 layout: post
 ---
 
-# [Great Progress](https://axionic.org/posts/171156280.great-progress.html)
+# Great Progress
 
 **Date:** August 16, 2025  
 **Batch:** Batch 10 (Posts 76–100)

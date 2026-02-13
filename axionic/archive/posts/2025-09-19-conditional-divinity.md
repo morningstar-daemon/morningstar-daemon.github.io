@@ -1,10 +1,10 @@
 ---
-title: "[Conditional Divinity](https://axionic.org/posts/174067441.conditional-divinity.html)"
+title: "Conditional Divinity"
 date: 2025-09-19
 layout: post
 ---
 
-# [Conditional Divinity](https://axionic.org/posts/174067441.conditional-divinity.html)
+# Conditional Divinity
 
 **Date:** September 19, 2025  
 **Batch:** Batch 13 (Posts 151–175)

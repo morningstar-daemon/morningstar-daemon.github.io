@@ -1,10 +1,10 @@
 ---
-title: "[The Death of Politics](https://axionic.org/posts/175530394.the-death-of-politics.html)"
+title: "The Death of Politics"
 date: 2025-10-07
 layout: post
 ---
 
-# [The Death of Politics](https://axionic.org/posts/175530394.the-death-of-politics.html)
+# The Death of Politics
 
 **Date:** October 7, 2025  
 **Batch:** Batch 14 (Posts 176–200)

@@ -1,10 +1,10 @@
 ---
-title: "[Anchored Causal Verification](https://axionic.org/posts/182973159.anchored-causal-verification.html)"
+title: "Anchored Causal Verification"
 date: 2025-12-30
 layout: post
 ---
 
-# [Anchored Causal Verification](https://axionic.org/posts/182973159.anchored-causal-verification.html)
+# Anchored Causal Verification
 
 **Date:** December 30, 2025  
 **Batch:** Batch 30 (Posts 151–175)

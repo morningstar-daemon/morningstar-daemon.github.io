@@ -1,10 +1,10 @@
 ---
-title: "[Randomness and Determinism](https://axionic.org/posts/166000195.randomness-and-determinism.html)"
+title: "Randomness and Determinism"
 date: 2025-06-15
 layout: post
 ---
 
-# [Randomness and Determinism](https://axionic.org/posts/166000195.randomness-and-determinism.html)
+# Randomness and Determinism
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)

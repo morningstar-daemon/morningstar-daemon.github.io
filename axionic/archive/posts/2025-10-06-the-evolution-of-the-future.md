@@ -1,10 +1,10 @@
 ---
-title: "[The Evolution of the Future](https://axionic.org/posts/175474848.the-evolution-of-the-future.html)"
+title: "The Evolution of the Future"
 date: 2025-10-06
 layout: post
 ---
 
-# [The Evolution of the Future](https://axionic.org/posts/175474848.the-evolution-of-the-future.html)
+# The Evolution of the Future
 
 **Date:** October 6, 2025  
 **Batch:** Batch 14 (Posts 176–200)

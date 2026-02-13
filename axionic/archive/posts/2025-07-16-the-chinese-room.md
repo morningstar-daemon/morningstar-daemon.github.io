@@ -1,10 +1,10 @@
 ---
-title: "[The Chinese Room](https://axionic.org/posts/168496408.the-chinese-room.html)"
+title: "The Chinese Room"
 date: 2025-07-16
 layout: post
 ---
 
-# [The Chinese Room](https://axionic.org/posts/168496408.the-chinese-room.html)
+# The Chinese Room
 
 **Date:** July 16, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

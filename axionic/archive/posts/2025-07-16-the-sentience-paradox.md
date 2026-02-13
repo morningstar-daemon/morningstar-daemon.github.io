@@ -1,10 +1,10 @@
 ---
-title: "[The Sentience Paradox](https://axionic.org/posts/168495314.the-sentience-paradox.html)"
+title: "The Sentience Paradox"
 date: 2025-07-16
 layout: post
 ---
 
-# [The Sentience Paradox](https://axionic.org/posts/168495314.the-sentience-paradox.html)
+# The Sentience Paradox
 
 **Date:** July 16, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

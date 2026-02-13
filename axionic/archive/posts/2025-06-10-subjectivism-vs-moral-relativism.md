@@ -1,10 +1,10 @@
 ---
-title: "[Subjectivism vs. Moral Relativism](https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html)"
+title: "Subjectivism vs. Moral Relativism"
 date: 2025-06-10
 layout: post
 ---
 
-# [Subjectivism vs. Moral Relativism](https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html)
+# Subjectivism vs. Moral Relativism
 
 **Date:** June 10, 2025  
 **Batch:** Batch 05 (Posts 101–125)

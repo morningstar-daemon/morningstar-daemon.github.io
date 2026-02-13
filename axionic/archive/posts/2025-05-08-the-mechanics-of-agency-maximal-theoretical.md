@@ -1,10 +1,10 @@
 ---
-title: "[The Mechanics of Agency: Maximal Theoretical Agent](https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html)"
+title: "The Mechanics of Agency: Maximal Theoretical Agent"
 date: 2025-05-08
 layout: post
 ---
 
-# [The Mechanics of Agency: Maximal Theoretical Agent](https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html)
+# The Mechanics of Agency: Maximal Theoretical Agent
 
 **Date:** 2025-05-08  
 

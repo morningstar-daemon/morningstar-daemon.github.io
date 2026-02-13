@@ -1,10 +1,10 @@
 ---
-title: "[What is Suffering?](https://axionic.org/posts/167672844.what-is-suffering.html)"
+title: "What is Suffering?"
 date: 2025-07-06
 layout: post
 ---
 
-# [What is Suffering?](https://axionic.org/posts/167672844.what-is-suffering.html)
+# What is Suffering?
 
 **Date:** July 06, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)

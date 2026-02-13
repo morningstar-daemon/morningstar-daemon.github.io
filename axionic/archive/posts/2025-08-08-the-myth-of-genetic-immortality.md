@@ -1,10 +1,10 @@
 ---
-title: "[The Myth of Genetic Immortality](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)"
+title: "The Myth of Genetic Immortality"
 date: 2025-08-08
 layout: post
 ---
 
-# [The Myth of Genetic Immortality](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)
+# The Myth of Genetic Immortality
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)

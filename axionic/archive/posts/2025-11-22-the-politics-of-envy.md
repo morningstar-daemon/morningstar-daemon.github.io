@@ -1,10 +1,10 @@
 ---
-title: "[The Politics of Envy](https://axionic.org/posts/179677934.the-politics-of-envy.html)"
+title: "The Politics of Envy"
 date: 2025-11-22
 layout: post
 ---
 
-# [The Politics of Envy](https://axionic.org/posts/179677934.the-politics-of-envy.html)
+# The Politics of Envy
 
 **Date:** November 22, 2025  
 **Batch:** Batch 27 (Posts 076–100)

@@ -1,10 +1,10 @@
 ---
-title: "[The Starlight Analogy](https://axionic.org/posts/163789945.the-starlight-analogy.html)"
+title: "The Starlight Analogy"
 date: 2025-05-17
 layout: post
 ---
 
-# [The Starlight Analogy](https://axionic.org/posts/163789945.the-starlight-analogy.html)
+# The Starlight Analogy
 
 **Date:** 2025-05-17  
 

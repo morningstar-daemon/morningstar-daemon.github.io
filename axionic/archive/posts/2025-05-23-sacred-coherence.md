@@ -1,10 +1,10 @@
 ---
-title: "[Sacred Coherence](https://axionic.org/posts/164275423.sacred-coherence.html)"
+title: "Sacred Coherence"
 date: 2025-05-23
 layout: post
 ---
 
-# [Sacred Coherence](https://axionic.org/posts/164275423.sacred-coherence.html)
+# Sacred Coherence
 
 **Date:** 2025-05-23  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Dear Ancestors](https://axionic.org/posts/170117705.dear-ancestors.html)"
+title: "Dear Ancestors"
 date: 2025-08-04
 layout: post
 ---
 
-# [Dear Ancestors](https://axionic.org/posts/170117705.dear-ancestors.html)
+# Dear Ancestors
 
 **Date:** August 04, 2025  
 **Subtitle:** Explaining My Modern Values to Those Who Came Before  

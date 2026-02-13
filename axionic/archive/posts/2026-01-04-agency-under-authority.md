@@ -1,10 +1,10 @@
 ---
-title: "[Agency Under Authority](https://axionic.org/posts/183487653.agency-under-authority.html)"
+title: "Agency Under Authority"
 date: 2026-01-04
 layout: post
 ---
 
-# [Agency Under Authority](https://axionic.org/posts/183487653.agency-under-authority.html)
+# Agency Under Authority
 
 **Date:** January 4, 2026  
 **Batch:** Batch 30 (Posts 151–175)

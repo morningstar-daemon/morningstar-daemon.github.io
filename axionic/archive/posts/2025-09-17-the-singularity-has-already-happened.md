@@ -1,10 +1,10 @@
 ---
-title: "[The Singularity Has Already Happened](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)"
+title: "The Singularity Has Already Happened"
 date: 2025-09-17
 layout: post
 ---
 
-# [The Singularity Has Already Happened](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)
+# The Singularity Has Already Happened
 
 **Date:** September 17, 2025  
 **Batch:** Batch 13 (Posts 151–175)

@@ -1,10 +1,10 @@
 ---
-title: "[Models, Beliefs, and Agents](https://axionic.org/posts/179148217.models-beliefs-and-agents.html)"
+title: "Models, Beliefs, and Agents"
 date: 2025-11-17
 layout: post
 ---
 
-# [Models, Beliefs, and Agents](https://axionic.org/posts/179148217.models-beliefs-and-agents.html)
+# Models, Beliefs, and Agents
 
 **Date:** November 17, 2025  
 **Series:** Synthesis / Philosophy of Mind  

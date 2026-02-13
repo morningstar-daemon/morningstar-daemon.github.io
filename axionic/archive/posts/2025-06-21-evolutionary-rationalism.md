@@ -1,10 +1,10 @@
 ---
-title: "[Evolutionary Rationalism](https://axionic.org/posts/166439024.evolutionary-rationalism.html)"
+title: "Evolutionary Rationalism"
 date: 2025-06-21
 layout: post
 ---
 
-# [Evolutionary Rationalism](https://axionic.org/posts/166439024.evolutionary-rationalism.html)
+# Evolutionary Rationalism
 
 **Date:** June 21, 2025  
 **Batch:** Batch 06 (Posts 138–162)

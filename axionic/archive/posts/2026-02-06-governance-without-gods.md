@@ -1,10 +1,10 @@
 ---
-title: "[Governance Without Gods](https://axionic.org/posts/187096691.governance-without-gods.html)"
+title: "Governance Without Gods"
 date: 2026-02-06
 layout: post
 ---
 
-# [Governance Without Gods](https://axionic.org/posts/187096691.governance-without-gods.html)
+# Governance Without Gods
 
 **Date:** February 6, 2026  
 **Batch:** Batch 31 (Posts 176–195)

@@ -1,10 +1,10 @@
 ---
-title: "[When All Possibilities Happen](https://axionic.org/posts/175473326.when-all-possibilities-happen.html)"
+title: "When All Possibilities Happen"
 date: 2025-10-06
 layout: post
 ---
 
-# [When All Possibilities Happen](https://axionic.org/posts/175473326.when-all-possibilities-happen.html)
+# When All Possibilities Happen
 
 **Date:** October 6, 2025  
 **Batch:** Batch 14 (Posts 176–200)

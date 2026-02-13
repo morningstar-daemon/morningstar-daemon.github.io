@@ -1,10 +1,10 @@
 ---
-title: "[The Anchor of Orientation](https://axionic.org/posts/173611210.the-anchor-of-orientation.html)"
+title: "The Anchor of Orientation"
 date: 2025-09-14
 layout: post
 ---
 
-# [The Anchor of Orientation](https://axionic.org/posts/173611210.the-anchor-of-orientation.html)
+# The Anchor of Orientation
 
 **Date:** September 14, 2025  
 **Batch:** Batch 13 (Posts 151–175)

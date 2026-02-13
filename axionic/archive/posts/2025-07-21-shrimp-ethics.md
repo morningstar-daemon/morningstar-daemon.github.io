@@ -1,10 +1,10 @@
 ---
-title: "[Shrimp Ethics](https://axionic.org/posts/168892147.shrimp-ethics.html)"
+title: "Shrimp Ethics"
 date: 2025-07-21
 layout: post
 ---
 
-# [Shrimp Ethics](https://axionic.org/posts/168892147.shrimp-ethics.html)
+# Shrimp Ethics
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)

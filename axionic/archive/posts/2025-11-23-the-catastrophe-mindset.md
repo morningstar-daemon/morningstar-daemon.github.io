@@ -1,10 +1,10 @@
 ---
-title: "[The Catastrophe Mindset](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)"
+title: "The Catastrophe Mindset"
 date: 2025-11-23
 layout: post
 ---
 
-# [The Catastrophe Mindset](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)
+# The Catastrophe Mindset
 
 **Date:** November 23, 2025  
 **Batch:** Batch 27 (Posts 076–100)

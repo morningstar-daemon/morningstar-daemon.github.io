@@ -1,10 +1,10 @@
 ---
-title: "[Consciousness Explained](https://axionic.org/posts/180550525.consciousness-explained.html)"
+title: "Consciousness Explained"
 date: 2025-12-03
 layout: post
 ---
 
-# [Consciousness Explained](https://axionic.org/posts/180550525.consciousness-explained.html)
+# Consciousness Explained
 
 **Date:** December 3, 2025  
 **Batch:** Batch 27 (Posts 076–100)

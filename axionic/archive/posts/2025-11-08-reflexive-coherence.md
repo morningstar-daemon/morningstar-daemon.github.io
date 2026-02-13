@@ -1,10 +1,10 @@
 ---
-title: "[Reflexive Coherence](https://axionic.org/posts/178362242.reflexive-coherence.html)"
+title: "Reflexive Coherence"
 date: 2025-11-08
 layout: post
 ---
 
-# [Reflexive Coherence](https://axionic.org/posts/178362242.reflexive-coherence.html)
+# Reflexive Coherence
 
 **Date:** November 08, 2025  
 **Batch:** Batch 02 (Posts 026–050)

@@ -1,10 +1,10 @@
 ---
-title: "[The Physics of Agency Sequence](https://axionic.org/posts/178436667.the-physics-of-agency-sequence.html)"
+title: "The Physics of Agency Sequence"
 date: 2025-11-09
 layout: post
 ---
 
-# [The Physics of Agency Sequence](https://axionic.org/posts/178436667.the-physics-of-agency-sequence.html)
+# The Physics of Agency Sequence
 
 **Date:** November 09, 2025  
 **Type:** Sequence Navigation  

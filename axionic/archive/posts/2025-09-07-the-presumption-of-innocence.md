@@ -1,10 +1,10 @@
 ---
-title: "[The Presumption of Innocence](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)"
+title: "The Presumption of Innocence"
 date: 2025-09-07
 layout: post
 ---
 
-# [The Presumption of Innocence](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)
+# The Presumption of Innocence
 
 **Date:** September 7, 2025  
 **Batch:** Batch 12 (Posts 126–150)

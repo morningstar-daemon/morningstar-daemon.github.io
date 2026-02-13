@@ -1,10 +1,10 @@
 ---
-title: "[Escaping the AI Safety Dystopia](https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html)"
+title: "Escaping the AI Safety Dystopia"
 date: 2025-07-22
 layout: post
 ---
 
-# [Escaping the AI Safety Dystopia](https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html)
+# Escaping the AI Safety Dystopia
 
 **Date:** July 22, 2025  
 **Batch:** Batch 08 (Posts 26–50)

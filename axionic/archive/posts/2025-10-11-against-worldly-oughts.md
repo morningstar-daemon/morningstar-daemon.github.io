@@ -1,10 +1,10 @@
 ---
-title: "[Against Worldly Oughts](https://axionic.org/posts/175891239.against-worldly-oughts.html)"
+title: "Against Worldly Oughts"
 date: 2025-10-11
 layout: post
 ---
 
-# [Against Worldly Oughts](https://axionic.org/posts/175891239.against-worldly-oughts.html)
+# Against Worldly Oughts
 
 **Date:** October 11, 2025  
 **Batch:** Batch 14 (Posts 176–200)

@@ -1,10 +1,10 @@
 ---
-title: "[Proof-of-human](https://axionic.org/posts/168992728.proof-of-human.html)"
+title: "Proof-of-human"
 date: 2025-07-22
 layout: post
 ---
 
-# [Proof-of-human](https://axionic.org/posts/168992728.proof-of-human.html)
+# Proof-of-human
 
 **Date:** July 22, 2025  
 **Batch:** Batch 08 (Posts 26–50)

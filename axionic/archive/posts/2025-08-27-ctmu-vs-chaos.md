@@ -1,10 +1,10 @@
 ---
-title: "[CTMU vs. Chaos](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)"
+title: "CTMU vs. Chaos"
 date: 2025-08-27
 layout: post
 ---
 
-# [CTMU vs. Chaos](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)
+# CTMU vs. Chaos
 
 **Date:** August 27, 2025  
 **Batch:** Batch 11 (Posts 101–125)

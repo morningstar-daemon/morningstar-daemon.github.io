@@ -1,10 +1,10 @@
 ---
-title: "[The Silver Pill](https://axionic.org/posts/168244764.the-silver-pill.html)"
+title: "The Silver Pill"
 date: 2025-07-14
 layout: post
 ---
 
-# [The Silver Pill](https://axionic.org/posts/168244764.the-silver-pill.html)
+# The Silver Pill
 
 **Date:** July 14, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)

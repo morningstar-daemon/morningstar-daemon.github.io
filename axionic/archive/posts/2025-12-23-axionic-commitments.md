@@ -1,10 +1,10 @@
 ---
-title: "[Axionic Commitments](https://axionic.org/posts/182463091.axionic-commitments.html)"
+title: "Axionic Commitments"
 date: 2025-12-23
 layout: post
 ---
 
-# [Axionic Commitments](https://axionic.org/posts/182463091.axionic-commitments.html)
+# Axionic Commitments
 
 **Date:** December 23, 2025  
 **Batch:** Batch 29 (Posts 126–150)

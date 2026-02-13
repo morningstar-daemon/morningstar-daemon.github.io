@@ -1,10 +1,10 @@
 ---
-title: "[The End of Intellectual Property](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)"
+title: "The End of Intellectual Property"
 date: 2025-06-25
 layout: post
 ---
 
-# [The End of Intellectual Property](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)
+# The End of Intellectual Property
 
 **Date:** June 25, 2025  
 **Batch:** Batch 07 (Posts 1–25)

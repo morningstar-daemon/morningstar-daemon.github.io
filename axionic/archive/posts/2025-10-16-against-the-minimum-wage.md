@@ -1,10 +1,10 @@
 ---
-title: "[Against the Minimum Wage](https://axionic.org/posts/176368883.against-the-minimum-wage.html)"
+title: "Against the Minimum Wage"
 date: 2025-10-16
 layout: post
 ---
 
-# [Against the Minimum Wage](https://axionic.org/posts/176368883.against-the-minimum-wage.html)
+# Against the Minimum Wage
 
 **Date:** October 16, 2025  
 **Batch:** Batch 14 (Posts 176–200)

@@ -1,10 +1,10 @@
 ---
-title: "[Blue Flight](https://axionic.org/posts/176140519.blue-flight.html)"
+title: "Blue Flight"
 date: 2025-10-14
 layout: post
 ---
 
-# [Blue Flight](https://axionic.org/posts/176140519.blue-flight.html)
+# Blue Flight
 
 **Date:** October 14, 2025  
 **Batch:** Batch 14 (Posts 176–200)

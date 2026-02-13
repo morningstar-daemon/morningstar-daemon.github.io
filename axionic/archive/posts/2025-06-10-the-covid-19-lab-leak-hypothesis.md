@@ -1,10 +1,10 @@
 ---
-title: "[The COVID-19 Lab Leak Hypothesis](https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html)"
+title: "The COVID-19 Lab Leak Hypothesis"
 date: 2025-06-10
 layout: post
 ---
 
-# [The COVID-19 Lab Leak Hypothesis](https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html)
+# The COVID-19 Lab Leak Hypothesis
 
 **Date:** June 10, 2025  
 **Batch:** Batch 05 (Posts 101–125)

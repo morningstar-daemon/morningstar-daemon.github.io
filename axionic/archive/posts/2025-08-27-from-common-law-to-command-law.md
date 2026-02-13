@@ -1,10 +1,10 @@
 ---
-title: "[From Common Law to Command Law](https://axionic.org/posts/172049474.from-common-law-to-command-law.html)"
+title: "From Common Law to Command Law"
 date: 2025-08-27
 layout: post
 ---
 
-# [From Common Law to Command Law](https://axionic.org/posts/172049474.from-common-law-to-command-law.html)
+# From Common Law to Command Law
 
 **Date:** August 27, 2025  
 **Batch:** Batch 11 (Posts 101–125)

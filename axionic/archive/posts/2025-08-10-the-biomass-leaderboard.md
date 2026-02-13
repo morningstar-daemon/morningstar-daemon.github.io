@@ -1,10 +1,10 @@
 ---
-title: "[The Biomass Leaderboard](https://axionic.org/posts/170626450.the-biomass-leaderboard.html)"
+title: "The Biomass Leaderboard"
 date: 2025-08-10
 layout: post
 ---
 
-# [The Biomass Leaderboard](https://axionic.org/posts/170626450.the-biomass-leaderboard.html)
+# The Biomass Leaderboard
 
 **Date:** August 10, 2025  
 **Batch:** Batch 10 (Posts 76–100)

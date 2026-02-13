@@ -1,10 +1,10 @@
 ---
-title: "[The Defending Bayes Sequence](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)"
+title: "The Defending Bayes Sequence"
 date: 2025-11-09
 layout: post
 ---
 
-# [The Defending Bayes Sequence](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)
+# The Defending Bayes Sequence
 
 **Date:** November 09, 2025  
 **Batch:** Batch 02 (Posts 026–050)

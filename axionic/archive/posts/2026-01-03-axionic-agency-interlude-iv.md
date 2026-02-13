@@ -1,10 +1,10 @@
 ---
-title: "[Axionic Agency — Interlude IV](https://axionic.org/posts/183376003.axionic-agency-interlude-iv.html)"
+title: "Axionic Agency — Interlude IV"
 date: 2026-01-03
 layout: post
 ---
 
-# [Axionic Agency — Interlude IV](https://axionic.org/posts/183376003.axionic-agency-interlude-iv.html)
+# Axionic Agency — Interlude IV
 
 **Date:** January 3, 2026  
 **Batch:** Batch 30 (Posts 151–175)

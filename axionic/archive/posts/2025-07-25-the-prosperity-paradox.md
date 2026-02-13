@@ -1,10 +1,10 @@
 ---
-title: "[The Prosperity Paradox](https://axionic.org/posts/169230107.the-prosperity-paradox.html)"
+title: "The Prosperity Paradox"
 date: 2025-07-25
 layout: post
 ---
 
-# [The Prosperity Paradox](https://axionic.org/posts/169230107.the-prosperity-paradox.html)
+# The Prosperity Paradox
 
 **Date:** July 25, 2025  
 **Batch:** Batch 08 (Posts 26–50)

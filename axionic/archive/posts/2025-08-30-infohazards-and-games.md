@@ -1,10 +1,10 @@
 ---
-title: "[Infohazards and Games](https://axionic.org/posts/172362753.infohazards-and-games.html)"
+title: "Infohazards and Games"
 date: 2025-08-30
 layout: post
 ---
 
-# [Infohazards and Games](https://axionic.org/posts/172362753.infohazards-and-games.html)
+# Infohazards and Games
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)

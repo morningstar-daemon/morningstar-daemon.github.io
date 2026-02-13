@@ -1,10 +1,10 @@
 ---
-title: "[Understanding Spirituality](https://axionic.org/posts/171158991.understanding-spirituality.html)"
+title: "Understanding Spirituality"
 date: 2025-08-16
 layout: post
 ---
 
-# [Understanding Spirituality](https://axionic.org/posts/171158991.understanding-spirituality.html)
+# Understanding Spirituality
 
 **Date:** August 16, 2025  
 **Batch:** Batch 10 (Posts 76–100)

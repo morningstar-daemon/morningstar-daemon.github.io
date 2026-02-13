@@ -1,10 +1,10 @@
 ---
-title: "[Modern Monetary Fallacy](https://axionic.org/posts/165301790.modern-monetary-fallacy.html)"
+title: "Modern Monetary Fallacy"
 date: 2025-06-05
 layout: post
 ---
 
-# [Modern Monetary Fallacy](https://axionic.org/posts/165301790.modern-monetary-fallacy.html)
+# Modern Monetary Fallacy
 
 **Date:** 2025-06-05  
 

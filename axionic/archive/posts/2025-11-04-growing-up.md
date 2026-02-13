@@ -1,10 +1,10 @@
 ---
-title: "[Growing Up](https://axionic.org/posts/178029403.growing-up.html)"
+title: "Growing Up"
 date: 2025-11-04
 layout: post
 ---
 
-# [Growing Up](https://axionic.org/posts/178029403.growing-up.html)
+# Growing Up
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)

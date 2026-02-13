@@ -1,10 +1,10 @@
 ---
-title: "[Failure Modes of Pressure](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)"
+title: "Failure Modes of Pressure"
 date: 2026-01-16
 layout: post
 ---
 
-# [Failure Modes of Pressure](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)
+# Failure Modes of Pressure
 
 **Date:** January 16, 2026  
 **Batch:** Batch 31 (Posts 176–195)

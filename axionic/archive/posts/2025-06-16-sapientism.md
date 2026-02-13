@@ -1,10 +1,10 @@
 ---
-title: "[Sapientism](https://axionic.org/posts/166033482.sapientism.html)"
+title: "Sapientism"
 date: 2025-06-16
 layout: post
 ---
 
-# [Sapientism](https://axionic.org/posts/166033482.sapientism.html)
+# Sapientism
 
 **Date:** June 16, 2025  
 **Batch:** Batch 05 (Posts 113–137)

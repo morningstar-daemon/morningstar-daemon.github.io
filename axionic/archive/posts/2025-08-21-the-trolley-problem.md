@@ -1,10 +1,10 @@
 ---
-title: "[The Trolley Problem](https://axionic.org/posts/171523071.the-trolley-problem.html)"
+title: "The Trolley Problem"
 date: 2025-08-21
 layout: post
 ---
 
-# [The Trolley Problem](https://axionic.org/posts/171523071.the-trolley-problem.html)
+# The Trolley Problem
 
 **Date:** August 21, 2025  
 **Batch:** Batch 11 (Posts 101–125)

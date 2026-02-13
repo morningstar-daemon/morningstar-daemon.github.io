@@ -1,10 +1,10 @@
 ---
-title: "[Filters in Chaos](https://axionic.org/posts/172130342.filters-in-chaos.html)"
+title: "Filters in Chaos"
 date: 2025-08-27
 layout: post
 ---
 
-# [Filters in Chaos](https://axionic.org/posts/172130342.filters-in-chaos.html)
+# Filters in Chaos
 
 **Date:** August 27, 2025  
 **Batch:** Batch 11 (Posts 101–125)

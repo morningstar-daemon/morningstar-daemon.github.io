@@ -1,10 +1,10 @@
 ---
-title: "[Reasonable Disagreement](https://axionic.org/posts/164937702.reasonable-disagreement.html)"
+title: "Reasonable Disagreement"
 date: 2025-06-01
 layout: post
 ---
 
-# [Reasonable Disagreement](https://axionic.org/posts/164937702.reasonable-disagreement.html)
+# Reasonable Disagreement
 
 **Date:** 2025-06-01  
 

@@ -1,10 +1,10 @@
 ---
-title: "[Mechanics of Agency: Quantum Decisions](https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html)"
+title: "Mechanics of Agency: Quantum Decisions"
 date: 2025-05-04
 layout: post
 ---
 
-# [Mechanics of Agency: Quantum Decisions](https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html)
+# Mechanics of Agency: Quantum Decisions
 
 **Date:** 2025-05-04  
 

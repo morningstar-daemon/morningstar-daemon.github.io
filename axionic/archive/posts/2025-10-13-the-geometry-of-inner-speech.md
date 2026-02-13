@@ -1,10 +1,10 @@
 ---
-title: "[The Geometry of Inner Speech](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)"
+title: "The Geometry of Inner Speech"
 date: 2025-10-13
 layout: post
 ---
 
-# [The Geometry of Inner Speech](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)
+# The Geometry of Inner Speech
 
 **Date:** October 13, 2025  
 **Batch:** Batch 14 (Posts 176–200)

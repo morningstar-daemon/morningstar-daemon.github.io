@@ -1,10 +1,10 @@
 ---
-title: "[Defending Hate Speech](https://axionic.org/posts/170458928.defending-hate-speech.html)"
+title: "Defending Hate Speech"
 date: 2025-08-08
 layout: post
 ---
 
-# [Defending Hate Speech](https://axionic.org/posts/170458928.defending-hate-speech.html)
+# Defending Hate Speech
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)

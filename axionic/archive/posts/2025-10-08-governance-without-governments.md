@@ -1,10 +1,10 @@
 ---
-title: "[Governance Without Governments](https://axionic.org/posts/175657828.governance-without-governments.html)"
+title: "Governance Without Governments"
 date: 2025-10-08
 layout: post
 ---
 
-# [Governance Without Governments](https://axionic.org/posts/175657828.governance-without-governments.html)
+# Governance Without Governments
 
 **Date:** October 8, 2025  
 **Batch:** Batch 14 (Posts 176–200)

@@ -1,10 +1,10 @@
 ---
-title: "[Introducing LARPitarianism](https://axionic.org/posts/164446895.introducing-larpitarianism.html)"
+title: "Introducing LARPitarianism"
 date: 2025-05-26
 layout: post
 ---
 
-# [Introducing LARPitarianism](https://axionic.org/posts/164446895.introducing-larpitarianism.html)
+# Introducing LARPitarianism
 
 **Date:** 2025-05-26  
 

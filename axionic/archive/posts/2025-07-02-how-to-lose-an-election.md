@@ -1,10 +1,10 @@
 ---
-title: "[How To Lose an Election](https://axionic.org/posts/167353865.how-to-lose-an-election.html)"
+title: "How To Lose an Election"
 date: 2025-07-02
 layout: post
 ---
 
-# [How To Lose an Election](https://axionic.org/posts/167353865.how-to-lose-an-election.html)
+# How To Lose an Election
 
 **Date:** July 2, 2025  
 **Batch:** Batch 07 (Posts 1–25)

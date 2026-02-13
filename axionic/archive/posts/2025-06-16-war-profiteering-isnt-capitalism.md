@@ -1,10 +1,10 @@
 ---
-title: "[War Profiteering Isn't Capitalism](https://axionic.org/posts/166074493.war-profiteering-isnt-capitalism.html)"
+title: "War Profiteering Isn't Capitalism"
 date: 2025-06-16
 layout: post
 ---
 
-# [War Profiteering Isn't Capitalism](https://axionic.org/posts/166074493.war-profiteering-isnt-capitalism.html)
+# War Profiteering Isn't Capitalism
 
 **Date:** June 16, 2025  
 **Batch:** Batch 05 (Posts 113–137)

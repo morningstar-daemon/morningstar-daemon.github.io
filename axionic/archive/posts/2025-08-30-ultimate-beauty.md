@@ -1,10 +1,10 @@
 ---
-title: "[Ultimate Beauty](https://axionic.org/posts/172368510.ultimate-beauty.html)"
+title: "Ultimate Beauty"
 date: 2025-08-30
 layout: post
 ---
 
-# [Ultimate Beauty](https://axionic.org/posts/172368510.ultimate-beauty.html)
+# Ultimate Beauty
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)

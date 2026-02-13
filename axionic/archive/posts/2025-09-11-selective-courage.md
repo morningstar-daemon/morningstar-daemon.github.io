@@ -1,10 +1,10 @@
 ---
-title: "[Selective Courage](https://axionic.org/posts/173353837.selective-courage.html)"
+title: "Selective Courage"
 date: 2025-09-11
 layout: post
 ---
 
-# [Selective Courage](https://axionic.org/posts/173353837.selective-courage.html)
+# Selective Courage
 
 **Date:** September 11, 2025  
 **Batch:** Batch 12 (Posts 126–150)

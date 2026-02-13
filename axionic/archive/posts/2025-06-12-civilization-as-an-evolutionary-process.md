@@ -1,10 +1,10 @@
 ---
-title: "[Civilization as an Evolutionary Process](https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html)"
+title: "Civilization as an Evolutionary Process"
 date: 2025-06-12
 layout: post
 ---
 
-# [Civilization as an Evolutionary Process](https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html)
+# Civilization as an Evolutionary Process
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)

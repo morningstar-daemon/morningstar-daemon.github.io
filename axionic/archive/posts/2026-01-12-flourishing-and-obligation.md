@@ -1,10 +1,10 @@
 ---
-title: "[Flourishing and Obligation](https://axionic.org/posts/184262903.flourishing-and-obligation.html)"
+title: "Flourishing and Obligation"
 date: 2026-01-12
 layout: post
 ---
 
-# [Flourishing and Obligation](https://axionic.org/posts/184262903.flourishing-and-obligation.html)
+# Flourishing and Obligation
 
 **Date:** January 12, 2026  
 **Batch:** Batch 31 (Posts 176–195)

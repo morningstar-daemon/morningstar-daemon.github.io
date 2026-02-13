@@ -1,10 +1,10 @@
 ---
-title: "[The Bitter Lesson](https://axionic.org/posts/168570057.the-bitter-lesson.html)"
+title: "The Bitter Lesson"
 date: 2025-07-17
 layout: post
 ---
 
-# [The Bitter Lesson](https://axionic.org/posts/168570057.the-bitter-lesson.html)
+# The Bitter Lesson
 
 **Date:** July 17, 2025  
 **Batch:** Batch 08 (Posts 26–50)

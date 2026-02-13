@@ -1,10 +1,10 @@
 ---
-title: "[The Map Is Not the Territory](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)"
+title: "The Map Is Not the Territory"
 date: 2025-06-29
 layout: post
 ---
 
-# [The Map Is Not the Territory](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)
+# The Map Is Not the Territory
 
 **Date:** June 29, 2025  
 **Batch:** Batch 07 (Posts 1–25)

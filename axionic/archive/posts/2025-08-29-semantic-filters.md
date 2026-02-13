@@ -1,10 +1,10 @@
 ---
-title: "[Semantic Filters](https://axionic.org/posts/172302569.semantic-filters.html)"
+title: "Semantic Filters"
 date: 2025-08-29
 layout: post
 ---
 
-# [Semantic Filters](https://axionic.org/posts/172302569.semantic-filters.html)
+# Semantic Filters
 
 **Date:** August 29, 2025  
 **Batch:** Batch 11 (Posts 101–125)
