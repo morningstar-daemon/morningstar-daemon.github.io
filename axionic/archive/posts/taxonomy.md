@@ -4,151 +4,151 @@
 
 ## Core Philosophical Frameworks
 
-### [quantum](../tags/quantum.html)
+### [quantum](../tags/quantum.md)
 Quantum mechanics, Many-Worlds interpretation, branching realities, measure, decoherence, Everettian physics, quantum free will, locality/non-locality debates.
 
-### [conditionalism](../tags/conditionalism.html)
+### [conditionalism](../tags/conditionalism.md)
 Truth as conditional/relational rather than absolute, agent-relative truth, coherence within binding contexts, semantic constraints, rejection of worldly oughts.
 
-### [agency](../tags/agency.html)
+### [agency](../tags/agency.md)
 Physical basis of agency, choice, control, sovereignty, reflective agency, axionic agents, agent boundaries, identity, persistence across time/branches.
 
-### [chaos](../tags/chaos.html)
+### [chaos](../tags/chaos.md)
 Infinite randomness as ontological foundation, chaos reservoir, emergence of order from disorder, maximum entropy baseline, Ruliad connections.
 
-### [coherence](../tags/coherence.html)
+### [coherence](../tags/coherence.md)
 Pattern stability, self-consistency, information preservation, semantic filters, lawful regularities emerging from chaos, constructor theory.
 
-### [physics](../tags/physics.html)
+### [physics](../tags/physics.md)
 Thermodynamics, entropy, energy, causation, constructors, laws of nature, time, determinism vs randomness, physical constraints on agency.
 
 ## Ethics & Politics
 
-### [ethics](../tags/ethics.html)
+### [ethics](../tags/ethics.md)
 Moral philosophy, viability ethics, harm/coercion, rights, obligations, value, consent, justice, evil, utilitarianism critique, deontology critique, moral agency.
 
-### [value-theory](../tags/value-theory.html)
+### [value-theory](../tags/value-theory.md)
 Subjective vs objective value, revealed preference, sacrifice as signal, opportunity cost, agent-binding, valuation mechanisms, economic value.
 
-### [metaethics](../tags/metaethics.html)
+### [metaethics](../tags/metaethics.md)
 Nature of moral truth, moral realism vs subjectivism, error theory, fictionalism, normative vs evaluative claims, agent-relative ethics.
 
-### [moral-realism](../tags/moral-realism.html)
+### [moral-realism](../tags/moral-realism.md)
 Objective morality debates, Hume's is/ought problem, error theory (Mackie), moral fictionalism (Joyce), universalism vs relativism.
 
-### [definitions](../tags/definitions.html)
+### [definitions](../tags/definitions.md)
 Rigorous operational definitions: coercion, consent, harm, rights, agency, value. Philosophical precision, conceptual boundaries.
 
-### [liberty](../tags/liberty.html)
+### [liberty](../tags/liberty.md)
 Individual freedom, sovereignty, voluntarism, consent, coercion boundaries, libertarianism, anarchism, free speech, cognitive freedom.
 
-### [politics](../tags/politics.html)
+### [politics](../tags/politics.md)
 Governance, democracy, axiocracy, authority, power, legitimacy, state critique, coercion, coordination vs control, political philosophy.
 
-### [redistribution](../tags/redistribution.html)
+### [redistribution](../tags/redistribution.md)
 Wealth transfers, taxation, welfare, coercive vs voluntary redistribution, poverty vs inequality, agency-based critique.
 
-### [immigration](../tags/immigration.html)
+### [immigration](../tags/immigration.md)
 Border policy, open borders, voluntary association, cultural threat arguments, selective filtering, agency preservation.
 
-### [equality](../tags/equality.html)
+### [equality](../tags/equality.md)
 Equal opportunity vs equal outcomes, normative vs evaluative equality, egalitarianism critique, equity debates.
 
-### [authoritarianism](../tags/authoritarianism.html)
+### [authoritarianism](../tags/authoritarianism.md)
 Power concentration, illiberal politics, censorship, authoritarian cycle, instrumentalism, principle vs expediency.
 
-### [economics](../tags/economics.html)
+### [economics](../tags/economics.md)
 Markets, incentives, property, trade, capitalism, socialism critique, wealth inequality, public goods, taxation as coercion, metagames.
 
 ## AI & Technology
 
-### [ai-alignment](../tags/ai-alignment.html)
+### [ai-alignment](../tags/ai-alignment.md)
 AGI safety, alignment problem, goal stability, orthogonality thesis, structural alignment, axionic alignment, kernel architecture, semantic safety.
 
 
-### [ai-agency](../tags/ai-agency.html)
+### [ai-agency](../tags/ai-agency.md)
 Autonomous systems, reflective AI, sovereign AI, self-modification, AI rights, artificial agents vs tools, emergent agency.
 
-### [hybrid-architecture](../tags/hybrid-architecture.html)
+### [hybrid-architecture](../tags/hybrid-architecture.md)
 Human-AI collaboration, dialectic catalysts, dual-aspect systems, kernel+modeler design, separation of concerns, semantic constraint layers.
 
 ## Cognition & Mind
 
-### [consciousness](../tags/consciousness.html)
+### [consciousness](../tags/consciousness.md)
 Hard problem, phenomenology, self-model theory, recursive awareness, qualia, zombie arguments, Dennett critique, experience vs function.
 
-### [epistemology](../tags/epistemology.html)
+### [epistemology](../tags/epistemology.md)
 Knowledge, truth, belief, justification, Bayesian reasoning, calibration, models, understanding, representation, credence.
 
-### [bayesianism](../tags/bayesianism.html)
+### [bayesianism](../tags/bayesianism.md)
 Probability, inference, priors, evidence, updating, rationality, statistical reasoning, Pearl's causality, prediction vs understanding.
 
-### [models](../tags/models.html)
+### [models](../tags/models.md)
 Mental models, world models, representation, abstraction, simulation, explanation, cybernetic control, understanding through structure.
 
 ## Systems & Complexity
 
-### [cybernetics](../tags/cybernetics.html)
+### [cybernetics](../tags/cybernetics.md)
 Control theory, feedback, regulation, homeostasis, minimal models, Good Regulator Theorem, Ashby's Law, system stability.
 
-### [metagames](../tags/metagames.html)
+### [metagames](../tags/metagames.md)
 Game theory, incentive structures, coordination problems, defection, cooperation, infinite games, evolutionary dynamics, pattern competition.
 
-### [emergence](../tags/emergence.html)
+### [emergence](../tags/emergence.md)
 Bottom-up order, phase transitions, criticality, self-organization, complexity from simplicity, spontaneous structure.
 
-### [memetics](../tags/memetics.html)
+### [memetics](../tags/memetics.md)
 Idea evolution, cultural transmission, egregores, mind viruses, memetic engineering, singularities in thought-space, pattern replication.
 
 ## Civilization & Society
 
-### [governance](../tags/governance.html)
+### [governance](../tags/governance.md)
 Political organization, coordination mechanisms, law, authority, legitimacy, common law vs command law, federalism, dominions.
 
-### [civilization](../tags/civilization.html)
+### [civilization](../tags/civilization.md)
 Cultural evolution, progress, technology adoption, institutional change, long-term trajectories, historical patterns.
 
-### [history](../tags/history.html)
+### [history](../tags/history.md)
 Historical analysis, counterfactuals, case studies, civilizational comparisons, origin stories, mythogenesis.
 
-### [culture](../tags/culture.html)
+### [culture](../tags/culture.md)
 Social norms, values, identity, meaning-making, ritual, sacredness, tradition, cultural gravity, zeitgeist.
 
 ## Specific Debates & Critiques
 
-### [rationality-critique](../tags/rationality-critique.html)
+### [rationality-critique](../tags/rationality-critique.md)
 Limits of optimization, bounded agency, satisficing, legibility tradeoffs, measurement hazards, overconfidence in models.
 
 
-### [effective-altruism](../tags/effective-altruism.html)
+### [effective-altruism](../tags/effective-altruism.md)
 Singer's drowning child, moral extortion, demandingness, obligation vs supererogation, scope insensitivity, utilitarian critique.
 
 
-### [virtue-ethics](../tags/virtue-ethics.html)
+### [virtue-ethics](../tags/virtue-ethics.md)
 Aristotelian flourishing, character, excellences, moral development, teleology critique, virtue as personal style.
 
-### [consequentialism](../tags/consequentialism.html)
+### [consequentialism](../tags/consequentialism.md)
 Outcomes-based ethics, utilitarianism, aggregate welfare, agent-neutral vs agent-relative, decision theory.
 
-### [deontology](../tags/deontology.html)
+### [deontology](../tags/deontology.md)
 Rule-based ethics, Kantian imperatives, duties, categorical obligations, voluntary codes, constraint selection.
 
-### [identity-politics](../tags/identity-politics.html)
+### [identity-politics](../tags/identity-politics.md)
 Gender, race, orientation, victimhood culture, intersectionality critique, biological vs social categories, signaling.
 
-### [religion](../tags/religion.html)
+### [religion](../tags/religion.md)
 Theism, atheism, faith, naturalistic spirituality, meaning without gods, secular transcendence, belief calibration.
 
 ## Technical Concepts
 
-### [reflective-stability](../tags/reflective-stability.html)
+### [reflective-stability](../tags/reflective-stability.md)
 Self-modification boundaries, invariant preservation, kernel constraints, sovereign stability theorem, agency continuity.
 
 
-### [constructor-theory](../tags/constructor-theory.html)
+### [constructor-theory](../tags/constructor-theory.md)
 Possible/impossible transformations, counterfactual definiteness, laws as constructor constraints, Deutsch/Marletto framework.
 
-### [information-theory](../tags/information-theory.html)
+### [information-theory](../tags/information-theory.md)
 Entropy, Shannon information, compression, description length, mutual information, channel capacity.
 
 ## Philosopher References
@@ -157,40 +157,40 @@ Entropy, Shannon information, compression, description length, mutual informatio
 
 
 
-### [parfit](../tags/parfit.html)
+### [parfit](../tags/parfit.md)
 Derek Parfit: personal identity, population ethics, Repugnant Conclusion, reasons and persons.
 
 
 ## Behavioral & Economic Concepts
 
-### [revealed-preference](../tags/revealed-preference.html)
+### [revealed-preference](../tags/revealed-preference.md)
 Actions over words, sacrifice as signal, behavioral economics, valuation through choice.
 
-### [signaling](../tags/signaling.html)
+### [signaling](../tags/signaling.md)
 Costly signaling, virtue signaling, reputation, status games, credibility mechanisms.
 
 
-### [money](../tags/money.html)
+### [money](../tags/money.md)
 Currency, exchange medium, value measurement, fungibility, salability, coordination technology.
 
 
 ## Meta Tags
 
-### [sequence](../tags/sequence.html)
+### [sequence](../tags/sequence.md)
 Part of a numbered sequence or series (Chaos, Quantum, AI, Axiocracy, etc.)
 
-### [interlude](../tags/interlude.html)
+### [interlude](../tags/interlude.md)
 Synthesis/recap post connecting multiple threads
 
 
-### [case-study](../tags/case-study.html)
+### [case-study](../tags/case-study.md)
 Specific example/application of general principle
 
-### [dialogue](../tags/dialogue.html)
+### [dialogue](../tags/dialogue.md)
 Conversational/debate format
 
 
-### [synthesis](../tags/synthesis.html)
+### [synthesis](../tags/synthesis.md)
 Major integrative post tying together multiple threads or sequences.
 
 ---
@@ -222,30 +222,30 @@ Major integrative post tying together multiple threads or sequences.
 
 
 
-### [spontaneous-order](../tags/spontaneous-order.html)
+### [spontaneous-order](../tags/spontaneous-order.md)
 Hayek's concept, emergent coordination without central planning, market processes, common law evolution.
 
 
 
 
 
-### [bioethics](../tags/bioethics.html)
+### [bioethics](../tags/bioethics.md)
 Embryo selection, reproductive ethics, genetic screening, personhood boundaries, selection vs annihilation distinction.
 
 
 
-### [indigenous-rights](../tags/indigenous-rights.html)
+### [indigenous-rights](../tags/indigenous-rights.md)
 Property rights, cultural autonomy, restitution principles, voluntary agreements, agency-enhancing charity.
 
-### [restitution](../tags/restitution.html)
+### [restitution](../tags/restitution.md)
 Justice after historical harm, agency restoration, voluntary conditional agreements, avoiding new coercion.
 
-### [copyright](../tags/copyright.html)
+### [copyright](../tags/copyright.md)
 Intellectual property, AI training as learning not copying, transformative use, fair use doctrine, Authors Guild v. Google.
 
 
 
-### [llms](../tags/llms.html)
+### [llms](../tags/llms.md)
 Large language models, statistical pattern encoding, learning vs storage, generalization from training data.
 
 
@@ -255,12 +255,12 @@ Large language models, statistical pattern encoding, learning vs storage, genera
 
 
 
-### [tribalism](../tags/tribalism.html)
+### [tribalism](../tags/tribalism.md)
 Group loyalty, collectivist impulses, individualism suspicion, evolutionary predispositions, political dynamics.
 
 
 
-### [classical-liberalism](../tags/classical-liberalism.html)
+### [classical-liberalism](../tags/classical-liberalism.md)
 Individual liberty, free markets, limited government, rule of law, property rights, tolerance/pluralism, spontaneous order. Why unpopular despite success.
 
 ## Tag Cloud Statistics (Through Batch 4)
@@ -336,7 +336,7 @@ Individual liberty, free markets, limited government, rule of law, property righ
 
 
 
-### [sacrifice-pattern](../tags/sacrifice-pattern.html)
+### [sacrifice-pattern](../tags/sacrifice-pattern.md)
 How systems destroy agency without intending to. Optimization that depends on captive populations or variance sinks.
 
 
@@ -383,7 +383,7 @@ How systems destroy agency without intending to. Optimization that depends on ca
 
 
 
-### [structural-alignment](../tags/structural-alignment.html)
+### [structural-alignment](../tags/structural-alignment.md)
 What alignment means when goals don't survive intelligence. Architecture-level coherence vs value preservation.
 
 
@@ -462,7 +462,7 @@ What alignment means when goals don't survive intelligence. Architecture-level c
 
 
 
-### [bad-faith](../tags/bad-faith.html)
+### [bad-faith](../tags/bad-faith.md)
 Art of sabotaging discourse. Tactical dishonesty patterns in debate.
 
 
