@@ -1,3 +1,9 @@
+---
+title: "[Alignment Through Competing Lenses](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)"
+date: 2025-12-21
+layout: post
+---
+
 # [Alignment Through Competing Lenses](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)
 
 **Date:** December 21, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Principia Cybernetica](https://axionic.org/posts/179007101.principia-cybernetica.html)"
+date: 2025-11-15
+layout: post
+---
+
 # [Principia Cybernetica](https://axionic.org/posts/179007101.principia-cybernetica.html)
 
 **Date:** November 15, 2025  

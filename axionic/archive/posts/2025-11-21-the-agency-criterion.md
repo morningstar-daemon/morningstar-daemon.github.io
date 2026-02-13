@@ -1,3 +1,9 @@
+---
+title: "[The Agency Criterion](https://axionic.org/posts/179585057.the-agency-criterion.html)"
+date: 2025-11-21
+layout: post
+---
+
 # [The Agency Criterion](https://axionic.org/posts/179585057.the-agency-criterion.html)
 
 **Date:** 2025-11-21  

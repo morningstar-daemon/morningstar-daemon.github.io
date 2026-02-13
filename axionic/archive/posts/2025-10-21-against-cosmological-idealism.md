@@ -1,3 +1,9 @@
+---
+title: "[Against Cosmological Idealism](https://axionic.org/posts/176755720.against-cosmological-idealism.html)"
+date: 2025-10-21
+layout: post
+---
+
 # [Against Cosmological Idealism](https://axionic.org/posts/176755720.against-cosmological-idealism.html)
 
 **Date:** October 21, 2025  

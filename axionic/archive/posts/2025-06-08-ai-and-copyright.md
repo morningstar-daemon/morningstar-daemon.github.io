@@ -1,3 +1,9 @@
+---
+title: "[AI and Copyright](https://axionic.org/posts/165479695.ai-and-copyright.html)"
+date: 2025-06-08
+layout: post
+---
+
 # [AI and Copyright](https://axionic.org/posts/165479695.ai-and-copyright.html)
 
 **Date:** 2025-06-08  

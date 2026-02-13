@@ -1,3 +1,9 @@
+---
+title: "[Communism at Home](https://axionic.org/posts/165430456.communism-at-home.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Communism at Home](https://axionic.org/posts/165430456.communism-at-home.html)
 
 **Date:** 2025-06-07  

@@ -1,3 +1,9 @@
+---
+title: "[The Biomass Leaderboard](https://axionic.org/posts/170626450.the-biomass-leaderboard.html)"
+date: 2025-08-10
+layout: post
+---
+
 # [The Biomass Leaderboard](https://axionic.org/posts/170626450.the-biomass-leaderboard.html)
 
 **Date:** August 10, 2025  

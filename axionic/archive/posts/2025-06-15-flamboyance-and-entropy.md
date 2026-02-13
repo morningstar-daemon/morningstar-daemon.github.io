@@ -1,3 +1,9 @@
+---
+title: "[Flamboyance and Entropy](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Flamboyance and Entropy](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)
 
 **Date:** June 15, 2025  

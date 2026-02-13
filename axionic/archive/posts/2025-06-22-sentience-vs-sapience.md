@@ -1,3 +1,9 @@
+---
+title: "[Sentience vs. Sapience](https://axionic.org/posts/166538433.sentience-vs-sapience.html)"
+date: 2025-06-22
+layout: post
+---
+
 # [Sentience vs. Sapience](https://axionic.org/posts/166538433.sentience-vs-sapience.html)
 
 **Date:** June 22, 2025  

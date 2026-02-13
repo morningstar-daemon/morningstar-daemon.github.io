@@ -1,3 +1,9 @@
+---
+title: "[The Cybernetic Ghost of Satoshi](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)"
+date: 2025-10-31
+layout: post
+---
+
 # [The Cybernetic Ghost of Satoshi](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)
 
 **Date:** October 31, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Powering Freedom](https://axionic.org/posts/169071397.powering-freedom.html)"
+date: 2025-07-23
+layout: post
+---
+
 # [Powering Freedom](https://axionic.org/posts/169071397.powering-freedom.html)
 
 **Date:** July 23, 2025  

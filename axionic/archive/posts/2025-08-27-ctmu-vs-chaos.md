@@ -1,3 +1,9 @@
+---
+title: "[CTMU vs. Chaos](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)"
+date: 2025-08-27
+layout: post
+---
+
 # [CTMU vs. Chaos](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)
 
 **Date:** August 27, 2025  

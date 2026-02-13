@@ -1,3 +1,9 @@
+---
+title: "[False Kindness](https://axionic.org/posts/171682575.false-kindness.html)"
+date: 2025-08-22
+layout: post
+---
+
 # [False Kindness](https://axionic.org/posts/171682575.false-kindness.html)
 
 **Date:** August 22, 2025  

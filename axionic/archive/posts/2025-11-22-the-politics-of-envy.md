@@ -1,3 +1,9 @@
+---
+title: "[The Politics of Envy](https://axionic.org/posts/179677934.the-politics-of-envy.html)"
+date: 2025-11-22
+layout: post
+---
+
 # [The Politics of Envy](https://axionic.org/posts/179677934.the-politics-of-envy.html)
 
 **Date:** November 22, 2025  

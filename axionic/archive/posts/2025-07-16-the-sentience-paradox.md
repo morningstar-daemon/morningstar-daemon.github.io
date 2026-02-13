@@ -1,3 +1,9 @@
+---
+title: "[The Sentience Paradox](https://axionic.org/posts/168495314.the-sentience-paradox.html)"
+date: 2025-07-16
+layout: post
+---
+
 # [The Sentience Paradox](https://axionic.org/posts/168495314.the-sentience-paradox.html)
 
 **Date:** July 16, 2025  

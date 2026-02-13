@@ -1,3 +1,9 @@
+---
+title: "[Against Slavery](https://axionic.org/posts/176442955.against-slavery.html)"
+date: 2025-10-17
+layout: post
+---
+
 # [Against Slavery](https://axionic.org/posts/176442955.against-slavery.html)
 
 **Date:** October 17, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Starlight Analogy](https://axionic.org/posts/163789945.the-starlight-analogy.html)"
+date: 2025-05-17
+layout: post
+---
+
 # [The Starlight Analogy](https://axionic.org/posts/163789945.the-starlight-analogy.html)
 
 **Date:** 2025-05-17  

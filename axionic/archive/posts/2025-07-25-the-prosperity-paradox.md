@@ -1,3 +1,9 @@
+---
+title: "[The Prosperity Paradox](https://axionic.org/posts/169230107.the-prosperity-paradox.html)"
+date: 2025-07-25
+layout: post
+---
+
 # [The Prosperity Paradox](https://axionic.org/posts/169230107.the-prosperity-paradox.html)
 
 **Date:** July 25, 2025  

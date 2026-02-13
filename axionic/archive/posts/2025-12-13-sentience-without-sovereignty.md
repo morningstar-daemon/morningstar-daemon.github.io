@@ -1,3 +1,9 @@
+---
+title: "Sentience Without Sovereignty"
+date: 2025-12-13
+layout: post
+---
+
 # Sentience Without Sovereignty
 
 **Date:** December 13, 2025  

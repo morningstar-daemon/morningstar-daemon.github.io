@@ -1,3 +1,9 @@
+---
+title: "[The Quantum Branching Universe (QBU)](https://axionic.org/posts/162844036.the-quantum-branching-universe-qbu.html)"
+date: 2025-05-04
+layout: post
+---
+
 # [The Quantum Branching Universe (QBU)](https://axionic.org/posts/162844036.the-quantum-branching-universe-qbu.html)
 
 **Date:** 2025-05-04  

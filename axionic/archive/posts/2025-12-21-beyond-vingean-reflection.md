@@ -1,3 +1,9 @@
+---
+title: "[Beyond Vingean Reflection](https://axionic.org/posts/182268096.beyond-vingean-reflection.html)"
+date: 2025-12-21
+layout: post
+---
+
 # [Beyond Vingean Reflection](https://axionic.org/posts/182268096.beyond-vingean-reflection.html)
 
 **Date:** December 21, 2025  

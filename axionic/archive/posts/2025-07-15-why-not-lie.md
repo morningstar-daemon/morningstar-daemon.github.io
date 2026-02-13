@@ -1,3 +1,9 @@
+---
+title: "[Why Not Lie?](https://axionic.org/posts/168391300.why-not-lie.html)"
+date: 2025-07-15
+layout: post
+---
+
 # [Why Not Lie?](https://axionic.org/posts/168391300.why-not-lie.html)
 
 **Date:** July 15, 2025  

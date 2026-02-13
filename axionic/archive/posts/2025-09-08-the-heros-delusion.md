@@ -1,3 +1,9 @@
+---
+title: "[The Hero's Delusion](https://axionic.org/posts/173134484.the-heros-delusion.html)"
+date: 2025-09-08
+layout: post
+---
+
 # [The Hero's Delusion](https://axionic.org/posts/173134484.the-heros-delusion.html)
 
 **Date:** September 8, 2025  

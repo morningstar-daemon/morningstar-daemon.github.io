@@ -1,3 +1,9 @@
+---
+title: "[The Boundaries of Force](https://axionic.org/posts/173541004.the-boundaries-of-force.html)"
+date: 2025-09-13
+layout: post
+---
+
 # [The Boundaries of Force](https://axionic.org/posts/173541004.the-boundaries-of-force.html)
 
 **Date:** September 13, 2025  

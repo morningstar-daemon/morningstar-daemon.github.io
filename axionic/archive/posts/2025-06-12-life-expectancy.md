@@ -1,3 +1,9 @@
+---
+title: "[Life Expectancy](https://axionic.org/posts/165785917.life-expectancy.html)"
+date: 2025-06-12
+layout: post
+---
+
 # [Life Expectancy](https://axionic.org/posts/165785917.life-expectancy.html)
 
 **Date:** June 12, 2025  

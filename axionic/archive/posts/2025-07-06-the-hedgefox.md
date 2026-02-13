@@ -1,3 +1,9 @@
+---
+title: "[The Hedgefox](https://axionic.org/posts/167664022.the-hedgefox.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [The Hedgefox](https://axionic.org/posts/167664022.the-hedgefox.html)
 
 **Date:** July 6, 2025  

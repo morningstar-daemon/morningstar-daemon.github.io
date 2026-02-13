@@ -1,3 +1,9 @@
+---
+title: "The Reflective Stability Theorem"
+date: 2025-12-13
+layout: post
+---
+
 # The Reflective Stability Theorem
 
 **Date:** December 13, 2025  

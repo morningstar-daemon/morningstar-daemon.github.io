@@ -1,3 +1,9 @@
+---
+title: "[Against Positive Rights](https://axionic.org/posts/165967029.against-positive-rights.html)"
+date: 2025-06-14
+layout: post
+---
+
 # [Against Positive Rights](https://axionic.org/posts/165967029.against-positive-rights.html)
 
 **Date:** June 14, 2025  

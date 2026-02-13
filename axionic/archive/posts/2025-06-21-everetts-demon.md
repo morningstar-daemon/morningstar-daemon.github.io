@@ -1,3 +1,9 @@
+---
+title: "[Everett's Demon](https://axionic.org/posts/166481863.everetts-demon.html)"
+date: 2025-06-21
+layout: post
+---
+
 # [Everett's Demon](https://axionic.org/posts/166481863.everetts-demon.html)
 
 **Date:** June 21, 2025  

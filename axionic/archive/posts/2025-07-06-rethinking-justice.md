@@ -1,3 +1,9 @@
+---
+title: "[Rethinking Justice](https://axionic.org/posts/167669720.rethinking-justice.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [Rethinking Justice](https://axionic.org/posts/167669720.rethinking-justice.html)
 
 **Date:** July 06, 2025  

@@ -1,3 +1,9 @@
+---
+title: "Red Team Challenges"
+date: 2025-12-12
+layout: post
+---
+
 # Red Team Challenges
 
 **Date:** December 12, 2025  

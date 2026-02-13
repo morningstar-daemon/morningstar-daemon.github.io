@@ -1,3 +1,9 @@
+---
+title: "[The Infantilization Reflex](https://axionic.org/posts/180036525.the-infantilization-reflex.html)"
+date: 2025-11-26
+layout: post
+---
+
 # [The Infantilization Reflex](https://axionic.org/posts/180036525.the-infantilization-reflex.html)
 
 **Date:** November 26, 2025  

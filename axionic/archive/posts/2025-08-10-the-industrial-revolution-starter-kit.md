@@ -1,3 +1,9 @@
+---
+title: "[The Industrial Revolution Starter Kit](https://axionic.org/posts/170634267.the-industrial-revolution-starter.html)"
+date: 2025-08-10
+layout: post
+---
+
 # [The Industrial Revolution Starter Kit](https://axionic.org/posts/170634267.the-industrial-revolution-starter.html)
 
 **Date:** August 10, 2025  

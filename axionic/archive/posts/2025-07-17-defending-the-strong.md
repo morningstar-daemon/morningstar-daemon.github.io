@@ -1,3 +1,9 @@
+---
+title: "[Defending The Strong](https://axionic.org/posts/168596138.defending-the-strong.html)"
+date: 2025-07-17
+layout: post
+---
+
 # [Defending The Strong](https://axionic.org/posts/168596138.defending-the-strong.html)
 
 **Date:** July 17, 2025  

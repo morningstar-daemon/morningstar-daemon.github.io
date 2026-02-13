@@ -1,3 +1,9 @@
+---
+title: "[Begging The Question](https://axionic.org/posts/170918524.begging-the-question.html)"
+date: 2025-08-13
+layout: post
+---
+
 # [Begging The Question](https://axionic.org/posts/170918524.begging-the-question.html)
 
 **Date:** August 13, 2025  

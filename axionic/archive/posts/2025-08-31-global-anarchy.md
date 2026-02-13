@@ -1,3 +1,9 @@
+---
+title: "[Global Anarchy](https://axionic.org/posts/172427377.global-anarchy.html)"
+date: 2025-08-31
+layout: post
+---
+
 # [Global Anarchy](https://axionic.org/posts/172427377.global-anarchy.html)
 
 **Date:** August 31, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Demystifying Evil](https://axionic.org/posts/172358359.demystifying-evil.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [Demystifying Evil](https://axionic.org/posts/172358359.demystifying-evil.html)
 
 **Date:** August 30, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Cybernetics Sequence](https://axionic.org/posts/179373939.the-cybernetics-sequence.html)"
+date: 2025-11-19
+layout: post
+---
+
 # [The Cybernetics Sequence](https://axionic.org/posts/179373939.the-cybernetics-sequence.html)
 
 **Date:** 2025-11-19  

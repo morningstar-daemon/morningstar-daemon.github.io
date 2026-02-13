@@ -1,3 +1,9 @@
+---
+title: "[Agency, Not Equality](https://axionic.org/posts/164951358.agency-not-equality.html)"
+date: 2025-06-01
+layout: post
+---
+
 # [Agency, Not Equality](https://axionic.org/posts/164951358.agency-not-equality.html)
 
 **Date:** 2025-06-01  

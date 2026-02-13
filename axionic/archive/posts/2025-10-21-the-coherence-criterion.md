@@ -1,3 +1,9 @@
+---
+title: "[The Coherence Criterion](https://axionic.org/posts/176742358.the-coherence-criterion.html)"
+date: 2025-10-21
+layout: post
+---
+
 # [The Coherence Criterion](https://axionic.org/posts/176742358.the-coherence-criterion.html)
 
 **Date:** October 21, 2025  

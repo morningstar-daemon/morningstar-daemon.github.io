@@ -1,3 +1,9 @@
+---
+title: "[The Singularity Has Already Happened](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)"
+date: 2025-09-17
+layout: post
+---
+
 # [The Singularity Has Already Happened](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)
 
 **Date:** September 17, 2025  

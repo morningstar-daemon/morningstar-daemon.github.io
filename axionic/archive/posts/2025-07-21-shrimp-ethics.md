@@ -1,3 +1,9 @@
+---
+title: "[Shrimp Ethics](https://axionic.org/posts/168892147.shrimp-ethics.html)"
+date: 2025-07-21
+layout: post
+---
+
 # [Shrimp Ethics](https://axionic.org/posts/168892147.shrimp-ethics.html)
 
 **Date:** July 21, 2025  

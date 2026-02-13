@@ -1,3 +1,9 @@
+---
+title: "[The Quiet Capture of Psychiatry](https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [The Quiet Capture of Psychiatry](https://axionic.org/posts/170451114.the-quiet-capture-of-psychiatry.html)
 
 **Date:** August 8, 2025  

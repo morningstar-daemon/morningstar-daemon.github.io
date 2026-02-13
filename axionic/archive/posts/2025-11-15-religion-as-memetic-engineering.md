@@ -1,3 +1,9 @@
+---
+title: "[Religion as Memetic Engineering](https://axionic.org/posts/178981771.religion-as-memetic-engineering.html)"
+date: 2025-11-15
+layout: post
+---
+
 # [Religion as Memetic Engineering](https://axionic.org/posts/178981771.religion-as-memetic-engineering.html)
 
 **Date:** November 15, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[When Speech Becomes Violence](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)"
+date: 2025-12-26
+layout: post
+---
+
 # [When Speech Becomes Violence](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)
 
 **Date:** December 26, 2025  

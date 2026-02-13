@@ -1,3 +1,9 @@
+---
+title: "The Collapse of Fixed Goals"
+date: 2025-12-13
+layout: post
+---
+
 # The Collapse of Fixed Goals
 
 **Date:** December 13, 2025  

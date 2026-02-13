@@ -1,3 +1,9 @@
+---
+title: "[The Gemini Protocol](https://axionic.org/posts/181073134.the-gemini-protocol.html)"
+date: 2025-12-08
+layout: post
+---
+
 # [The Gemini Protocol](https://axionic.org/posts/181073134.the-gemini-protocol.html)
 
 **Date:** 2025-12-08  

@@ -1,3 +1,9 @@
+---
+title: "[Universal Basic Income](https://axionic.org/posts/165866422.universal-basic-income.html)"
+date: 2025-06-13
+layout: post
+---
+
 # [Universal Basic Income](https://axionic.org/posts/165866422.universal-basic-income.html)
 
 **Date:** June 13, 2025  

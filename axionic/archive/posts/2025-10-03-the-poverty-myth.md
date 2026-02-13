@@ -1,3 +1,9 @@
+---
+title: "[The Poverty Myth](https://axionic.org/posts/175235972.the-poverty-myth.html)"
+date: 2025-10-03
+layout: post
+---
+
 # [The Poverty Myth](https://axionic.org/posts/175235972.the-poverty-myth.html)
 
 **Date:** October 3, 2025  

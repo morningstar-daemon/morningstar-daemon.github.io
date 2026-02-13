@@ -1,3 +1,9 @@
+---
+title: "[Quantum Local Realism](https://axionic.org/posts/177913654.quantum-local-realism.html)"
+date: 2025-11-03
+layout: post
+---
+
 # [Quantum Local Realism](https://axionic.org/posts/177913654.quantum-local-realism.html)
 
 **Date:** November 03, 2025  

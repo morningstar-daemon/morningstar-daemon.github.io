@@ -1,3 +1,9 @@
+---
+title: "[The Sentience Metric](https://axionic.org/posts/177117239.the-sentience-metric.html)"
+date: 2025-10-25
+layout: post
+---
+
 # [The Sentience Metric](https://axionic.org/posts/177117239.the-sentience-metric.html)
 
 **Date:** October 25, 2025  

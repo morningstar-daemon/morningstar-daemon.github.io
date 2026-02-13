@@ -1,3 +1,9 @@
+---
+title: "[Capitalism's Forbidden Cure](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Capitalism's Forbidden Cure](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)
 
 **Date:** June 15, 2025  

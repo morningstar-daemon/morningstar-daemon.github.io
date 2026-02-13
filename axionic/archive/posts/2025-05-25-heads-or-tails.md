@@ -1,3 +1,9 @@
+---
+title: "[Heads or Tails](https://axionic.org/posts/164425191.heads-or-tails.html)"
+date: 2025-05-25
+layout: post
+---
+
 # [Heads or Tails](https://axionic.org/posts/164425191.heads-or-tails.html)
 
 **Date:** 2025-05-25  

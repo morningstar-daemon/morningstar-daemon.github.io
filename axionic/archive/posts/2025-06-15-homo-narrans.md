@@ -1,3 +1,9 @@
+---
+title: "[Homo Narrans](https://axionic.org/posts/166013336.homo-narrans.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Homo Narrans](https://axionic.org/posts/166013336.homo-narrans.html)
 
 **Date:** June 15, 2025  

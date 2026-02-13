@@ -1,3 +1,9 @@
+---
+title: "[The Fall of the Ivory Tower](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)"
+date: 2025-08-19
+layout: post
+---
+
 # [The Fall of the Ivory Tower](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)
 
 **Date:** August 19, 2025  

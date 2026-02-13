@@ -1,3 +1,9 @@
+---
+title: "[Luck Doesn't Justify Coercion](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)"
+date: 2025-06-30
+layout: post
+---
+
 # [Luck Doesn't Justify Coercion](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)
 
 **Date:** June 30, 2025  

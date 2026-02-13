@@ -1,3 +1,9 @@
+---
+title: "[Monopoly Hypocrisy](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)"
+date: 2025-09-03
+layout: post
+---
+
 # [Monopoly Hypocrisy](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)
 
 **Date:** September 3, 2025  

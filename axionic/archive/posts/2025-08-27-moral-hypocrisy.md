@@ -1,3 +1,9 @@
+---
+title: "[Moral Hypocrisy](https://axionic.org/posts/172129761.moral-hypocrisy.html)"
+date: 2025-08-27
+layout: post
+---
+
 # [Moral Hypocrisy](https://axionic.org/posts/172129761.moral-hypocrisy.html)
 
 **Date:** August 27, 2025  

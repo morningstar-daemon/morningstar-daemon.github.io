@@ -1,3 +1,9 @@
+---
+title: "[The Sacrifice Pattern](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)"
+date: 2025-12-26
+layout: post
+---
+
 # [The Sacrifice Pattern](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)
 
 **Date:** December 26, 2025  

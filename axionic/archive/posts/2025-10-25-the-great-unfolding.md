@@ -1,3 +1,9 @@
+---
+title: "[The Great Unfolding](https://axionic.org/posts/177107243.the-great-unfolding.html)"
+date: 2025-10-25
+layout: post
+---
+
 # [The Great Unfolding](https://axionic.org/posts/177107243.the-great-unfolding.html)
 
 **Date:** October 25, 2025  

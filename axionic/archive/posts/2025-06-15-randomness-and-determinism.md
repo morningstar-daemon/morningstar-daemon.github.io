@@ -1,3 +1,9 @@
+---
+title: "[Randomness and Determinism](https://axionic.org/posts/166000195.randomness-and-determinism.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Randomness and Determinism](https://axionic.org/posts/166000195.randomness-and-determinism.html)
 
 **Date:** June 15, 2025  

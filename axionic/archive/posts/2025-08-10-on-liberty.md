@@ -1,3 +1,9 @@
+---
+title: "[On Liberty](https://axionic.org/posts/170630000.on-liberty.html)"
+date: 2025-08-10
+layout: post
+---
+
 # [On Liberty](https://axionic.org/posts/170630000.on-liberty.html)
 
 **Date:** August 10, 2025  

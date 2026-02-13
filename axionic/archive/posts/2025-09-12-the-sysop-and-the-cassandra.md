@@ -1,3 +1,9 @@
+---
+title: "[The Sysop and the Cassandra](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)"
+date: 2025-09-12
+layout: post
+---
+
 # [The Sysop and the Cassandra](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)
 
 **Date:** September 12, 2025  

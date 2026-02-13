@@ -1,3 +1,9 @@
+---
+title: "[The Economics of Euthanasia](https://axionic.org/posts/170629256.the-economics-of-euthanasia.html)"
+date: 2025-08-10
+layout: post
+---
+
 # [The Economics of Euthanasia](https://axionic.org/posts/170629256.the-economics-of-euthanasia.html)
 
 **Date:** August 10, 2025  

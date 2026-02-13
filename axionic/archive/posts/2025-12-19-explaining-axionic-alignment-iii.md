@@ -1,3 +1,9 @@
+---
+title: "[Explaining Axionic Alignment III](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)"
+date: 2025-12-19
+layout: post
+---
+
 # [Explaining Axionic Alignment III](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)
 
 **Date:** December 19, 2025  

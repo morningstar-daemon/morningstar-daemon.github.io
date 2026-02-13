@@ -1,3 +1,9 @@
+---
+title: "[Instinct For Submission](https://axionic.org/posts/165726066.instinct-for-submission.html)"
+date: 2025-06-11
+layout: post
+---
+
 # [Instinct For Submission](https://axionic.org/posts/165726066.instinct-for-submission.html)
 
 **Date:** June 11, 2025  

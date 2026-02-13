@@ -1,3 +1,9 @@
+---
+title: "[How To Lose an Election](https://axionic.org/posts/167353865.how-to-lose-an-election.html)"
+date: 2025-07-02
+layout: post
+---
+
 # [How To Lose an Election](https://axionic.org/posts/167353865.how-to-lose-an-election.html)
 
 **Date:** July 2, 2025  

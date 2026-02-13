@@ -1,3 +1,9 @@
+---
+title: "[Quantum Foundations of Daily Chaos](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Quantum Foundations of Daily Chaos](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)
 
 **Date:** June 15, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Illusion of the Trivial Choice](https://axionic.org/posts/178313983.the-illusion-of-the-trivial-choice.html)"
+date: 2025-11-07
+layout: post
+---
+
 # [The Illusion of the Trivial Choice](https://axionic.org/posts/178313983.the-illusion-of-the-trivial-choice.html)
 
 **Date:** November 07, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Beyond Consciousness Explained](https://axionic.org/posts/180915271.beyond-consciousness-explained.html)"
+date: 2025-12-06
+layout: post
+---
+
 # [Beyond Consciousness Explained](https://axionic.org/posts/180915271.beyond-consciousness-explained.html)
 
 **Date:** December 6, 2025  

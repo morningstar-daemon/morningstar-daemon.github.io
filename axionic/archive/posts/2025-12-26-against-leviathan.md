@@ -1,3 +1,9 @@
+---
+title: "[Against Leviathan](https://axionic.org/posts/182655739.against-leviathan.html)"
+date: 2025-12-26
+layout: post
+---
+
 # [Against Leviathan](https://axionic.org/posts/182655739.against-leviathan.html)
 
 **Date:** December 26, 2025  

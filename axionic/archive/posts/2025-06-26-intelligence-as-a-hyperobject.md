@@ -1,3 +1,9 @@
+---
+title: "[Intelligence as a Hyperobject](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)"
+date: 2025-06-26
+layout: post
+---
+
 # [Intelligence as a Hyperobject](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)
 
 **Date:** June 26, 2025  

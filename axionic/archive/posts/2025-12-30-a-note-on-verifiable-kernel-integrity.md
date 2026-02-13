@@ -1,3 +1,9 @@
+---
+title: "[A Note on Verifiable Kernel Integrity](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)"
+date: 2025-12-30
+layout: post
+---
+
 # [A Note on Verifiable Kernel Integrity](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)
 
 **Date:** December 30, 2025  

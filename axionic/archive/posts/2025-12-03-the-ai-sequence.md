@@ -1,3 +1,9 @@
+---
+title: "[The AI Sequence](https://axionic.org/posts/180629112.the-ai-sequence.html)"
+date: 2025-12-03
+layout: post
+---
+
 # [The AI Sequence](https://axionic.org/posts/180629112.the-ai-sequence.html)
 
 **Date:** December 3, 2025  

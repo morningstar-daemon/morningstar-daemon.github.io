@@ -1,3 +1,9 @@
+---
+title: "[Infohazards and Games](https://axionic.org/posts/172362753.infohazards-and-games.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [Infohazards and Games](https://axionic.org/posts/172362753.infohazards-and-games.html)
 
 **Date:** August 30, 2025  

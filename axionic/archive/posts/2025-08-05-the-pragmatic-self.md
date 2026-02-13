@@ -1,3 +1,9 @@
+---
+title: "[The Pragmatic Self](https://axionic.org/posts/170205491.the-pragmatic-self.html)"
+date: 2025-08-05
+layout: post
+---
+
 # [The Pragmatic Self](https://axionic.org/posts/170205491.the-pragmatic-self.html)
 
 **Date:** August 5, 2025  

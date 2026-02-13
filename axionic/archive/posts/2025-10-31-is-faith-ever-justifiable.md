@@ -1,3 +1,9 @@
+---
+title: "[Is Faith Ever Justifiable?](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)"
+date: 2025-10-31
+layout: post
+---
+
 # [Is Faith Ever Justifiable?](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)
 
 **Date:** October 31, 2025  

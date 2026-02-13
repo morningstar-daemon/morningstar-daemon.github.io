@@ -1,3 +1,9 @@
+---
+title: "[Cognition vs. Authority](https://axionic.org/posts/184258470.cognition-vs-authority.html)"
+date: 2026-01-11
+layout: post
+---
+
 # [Cognition vs. Authority](https://axionic.org/posts/184258470.cognition-vs-authority.html)
 
 **Date:** January 11, 2026  

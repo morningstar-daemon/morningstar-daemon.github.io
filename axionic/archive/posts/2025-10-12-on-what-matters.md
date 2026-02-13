@@ -1,3 +1,9 @@
+---
+title: "[On What Matters](https://axionic.org/posts/175970360.on-what-matters.html)"
+date: 2025-10-12
+layout: post
+---
+
 # [On What Matters](https://axionic.org/posts/175970360.on-what-matters.html)
 
 **Date:** October 12, 2025  

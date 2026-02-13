@@ -1,3 +1,9 @@
+---
+title: "[Axionic Commitments](https://axionic.org/posts/182463091.axionic-commitments.html)"
+date: 2025-12-23
+layout: post
+---
+
 # [Axionic Commitments](https://axionic.org/posts/182463091.axionic-commitments.html)
 
 **Date:** December 23, 2025  

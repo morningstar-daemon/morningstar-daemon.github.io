@@ -1,3 +1,9 @@
+---
+title: "[The Case for West Asia](https://axionic.org/posts/165906304.the-case-for-west-asia.html)"
+date: 2025-06-13
+layout: post
+---
+
 # [The Case for West Asia](https://axionic.org/posts/165906304.the-case-for-west-asia.html)
 
 **Date:** June 13, 2025  

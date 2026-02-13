@@ -1,3 +1,9 @@
+---
+title: "[Critical Mass](https://axionic.org/posts/172927102.critical-mass.html)"
+date: 2025-09-06
+layout: post
+---
+
 # [Critical Mass](https://axionic.org/posts/172927102.critical-mass.html)
 
 **Date:** September 6, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The End of Intellectual Property](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)"
+date: 2025-06-25
+layout: post
+---
+
 # [The End of Intellectual Property](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)
 
 **Date:** June 25, 2025  

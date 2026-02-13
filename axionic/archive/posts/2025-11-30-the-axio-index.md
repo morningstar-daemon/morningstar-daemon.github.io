@@ -1,3 +1,9 @@
+---
+title: "[The Axio Index](https://axionic.org/posts/180343052.the-axio-index.html)"
+date: 2025-11-30
+layout: post
+---
+
 # [The Axio Index](https://axionic.org/posts/180343052.the-axio-index.html)
 
 **Date:** November 30, 2025  

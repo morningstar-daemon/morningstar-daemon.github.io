@@ -1,3 +1,9 @@
+---
+title: "[Integrating Meaningness](https://axionic.org/posts/180330920.integrating-meaningness.html)"
+date: 2025-11-28
+layout: post
+---
+
 # [Integrating Meaningness](https://axionic.org/posts/180330920.integrating-meaningness.html)
 
 **Date:** November 28, 2025  

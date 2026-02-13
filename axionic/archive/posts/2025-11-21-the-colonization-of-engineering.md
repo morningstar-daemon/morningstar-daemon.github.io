@@ -1,3 +1,9 @@
+---
+title: "[The Colonization of Engineering](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)"
+date: 2025-11-21
+layout: post
+---
+
 # [The Colonization of Engineering](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)
 
 **Date:** 2025-11-21  

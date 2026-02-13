@@ -1,3 +1,9 @@
+---
+title: "[Sacrifice as Signal](https://axionic.org/posts/164851202.sacrifice-as-signal.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Sacrifice as Signal](https://axionic.org/posts/164851202.sacrifice-as-signal.html)
 
 **Date:** 2025-05-31  

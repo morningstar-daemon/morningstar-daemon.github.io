@@ -1,3 +1,9 @@
+---
+title: "[Justice After Colonization](https://axionic.org/posts/165499243.justice-after-colonization.html)"
+date: 2025-06-08
+layout: post
+---
+
 # [Justice After Colonization](https://axionic.org/posts/165499243.justice-after-colonization.html)
 
 **Date:** 2025-06-08  

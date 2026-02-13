@@ -1,3 +1,9 @@
+---
+title: "[Your Brain on ChatGPT](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)"
+date: 2025-06-23
+layout: post
+---
+
 # [Your Brain on ChatGPT](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)
 
 **Date:** June 23, 2025  

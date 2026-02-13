@@ -1,3 +1,9 @@
+---
+title: "[Time From Chaos](https://axionic.org/posts/177758736.time-from-chaos.html)"
+date: 2025-11-01
+layout: post
+---
+
 # [Time From Chaos](https://axionic.org/posts/177758736.time-from-chaos.html)
 
 **Date:** November 01, 2025  

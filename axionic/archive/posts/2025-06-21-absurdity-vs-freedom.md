@@ -1,3 +1,9 @@
+---
+title: "[Absurdity vs. Freedom](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)"
+date: 2025-06-21
+layout: post
+---
+
 # [Absurdity vs. Freedom](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)
 
 **Date:** June 21, 2025  

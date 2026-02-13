@@ -1,3 +1,9 @@
+---
+title: "[The Tariff Illusion](https://axionic.org/posts/170447759.the-tariff-illusion.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [The Tariff Illusion](https://axionic.org/posts/170447759.the-tariff-illusion.html)
 
 **Date:** August 8, 2025  

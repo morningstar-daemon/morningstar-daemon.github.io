@@ -1,3 +1,9 @@
+---
+title: "[Beyond the Turing Test](https://axionic.org/posts/178016431.beyond-the-turing-test.html)"
+date: 2025-11-04
+layout: post
+---
+
 # [Beyond the Turing Test](https://axionic.org/posts/178016431.beyond-the-turing-test.html)
 
 **Date:** November 04, 2025  

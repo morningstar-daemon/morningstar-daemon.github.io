@@ -1,3 +1,9 @@
+---
+title: "[The Thought Police](https://axionic.org/posts/180658803.the-thought-police.html)"
+date: 2025-12-04
+layout: post
+---
+
 # [The Thought Police](https://axionic.org/posts/180658803.the-thought-police.html)
 
 **Date:** December 4, 2025  

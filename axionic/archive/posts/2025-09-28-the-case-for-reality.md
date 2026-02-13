@@ -1,3 +1,9 @@
+---
+title: "[The Case for Reality](https://axionic.org/posts/174785128.the-case-for-reality.html)"
+date: 2025-09-28
+layout: post
+---
+
 # [The Case for Reality](https://axionic.org/posts/174785128.the-case-for-reality.html)
 
 **Date:** September 28, 2025  

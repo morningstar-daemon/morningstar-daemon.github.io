@@ -1,3 +1,9 @@
+---
+title: "[Entangled Truths](https://axionic.org/posts/174125219.entangled-truths.html)"
+date: 2025-09-20
+layout: post
+---
+
 # [Entangled Truths](https://axionic.org/posts/174125219.entangled-truths.html)
 
 **Date:** September 20, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Inequality Is Not the Problem—Poverty Is](https://axionic.org/posts/164947886.inequality-is-not-the-problempoverty.html)"
+date: 2025-06-01
+layout: post
+---
+
 # [Inequality Is Not the Problem—Poverty Is](https://axionic.org/posts/164947886.inequality-is-not-the-problempoverty.html)
 
 **Date:** 2025-06-01  

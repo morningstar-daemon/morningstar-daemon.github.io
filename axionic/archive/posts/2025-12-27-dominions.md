@@ -1,3 +1,9 @@
+---
+title: "[Dominions](https://axionic.org/posts/182730693.dominions.html)"
+date: 2025-12-27
+layout: post
+---
+
 # [Dominions](https://axionic.org/posts/182730693.dominions.html)
 
 **Date:** December 27, 2025  

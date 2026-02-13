@@ -1,3 +1,9 @@
+---
+title: "[Credibility, Credence, and Coercion](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)"
+date: 2025-06-10
+layout: post
+---
+
 # [Credibility, Credence, and Coercion](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)
 
 **Date:** June 10, 2025  

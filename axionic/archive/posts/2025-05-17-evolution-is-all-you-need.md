@@ -1,3 +1,9 @@
+---
+title: "[Evolution Is All You Need](https://axionic.org/posts/163797482.evolution-is-all-you-need.html)"
+date: 2025-05-17
+layout: post
+---
+
 # [Evolution Is All You Need](https://axionic.org/posts/163797482.evolution-is-all-you-need.html)
 
 **Date:** 2025-05-17  

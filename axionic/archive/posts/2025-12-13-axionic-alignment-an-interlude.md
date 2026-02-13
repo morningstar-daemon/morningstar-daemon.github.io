@@ -1,3 +1,9 @@
+---
+title: "Axionic Alignment — An Interlude"
+date: 2025-12-13
+layout: post
+---
+
 # Axionic Alignment — An Interlude
 
 **Date:** December 13, 2025  

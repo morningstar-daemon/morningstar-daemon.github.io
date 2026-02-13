@@ -1,3 +1,9 @@
+---
+title: "[Finite and Infinite Games](https://axionic.org/posts/170298982.finite-and-infinite-games.html)"
+date: 2025-08-06
+layout: post
+---
+
 # [Finite and Infinite Games](https://axionic.org/posts/170298982.finite-and-infinite-games.html)
 
 **Date:** August 6, 2025  

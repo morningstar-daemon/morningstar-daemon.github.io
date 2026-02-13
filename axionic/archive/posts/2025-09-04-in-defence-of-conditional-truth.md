@@ -1,3 +1,9 @@
+---
+title: "[In Defence of Conditional Truth](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)"
+date: 2025-09-04
+layout: post
+---
+
 # [In Defence of Conditional Truth](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)
 
 **Date:** September 4, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Mirrors of the Mind](https://axionic.org/posts/173236908.mirrors-of-the-mind.html)"
+date: 2025-09-11
+layout: post
+---
+
 # [Mirrors of the Mind](https://axionic.org/posts/173236908.mirrors-of-the-mind.html)
 
 **Date:** September 11, 2025  

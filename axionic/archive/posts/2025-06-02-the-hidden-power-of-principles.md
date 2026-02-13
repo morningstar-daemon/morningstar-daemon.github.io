@@ -1,3 +1,9 @@
+---
+title: "[The Hidden Power of Principles](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)"
+date: 2025-06-02
+layout: post
+---
+
 # [The Hidden Power of Principles](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)
 
 **Date:** 2025-06-02  

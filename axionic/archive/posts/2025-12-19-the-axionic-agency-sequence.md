@@ -1,3 +1,9 @@
+---
+title: "[The Axionic Agency Sequence](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)"
+date: 2025-12-19
+layout: post
+---
+
 # [The Axionic Agency Sequence](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)
 
 **Date:** December 19, 2025  

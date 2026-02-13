@@ -1,3 +1,9 @@
+---
+title: "[The Future Is Extropian](https://axionic.org/posts/180128433.the-future-is-extropian.html)"
+date: 2025-11-27
+layout: post
+---
+
 # [The Future Is Extropian](https://axionic.org/posts/180128433.the-future-is-extropian.html)
 
 **Date:** November 27, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Consciousness Explained](https://axionic.org/posts/180550525.consciousness-explained.html)"
+date: 2025-12-03
+layout: post
+---
+
 # [Consciousness Explained](https://axionic.org/posts/180550525.consciousness-explained.html)
 
 **Date:** December 3, 2025  

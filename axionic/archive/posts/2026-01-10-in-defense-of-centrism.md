@@ -1,3 +1,9 @@
+---
+title: "[In Defense of Centrism](https://axionic.org/posts/184137688.in-defense-of-centrism.html)"
+date: 2026-01-10
+layout: post
+---
+
 # [In Defense of Centrism](https://axionic.org/posts/184137688.in-defense-of-centrism.html)
 
 **Date:** January 10, 2026  

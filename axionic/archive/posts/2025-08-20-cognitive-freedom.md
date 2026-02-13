@@ -1,3 +1,9 @@
+---
+title: "[Cognitive Freedom](https://axionic.org/posts/171518778.cognitive-freedom.html)"
+date: 2025-08-20
+layout: post
+---
+
 # [Cognitive Freedom](https://axionic.org/posts/171518778.cognitive-freedom.html)
 
 **Date:** August 20, 2025  

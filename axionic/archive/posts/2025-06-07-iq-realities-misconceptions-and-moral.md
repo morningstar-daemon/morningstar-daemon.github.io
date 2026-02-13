@@ -1,3 +1,9 @@
+---
+title: "[IQ: Realities, Misconceptions, and Moral Confusions](https://axionic.org/posts/165428073.iq-realities-misconceptions-and-moral.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [IQ: Realities, Misconceptions, and Moral Confusions](https://axionic.org/posts/165428073.iq-realities-misconceptions-and-moral.html)
 
 **Date:** 2025-06-07  

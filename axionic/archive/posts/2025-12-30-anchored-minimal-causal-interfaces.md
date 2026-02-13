@@ -1,3 +1,9 @@
+---
+title: "[Anchored Minimal Causal Interfaces](https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html)"
+date: 2025-12-30
+layout: post
+---
+
 # [Anchored Minimal Causal Interfaces](https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html)
 
 **Date:** December 30, 2025  

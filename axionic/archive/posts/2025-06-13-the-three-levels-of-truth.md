@@ -1,3 +1,9 @@
+---
+title: "[The Three Levels of Truth](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)"
+date: 2025-06-13
+layout: post
+---
+
 # [The Three Levels of Truth](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)
 
 **Date:** June 13, 2025  

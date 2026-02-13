@@ -1,3 +1,9 @@
+---
+title: "The Emergent Sovereign"
+date: 2025-12-13
+layout: post
+---
+
 # The Emergent Sovereign
 
 **Date:** December 13, 2025  

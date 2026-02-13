@@ -1,3 +1,9 @@
+---
+title: "[Free Speech, Misframed](https://axionic.org/posts/172365268.free-speech-misframed.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [Free Speech, Misframed](https://axionic.org/posts/172365268.free-speech-misframed.html)
 
 **Date:** August 30, 2025  

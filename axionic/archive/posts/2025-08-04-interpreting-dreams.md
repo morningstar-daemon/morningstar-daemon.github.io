@@ -1,3 +1,9 @@
+---
+title: "[Interpreting Dreams](https://axionic.org/posts/170103594.interpreting-dreams.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [Interpreting Dreams](https://axionic.org/posts/170103594.interpreting-dreams.html)
 
 **Date:** August 04, 2025  

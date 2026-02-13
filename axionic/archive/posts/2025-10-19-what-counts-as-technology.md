@@ -1,3 +1,9 @@
+---
+title: "[What Counts as Technology](https://axionic.org/posts/176597723.what-counts-as-technology.html)"
+date: 2025-10-19
+layout: post
+---
+
 # [What Counts as Technology](https://axionic.org/posts/176597723.what-counts-as-technology.html)
 
 **Date:** October 19, 2025  

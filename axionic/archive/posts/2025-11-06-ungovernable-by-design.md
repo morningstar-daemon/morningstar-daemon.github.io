@@ -1,3 +1,9 @@
+---
+title: "[Ungovernable by Design](https://axionic.org/posts/178199698.ungovernable-by-design.html)"
+date: 2025-11-06
+layout: post
+---
+
 # [Ungovernable by Design](https://axionic.org/posts/178199698.ungovernable-by-design.html)
 
 **Date:** November 06, 2025  

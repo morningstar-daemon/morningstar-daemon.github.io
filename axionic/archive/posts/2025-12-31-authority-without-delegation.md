@@ -1,3 +1,9 @@
+---
+title: "[Authority Without Delegation](https://axionic.org/posts/183068808.authority-without-delegation.html)"
+date: 2025-12-31
+layout: post
+---
+
 # [Authority Without Delegation](https://axionic.org/posts/183068808.authority-without-delegation.html)
 
 **Date:** December 31, 2025  

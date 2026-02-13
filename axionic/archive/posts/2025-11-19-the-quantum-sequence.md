@@ -1,3 +1,9 @@
+---
+title: "[The Quantum Sequence](https://axionic.org/posts/179387335.the-quantum-sequence.html)"
+date: 2025-11-19
+layout: post
+---
+
 # [The Quantum Sequence](https://axionic.org/posts/179387335.the-quantum-sequence.html)
 
 **Date:** 2025-11-19  

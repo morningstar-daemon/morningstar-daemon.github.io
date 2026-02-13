@@ -1,3 +1,9 @@
+---
+title: "[The Power Trap](https://axionic.org/posts/169087374.the-power-trap.html)"
+date: 2025-07-23
+layout: post
+---
+
 # [The Power Trap](https://axionic.org/posts/169087374.the-power-trap.html)
 
 **Date:** July 23, 2025  

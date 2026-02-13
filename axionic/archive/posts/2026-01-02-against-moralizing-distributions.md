@@ -1,3 +1,9 @@
+---
+title: "[Against Moralizing Distributions](https://axionic.org/posts/183197544.against-moralizing-distributions.html)"
+date: 2026-01-02
+layout: post
+---
+
 # [Against Moralizing Distributions](https://axionic.org/posts/183197544.against-moralizing-distributions.html)
 
 **Date:** January 2, 2026  

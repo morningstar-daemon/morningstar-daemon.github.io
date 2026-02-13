@@ -1,3 +1,9 @@
+---
+title: "[Environmentalism's Nuclear Mistake](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)"
+date: 2025-06-28
+layout: post
+---
+
 # [Environmentalism's Nuclear Mistake](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)
 
 **Date:** June 28, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Defending Hate Speech](https://axionic.org/posts/170458928.defending-hate-speech.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [Defending Hate Speech](https://axionic.org/posts/170458928.defending-hate-speech.html)
 
 **Date:** August 8, 2025  

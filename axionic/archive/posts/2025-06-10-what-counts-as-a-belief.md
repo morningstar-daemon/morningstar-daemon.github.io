@@ -1,3 +1,9 @@
+---
+title: "[What Counts as a Belief](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)"
+date: 2025-06-10
+layout: post
+---
+
 # [What Counts as a Belief](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)
 
 **Date:** 2025-06-10  

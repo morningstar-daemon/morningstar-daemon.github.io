@@ -1,3 +1,9 @@
+---
+title: "[Identifying Branches in the QBU](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)"
+date: 2025-05-04
+layout: post
+---
+
 # [Identifying Branches in the QBU](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)
 
 **Date:** 2025-05-04  

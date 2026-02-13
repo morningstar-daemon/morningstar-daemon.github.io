@@ -1,3 +1,9 @@
+---
+title: "[Games and Metagames](https://axionic.org/posts/179967878.games-and-metagames.html)"
+date: 2025-11-25
+layout: post
+---
+
 # [Games and Metagames](https://axionic.org/posts/179967878.games-and-metagames.html)
 
 **Date:** November 25, 2025  

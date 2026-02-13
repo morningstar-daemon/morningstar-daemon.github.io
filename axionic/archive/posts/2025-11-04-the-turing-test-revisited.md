@@ -1,3 +1,9 @@
+---
+title: "[The Turing Test Revisited](https://axionic.org/posts/177985047.the-turing-test-revisited.html)"
+date: 2025-11-04
+layout: post
+---
+
 # [The Turing Test Revisited](https://axionic.org/posts/177985047.the-turing-test-revisited.html)
 
 **Date:** November 04, 2025  

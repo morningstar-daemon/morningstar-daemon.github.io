@@ -1,3 +1,9 @@
+---
+title: "[The Rise of Symbients](https://axionic.org/posts/168714211.the-rise-of-symbients.html)"
+date: 2025-07-19
+layout: post
+---
+
 # [The Rise of Symbients](https://axionic.org/posts/168714211.the-rise-of-symbients.html)
 
 **Date:** July 19, 2025  

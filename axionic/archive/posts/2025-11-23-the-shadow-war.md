@@ -1,3 +1,9 @@
+---
+title: "[The Shadow War](https://axionic.org/posts/179726756.the-shadow-war.html)"
+date: 2025-11-23
+layout: post
+---
+
 # [The Shadow War](https://axionic.org/posts/179726756.the-shadow-war.html)
 
 **Date:** November 23, 2025  

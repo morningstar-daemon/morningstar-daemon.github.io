@@ -1,3 +1,9 @@
+---
+title: "[Constructors and Transitions](https://axionic.org/posts/172303733.constructors-and-transitions.html)"
+date: 2025-08-29
+layout: post
+---
+
 # [Constructors and Transitions](https://axionic.org/posts/172303733.constructors-and-transitions.html)
 
 **Date:** August 29, 2025  

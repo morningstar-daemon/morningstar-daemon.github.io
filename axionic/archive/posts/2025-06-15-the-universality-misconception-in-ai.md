@@ -1,3 +1,9 @@
+---
+title: "[The Universality Misconception in AI](https://axionic.org/posts/166028334.the-universality-misconception-in.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [The Universality Misconception in AI](https://axionic.org/posts/166028334.the-universality-misconception-in.html)
 
 **Date:** June 15, 2025  

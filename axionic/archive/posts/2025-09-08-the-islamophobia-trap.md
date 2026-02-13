@@ -1,3 +1,9 @@
+---
+title: "[The Islamophobia Trap](https://axionic.org/posts/173137799.the-islamophobia-trap.html)"
+date: 2025-09-08
+layout: post
+---
+
 # [The Islamophobia Trap](https://axionic.org/posts/173137799.the-islamophobia-trap.html)
 
 **Date:** September 8, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[From Inference to Interpretation](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)"
+date: 2025-10-28
+layout: post
+---
+
 # [From Inference to Interpretation](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)
 
 **Date:** October 28, 2025  

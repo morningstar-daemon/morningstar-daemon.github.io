@@ -1,3 +1,9 @@
+---
+title: "[The Myth of Objective Value](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [The Myth of Objective Value](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)
 
 **Date:** 2025-05-31  

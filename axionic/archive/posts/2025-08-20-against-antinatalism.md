@@ -1,3 +1,9 @@
+---
+title: "[Against Antinatalism](https://axionic.org/posts/171515563.against-antinatalism.html)"
+date: 2025-08-20
+layout: post
+---
+
 # [Against Antinatalism](https://axionic.org/posts/171515563.against-antinatalism.html)
 
 **Date:** August 20, 2025  

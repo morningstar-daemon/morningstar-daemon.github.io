@@ -1,3 +1,9 @@
+---
+title: "[Open Agentic Manifolds](https://axionic.org/posts/182730025.open-agentic-manifolds.html)"
+date: 2025-12-27
+layout: post
+---
+
 # [Open Agentic Manifolds](https://axionic.org/posts/182730025.open-agentic-manifolds.html)
 
 **Date:** December 27, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[What Counts as Evil](https://axionic.org/posts/166913167.what-counts-as-evil.html)"
+date: 2025-06-26
+layout: post
+---
+
 # [What Counts as Evil](https://axionic.org/posts/166913167.what-counts-as-evil.html)
 
 **Date:** June 26, 2025  

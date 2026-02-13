@@ -1,3 +1,9 @@
+---
+title: "[From Correlation to Counterfactuals](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)"
+date: 2025-10-18
+layout: post
+---
+
 # [From Correlation to Counterfactuals](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)
 
 **Date:** October 18, 2025  

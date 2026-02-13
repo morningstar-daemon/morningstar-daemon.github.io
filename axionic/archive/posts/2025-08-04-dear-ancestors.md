@@ -1,3 +1,9 @@
+---
+title: "[Dear Ancestors](https://axionic.org/posts/170117705.dear-ancestors.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [Dear Ancestors](https://axionic.org/posts/170117705.dear-ancestors.html)
 
 **Date:** August 04, 2025  

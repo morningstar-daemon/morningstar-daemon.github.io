@@ -1,3 +1,9 @@
+---
+title: "[Opportunity Cost](https://axionic.org/posts/164882854.opportunity-cost.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Opportunity Cost](https://axionic.org/posts/164882854.opportunity-cost.html)
 
 **Date:** 2025-05-31  

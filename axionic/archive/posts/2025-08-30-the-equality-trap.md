@@ -1,3 +1,9 @@
+---
+title: "[The Equality Trap](https://axionic.org/posts/172367780.the-equality-trap.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [The Equality Trap](https://axionic.org/posts/172367780.the-equality-trap.html)
 
 **Date:** August 30, 2025  

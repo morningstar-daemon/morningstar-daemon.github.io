@@ -1,3 +1,9 @@
+---
+title: "[What Is Philosophy?](https://axionic.org/posts/183152926.what-is-philosophy.html)"
+date: 2026-01-01
+layout: post
+---
+
 # [What Is Philosophy?](https://axionic.org/posts/183152926.what-is-philosophy.html)
 
 **Date:** January 1, 2026  

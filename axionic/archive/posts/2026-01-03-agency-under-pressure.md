@@ -1,3 +1,9 @@
+---
+title: "[Agency Under Pressure](https://axionic.org/posts/183363135.agency-under-pressure.html)"
+date: 2026-01-03
+layout: post
+---
+
 # [Agency Under Pressure](https://axionic.org/posts/183363135.agency-under-pressure.html)
 
 **Date:** January 3, 2026  

@@ -1,3 +1,9 @@
+---
+title: "[Civilization as an Evolutionary Process](https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html)"
+date: 2025-06-12
+layout: post
+---
+
 # [Civilization as an Evolutionary Process](https://axionic.org/posts/165751936.civilization-as-an-evolutionary-process.html)
 
 **Date:** June 12, 2025  

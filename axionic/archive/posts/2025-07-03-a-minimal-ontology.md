@@ -1,3 +1,9 @@
+---
+title: "[A Minimal Ontology](https://axionic.org/posts/167444843.a-minimal-ontology.html)"
+date: 2025-07-03
+layout: post
+---
+
 # [A Minimal Ontology](https://axionic.org/posts/167444843.a-minimal-ontology.html)
 
 **Date:** July 3, 2025  

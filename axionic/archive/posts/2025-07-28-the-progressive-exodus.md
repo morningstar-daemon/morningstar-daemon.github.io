@@ -1,3 +1,9 @@
+---
+title: "[The Progressive Exodus](https://axionic.org/posts/169479666.the-progressive-exodus.html)"
+date: 2025-07-28
+layout: post
+---
+
 # [The Progressive Exodus](https://axionic.org/posts/169479666.the-progressive-exodus.html)
 
 **Date:** July 28, 2025  

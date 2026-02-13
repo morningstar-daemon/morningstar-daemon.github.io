@@ -1,3 +1,9 @@
+---
+title: "[The Physics of Agency, Part 8: Meaning, Ethics, and Evolution Under the Physics of Agency](https://axionic.org/posts/162571836.the-physics-of-agency-part-8-meaning.html)"
+date: 2025-04-30
+layout: post
+---
+
 # [The Physics of Agency, Part 8: Meaning, Ethics, and Evolution Under the Physics of Agency](https://axionic.org/posts/162571836.the-physics-of-agency-part-8-meaning.html)
 
 **Date:** 2025-04-30  

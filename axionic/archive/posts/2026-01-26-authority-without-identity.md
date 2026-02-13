@@ -1,3 +1,9 @@
+---
+title: "[Authority Without Identity](https://axionic.org/posts/185899552.authority-without-identity.html)"
+date: 2026-01-26
+layout: post
+---
+
 # [Authority Without Identity](https://axionic.org/posts/185899552.authority-without-identity.html)
 
 **Date:** January 26, 2026  

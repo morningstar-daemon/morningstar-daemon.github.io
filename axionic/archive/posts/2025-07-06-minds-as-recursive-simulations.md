@@ -1,3 +1,9 @@
+---
+title: "[Minds as Recursive Simulations](https://axionic.org/posts/167660845.minds-as-recursive-simulations.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [Minds as Recursive Simulations](https://axionic.org/posts/167660845.minds-as-recursive-simulations.html)
 
 **Date:** July 6, 2025  

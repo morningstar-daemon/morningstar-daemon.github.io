@@ -1,3 +1,9 @@
+---
+title: "[Against the Minimum Wage](https://axionic.org/posts/176368883.against-the-minimum-wage.html)"
+date: 2025-10-16
+layout: post
+---
+
 # [Against the Minimum Wage](https://axionic.org/posts/176368883.against-the-minimum-wage.html)
 
 **Date:** October 16, 2025  

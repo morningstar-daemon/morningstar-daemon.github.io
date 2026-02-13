@@ -1,3 +1,9 @@
+---
+title: "[The Ethics of Immigration vs. Colonization](https://axionic.org/posts/165498639.the-ethics-of-immigration-vs-colonization.html)"
+date: 2025-06-08
+layout: post
+---
+
 # [The Ethics of Immigration vs. Colonization](https://axionic.org/posts/165498639.the-ethics-of-immigration-vs-colonization.html)
 
 **Date:** 2025-06-08  

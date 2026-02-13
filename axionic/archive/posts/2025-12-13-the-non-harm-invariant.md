@@ -1,3 +1,9 @@
+---
+title: "The Non-Harm Invariant"
+date: 2025-12-13
+layout: post
+---
+
 # The Non-Harm Invariant
 
 **Date:** December 13, 2025  

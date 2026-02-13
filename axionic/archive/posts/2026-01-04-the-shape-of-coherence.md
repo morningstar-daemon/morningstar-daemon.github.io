@@ -1,3 +1,9 @@
+---
+title: "[The Shape of Coherence](https://axionic.org/posts/183495093.the-shape-of-coherence.html)"
+date: 2026-01-04
+layout: post
+---
+
 # [The Shape of Coherence](https://axionic.org/posts/183495093.the-shape-of-coherence.html)
 
 **Date:** January 4, 2026  

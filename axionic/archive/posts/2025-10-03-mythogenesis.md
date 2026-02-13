@@ -1,3 +1,9 @@
+---
+title: "[Mythogenesis](https://axionic.org/posts/175193629.mythogenesis.html)"
+date: 2025-10-03
+layout: post
+---
+
 # [Mythogenesis](https://axionic.org/posts/175193629.mythogenesis.html)
 
 **Date:** October 3, 2025  

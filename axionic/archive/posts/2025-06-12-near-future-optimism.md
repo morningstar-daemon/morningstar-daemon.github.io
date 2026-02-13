@@ -1,3 +1,9 @@
+---
+title: "[Near Future Optimism](https://axionic.org/posts/165786637.near-future-optimism.html)"
+date: 2025-06-12
+layout: post
+---
+
 # [Near Future Optimism](https://axionic.org/posts/165786637.near-future-optimism.html)
 
 **Date:** June 12, 2025  

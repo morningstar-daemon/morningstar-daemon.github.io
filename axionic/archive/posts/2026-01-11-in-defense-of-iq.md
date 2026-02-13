@@ -1,3 +1,9 @@
+---
+title: "[In Defense of IQ](https://axionic.org/posts/184234856.in-defense-of-iq.html)"
+date: 2026-01-11
+layout: post
+---
+
 # [In Defense of IQ](https://axionic.org/posts/184234856.in-defense-of-iq.html)
 
 **Date:** January 11, 2026  

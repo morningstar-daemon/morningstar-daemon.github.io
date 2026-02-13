@@ -1,3 +1,9 @@
+---
+title: "[Growing Up](https://axionic.org/posts/178029403.growing-up.html)"
+date: 2025-11-04
+layout: post
+---
+
 # [Growing Up](https://axionic.org/posts/178029403.growing-up.html)
 
 **Date:** November 04, 2025  

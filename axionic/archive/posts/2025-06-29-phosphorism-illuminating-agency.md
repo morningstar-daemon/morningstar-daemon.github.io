@@ -1,3 +1,9 @@
+---
+title: "[Phosphorism: Illuminating Agency](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)"
+date: 2025-06-29
+layout: post
+---
+
 # [Phosphorism: Illuminating Agency](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)
 
 **Date:** June 29, 2025  

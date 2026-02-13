@@ -1,3 +1,9 @@
+---
+title: "[Quantum Agency in the Emergent Multiverse](https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html)"
+date: 2025-05-13
+layout: post
+---
+
 # [Quantum Agency in the Emergent Multiverse](https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html)
 
 **Date:** 2025-05-13  

@@ -1,3 +1,9 @@
+---
+title: "[Prediction Markets](https://axionic.org/posts/179271344.prediction-markets.html)"
+date: 2025-11-18
+layout: post
+---
+
 # [Prediction Markets](https://axionic.org/posts/179271344.prediction-markets.html)
 
 **Date:** November 18, 2025  

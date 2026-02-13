@@ -1,3 +1,9 @@
+---
+title: "[The Bitter Lesson](https://axionic.org/posts/168570057.the-bitter-lesson.html)"
+date: 2025-07-17
+layout: post
+---
+
 # [The Bitter Lesson](https://axionic.org/posts/168570057.the-bitter-lesson.html)
 
 **Date:** July 17, 2025  

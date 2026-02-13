@@ -1,3 +1,9 @@
+---
+title: "[The Crime Fighting Paradox](https://axionic.org/posts/170119709.the-crime-fighting-paradox.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [The Crime Fighting Paradox](https://axionic.org/posts/170119709.the-crime-fighting-paradox.html)
 
 **Date:** August 04, 2025  

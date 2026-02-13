@@ -1,3 +1,9 @@
+---
+title: "[Echoes of Freud](https://axionic.org/posts/182785676.echoes-of-freud.html)"
+date: 2025-12-28
+layout: post
+---
+
 # [Echoes of Freud](https://axionic.org/posts/182785676.echoes-of-freud.html)
 
 **Date:** December 28, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Death of Objective Morality](https://axionic.org/posts/164891095.the-death-of-objective-morality.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [The Death of Objective Morality](https://axionic.org/posts/164891095.the-death-of-objective-morality.html)
 
 **Date:** 2025-05-31  

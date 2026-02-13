@@ -1,3 +1,9 @@
+---
+title: "[The Ethics of the Unconceived](https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [The Ethics of the Unconceived](https://axionic.org/posts/165387299.the-ethics-of-the-unconceived.html)
 
 **Date:** 2025-06-07  

@@ -1,3 +1,9 @@
+---
+title: "[On Kernel Boundaries](https://axionic.org/posts/183003607.on-kernel-boundaries.html)"
+date: 2025-12-30
+layout: post
+---
+
 # [On Kernel Boundaries](https://axionic.org/posts/183003607.on-kernel-boundaries.html)
 
 **Date:** December 30, 2025  

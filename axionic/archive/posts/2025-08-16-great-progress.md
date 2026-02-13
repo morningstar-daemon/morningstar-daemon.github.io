@@ -1,3 +1,9 @@
+---
+title: "[Great Progress](https://axionic.org/posts/171156280.great-progress.html)"
+date: 2025-08-16
+layout: post
+---
+
 # [Great Progress](https://axionic.org/posts/171156280.great-progress.html)
 
 **Date:** August 16, 2025  

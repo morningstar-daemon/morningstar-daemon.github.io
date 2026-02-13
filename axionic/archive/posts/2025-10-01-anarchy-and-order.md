@@ -1,3 +1,9 @@
+---
+title: "[Anarchy and Order](https://axionic.org/posts/174977942.anarchy-and-order.html)"
+date: 2025-10-01
+layout: post
+---
+
 # [Anarchy and Order](https://axionic.org/posts/174977942.anarchy-and-order.html)
 
 **Date:** October 1, 2025  

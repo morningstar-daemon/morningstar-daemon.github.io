@@ -1,3 +1,9 @@
+---
+title: "[The Death of the Turing Test](https://axionic.org/posts/176577621.the-death-of-the-turing-test.html)"
+date: 2025-10-19
+layout: post
+---
+
 # [The Death of the Turing Test](https://axionic.org/posts/176577621.the-death-of-the-turing-test.html)
 
 **Date:** October 19, 2025  

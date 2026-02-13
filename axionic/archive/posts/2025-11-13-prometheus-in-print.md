@@ -1,3 +1,9 @@
+---
+title: "[Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)"
+date: 2025-11-13
+layout: post
+---
+
 # [Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)
 
 **Date:** November 13, 2025  

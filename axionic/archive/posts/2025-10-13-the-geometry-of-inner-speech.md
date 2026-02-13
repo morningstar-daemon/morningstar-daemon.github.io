@@ -1,3 +1,9 @@
+---
+title: "[The Geometry of Inner Speech](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)"
+date: 2025-10-13
+layout: post
+---
+
 # [The Geometry of Inner Speech](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)
 
 **Date:** October 13, 2025  

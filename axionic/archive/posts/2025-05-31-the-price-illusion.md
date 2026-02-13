@@ -1,3 +1,9 @@
+---
+title: "[The Price Illusion](https://axionic.org/posts/164884396.the-price-illusion.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [The Price Illusion](https://axionic.org/posts/164884396.the-price-illusion.html)
 
 **Date:** 2025-05-31  

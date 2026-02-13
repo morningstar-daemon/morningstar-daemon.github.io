@@ -1,3 +1,9 @@
+---
+title: "[Free Speech](https://axionic.org/posts/169560195.free-speech.html)"
+date: 2025-07-29
+layout: post
+---
+
 # [Free Speech](https://axionic.org/posts/169560195.free-speech.html)
 
 **Date:** July 29, 2025  

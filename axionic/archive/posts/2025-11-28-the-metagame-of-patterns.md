@@ -1,3 +1,9 @@
+---
+title: "[The Metagame of Patterns](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)"
+date: 2025-11-28
+layout: post
+---
+
 # [The Metagame of Patterns](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)
 
 **Date:** November 28, 2025  

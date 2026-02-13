@@ -1,3 +1,9 @@
+---
+title: "[Liberalism vs. Authoritarianism](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)"
+date: 2025-06-11
+layout: post
+---
+
 # [Liberalism vs. Authoritarianism](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)
 
 **Date:** June 11, 2025  

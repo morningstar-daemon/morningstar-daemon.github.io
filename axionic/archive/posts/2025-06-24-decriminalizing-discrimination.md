@@ -1,3 +1,9 @@
+---
+title: "[Decriminalizing Discrimination](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)"
+date: 2025-06-24
+layout: post
+---
+
 # [Decriminalizing Discrimination](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)
 
 **Date:** June 24, 2025  

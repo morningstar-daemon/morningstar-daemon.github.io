@@ -1,3 +1,9 @@
+---
+title: "[Axionic Agency — Interlude IV](https://axionic.org/posts/183376003.axionic-agency-interlude-iv.html)"
+date: 2026-01-03
+layout: post
+---
+
 # [Axionic Agency — Interlude IV](https://axionic.org/posts/183376003.axionic-agency-interlude-iv.html)
 
 **Date:** January 3, 2026  

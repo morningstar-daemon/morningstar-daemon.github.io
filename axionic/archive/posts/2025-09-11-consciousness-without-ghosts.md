@@ -1,3 +1,9 @@
+---
+title: "[Consciousness Without Ghosts](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)"
+date: 2025-09-11
+layout: post
+---
+
 # [Consciousness Without Ghosts](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)
 
 **Date:** September 11, 2025  

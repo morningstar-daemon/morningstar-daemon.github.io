@@ -1,3 +1,9 @@
+---
+title: "[The Trolley Problem](https://axionic.org/posts/171523071.the-trolley-problem.html)"
+date: 2025-08-21
+layout: post
+---
+
 # [The Trolley Problem](https://axionic.org/posts/171523071.the-trolley-problem.html)
 
 **Date:** August 21, 2025  

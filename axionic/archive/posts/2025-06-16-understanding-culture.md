@@ -1,3 +1,9 @@
+---
+title: "[Understanding Culture](https://axionic.org/posts/166080146.understanding-culture.html)"
+date: 2025-06-16
+layout: post
+---
+
 # [Understanding Culture](https://axionic.org/posts/166080146.understanding-culture.html)
 
 **Date:** June 16, 2025  

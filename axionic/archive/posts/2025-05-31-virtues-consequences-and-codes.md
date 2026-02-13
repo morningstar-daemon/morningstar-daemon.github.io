@@ -1,3 +1,9 @@
+---
+title: "[Virtues, Consequences, and Codes](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Virtues, Consequences, and Codes](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)
 
 **Date:** 2025-05-31  

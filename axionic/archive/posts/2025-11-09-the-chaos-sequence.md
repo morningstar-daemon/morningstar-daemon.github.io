@@ -1,3 +1,9 @@
+---
+title: "[The Chaos Sequence](https://axionic.org/posts/178432176.the-chaos-sequence.html)"
+date: 2025-11-09
+layout: post
+---
+
 # [The Chaos Sequence](https://axionic.org/posts/178432176.the-chaos-sequence.html)
 
 **Date:** November 09, 2025  

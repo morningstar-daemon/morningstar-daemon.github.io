@@ -1,3 +1,9 @@
+---
+title: "[The Value Sequence](https://axionic.org/posts/180411867.the-value-sequence.html)"
+date: 2025-12-01
+layout: post
+---
+
 # [The Value Sequence](https://axionic.org/posts/180411867.the-value-sequence.html)
 
 **Date:** December 1, 2025  

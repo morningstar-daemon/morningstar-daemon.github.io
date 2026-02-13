@@ -1,3 +1,9 @@
+---
+title: "[The Reflective Coherence Thesis](https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html)"
+date: 2025-11-08
+layout: post
+---
+
 # [The Reflective Coherence Thesis](https://axionic.org/posts/178350383.the-reflective-coherence-thesis.html)
 
 **Date:** November 08, 2025  

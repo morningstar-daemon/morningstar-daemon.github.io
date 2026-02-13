@@ -1,3 +1,9 @@
+---
+title: "[Consciousness vs. Soul](https://axionic.org/posts/169145093.consciousness-vs-soul.html)"
+date: 2025-07-24
+layout: post
+---
+
 # [Consciousness vs. Soul](https://axionic.org/posts/169145093.consciousness-vs-soul.html)
 
 **Date:** July 24, 2025  

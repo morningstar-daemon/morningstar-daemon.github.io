@@ -1,3 +1,9 @@
+---
+title: "[Archists vs. Anarchists](https://axionic.org/posts/166242984.archists-vs-anarchists.html)"
+date: 2025-06-18
+layout: post
+---
+
 # [Archists vs. Anarchists](https://axionic.org/posts/166242984.archists-vs-anarchists.html)
 
 **Date:** June 18, 2025  

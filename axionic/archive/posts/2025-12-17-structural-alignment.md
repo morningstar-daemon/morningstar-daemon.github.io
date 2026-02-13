@@ -1,3 +1,9 @@
+---
+title: "[Structural Alignment](https://axionic.org/posts/181930168.structural-alignment.html)"
+date: 2025-12-17
+layout: post
+---
+
 # [Structural Alignment](https://axionic.org/posts/181930168.structural-alignment.html)
 
 **Date:** December 17, 2025  

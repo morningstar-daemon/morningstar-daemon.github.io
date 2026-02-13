@@ -1,3 +1,9 @@
+---
+title: "[Sacred Coherence](https://axionic.org/posts/164275423.sacred-coherence.html)"
+date: 2025-05-23
+layout: post
+---
+
 # [Sacred Coherence](https://axionic.org/posts/164275423.sacred-coherence.html)
 
 **Date:** 2025-05-23  

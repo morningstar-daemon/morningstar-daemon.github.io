@@ -1,3 +1,9 @@
+---
+title: "Against Moral Extortion"
+date: 2025-12-09
+layout: post
+---
+
 # Against Moral Extortion
 
 **Date:** December 09, 2025  

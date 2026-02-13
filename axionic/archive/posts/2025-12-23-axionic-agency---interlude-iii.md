@@ -1,3 +1,9 @@
+---
+title: "[Axionic Agency — Interlude III](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)"
+date: 2025-12-23
+layout: post
+---
+
 # [Axionic Agency — Interlude III](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
 
 **Date:** December 23, 2025  

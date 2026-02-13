@@ -1,3 +1,9 @@
+---
+title: "[Axionic Agency Lab](https://axionic.org/posts/182271053.agency-coherence-lab.html)"
+date: 2025-12-21
+layout: post
+---
+
 # [Axionic Agency Lab](https://axionic.org/posts/182271053.agency-coherence-lab.html)
 
 **Date:** 2025-12-21  

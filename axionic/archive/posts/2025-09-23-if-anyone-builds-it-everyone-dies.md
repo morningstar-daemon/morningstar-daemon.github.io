@@ -1,3 +1,9 @@
+---
+title: "[If Anyone Builds It, Everyone Dies](https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html)"
+date: 2025-09-23
+layout: post
+---
+
 # [If Anyone Builds It, Everyone Dies](https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html)
 
 **Date:** September 23, 2025  

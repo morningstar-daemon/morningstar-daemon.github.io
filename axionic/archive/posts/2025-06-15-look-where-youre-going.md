@@ -1,3 +1,9 @@
+---
+title: "[Look Where You're Going](https://axionic.org/posts/166024344.look-where-youre-going.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Look Where You're Going](https://axionic.org/posts/166024344.look-where-youre-going.html)
 
 **Date:** June 15, 2025  

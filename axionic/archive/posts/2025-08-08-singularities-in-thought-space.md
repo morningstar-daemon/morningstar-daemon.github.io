@@ -1,3 +1,9 @@
+---
+title: "[Singularities in Thought Space](https://axionic.org/posts/170492163.singularities-in-thought-space.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [Singularities in Thought Space](https://axionic.org/posts/170492163.singularities-in-thought-space.html)
 
 **Date:** August 8, 2025  

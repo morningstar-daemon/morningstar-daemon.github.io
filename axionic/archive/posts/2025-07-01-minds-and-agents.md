@@ -1,3 +1,9 @@
+---
+title: "[Minds and Agents](https://axionic.org/posts/167297761.minds-and-agents.html)"
+date: 2025-07-01
+layout: post
+---
+
 # [Minds and Agents](https://axionic.org/posts/167297761.minds-and-agents.html)
 
 **Date:** July 1, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Judging Goodness](https://axionic.org/posts/168901803.judging-goodness.html)"
+date: 2025-07-21
+layout: post
+---
+
 # [Judging Goodness](https://axionic.org/posts/168901803.judging-goodness.html)
 
 **Date:** July 21, 2025  

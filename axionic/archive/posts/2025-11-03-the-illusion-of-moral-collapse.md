@@ -1,3 +1,9 @@
+---
+title: "[The Illusion of Moral Collapse](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)"
+date: 2025-11-03
+layout: post
+---
+
 # [The Illusion of Moral Collapse](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)
 
 **Date:** November 03, 2025  

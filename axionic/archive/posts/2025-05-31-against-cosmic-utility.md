@@ -1,3 +1,9 @@
+---
+title: "[Against Cosmic Utility](https://axionic.org/posts/164891451.against-cosmic-utility.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Against Cosmic Utility](https://axionic.org/posts/164891451.against-cosmic-utility.html)
 
 **Date:** 2025-05-31  

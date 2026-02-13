@@ -1,3 +1,9 @@
+---
+title: "[Defending GEB](https://axionic.org/posts/179971939.defending-geb.html)"
+date: 2025-11-25
+layout: post
+---
+
 # [Defending GEB](https://axionic.org/posts/179971939.defending-geb.html)
 
 **Date:** November 25, 2025  

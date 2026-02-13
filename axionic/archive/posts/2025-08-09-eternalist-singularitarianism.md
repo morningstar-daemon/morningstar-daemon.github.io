@@ -1,3 +1,9 @@
+---
+title: "[Eternalist Singularitarianism](https://axionic.org/posts/170506931.eternalist-singularitarianism.html)"
+date: 2025-08-09
+layout: post
+---
+
 # [Eternalist Singularitarianism](https://axionic.org/posts/170506931.eternalist-singularitarianism.html)
 
 **Date:** August 9, 2025  

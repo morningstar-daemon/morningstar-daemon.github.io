@@ -1,3 +1,9 @@
+---
+title: "[Living Shadows](https://axionic.org/posts/173888583.living-shadows.html)"
+date: 2025-09-17
+layout: post
+---
+
 # [Living Shadows](https://axionic.org/posts/173888583.living-shadows.html)
 
 **Date:** September 17, 2025  

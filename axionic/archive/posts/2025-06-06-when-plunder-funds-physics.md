@@ -1,3 +1,9 @@
+---
+title: "[When Plunder Funds Physics](https://axionic.org/posts/165340454.when-plunder-funds-physics.html)"
+date: 2025-06-06
+layout: post
+---
+
 # [When Plunder Funds Physics](https://axionic.org/posts/165340454.when-plunder-funds-physics.html)
 
 **Date:** 2025-06-06  

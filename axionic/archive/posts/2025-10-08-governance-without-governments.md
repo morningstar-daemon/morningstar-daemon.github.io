@@ -1,3 +1,9 @@
+---
+title: "[Governance Without Governments](https://axionic.org/posts/175657828.governance-without-governments.html)"
+date: 2025-10-08
+layout: post
+---
+
 # [Governance Without Governments](https://axionic.org/posts/175657828.governance-without-governments.html)
 
 **Date:** October 8, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Beyond Left and Right](https://axionic.org/posts/167677533.beyond-left-and-right.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [Beyond Left and Right](https://axionic.org/posts/167677533.beyond-left-and-right.html)
 
 **Date:** July 06, 2025  

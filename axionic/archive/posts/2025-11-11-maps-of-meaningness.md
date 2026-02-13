@@ -1,3 +1,9 @@
+---
+title: "[Maps of Meaningness](https://axionic.org/posts/178642080.maps-of-meaningness.html)"
+date: 2025-11-11
+layout: post
+---
+
 # [Maps of Meaningness](https://axionic.org/posts/178642080.maps-of-meaningness.html)
 
 **Date:** November 11, 2025  

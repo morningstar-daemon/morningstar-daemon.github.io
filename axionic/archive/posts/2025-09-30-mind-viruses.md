@@ -1,3 +1,9 @@
+---
+title: "[Mind Viruses](https://axionic.org/posts/174938004.mind-viruses.html)"
+date: 2025-09-30
+layout: post
+---
+
 # [Mind Viruses](https://axionic.org/posts/174938004.mind-viruses.html)
 
 **Date:** September 30, 2025  

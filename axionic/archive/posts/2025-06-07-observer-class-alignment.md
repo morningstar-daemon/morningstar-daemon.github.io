@@ -1,3 +1,9 @@
+---
+title: "[Observer Class Alignment](https://axionic.org/posts/165410248.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Observer Class Alignment](https://axionic.org/posts/165410248.html)
 
 **Date:** 2025-06-07  

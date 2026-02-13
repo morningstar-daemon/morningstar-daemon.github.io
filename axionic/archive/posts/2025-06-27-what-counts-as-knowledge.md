@@ -1,3 +1,9 @@
+---
+title: "[What Counts as Knowledge](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)"
+date: 2025-06-27
+layout: post
+---
+
 # [What Counts as Knowledge](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)
 
 **Date:** June 27, 2025  

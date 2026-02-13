@@ -1,3 +1,9 @@
+---
+title: "[Extortion-Funded Organizations](https://axionic.org/posts/171905629.extortion-funded-organizations.html)"
+date: 2025-08-25
+layout: post
+---
+
 # [Extortion-Funded Organizations](https://axionic.org/posts/171905629.extortion-funded-organizations.html)
 
 **Date:** August 25, 2025  

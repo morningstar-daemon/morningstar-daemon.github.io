@@ -1,3 +1,9 @@
+---
+title: "[The AGI Torment Nexus](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)"
+date: 2025-11-23
+layout: post
+---
+
 # [The AGI Torment Nexus](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)
 
 **Date:** November 23, 2025  

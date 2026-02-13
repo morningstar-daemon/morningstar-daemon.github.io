@@ -1,3 +1,9 @@
+---
+title: "[The Fire Remains](https://axionic.org/posts/171221751.the-fire-remains.html)"
+date: 2025-08-17
+layout: post
+---
+
 # [The Fire Remains](https://axionic.org/posts/171221751.the-fire-remains.html)
 
 **Date:** August 17, 2025  

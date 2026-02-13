@@ -1,3 +1,9 @@
+---
+title: "[Infinite Randomness](https://axionic.org/posts/169620752.infinite-randomness.html)"
+date: 2025-07-30
+layout: post
+---
+
 # [Infinite Randomness](https://axionic.org/posts/169620752.infinite-randomness.html)
 
 **Date:** July 30, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Introducing Harberger Insurance](https://axionic.org/posts/165432518.introducing-harberger-insurance.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Introducing Harberger Insurance](https://axionic.org/posts/165432518.introducing-harberger-insurance.html)
 
 **Date:** 2025-06-07  

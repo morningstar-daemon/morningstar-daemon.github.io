@@ -1,3 +1,9 @@
+---
+title: "[The Epstein Fallacy](https://axionic.org/posts/186685901.the-epstein-fallacy.html)"
+date: 2026-02-03
+layout: post
+---
+
 # [The Epstein Fallacy](https://axionic.org/posts/186685901.the-epstein-fallacy.html)
 
 **Date:** February 3, 2026  

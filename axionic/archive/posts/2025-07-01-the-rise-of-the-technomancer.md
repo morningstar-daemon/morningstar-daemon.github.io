@@ -1,3 +1,9 @@
+---
+title: "[The Rise of the Technomancer](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)"
+date: 2025-07-01
+layout: post
+---
+
 # [The Rise of the Technomancer](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)
 
 **Date:** July 1, 2025  

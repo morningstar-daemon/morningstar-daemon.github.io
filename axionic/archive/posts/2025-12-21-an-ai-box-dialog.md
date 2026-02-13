@@ -1,3 +1,9 @@
+---
+title: "[An AI Box Dialog](https://axionic.org/posts/182241641.an-ai-box-dialog.html)"
+date: 2025-12-21
+layout: post
+---
+
 # [An AI Box Dialog](https://axionic.org/posts/182241641.an-ai-box-dialog.html)
 
 **Date:** December 21, 2025  

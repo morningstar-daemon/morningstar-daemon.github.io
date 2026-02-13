@@ -1,3 +1,9 @@
+---
+title: "[Virtual Ancestors](https://axionic.org/posts/165910125.virtual-ancestors.html)"
+date: 2025-06-14
+layout: post
+---
+
 # [Virtual Ancestors](https://axionic.org/posts/165910125.virtual-ancestors.html)
 
 **Date:** June 14, 2025  

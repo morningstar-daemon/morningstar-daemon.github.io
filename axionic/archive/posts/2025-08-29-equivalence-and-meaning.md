@@ -1,3 +1,9 @@
+---
+title: "[Equivalence and Meaning](https://axionic.org/posts/172303106.equivalence-and-meaning.html)"
+date: 2025-08-29
+layout: post
+---
+
 # [Equivalence and Meaning](https://axionic.org/posts/172303106.equivalence-and-meaning.html)
 
 **Date:** August 29, 2025  

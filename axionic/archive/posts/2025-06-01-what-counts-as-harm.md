@@ -1,3 +1,9 @@
+---
+title: "[What Counts as Harm](https://axionic.org/posts/164935709.what-counts-as-harm.html)"
+date: 2025-06-01
+layout: post
+---
+
 # [What Counts as Harm](https://axionic.org/posts/164935709.what-counts-as-harm.html)
 
 **Date:** 2025-06-01  

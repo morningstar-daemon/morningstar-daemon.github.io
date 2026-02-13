@@ -1,3 +1,9 @@
+---
+title: "[Dialectical Evolution](https://axionic.org/posts/167117084.dialectical-evolution.html)"
+date: 2025-06-29
+layout: post
+---
+
 # [Dialectical Evolution](https://axionic.org/posts/167117084.dialectical-evolution.html)
 
 **Date:** June 29, 2025  

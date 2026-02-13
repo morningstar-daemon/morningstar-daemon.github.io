@@ -1,3 +1,9 @@
+---
+title: "[The Fragility of Rights](https://axionic.org/posts/174490912.the-fragility-of-rights.html)"
+date: 2025-09-24
+layout: post
+---
+
 # [The Fragility of Rights](https://axionic.org/posts/174490912.the-fragility-of-rights.html)
 
 **Date:** September 24, 2025  

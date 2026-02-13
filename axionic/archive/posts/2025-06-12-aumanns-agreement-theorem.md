@@ -1,3 +1,9 @@
+---
+title: "[Aumann's Agreement Theorem](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)"
+date: 2025-06-12
+layout: post
+---
+
 # [Aumann's Agreement Theorem](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)
 
 **Date:** June 12, 2025  

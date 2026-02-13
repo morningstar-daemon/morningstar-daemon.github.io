@@ -1,3 +1,9 @@
+---
+title: "[Constructors From Coherence](https://axionic.org/posts/171907779.constructors-from-coherence.html)"
+date: 2025-08-25
+layout: post
+---
+
 # [Constructors From Coherence](https://axionic.org/posts/171907779.constructors-from-coherence.html)
 
 **Date:** August 25, 2025  

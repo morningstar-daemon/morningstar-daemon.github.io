@@ -1,3 +1,9 @@
+---
+title: "[Understanding Spirituality](https://axionic.org/posts/171158991.understanding-spirituality.html)"
+date: 2025-08-16
+layout: post
+---
+
 # [Understanding Spirituality](https://axionic.org/posts/171158991.understanding-spirituality.html)
 
 **Date:** August 16, 2025  

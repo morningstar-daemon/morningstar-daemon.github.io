@@ -1,3 +1,9 @@
+---
+title: "Axionic AGI Alignment"
+date: 2025-12-12
+layout: post
+---
+
 # Axionic AGI Alignment
 
 **Date:** December 12, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Presumption of Innocence](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)"
+date: 2025-09-07
+layout: post
+---
+
 # [The Presumption of Innocence](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)
 
 **Date:** September 7, 2025  

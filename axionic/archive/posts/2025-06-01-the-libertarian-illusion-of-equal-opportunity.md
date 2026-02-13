@@ -1,3 +1,9 @@
+---
+title: "[The Libertarian Illusion of Equal Opportunity](https://axionic.org/posts/164949734.the-libertarian-illusion-of-equal.html)"
+date: 2025-06-01
+layout: post
+---
+
 # [The Libertarian Illusion of Equal Opportunity](https://axionic.org/posts/164949734.the-libertarian-illusion-of-equal.html)
 
 **Date:** 2025-06-01  

@@ -1,3 +1,9 @@
+---
+title: "[The Child in the Library](https://axionic.org/posts/178614255.the-child-in-the-library.html)"
+date: 2025-11-11
+layout: post
+---
+
 # [The Child in the Library](https://axionic.org/posts/178614255.the-child-in-the-library.html)
 
 **Date:** November 11, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Prometheus in Code](https://axionic.org/posts/178795619.prometheus-in-code.html)"
+date: 2025-11-13
+layout: post
+---
+
 # [Prometheus in Code](https://axionic.org/posts/178795619.prometheus-in-code.html)
 
 **Date:** November 13, 2025  

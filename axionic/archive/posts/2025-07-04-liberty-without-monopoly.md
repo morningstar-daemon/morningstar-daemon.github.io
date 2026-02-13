@@ -1,3 +1,9 @@
+---
+title: "[Liberty Without Monopoly](https://axionic.org/posts/167552421.liberty-without-monopoly.html)"
+date: 2025-07-04
+layout: post
+---
+
 # [Liberty Without Monopoly](https://axionic.org/posts/167552421.liberty-without-monopoly.html)
 
 **Date:** July 4, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Symmetry of Belief](https://axionic.org/posts/177934551.the-symmetry-of-belief.html)"
+date: 2025-11-03
+layout: post
+---
+
 # [The Symmetry of Belief](https://axionic.org/posts/177934551.the-symmetry-of-belief.html)
 
 **Date:** November 03, 2025  

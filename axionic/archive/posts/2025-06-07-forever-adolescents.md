@@ -1,3 +1,9 @@
+---
+title: "[Forever Adolescents](https://axionic.org/posts/165419043.forever-adolescents.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Forever Adolescents](https://axionic.org/posts/165419043.forever-adolescents.html)
 
 **Date:** 2025-06-07  

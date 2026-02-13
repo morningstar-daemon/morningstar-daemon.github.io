@@ -1,3 +1,9 @@
+---
+title: "[Abolish Time Zones](https://axionic.org/posts/177892456.abolish-time-zones.html)"
+date: 2025-11-03
+layout: post
+---
+
 # [Abolish Time Zones](https://axionic.org/posts/177892456.abolish-time-zones.html)
 
 **Date:** November 03, 2025  

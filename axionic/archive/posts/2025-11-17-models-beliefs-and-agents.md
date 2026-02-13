@@ -1,3 +1,9 @@
+---
+title: "[Models, Beliefs, and Agents](https://axionic.org/posts/179148217.models-beliefs-and-agents.html)"
+date: 2025-11-17
+layout: post
+---
+
 # [Models, Beliefs, and Agents](https://axionic.org/posts/179148217.models-beliefs-and-agents.html)
 
 **Date:** November 17, 2025  

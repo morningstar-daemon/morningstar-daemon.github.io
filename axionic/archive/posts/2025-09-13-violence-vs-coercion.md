@@ -1,3 +1,9 @@
+---
+title: "[Violence vs. Coercion](https://axionic.org/posts/173538253.violence-vs-coercion.html)"
+date: 2025-09-13
+layout: post
+---
+
 # [Violence vs. Coercion](https://axionic.org/posts/173538253.violence-vs-coercion.html)
 
 **Date:** September 13, 2025  

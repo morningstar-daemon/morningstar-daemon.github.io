@@ -1,3 +1,9 @@
+---
+title: "[The Faith of the Flag](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)"
+date: 2025-06-20
+layout: post
+---
+
 # [The Faith of the Flag](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)
 
 **Date:** June 20, 2025  

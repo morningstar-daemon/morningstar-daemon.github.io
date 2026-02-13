@@ -1,3 +1,9 @@
+---
+title: "[Hijacking Liberalism](https://axionic.org/posts/169312064.hijacking-liberalism.html)"
+date: 2025-07-26
+layout: post
+---
+
 # [Hijacking Liberalism](https://axionic.org/posts/169312064.hijacking-liberalism.html)
 
 **Date:** July 26, 2025  

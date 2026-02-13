@@ -1,3 +1,9 @@
+---
+title: "[Digital Sovereignty](https://axionic.org/posts/170088316.digital-sovereignty.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [Digital Sovereignty](https://axionic.org/posts/170088316.digital-sovereignty.html)
 
 **Date:** August 4, 2025  

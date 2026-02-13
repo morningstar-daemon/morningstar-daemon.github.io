@@ -1,3 +1,9 @@
+---
+title: "[The Theological Shell Game](https://axionic.org/posts/172226036.the-theological-shell-game.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [The Theological Shell Game](https://axionic.org/posts/172226036.the-theological-shell-game.html)
 
 **Date:** August 30, 2025  

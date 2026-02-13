@@ -1,3 +1,9 @@
+---
+title: "[Pearl and the Machine](https://axionic.org/posts/176518519.pearl-and-the-machine.html)"
+date: 2025-10-18
+layout: post
+---
+
 # [Pearl and the Machine](https://axionic.org/posts/176518519.pearl-and-the-machine.html)
 
 **Date:** October 18, 2025  

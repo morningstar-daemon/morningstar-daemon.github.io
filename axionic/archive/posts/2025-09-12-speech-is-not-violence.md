@@ -1,3 +1,9 @@
+---
+title: "[Speech Is Not Violence](https://axionic.org/posts/173476672.speech-is-not-violence.html)"
+date: 2025-09-12
+layout: post
+---
+
 # [Speech Is Not Violence](https://axionic.org/posts/173476672.speech-is-not-violence.html)
 
 **Date:** September 12, 2025  

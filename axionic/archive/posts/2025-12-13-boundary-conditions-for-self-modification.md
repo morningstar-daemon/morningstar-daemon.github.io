@@ -1,3 +1,9 @@
+---
+title: "Boundary Conditions for Self‑Modification"
+date: 2025-12-13
+layout: post
+---
+
 # Boundary Conditions for Self‑Modification
 
 **Date:** December 13, 2025  

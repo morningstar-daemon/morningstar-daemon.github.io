@@ -1,3 +1,9 @@
+---
+title: "[Semantic Safety Without Moral Machinery](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)"
+date: 2026-01-05
+layout: post
+---
+
 # [Semantic Safety Without Moral Machinery](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)
 
 **Date:** January 5, 2026  

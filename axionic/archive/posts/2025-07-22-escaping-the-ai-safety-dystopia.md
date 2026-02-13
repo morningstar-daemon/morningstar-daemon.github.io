@@ -1,3 +1,9 @@
+---
+title: "[Escaping the AI Safety Dystopia](https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html)"
+date: 2025-07-22
+layout: post
+---
+
 # [Escaping the AI Safety Dystopia](https://axionic.org/posts/168916355.escaping-the-ai-safety-dystopia.html)
 
 **Date:** July 22, 2025  

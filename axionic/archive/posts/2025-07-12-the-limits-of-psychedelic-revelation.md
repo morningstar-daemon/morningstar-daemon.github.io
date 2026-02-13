@@ -1,3 +1,9 @@
+---
+title: "[The Limits of Psychedelic Revelation](https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html)"
+date: 2025-07-12
+layout: post
+---
+
 # [The Limits of Psychedelic Revelation](https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html)
 
 **Date:** July 12, 2025  

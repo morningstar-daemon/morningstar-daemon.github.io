@@ -1,3 +1,9 @@
+---
+title: "[Effective Decision Theory](https://axionic.org/posts/163356868.effective-decision-theory.html)"
+date: 2025-05-11
+layout: post
+---
+
 # [Effective Decision Theory](https://axionic.org/posts/163356868.effective-decision-theory.html)
 
 **Date:** 2025-05-11  

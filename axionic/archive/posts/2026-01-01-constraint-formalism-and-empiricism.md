@@ -1,3 +1,9 @@
+---
+title: "[Constraint, Formalism, and Empiricism](https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html)"
+date: 2026-01-01
+layout: post
+---
+
 # [Constraint, Formalism, and Empiricism](https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html)
 
 **Date:** January 1, 2026  

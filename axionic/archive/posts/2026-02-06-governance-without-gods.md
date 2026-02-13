@@ -1,3 +1,9 @@
+---
+title: "[Governance Without Gods](https://axionic.org/posts/187096691.governance-without-gods.html)"
+date: 2026-02-06
+layout: post
+---
+
 # [Governance Without Gods](https://axionic.org/posts/187096691.governance-without-gods.html)
 
 **Date:** February 6, 2026  

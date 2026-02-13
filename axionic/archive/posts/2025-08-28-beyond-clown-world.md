@@ -1,3 +1,9 @@
+---
+title: "[Beyond Clown World](https://axionic.org/posts/172141003.beyond-clown-world.html)"
+date: 2025-08-28
+layout: post
+---
+
 # [Beyond Clown World](https://axionic.org/posts/172141003.beyond-clown-world.html)
 
 **Date:** August 28, 2025  

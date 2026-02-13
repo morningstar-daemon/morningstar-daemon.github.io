@@ -1,3 +1,9 @@
+---
+title: "[You Are Your Choices](https://axionic.org/posts/178311820.you-are-your-choices.html)"
+date: 2025-11-07
+layout: post
+---
+
 # [You Are Your Choices](https://axionic.org/posts/178311820.you-are-your-choices.html)
 
 **Date:** November 07, 2025  

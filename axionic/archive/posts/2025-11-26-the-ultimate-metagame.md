@@ -1,3 +1,9 @@
+---
+title: "[The Ultimate Metagame](https://axionic.org/posts/180026930.the-ultimate-metagame.html)"
+date: 2025-11-26
+layout: post
+---
+
 # [The Ultimate Metagame](https://axionic.org/posts/180026930.the-ultimate-metagame.html)
 
 **Date:** November 26, 2025  

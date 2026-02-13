@@ -1,3 +1,9 @@
+---
+title: "[Mortgage Before Maternity](https://axionic.org/posts/178133208.mortgage-before-maternity.html)"
+date: 2025-11-05
+layout: post
+---
+
 # [Mortgage Before Maternity](https://axionic.org/posts/178133208.mortgage-before-maternity.html)
 
 **Date:** November 05, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Defending Bayes Sequence](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)"
+date: 2025-11-09
+layout: post
+---
+
 # [The Defending Bayes Sequence](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)
 
 **Date:** November 09, 2025  

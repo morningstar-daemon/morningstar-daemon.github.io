@@ -1,3 +1,9 @@
+---
+title: "[Invisible Chains](https://axionic.org/posts/169922062.invisible-chains.html)"
+date: 2025-08-02
+layout: post
+---
+
 # [Invisible Chains](https://axionic.org/posts/169922062.invisible-chains.html)
 
 **Date:** August 02, 2025  

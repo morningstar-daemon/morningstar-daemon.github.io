@@ -1,3 +1,9 @@
+---
+title: "[From Parfit to Invariance](https://axionic.org/posts/181749239.from-parfit-to-invariance.html)"
+date: 2025-12-16
+layout: post
+---
+
 # [From Parfit to Invariance](https://axionic.org/posts/181749239.from-parfit-to-invariance.html)
 
 **Date:** 2025-12-16  

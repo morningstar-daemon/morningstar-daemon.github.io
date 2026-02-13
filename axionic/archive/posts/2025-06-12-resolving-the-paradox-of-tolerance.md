@@ -1,3 +1,9 @@
+---
+title: "[Resolving the Paradox of Tolerance](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)"
+date: 2025-06-12
+layout: post
+---
+
 # [Resolving the Paradox of Tolerance](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)
 
 **Date:** June 12, 2025  

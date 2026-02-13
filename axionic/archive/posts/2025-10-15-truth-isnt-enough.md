@@ -1,3 +1,9 @@
+---
+title: "[Truth Isn't Enough](https://axionic.org/posts/176244039.truth-isnt-enough.html)"
+date: 2025-10-15
+layout: post
+---
+
 # [Truth Isn't Enough](https://axionic.org/posts/176244039.truth-isnt-enough.html)
 
 **Date:** October 15, 2025  

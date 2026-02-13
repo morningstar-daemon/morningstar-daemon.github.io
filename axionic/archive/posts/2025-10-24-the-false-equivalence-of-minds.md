@@ -1,3 +1,9 @@
+---
+title: "[The False Equivalence of Minds](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)"
+date: 2025-10-24
+layout: post
+---
+
 # [The False Equivalence of Minds](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)
 
 **Date:** October 24, 2025  

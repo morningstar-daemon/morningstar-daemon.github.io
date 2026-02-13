@@ -1,3 +1,9 @@
+---
+title: "[Agency Conservation](https://axionic.org/posts/180046178.agency-conservation.html)"
+date: 2025-11-26
+layout: post
+---
+
 # [Agency Conservation](https://axionic.org/posts/180046178.agency-conservation.html)
 
 **Date:** November 26, 2025  

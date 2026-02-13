@@ -1,3 +1,9 @@
+---
+title: "[Authority After Reflection](https://axionic.org/posts/183255459.authority-after-reflection.html)"
+date: 2026-01-02
+layout: post
+---
+
 # [Authority After Reflection](https://axionic.org/posts/183255459.authority-after-reflection.html)
 
 **Date:** January 2, 2026  

@@ -1,3 +1,9 @@
+---
+title: "[The Edge Cases of Coercion](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)"
+date: 2025-09-13
+layout: post
+---
+
 # [The Edge Cases of Coercion](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)
 
 **Date:** September 13, 2025  

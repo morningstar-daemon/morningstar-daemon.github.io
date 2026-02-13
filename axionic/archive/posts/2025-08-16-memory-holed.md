@@ -1,3 +1,9 @@
+---
+title: "[Memory-Holed](https://axionic.org/posts/171155815.memory-holed.html)"
+date: 2025-08-16
+layout: post
+---
+
 # [Memory-Holed](https://axionic.org/posts/171155815.memory-holed.html)
 
 **Date:** August 16, 2025  

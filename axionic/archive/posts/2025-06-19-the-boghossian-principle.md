@@ -1,3 +1,9 @@
+---
+title: "[The Boghossian Principle](https://axionic.org/posts/166359583.the-boghossian-principle.html)"
+date: 2025-06-19
+layout: post
+---
+
 # [The Boghossian Principle](https://axionic.org/posts/166359583.the-boghossian-principle.html)
 
 **Date:** June 19, 2025  

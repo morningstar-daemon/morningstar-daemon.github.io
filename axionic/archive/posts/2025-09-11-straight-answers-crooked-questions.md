@@ -1,3 +1,9 @@
+---
+title: "[Straight Answers, Crooked Questions](https://axionic.org/posts/173394932.straight-answers-crooked-questions.html)"
+date: 2025-09-11
+layout: post
+---
+
 # [Straight Answers, Crooked Questions](https://axionic.org/posts/173394932.straight-answers-crooked-questions.html)
 
 **Date:** September 11, 2025  

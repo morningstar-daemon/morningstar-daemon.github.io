@@ -1,3 +1,9 @@
+---
+title: "[Statism Is Always Authoritarian](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)"
+date: 2025-08-12
+layout: post
+---
+
 # [Statism Is Always Authoritarian](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)
 
 **Date:** August 12, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Stoicism in Context](https://axionic.org/posts/167365336.stoicism-in-context.html)"
+date: 2025-07-02
+layout: post
+---
+
 # [Stoicism in Context](https://axionic.org/posts/167365336.stoicism-in-context.html)
 
 **Date:** July 2, 2025  

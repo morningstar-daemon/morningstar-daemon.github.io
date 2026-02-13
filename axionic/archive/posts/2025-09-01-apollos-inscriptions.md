@@ -1,3 +1,9 @@
+---
+title: "[Apollo's Inscriptions](https://axionic.org/posts/172523240.apollos-inscriptions.html)"
+date: 2025-09-01
+layout: post
+---
+
 # [Apollo's Inscriptions](https://axionic.org/posts/172523240.apollos-inscriptions.html)
 
 **Date:** September 1, 2025  

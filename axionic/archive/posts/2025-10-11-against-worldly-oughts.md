@@ -1,3 +1,9 @@
+---
+title: "[Against Worldly Oughts](https://axionic.org/posts/175891239.against-worldly-oughts.html)"
+date: 2025-10-11
+layout: post
+---
+
 # [Against Worldly Oughts](https://axionic.org/posts/175891239.against-worldly-oughts.html)
 
 **Date:** October 11, 2025  

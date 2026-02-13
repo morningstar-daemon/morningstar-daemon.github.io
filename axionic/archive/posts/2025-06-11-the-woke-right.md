@@ -1,3 +1,9 @@
+---
+title: "[The Woke Right](https://axionic.org/posts/165721326.the-woke-right.html)"
+date: 2025-06-11
+layout: post
+---
+
 # [The Woke Right](https://axionic.org/posts/165721326.the-woke-right.html)
 
 **Date:** June 11, 2025  

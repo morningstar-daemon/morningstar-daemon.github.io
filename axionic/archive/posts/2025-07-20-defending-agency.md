@@ -1,3 +1,9 @@
+---
+title: "[Defending Agency](https://axionic.org/posts/168792678.defending-agency.html)"
+date: 2025-07-20
+layout: post
+---
+
 # [Defending Agency](https://axionic.org/posts/168792678.defending-agency.html)
 
 **Date:** July 20, 2025  

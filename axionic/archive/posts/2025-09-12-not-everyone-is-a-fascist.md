@@ -1,3 +1,9 @@
+---
+title: "[Not Everyone Is a Fascist](https://axionic.org/posts/173478203.not-everyone-is-a-fascist.html)"
+date: 2025-09-12
+layout: post
+---
+
 # [Not Everyone Is a Fascist](https://axionic.org/posts/173478203.not-everyone-is-a-fascist.html)
 
 **Date:** September 12, 2025  

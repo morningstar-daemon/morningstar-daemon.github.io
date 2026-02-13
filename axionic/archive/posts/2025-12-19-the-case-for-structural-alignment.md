@@ -1,3 +1,9 @@
+---
+title: "[The Case for Structural Alignment](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)"
+date: 2025-12-19
+layout: post
+---
+
 # [The Case for Structural Alignment](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)
 
 **Date:** December 19, 2025  

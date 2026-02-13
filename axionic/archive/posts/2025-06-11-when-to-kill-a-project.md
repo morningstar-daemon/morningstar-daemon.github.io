@@ -1,3 +1,9 @@
+---
+title: "[When To Kill A Project](https://axionic.org/posts/165708751.when-to-kill-a-project.html)"
+date: 2025-06-11
+layout: post
+---
+
 # [When To Kill A Project](https://axionic.org/posts/165708751.when-to-kill-a-project.html)
 
 **Date:** June 11, 2025  

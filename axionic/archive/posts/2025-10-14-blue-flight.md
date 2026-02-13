@@ -1,3 +1,9 @@
+---
+title: "[Blue Flight](https://axionic.org/posts/176140519.blue-flight.html)"
+date: 2025-10-14
+layout: post
+---
+
 # [Blue Flight](https://axionic.org/posts/176140519.blue-flight.html)
 
 **Date:** October 14, 2025  

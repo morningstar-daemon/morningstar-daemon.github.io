@@ -1,3 +1,9 @@
+---
+title: "[What is Suffering?](https://axionic.org/posts/167672844.what-is-suffering.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [What is Suffering?](https://axionic.org/posts/167672844.what-is-suffering.html)
 
 **Date:** July 06, 2025  

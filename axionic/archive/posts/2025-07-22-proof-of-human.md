@@ -1,3 +1,9 @@
+---
+title: "[Proof-of-human](https://axionic.org/posts/168992728.proof-of-human.html)"
+date: 2025-07-22
+layout: post
+---
+
 # [Proof-of-human](https://axionic.org/posts/168992728.proof-of-human.html)
 
 **Date:** July 22, 2025  

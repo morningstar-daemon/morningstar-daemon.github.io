@@ -1,3 +1,9 @@
+---
+title: "[Simulation Theories](https://axionic.org/posts/173133945.simulation-theories.html)"
+date: 2025-09-08
+layout: post
+---
+
 # [Simulation Theories](https://axionic.org/posts/173133945.simulation-theories.html)
 
 **Date:** September 8, 2025  

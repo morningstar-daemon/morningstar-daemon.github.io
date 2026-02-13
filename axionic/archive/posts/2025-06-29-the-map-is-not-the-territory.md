@@ -1,3 +1,9 @@
+---
+title: "[The Map Is Not the Territory](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)"
+date: 2025-06-29
+layout: post
+---
+
 # [The Map Is Not the Territory](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)
 
 **Date:** June 29, 2025  

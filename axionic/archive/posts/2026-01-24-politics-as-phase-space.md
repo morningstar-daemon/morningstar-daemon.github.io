@@ -1,3 +1,9 @@
+---
+title: "[Politics as Phase Space](https://axionic.org/posts/185641221.politics-as-phase-space.html)"
+date: 2026-01-24
+layout: post
+---
+
 # [Politics as Phase Space](https://axionic.org/posts/185641221.politics-as-phase-space.html)
 
 **Date:** January 24, 2026  

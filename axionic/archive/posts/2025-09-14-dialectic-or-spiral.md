@@ -1,3 +1,9 @@
+---
+title: "[Dialectic or Spiral?](https://axionic.org/posts/173591610.dialectic-or-spiral.html)"
+date: 2025-09-14
+layout: post
+---
+
 # [Dialectic or Spiral?](https://axionic.org/posts/173591610.dialectic-or-spiral.html)
 
 **Date:** September 14, 2025  

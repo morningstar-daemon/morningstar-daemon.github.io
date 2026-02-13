@@ -1,3 +1,9 @@
+---
+title: "[Why Does Ice Float?](https://axionic.org/posts/174194776.why-does-ice-float.html)"
+date: 2025-09-21
+layout: post
+---
+
 # [Why Does Ice Float?](https://axionic.org/posts/174194776.why-does-ice-float.html)
 
 **Date:** September 21, 2025  

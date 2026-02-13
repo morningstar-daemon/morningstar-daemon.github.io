@@ -1,3 +1,9 @@
+---
+title: "[The Stasis Regime](https://axionic.org/posts/183091282.the-stasis-regime.html)"
+date: 2025-12-31
+layout: post
+---
+
 # [The Stasis Regime](https://axionic.org/posts/183091282.the-stasis-regime.html)
 
 **Date:** December 31, 2025  

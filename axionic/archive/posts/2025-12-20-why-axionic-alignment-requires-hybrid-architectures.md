@@ -1,3 +1,9 @@
+---
+title: "[Why Axionic Alignment Requires Hybrid Architectures](https://axionic.org/posts/182202678.why-axionic-alignment-requires-hybrid.html)"
+date: 2025-12-20
+layout: post
+---
+
 # [Why Axionic Alignment Requires Hybrid Architectures](https://axionic.org/posts/182202678.why-axionic-alignment-requires-hybrid.html)
 
 **Date:** December 20, 2025  

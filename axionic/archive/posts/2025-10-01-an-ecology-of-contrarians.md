@@ -1,3 +1,9 @@
+---
+title: "[An Ecology of Contrarians](https://axionic.org/posts/175065575.an-ecology-of-contrarians.html)"
+date: 2025-10-01
+layout: post
+---
+
 # [An Ecology of Contrarians](https://axionic.org/posts/175065575.an-ecology-of-contrarians.html)
 
 **Date:** October 1, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Myth of Genetic Immortality](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [The Myth of Genetic Immortality](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)
 
 **Date:** August 8, 2025  

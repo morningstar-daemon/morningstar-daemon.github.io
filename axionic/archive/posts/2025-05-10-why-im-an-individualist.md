@@ -1,3 +1,9 @@
+---
+title: "[Why I'm an Individualist](https://axionic.org/posts/163272667.why-im-an-individualist.html)"
+date: 2025-05-10
+layout: post
+---
+
 # [Why I'm an Individualist](https://axionic.org/posts/163272667.why-im-an-individualist.html)
 
 **Date:** 2025-05-10  

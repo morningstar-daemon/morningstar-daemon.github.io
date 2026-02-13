@@ -1,3 +1,9 @@
+---
+title: "[A Gigaplex of Parallel Lives](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)"
+date: 2025-05-25
+layout: post
+---
+
 # [A Gigaplex of Parallel Lives](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)
 
 **Date:** 2025-05-25  

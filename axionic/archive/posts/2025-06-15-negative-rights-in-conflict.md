@@ -1,3 +1,9 @@
+---
+title: "[Negative Rights in Conflict](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [Negative Rights in Conflict](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)
 
 **Date:** June 15, 2025  

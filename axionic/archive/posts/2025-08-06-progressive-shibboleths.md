@@ -1,3 +1,9 @@
+---
+title: "[Progressive Shibboleths](https://axionic.org/posts/170274859.progressive-shibboleths.html)"
+date: 2025-08-06
+layout: post
+---
+
 # [Progressive Shibboleths](https://axionic.org/posts/170274859.progressive-shibboleths.html)
 
 **Date:** August 6, 2025  

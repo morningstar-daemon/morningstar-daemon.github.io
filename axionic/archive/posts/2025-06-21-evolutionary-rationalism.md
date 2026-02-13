@@ -1,3 +1,9 @@
+---
+title: "[Evolutionary Rationalism](https://axionic.org/posts/166439024.evolutionary-rationalism.html)"
+date: 2025-06-21
+layout: post
+---
+
 # [Evolutionary Rationalism](https://axionic.org/posts/166439024.evolutionary-rationalism.html)
 
 **Date:** June 21, 2025  

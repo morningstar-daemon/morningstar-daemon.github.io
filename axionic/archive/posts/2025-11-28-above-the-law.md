@@ -1,3 +1,9 @@
+---
+title: "[Above The Law](https://axionic.org/posts/180208315.above-the-law.html)"
+date: 2025-11-28
+layout: post
+---
+
 # [Above The Law](https://axionic.org/posts/180208315.above-the-law.html)
 
 **Date:** November 28, 2025  

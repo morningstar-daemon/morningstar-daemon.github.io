@@ -1,3 +1,9 @@
+---
+title: "[Incitement Is Not Coercion](https://axionic.org/posts/171703023.incitement-is-not-coercion.html)"
+date: 2025-08-23
+layout: post
+---
+
 # [Incitement Is Not Coercion](https://axionic.org/posts/171703023.incitement-is-not-coercion.html)
 
 **Date:** August 23, 2025  

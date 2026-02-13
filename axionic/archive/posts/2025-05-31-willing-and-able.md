@@ -1,3 +1,9 @@
+---
+title: "[Willing and Able](https://axionic.org/posts/164878445.willing-and-able.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Willing and Able](https://axionic.org/posts/164878445.willing-and-able.html)
 
 **Date:** 2025-05-31  

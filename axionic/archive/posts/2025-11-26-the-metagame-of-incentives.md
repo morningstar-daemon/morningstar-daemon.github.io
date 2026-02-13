@@ -1,3 +1,9 @@
+---
+title: "[The Metagame of Incentives](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)"
+date: 2025-11-26
+layout: post
+---
+
 # [The Metagame of Incentives](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)
 
 **Date:** November 26, 2025  

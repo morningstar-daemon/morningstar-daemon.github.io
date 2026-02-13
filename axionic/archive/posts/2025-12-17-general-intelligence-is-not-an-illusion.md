@@ -1,3 +1,9 @@
+---
+title: "[General Intelligence Is Not an Illusion](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)"
+date: 2025-12-17
+layout: post
+---
+
 # [General Intelligence Is Not an Illusion](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)
 
 **Date:** December 17, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Gender As Performance](https://axionic.org/posts/176036886.gender-as-performance.html)"
+date: 2025-10-13
+layout: post
+---
+
 # [Gender As Performance](https://axionic.org/posts/176036886.gender-as-performance.html)
 
 **Date:** October 13, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Capitalism on Trial](https://axionic.org/posts/169495802.capitalism-on-trial.html)"
+date: 2025-07-28
+layout: post
+---
+
 # [Capitalism on Trial](https://axionic.org/posts/169495802.capitalism-on-trial.html)
 
 **Date:** July 28, 2025  

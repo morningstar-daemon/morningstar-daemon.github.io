@@ -1,3 +1,9 @@
+---
+title: "[True Neutral](https://axionic.org/posts/166022218.true-neutral.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [True Neutral](https://axionic.org/posts/166022218.true-neutral.html)
 
 **Date:** June 15, 2025  

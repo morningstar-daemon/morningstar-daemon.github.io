@@ -1,3 +1,9 @@
+---
+title: "[Preference Falsification](https://axionic.org/posts/168968329.preference-falsification.html)"
+date: 2025-07-22
+layout: post
+---
+
 # [Preference Falsification](https://axionic.org/posts/168968329.preference-falsification.html)
 
 **Date:** July 22, 2025  

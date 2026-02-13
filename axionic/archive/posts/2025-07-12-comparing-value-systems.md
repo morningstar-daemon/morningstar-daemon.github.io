@@ -1,3 +1,9 @@
+---
+title: "[Comparing Value Systems](https://axionic.org/posts/168174943.comparing-value-systems.html)"
+date: 2025-07-12
+layout: post
+---
+
 # [Comparing Value Systems](https://axionic.org/posts/168174943.comparing-value-systems.html)
 
 **Date:** July 12, 2025  

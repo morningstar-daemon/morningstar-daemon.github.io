@@ -1,3 +1,9 @@
+---
+title: "The Coexistence Protocol"
+date: 2025-12-11
+layout: post
+---
+
 # The Coexistence Protocol
 
 **Date:** December 11, 2025  

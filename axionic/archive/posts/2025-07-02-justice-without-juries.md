@@ -1,3 +1,9 @@
+---
+title: "[Justice Without Juries](https://axionic.org/posts/167356408.justice-without-juries.html)"
+date: 2025-07-02
+layout: post
+---
+
 # [Justice Without Juries](https://axionic.org/posts/167356408.justice-without-juries.html)
 
 **Date:** July 2, 2025  

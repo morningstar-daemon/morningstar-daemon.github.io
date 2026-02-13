@@ -1,3 +1,9 @@
+---
+title: "[Exemplars and Agency](https://axionic.org/posts/182596460.exemplars-and-agency.html)"
+date: 2025-12-25
+layout: post
+---
+
 # [Exemplars and Agency](https://axionic.org/posts/182596460.exemplars-and-agency.html)
 
 **Date:** December 25, 2025  

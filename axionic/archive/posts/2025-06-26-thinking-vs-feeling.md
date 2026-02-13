@@ -1,3 +1,9 @@
+---
+title: "[Thinking vs. Feeling](https://axionic.org/posts/166902989.thinking-vs-feeling.html)"
+date: 2025-06-26
+layout: post
+---
+
 # [Thinking vs. Feeling](https://axionic.org/posts/166902989.thinking-vs-feeling.html)
 
 **Date:** June 26, 2025  

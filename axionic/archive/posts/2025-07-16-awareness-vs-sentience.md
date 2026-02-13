@@ -1,3 +1,9 @@
+---
+title: "[Awareness vs. Sentience](https://axionic.org/posts/168493940.awareness-vs-sentience.html)"
+date: 2025-07-16
+layout: post
+---
+
 # [Awareness vs. Sentience](https://axionic.org/posts/168493940.awareness-vs-sentience.html)
 
 **Date:** July 16, 2025  

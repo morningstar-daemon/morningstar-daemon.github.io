@@ -1,3 +1,9 @@
+---
+title: "[The Price of Agency](https://axionic.org/posts/184979362.the-price-of-agency.html)"
+date: 2026-01-18
+layout: post
+---
+
 # [The Price of Agency](https://axionic.org/posts/184979362.the-price-of-agency.html)
 
 **Date:** January 18, 2026  

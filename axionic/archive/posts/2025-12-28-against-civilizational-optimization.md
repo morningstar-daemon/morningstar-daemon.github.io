@@ -1,3 +1,9 @@
+---
+title: "[Against Civilizational Optimization](https://axionic.org/posts/182797492.against-civilizational-optimization.html)"
+date: 2025-12-28
+layout: post
+---
+
 # [Against Civilizational Optimization](https://axionic.org/posts/182797492.against-civilizational-optimization.html)
 
 **Date:** December 28, 2025  

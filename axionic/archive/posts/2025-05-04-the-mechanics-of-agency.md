@@ -1,3 +1,9 @@
+---
+title: "[The Mechanics of Agency](https://axionic.org/posts/162831172.the-mechanics-of-agency.html)"
+date: 2025-05-04
+layout: post
+---
+
 # [The Mechanics of Agency](https://axionic.org/posts/162831172.the-mechanics-of-agency.html)
 
 **Date:** 2025-05-04  

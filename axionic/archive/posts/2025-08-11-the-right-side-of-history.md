@@ -1,3 +1,9 @@
+---
+title: "[The Right Side of History](https://axionic.org/posts/170694694.the-right-side-of-history.html)"
+date: 2025-08-11
+layout: post
+---
+
 # [The Right Side of History](https://axionic.org/posts/170694694.the-right-side-of-history.html)
 
 **Date:** August 11, 2025  

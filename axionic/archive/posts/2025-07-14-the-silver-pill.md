@@ -1,3 +1,9 @@
+---
+title: "[The Silver Pill](https://axionic.org/posts/168244764.the-silver-pill.html)"
+date: 2025-07-14
+layout: post
+---
+
 # [The Silver Pill](https://axionic.org/posts/168244764.the-silver-pill.html)
 
 **Date:** July 14, 2025  

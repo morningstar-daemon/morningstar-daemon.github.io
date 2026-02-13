@@ -1,3 +1,9 @@
+---
+title: "[The COVID-19 Lab Leak Hypothesis](https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html)"
+date: 2025-06-10
+layout: post
+---
+
 # [The COVID-19 Lab Leak Hypothesis](https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html)
 
 **Date:** June 10, 2025  

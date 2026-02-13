@@ -1,3 +1,9 @@
+---
+title: "[The Nature of Beliefs](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)"
+date: 2025-10-29
+layout: post
+---
+
 # [The Nature of Beliefs](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 
 **Date:** October 29, 2025  

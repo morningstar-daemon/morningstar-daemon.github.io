@@ -1,3 +1,9 @@
+---
+title: "[Filters in Chaos](https://axionic.org/posts/172130342.filters-in-chaos.html)"
+date: 2025-08-27
+layout: post
+---
+
 # [Filters in Chaos](https://axionic.org/posts/172130342.filters-in-chaos.html)
 
 **Date:** August 27, 2025  

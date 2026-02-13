@@ -1,3 +1,9 @@
+---
+title: "[AGI Economics](https://axionic.org/posts/166330539.agi-economics.html)"
+date: 2025-06-19
+layout: post
+---
+
 # [AGI Economics](https://axionic.org/posts/166330539.agi-economics.html)
 
 **Date:** June 19, 2025  

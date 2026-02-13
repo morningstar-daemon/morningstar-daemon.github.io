@@ -1,3 +1,9 @@
+---
+title: "[Should Trillionaires Exist?](https://axionic.org/posts/174059558.should-trillionaires-exist.html)"
+date: 2025-09-19
+layout: post
+---
+
 # [Should Trillionaires Exist?](https://axionic.org/posts/174059558.should-trillionaires-exist.html)
 
 **Date:** September 19, 2025  

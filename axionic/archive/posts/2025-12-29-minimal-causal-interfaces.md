@@ -1,3 +1,9 @@
+---
+title: "[Minimal Causal Interfaces](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)"
+date: 2025-12-29
+layout: post
+---
+
 # [Minimal Causal Interfaces](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 **Date:** December 29, 2025  

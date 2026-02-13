@@ -1,3 +1,9 @@
+---
+title: "[Rejecting Victimhood Culture](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)"
+date: 2025-08-06
+layout: post
+---
+
 # [Rejecting Victimhood Culture](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)
 
 **Date:** August 6, 2025  

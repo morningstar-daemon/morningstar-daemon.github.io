@@ -1,3 +1,9 @@
+---
+title: "[Lessons From Peak Oil](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)"
+date: 2025-07-21
+layout: post
+---
+
 # [Lessons From Peak Oil](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)
 
 **Date:** July 21, 2025  

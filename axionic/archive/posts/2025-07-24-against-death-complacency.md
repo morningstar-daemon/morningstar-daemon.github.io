@@ -1,3 +1,9 @@
+---
+title: "[Against Death Complacency](https://axionic.org/posts/169150004.against-death-complacency.html)"
+date: 2025-07-24
+layout: post
+---
+
 # [Against Death Complacency](https://axionic.org/posts/169150004.against-death-complacency.html)
 
 **Date:** July 24, 2025  

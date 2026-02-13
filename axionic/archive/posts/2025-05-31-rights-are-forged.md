@@ -1,3 +1,9 @@
+---
+title: "[Rights Are Forged](https://axionic.org/posts/164901368.rights-are-forged.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [Rights Are Forged](https://axionic.org/posts/164901368.rights-are-forged.html)
 
 **Date:** 2025-05-31  

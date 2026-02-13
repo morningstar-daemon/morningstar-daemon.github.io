@@ -1,3 +1,9 @@
+---
+title: "[Conditional Divinity](https://axionic.org/posts/174067441.conditional-divinity.html)"
+date: 2025-09-19
+layout: post
+---
+
 # [Conditional Divinity](https://axionic.org/posts/174067441.conditional-divinity.html)
 
 **Date:** September 19, 2025  

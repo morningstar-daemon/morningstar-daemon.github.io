@@ -1,3 +1,9 @@
+---
+title: "[Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)"
+date: 2025-11-15
+layout: post
+---
+
 # [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)
 
 **Date:** November 15, 2025  

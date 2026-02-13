@@ -1,3 +1,9 @@
+---
+title: "[Universal Alignment](https://axionic.org/posts/164437547.universal-alignment.html)"
+date: 2025-05-25
+layout: post
+---
+
 # [Universal Alignment](https://axionic.org/posts/164437547.universal-alignment.html)
 
 **Date:** 2025-05-25  

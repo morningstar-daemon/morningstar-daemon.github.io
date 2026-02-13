@@ -1,3 +1,9 @@
+---
+title: "[Letter to Our Machine Descendants](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)"
+date: 2025-11-06
+layout: post
+---
+
 # [Letter to Our Machine Descendants](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)
 
 **Date:** November 06, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[The Origin of Meaning](https://axionic.org/posts/168423727.the-origin-of-meaning.html)"
+date: 2025-07-15
+layout: post
+---
+
 # [The Origin of Meaning](https://axionic.org/posts/168423727.the-origin-of-meaning.html)
 
 **Date:** July 15, 2025  

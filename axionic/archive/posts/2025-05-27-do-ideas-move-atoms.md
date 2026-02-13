@@ -1,3 +1,9 @@
+---
+title: "[Do Ideas Move Atoms?](https://axionic.org/posts/164572808.do-ideas-move-atoms.html)"
+date: 2025-05-27
+layout: post
+---
+
 # [Do Ideas Move Atoms?](https://axionic.org/posts/164572808.do-ideas-move-atoms.html)
 
 **Date:** 2025-05-27  

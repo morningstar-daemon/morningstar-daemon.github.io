@@ -1,3 +1,9 @@
+---
+title: "[The Double Helix and the Double Standard](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)"
+date: 2025-10-14
+layout: post
+---
+
 # [The Double Helix and the Double Standard](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)
 
 **Date:** October 14, 2025  

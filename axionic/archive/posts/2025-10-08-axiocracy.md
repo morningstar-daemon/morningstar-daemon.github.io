@@ -1,3 +1,9 @@
+---
+title: "[Axiocracy](https://axionic.org/posts/175667290.axiocracy.html)"
+date: 2025-10-08
+layout: post
+---
+
 # [Axiocracy](https://axionic.org/posts/175667290.axiocracy.html)
 
 **Date:** October 8, 2025  

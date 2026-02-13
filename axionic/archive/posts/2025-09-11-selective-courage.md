@@ -1,3 +1,9 @@
+---
+title: "[Selective Courage](https://axionic.org/posts/173353837.selective-courage.html)"
+date: 2025-09-11
+layout: post
+---
+
 # [Selective Courage](https://axionic.org/posts/173353837.selective-courage.html)
 
 **Date:** September 11, 2025  

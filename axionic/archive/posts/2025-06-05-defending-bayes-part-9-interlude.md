@@ -1,3 +1,9 @@
+---
+title: "[Defending Bayes, Part 9 (Interlude)](https://axionic.org/posts/165273153.defending-bayes-part-9-interlude.html)"
+date: 2025-06-05
+layout: post
+---
+
 # [Defending Bayes, Part 9 (Interlude)](https://axionic.org/posts/165273153.defending-bayes-part-9-interlude.html)
 
 **Date:** 2025-06-05  

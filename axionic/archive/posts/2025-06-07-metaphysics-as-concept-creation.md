@@ -1,3 +1,9 @@
+---
+title: "[Metaphysics as Concept Creation](https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Metaphysics as Concept Creation](https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html)
 
 **Date:** 2025-06-07  

@@ -1,3 +1,9 @@
+---
+title: "[The Chinese Room](https://axionic.org/posts/168496408.the-chinese-room.html)"
+date: 2025-07-16
+layout: post
+---
+
 # [The Chinese Room](https://axionic.org/posts/168496408.the-chinese-room.html)
 
 **Date:** July 16, 2025  

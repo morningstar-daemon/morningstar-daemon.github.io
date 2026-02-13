@@ -1,3 +1,9 @@
+---
+title: "[What Counts As Coercion](https://axionic.org/posts/164902314.what-counts-as-coercion.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [What Counts As Coercion](https://axionic.org/posts/164902314.what-counts-as-coercion.html)
 
 **Date:** 2025-05-31  

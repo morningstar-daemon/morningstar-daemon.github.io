@@ -1,3 +1,9 @@
+---
+title: "[Regret Is Not a Policy Metric](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)"
+date: 2025-12-16
+layout: post
+---
+
 # [Regret Is Not a Policy Metric](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)
 
 **Date:** 2025-12-16  

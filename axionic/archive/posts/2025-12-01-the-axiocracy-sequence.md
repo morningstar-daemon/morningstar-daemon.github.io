@@ -1,3 +1,9 @@
+---
+title: "[The Axiocracy Sequence](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)"
+date: 2025-12-01
+layout: post
+---
+
 # [The Axiocracy Sequence](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)
 
 **Date:** December 1, 2025  

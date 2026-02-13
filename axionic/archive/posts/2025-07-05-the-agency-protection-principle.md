@@ -1,3 +1,9 @@
+---
+title: "[The Agency Protection Principle](https://axionic.org/posts/167587968.the-agency-protection-principle.html)"
+date: 2025-07-05
+layout: post
+---
+
 # [The Agency Protection Principle](https://axionic.org/posts/167587968.the-agency-protection-principle.html)
 
 **Date:** July 05, 2025  

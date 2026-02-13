@@ -1,3 +1,9 @@
+---
+title: "[Silencing Through Stigma](https://axionic.org/posts/170122138.silencing-through-stigma.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [Silencing Through Stigma](https://axionic.org/posts/170122138.silencing-through-stigma.html)
 
 **Date:** August 04, 2025  

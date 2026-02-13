@@ -1,3 +1,9 @@
+---
+title: "[The Physics of Agency, Part 7: Branching Realities — Agency in the Multiverse](https://axionic.org/posts/162571051.the-physics-of-agency-part-7-branching.html)"
+date: 2025-04-30
+layout: post
+---
+
 # [The Physics of Agency, Part 7: Branching Realities — Agency in the Multiverse](https://axionic.org/posts/162571051.the-physics-of-agency-part-7-branching.html)
 
 **Date:** 2025-04-30  

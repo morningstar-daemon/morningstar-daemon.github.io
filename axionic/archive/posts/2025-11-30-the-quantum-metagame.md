@@ -1,3 +1,9 @@
+---
+title: "[The Quantum Metagame](https://axionic.org/posts/180339872.the-quantum-metagame.html)"
+date: 2025-11-30
+layout: post
+---
+
 # [The Quantum Metagame](https://axionic.org/posts/180339872.the-quantum-metagame.html)
 
 **Date:** November 30, 2025  

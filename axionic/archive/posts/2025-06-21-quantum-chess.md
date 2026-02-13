@@ -1,3 +1,9 @@
+---
+title: "[Quantum Chess](https://axionic.org/posts/166481044.quantum-chess.html)"
+date: 2025-06-21
+layout: post
+---
+
 # [Quantum Chess](https://axionic.org/posts/166481044.quantum-chess.html)
 
 **Date:** June 21, 2025  

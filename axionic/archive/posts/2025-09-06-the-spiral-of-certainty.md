@@ -1,3 +1,9 @@
+---
+title: "[The Spiral of Certainty](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)"
+date: 2025-09-06
+layout: post
+---
+
 # [The Spiral of Certainty](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)
 
 **Date:** September 6, 2025  

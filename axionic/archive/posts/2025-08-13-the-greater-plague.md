@@ -1,3 +1,9 @@
+---
+title: "[The Greater Plague](https://axionic.org/posts/170913856.the-greater-plague.html)"
+date: 2025-08-13
+layout: post
+---
+
 # [The Greater Plague](https://axionic.org/posts/170913856.the-greater-plague.html)
 
 **Date:** August 13, 2025  

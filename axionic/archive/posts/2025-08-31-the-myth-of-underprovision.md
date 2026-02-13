@@ -1,3 +1,9 @@
+---
+title: "[The Myth of Underprovision](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)"
+date: 2025-08-31
+layout: post
+---
+
 # [The Myth of Underprovision](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)
 
 **Date:** August 31, 2025  

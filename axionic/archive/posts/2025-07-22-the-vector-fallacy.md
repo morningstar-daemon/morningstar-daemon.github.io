@@ -1,3 +1,9 @@
+---
+title: "[The Vector Fallacy](https://axionic.org/posts/168986621.the-vector-fallacy.html)"
+date: 2025-07-22
+layout: post
+---
+
 # [The Vector Fallacy](https://axionic.org/posts/168986621.the-vector-fallacy.html)
 
 **Date:** July 22, 2025  

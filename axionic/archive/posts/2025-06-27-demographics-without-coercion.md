@@ -1,3 +1,9 @@
+---
+title: "[Demographics Without Coercion](https://axionic.org/posts/166945477.demographics-without-coercion.html)"
+date: 2025-06-27
+layout: post
+---
+
 # [Demographics Without Coercion](https://axionic.org/posts/166945477.demographics-without-coercion.html)
 
 **Date:** June 27, 2025  

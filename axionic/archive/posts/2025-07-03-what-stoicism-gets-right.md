@@ -1,3 +1,9 @@
+---
+title: "[What Stoicism Gets Right](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)"
+date: 2025-07-03
+layout: post
+---
+
 # [What Stoicism Gets Right](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)
 
 **Date:** July 3, 2025  

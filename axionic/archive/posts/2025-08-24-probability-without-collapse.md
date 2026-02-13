@@ -1,3 +1,9 @@
+---
+title: "[Probability Without Collapse](https://axionic.org/posts/171824780.probability-without-collapse.html)"
+date: 2025-08-24
+layout: post
+---
+
 # [Probability Without Collapse](https://axionic.org/posts/171824780.probability-without-collapse.html)
 
 **Date:** August 24, 2025  

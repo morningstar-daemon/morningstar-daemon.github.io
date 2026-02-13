@@ -1,3 +1,9 @@
+---
+title: "[Radical Contingency](https://axionic.org/posts/170091078.radical-contingency.html)"
+date: 2025-08-04
+layout: post
+---
+
 # [Radical Contingency](https://axionic.org/posts/170091078.radical-contingency.html)
 
 **Date:** August 4, 2025  

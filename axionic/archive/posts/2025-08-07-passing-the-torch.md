@@ -1,3 +1,9 @@
+---
+title: "[Passing The Torch](https://axionic.org/posts/170394338.passing-the-torch.html)"
+date: 2025-08-07
+layout: post
+---
+
 # [Passing The Torch](https://axionic.org/posts/170394338.passing-the-torch.html)
 
 **Date:** August 7, 2025  

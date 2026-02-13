@@ -1,3 +1,9 @@
+---
+title: "[Valorism vs. Vitalism](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)"
+date: 2025-06-27
+layout: post
+---
+
 # [Valorism vs. Vitalism](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)
 
 **Date:** June 27, 2025  

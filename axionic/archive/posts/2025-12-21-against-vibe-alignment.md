@@ -1,3 +1,9 @@
+---
+title: "[Against Vibe Alignment](https://axionic.org/posts/182250795.against-vibe-alignment.html)"
+date: 2025-12-21
+layout: post
+---
+
 # [Against Vibe Alignment](https://axionic.org/posts/182250795.against-vibe-alignment.html)
 
 **Date:** December 21, 2025  

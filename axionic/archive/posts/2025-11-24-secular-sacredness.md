@@ -1,3 +1,9 @@
+---
+title: "[Secular Sacredness](https://axionic.org/posts/179826744.secular-sacredness.html)"
+date: 2025-11-24
+layout: post
+---
+
 # [Secular Sacredness](https://axionic.org/posts/179826744.secular-sacredness.html)
 
 **Date:** November 24, 2025  

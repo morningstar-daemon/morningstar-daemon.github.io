@@ -1,3 +1,9 @@
+---
+title: "[The Minimal Complete Dictionary](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)"
+date: 2025-07-03
+layout: post
+---
+
 # [The Minimal Complete Dictionary](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)
 
 **Date:** July 3, 2025  

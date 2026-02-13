@@ -1,3 +1,9 @@
+---
+title: "The Sovereign Kernel"
+date: 2025-12-13
+layout: post
+---
+
 # The Sovereign Kernel
 
 **Date:** December 13, 2025  

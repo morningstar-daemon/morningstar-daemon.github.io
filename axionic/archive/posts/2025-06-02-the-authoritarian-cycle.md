@@ -1,3 +1,9 @@
+---
+title: "[The Authoritarian Cycle](https://axionic.org/posts/165023774.the-authoritarian-cycle.html)"
+date: 2025-06-02
+layout: post
+---
+
 # [The Authoritarian Cycle](https://axionic.org/posts/165023774.the-authoritarian-cycle.html)
 
 **Date:** 2025-06-02  

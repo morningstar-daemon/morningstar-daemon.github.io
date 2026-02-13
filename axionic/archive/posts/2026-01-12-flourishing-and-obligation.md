@@ -1,3 +1,9 @@
+---
+title: "[Flourishing and Obligation](https://axionic.org/posts/184262903.flourishing-and-obligation.html)"
+date: 2026-01-12
+layout: post
+---
+
 # [Flourishing and Obligation](https://axionic.org/posts/184262903.flourishing-and-obligation.html)
 
 **Date:** January 12, 2026  

@@ -1,3 +1,9 @@
+---
+title: "[Chaos as Foundation](https://axionic.org/posts/177832101.chaos-as-foundation.html)"
+date: 2025-11-02
+layout: post
+---
+
 # [Chaos as Foundation](https://axionic.org/posts/177832101.chaos-as-foundation.html)
 
 **Date:** November 02, 2025  

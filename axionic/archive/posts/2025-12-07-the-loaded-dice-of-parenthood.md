@@ -1,3 +1,9 @@
+---
+title: "[The Loaded Dice of Parenthood](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)"
+date: 2025-12-07
+layout: post
+---
+
 # [The Loaded Dice of Parenthood](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)
 
 **Date:** December 7, 2025  

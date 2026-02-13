@@ -1,3 +1,9 @@
+---
+title: "[When Consensus Entrenches Authority](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)"
+date: 2026-01-10
+layout: post
+---
+
 # [When Consensus Entrenches Authority](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)
 
 **Date:** January 10, 2026  

@@ -1,3 +1,9 @@
+---
+title: "[Coherence From Chaos](https://axionic.org/posts/171846415.coherence-from-chaos.html)"
+date: 2025-08-25
+layout: post
+---
+
 # [Coherence From Chaos](https://axionic.org/posts/171846415.coherence-from-chaos.html)
 
 **Date:** August 25, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Sapientism](https://axionic.org/posts/166033482.sapientism.html)"
+date: 2025-06-16
+layout: post
+---
+
 # [Sapientism](https://axionic.org/posts/166033482.sapientism.html)
 
 **Date:** June 16, 2025  

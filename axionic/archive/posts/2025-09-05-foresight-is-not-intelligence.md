@@ -1,3 +1,9 @@
+---
+title: "[Foresight Is Not Intelligence](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)"
+date: 2025-09-05
+layout: post
+---
+
 # [Foresight Is Not Intelligence](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)
 
 **Date:** September 5, 2025  

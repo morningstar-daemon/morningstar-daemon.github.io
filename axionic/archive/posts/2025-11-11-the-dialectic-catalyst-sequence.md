@@ -1,3 +1,9 @@
+---
+title: "[The Dialectic Catalyst Sequence](https://axionic.org/posts/178561764.the-dialectic-catalyst-sequence.html)"
+date: 2025-11-11
+layout: post
+---
+
 # [The Dialectic Catalyst Sequence](https://axionic.org/posts/178561764.the-dialectic-catalyst-sequence.html)
 
 **Date:** November 11, 2025  

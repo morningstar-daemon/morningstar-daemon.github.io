@@ -1,3 +1,9 @@
+---
+title: "[The Semantics of Violence](https://axionic.org/posts/175525671.the-semantics-of-violence.html)"
+date: 2025-10-07
+layout: post
+---
+
 # [The Semantics of Violence](https://axionic.org/posts/175525671.the-semantics-of-violence.html)
 
 **Date:** October 7, 2025  

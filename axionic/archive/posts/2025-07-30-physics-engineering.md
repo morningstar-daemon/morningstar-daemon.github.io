@@ -1,3 +1,9 @@
+---
+title: "[Physics Engineering](https://axionic.org/posts/169627584.physics-engineering.html)"
+date: 2025-07-30
+layout: post
+---
+
 # [Physics Engineering](https://axionic.org/posts/169627584.physics-engineering.html)
 
 **Date:** July 30, 2025  

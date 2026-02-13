@@ -1,3 +1,9 @@
+---
+title: "[Ghosts in the Machine](https://axionic.org/posts/171666094.ghosts-in-the-machine.html)"
+date: 2025-08-22
+layout: post
+---
+
 # [Ghosts in the Machine](https://axionic.org/posts/171666094.ghosts-in-the-machine.html)
 
 **Date:** August 22, 2025  

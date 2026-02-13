@@ -1,3 +1,9 @@
+---
+title: "[Cosmic Coincidence](https://axionic.org/posts/167015115.cosmic-coincidence.html)"
+date: 2025-06-28
+layout: post
+---
+
 # [Cosmic Coincidence](https://axionic.org/posts/167015115.cosmic-coincidence.html)
 
 **Date:** June 28, 2025  

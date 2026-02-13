@@ -1,3 +1,9 @@
+---
+title: "[The Evolution of the Future](https://axionic.org/posts/175474848.the-evolution-of-the-future.html)"
+date: 2025-10-06
+layout: post
+---
+
 # [The Evolution of the Future](https://axionic.org/posts/175474848.the-evolution-of-the-future.html)
 
 **Date:** October 6, 2025  

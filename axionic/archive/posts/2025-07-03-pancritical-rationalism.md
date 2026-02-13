@@ -1,3 +1,9 @@
+---
+title: "[Pancritical Rationalism](https://axionic.org/posts/167452557.pancritical-rationalism.html)"
+date: 2025-07-03
+layout: post
+---
+
 # [Pancritical Rationalism](https://axionic.org/posts/167452557.pancritical-rationalism.html)
 
 **Date:** July 3, 2025  

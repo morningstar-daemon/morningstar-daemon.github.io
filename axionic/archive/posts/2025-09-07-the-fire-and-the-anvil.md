@@ -1,3 +1,9 @@
+---
+title: "[The Fire and the Anvil](https://axionic.org/posts/173045756.the-fire-and-the-anvil.html)"
+date: 2025-09-07
+layout: post
+---
+
 # [The Fire and the Anvil](https://axionic.org/posts/173045756.the-fire-and-the-anvil.html)
 
 **Date:** September 7, 2025  

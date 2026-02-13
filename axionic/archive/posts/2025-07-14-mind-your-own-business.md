@@ -1,3 +1,9 @@
+---
+title: "[Mind Your Own Business](https://axionic.org/posts/168315861.mind-your-own-business.html)"
+date: 2025-07-14
+layout: post
+---
+
 # [Mind Your Own Business](https://axionic.org/posts/168315861.mind-your-own-business.html)
 
 **Date:** July 14, 2025  

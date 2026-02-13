@@ -1,3 +1,9 @@
+---
+title: "[Destructor Memes](https://axionic.org/posts/176688057.destructor-memes.html)"
+date: 2025-10-20
+layout: post
+---
+
 # [Destructor Memes](https://axionic.org/posts/176688057.destructor-memes.html)
 
 **Date:** October 20, 2025  

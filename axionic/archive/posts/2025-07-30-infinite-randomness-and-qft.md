@@ -1,3 +1,9 @@
+---
+title: "[Infinite Randomness and QFT](https://axionic.org/posts/169621940.infinite-randomness-and-qft.html)"
+date: 2025-07-30
+layout: post
+---
+
 # [Infinite Randomness and QFT](https://axionic.org/posts/169621940.infinite-randomness-and-qft.html)
 
 **Date:** July 30, 2025  

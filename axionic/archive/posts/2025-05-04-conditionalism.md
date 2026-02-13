@@ -1,3 +1,9 @@
+---
+title: "[Conditionalism](https://axionic.org/posts/162831503.conditionalism.html)"
+date: 2025-05-04
+layout: post
+---
+
 # [Conditionalism](https://axionic.org/posts/162831503.conditionalism.html)
 
 **Date:** 2025-05-04  

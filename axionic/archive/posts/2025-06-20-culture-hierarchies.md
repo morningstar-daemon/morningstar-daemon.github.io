@@ -1,3 +1,9 @@
+---
+title: "[Culture Hierarchies](https://axionic.org/posts/166409545.culture-hierarchies.html)"
+date: 2025-06-20
+layout: post
+---
+
 # [Culture Hierarchies](https://axionic.org/posts/166409545.culture-hierarchies.html)
 
 **Date:** June 20, 2025  

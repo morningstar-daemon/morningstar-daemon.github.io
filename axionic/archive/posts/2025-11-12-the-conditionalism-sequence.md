@@ -1,3 +1,9 @@
+---
+title: "[The Conditionalism Sequence](https://axionic.org/posts/178650287.the-conditionalism-sequence.html)"
+date: 2025-11-12
+layout: post
+---
+
 # [The Conditionalism Sequence](https://axionic.org/posts/178650287.the-conditionalism-sequence.html)
 
 **Date:** November 12, 2025  

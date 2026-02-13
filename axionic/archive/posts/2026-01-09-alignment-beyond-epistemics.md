@@ -1,3 +1,9 @@
+---
+title: "[Alignment Beyond Epistemics](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)"
+date: 2026-01-09
+layout: post
+---
+
 # [Alignment Beyond Epistemics](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)
 
 **Date:** January 9, 2026  

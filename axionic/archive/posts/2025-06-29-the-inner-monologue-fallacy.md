@@ -1,3 +1,9 @@
+---
+title: "[The Inner Monologue Fallacy](https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html)"
+date: 2025-06-29
+layout: post
+---
+
 # [The Inner Monologue Fallacy](https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html)
 
 **Date:** June 29, 2025  

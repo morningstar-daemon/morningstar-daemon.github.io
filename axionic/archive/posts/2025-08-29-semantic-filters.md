@@ -1,3 +1,9 @@
+---
+title: "[Semantic Filters](https://axionic.org/posts/172302569.semantic-filters.html)"
+date: 2025-08-29
+layout: post
+---
+
 # [Semantic Filters](https://axionic.org/posts/172302569.semantic-filters.html)
 
 **Date:** August 29, 2025  

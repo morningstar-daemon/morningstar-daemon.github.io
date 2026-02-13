@@ -1,3 +1,9 @@
+---
+title: "[The Metagame Sequence](https://axionic.org/posts/180340867.the-metagame-sequence.html)"
+date: 2025-11-30
+layout: post
+---
+
 # [The Metagame Sequence](https://axionic.org/posts/180340867.the-metagame-sequence.html)
 
 **Date:** November 30, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Quantum Free Will](https://axionic.org/posts/175664749.quantum-free-will.html)"
+date: 2025-10-08
+layout: post
+---
+
 # [Quantum Free Will](https://axionic.org/posts/175664749.quantum-free-will.html)
 
 **Date:** October 8, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Escaping the Echo Chamber](https://axionic.org/posts/168740300.escaping-the-echo-chamber.html)"
+date: 2025-07-19
+layout: post
+---
+
 # [Escaping the Echo Chamber](https://axionic.org/posts/168740300.escaping-the-echo-chamber.html)
 
 **Date:** July 19, 2025  

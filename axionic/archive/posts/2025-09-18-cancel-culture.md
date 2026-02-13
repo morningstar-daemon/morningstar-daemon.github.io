@@ -1,3 +1,9 @@
+---
+title: "[Cancel Culture](https://axionic.org/posts/173950922.cancel-culture.html)"
+date: 2025-09-18
+layout: post
+---
+
 # [Cancel Culture](https://axionic.org/posts/173950922.cancel-culture.html)
 
 **Date:** September 18, 2025  

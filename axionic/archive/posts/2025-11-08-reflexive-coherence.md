@@ -1,3 +1,9 @@
+---
+title: "[Reflexive Coherence](https://axionic.org/posts/178362242.reflexive-coherence.html)"
+date: 2025-11-08
+layout: post
+---
+
 # [Reflexive Coherence](https://axionic.org/posts/178362242.reflexive-coherence.html)
 
 **Date:** November 08, 2025  

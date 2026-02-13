@@ -1,3 +1,9 @@
+---
+title: "[Logical Identity](https://axionic.org/posts/178033688.logical-identity.html)"
+date: 2025-11-04
+layout: post
+---
+
 # [Logical Identity](https://axionic.org/posts/178033688.logical-identity.html)
 
 **Date:** November 04, 2025  

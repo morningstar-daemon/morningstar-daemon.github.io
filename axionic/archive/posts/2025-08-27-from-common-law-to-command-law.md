@@ -1,3 +1,9 @@
+---
+title: "[From Common Law to Command Law](https://axionic.org/posts/172049474.from-common-law-to-command-law.html)"
+date: 2025-08-27
+layout: post
+---
+
 # [From Common Law to Command Law](https://axionic.org/posts/172049474.from-common-law-to-command-law.html)
 
 **Date:** August 27, 2025  

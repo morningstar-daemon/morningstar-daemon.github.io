@@ -1,3 +1,9 @@
+---
+title: "[What Is a Model?](https://axionic.org/posts/179372278.what-is-a-model.html)"
+date: 2025-11-19
+layout: post
+---
+
 # [What Is a Model?](https://axionic.org/posts/179372278.what-is-a-model.html)
 
 **Date:** 2025-11-19  

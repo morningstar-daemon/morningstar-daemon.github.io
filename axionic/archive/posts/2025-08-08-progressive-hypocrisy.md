@@ -1,3 +1,9 @@
+---
+title: "[Progressive Hypocrisy](https://axionic.org/posts/170446132.progressive-hypocrisy.html)"
+date: 2025-08-08
+layout: post
+---
+
 # [Progressive Hypocrisy](https://axionic.org/posts/170446132.progressive-hypocrisy.html)
 
 **Date:** August 8, 2025  

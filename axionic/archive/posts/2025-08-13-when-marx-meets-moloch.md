@@ -1,3 +1,9 @@
+---
+title: "[When Marx Meets Moloch](https://axionic.org/posts/170886757.when-marx-meets-moloch.html)"
+date: 2025-08-13
+layout: post
+---
+
 # [When Marx Meets Moloch](https://axionic.org/posts/170886757.when-marx-meets-moloch.html)
 
 **Date:** August 13, 2025  

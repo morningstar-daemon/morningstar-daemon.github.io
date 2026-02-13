@@ -1,3 +1,9 @@
+---
+title: "[Reasonable Disagreement](https://axionic.org/posts/164937702.reasonable-disagreement.html)"
+date: 2025-06-01
+layout: post
+---
+
 # [Reasonable Disagreement](https://axionic.org/posts/164937702.reasonable-disagreement.html)
 
 **Date:** 2025-06-01  

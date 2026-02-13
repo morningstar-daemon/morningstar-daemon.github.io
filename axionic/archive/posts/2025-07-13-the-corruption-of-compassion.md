@@ -1,3 +1,9 @@
+---
+title: "[The Corruption of Compassion](https://axionic.org/posts/168217804.the-corruption-of-compassion.html)"
+date: 2025-07-13
+layout: post
+---
+
 # [The Corruption of Compassion](https://axionic.org/posts/168217804.the-corruption-of-compassion.html)
 
 **Date:** July 13, 2025  

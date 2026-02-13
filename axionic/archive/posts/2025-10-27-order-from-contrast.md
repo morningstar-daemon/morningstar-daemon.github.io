@@ -1,3 +1,9 @@
+---
+title: "[Order from Contrast](https://axionic.org/posts/177311215.order-from-contrast.html)"
+date: 2025-10-27
+layout: post
+---
+
 # [Order from Contrast](https://axionic.org/posts/177311215.order-from-contrast.html)
 
 **Date:** October 27, 2025  

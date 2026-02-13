@@ -1,3 +1,9 @@
+---
+title: "[The Free Rider Fallacy](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)"
+date: 2025-05-31
+layout: post
+---
+
 # [The Free Rider Fallacy](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)
 
 **Date:** 2025-05-31  

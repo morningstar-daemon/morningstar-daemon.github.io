@@ -1,3 +1,9 @@
+---
+title: "[Truth Machines](https://axionic.org/posts/177760320.truth-machines.html)"
+date: 2025-11-01
+layout: post
+---
+
 # [Truth Machines](https://axionic.org/posts/177760320.truth-machines.html)
 
 **Date:** November 01, 2025  

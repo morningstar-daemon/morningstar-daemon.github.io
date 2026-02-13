@@ -1,3 +1,9 @@
+---
+title: "[Consciousness From Constructors](https://axionic.org/posts/171909085.consciousness-from-constructors.html)"
+date: 2025-08-25
+layout: post
+---
+
 # [Consciousness From Constructors](https://axionic.org/posts/171909085.consciousness-from-constructors.html)
 
 **Date:** August 25, 2025  

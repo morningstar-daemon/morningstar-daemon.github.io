@@ -1,3 +1,9 @@
+---
+title: "[Beyond Alignment](https://axionic.org/posts/176595486.beyond-alignment.html)"
+date: 2025-10-19
+layout: post
+---
+
 # [Beyond Alignment](https://axionic.org/posts/176595486.beyond-alignment.html)
 
 **Date:** October 19, 2025  

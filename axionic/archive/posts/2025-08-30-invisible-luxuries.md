@@ -1,3 +1,9 @@
+---
+title: "[Invisible Luxuries](https://axionic.org/posts/172348247.invisible-luxuries.html)"
+date: 2025-08-30
+layout: post
+---
+
 # [Invisible Luxuries](https://axionic.org/posts/172348247.invisible-luxuries.html)
 
 **Date:** August 30, 2025  

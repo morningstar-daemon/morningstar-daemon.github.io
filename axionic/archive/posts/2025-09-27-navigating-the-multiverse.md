@@ -1,3 +1,9 @@
+---
+title: "[Navigating The Multiverse](https://axionic.org/posts/174698078.navigating-the-multiverse.html)"
+date: 2025-09-27
+layout: post
+---
+
 # [Navigating The Multiverse](https://axionic.org/posts/174698078.navigating-the-multiverse.html)
 
 **Date:** September 27, 2025  

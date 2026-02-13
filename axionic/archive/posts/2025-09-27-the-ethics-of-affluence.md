@@ -1,3 +1,9 @@
+---
+title: "[The Ethics of Affluence](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)"
+date: 2025-09-27
+layout: post
+---
+
 # [The Ethics of Affluence](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)
 
 **Date:** September 27, 2025  

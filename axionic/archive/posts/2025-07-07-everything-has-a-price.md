@@ -1,3 +1,9 @@
+---
+title: "[Everything Has a Price](https://axionic.org/posts/167735185.everything-has-a-price.html)"
+date: 2025-07-07
+layout: post
+---
+
 # [Everything Has a Price](https://axionic.org/posts/167735185.everything-has-a-price.html)
 
 **Date:** July 7, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Irony vs Integrity](https://axionic.org/posts/178031361.irony-vs-integrity.html)"
+date: 2025-11-04
+layout: post
+---
+
 # [Irony vs Integrity](https://axionic.org/posts/178031361.irony-vs-integrity.html)
 
 **Date:** November 04, 2025  

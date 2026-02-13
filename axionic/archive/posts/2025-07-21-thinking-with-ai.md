@@ -1,3 +1,9 @@
+---
+title: "[Thinking With AI](https://axionic.org/posts/168904359.thinking-with-ai.html)"
+date: 2025-07-21
+layout: post
+---
+
 # [Thinking With AI](https://axionic.org/posts/168904359.thinking-with-ai.html)
 
 **Date:** July 21, 2025  

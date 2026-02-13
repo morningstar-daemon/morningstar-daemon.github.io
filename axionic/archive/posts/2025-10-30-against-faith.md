@@ -1,3 +1,9 @@
+---
+title: "[Against Faith](https://axionic.org/posts/177598036.against-faith.html)"
+date: 2025-10-30
+layout: post
+---
+
 # [Against Faith](https://axionic.org/posts/177598036.against-faith.html)
 
 **Date:** October 30, 2025  

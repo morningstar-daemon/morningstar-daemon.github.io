@@ -1,3 +1,9 @@
+---
+title: "[The Twilight of Authority](https://axionic.org/posts/172520720.the-twilight-of-authority.html)"
+date: 2025-09-01
+layout: post
+---
+
 # [The Twilight of Authority](https://axionic.org/posts/172520720.the-twilight-of-authority.html)
 
 **Date:** September 1, 2025  

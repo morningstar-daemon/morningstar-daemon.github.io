@@ -1,3 +1,9 @@
+---
+title: "[Ornament and Advantage](https://axionic.org/posts/174783426.ornament-and-advantage.html)"
+date: 2025-09-28
+layout: post
+---
+
 # [Ornament and Advantage](https://axionic.org/posts/174783426.ornament-and-advantage.html)
 
 **Date:** September 28, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Boundary Conditions for Self-Modification](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)"
+date: 2025-12-13
+layout: post
+---
+
 # [Boundary Conditions for Self-Modification](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)
 
 **Date:** 2025-12-13  

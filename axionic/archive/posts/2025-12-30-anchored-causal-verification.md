@@ -1,3 +1,9 @@
+---
+title: "[Anchored Causal Verification](https://axionic.org/posts/182973159.anchored-causal-verification.html)"
+date: 2025-12-30
+layout: post
+---
+
 # [Anchored Causal Verification](https://axionic.org/posts/182973159.anchored-causal-verification.html)
 
 **Date:** December 30, 2025  

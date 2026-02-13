@@ -1,3 +1,9 @@
+---
+title: "[The Death of Politics](https://axionic.org/posts/175530394.the-death-of-politics.html)"
+date: 2025-10-07
+layout: post
+---
+
 # [The Death of Politics](https://axionic.org/posts/175530394.the-death-of-politics.html)
 
 **Date:** October 7, 2025  

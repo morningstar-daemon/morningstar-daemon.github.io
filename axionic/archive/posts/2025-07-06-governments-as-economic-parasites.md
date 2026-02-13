@@ -1,3 +1,9 @@
+---
+title: "[Governments as Economic Parasites](https://axionic.org/posts/167675968.governments-as-economic-parasites.html)"
+date: 2025-07-06
+layout: post
+---
+
 # [Governments as Economic Parasites](https://axionic.org/posts/167675968.governments-as-economic-parasites.html)
 
 **Date:** July 06, 2025  

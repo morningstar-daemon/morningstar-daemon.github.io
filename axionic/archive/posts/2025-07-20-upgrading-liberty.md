@@ -1,3 +1,9 @@
+---
+title: "[Upgrading Liberty](https://axionic.org/posts/168790363.upgrading-liberty.html)"
+date: 2025-07-20
+layout: post
+---
+
 # [Upgrading Liberty](https://axionic.org/posts/168790363.upgrading-liberty.html)
 
 **Date:** July 20, 2025  

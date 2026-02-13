@@ -1,3 +1,9 @@
+---
+title: "[From Power to Agency](https://axionic.org/posts/184458876.from-power-to-agency.html)"
+date: 2026-01-13
+layout: post
+---
+
 # [From Power to Agency](https://axionic.org/posts/184458876.from-power-to-agency.html)
 
 **Date:** January 13, 2026  

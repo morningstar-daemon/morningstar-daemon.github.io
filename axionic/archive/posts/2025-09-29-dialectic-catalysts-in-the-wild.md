@@ -1,3 +1,9 @@
+---
+title: "[Dialectic Catalysts in the Wild](https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html)"
+date: 2025-09-29
+layout: post
+---
+
 # [Dialectic Catalysts in the Wild](https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html)
 
 **Date:** September 29, 2025  

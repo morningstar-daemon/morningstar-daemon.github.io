@@ -1,3 +1,9 @@
+---
+title: "[The Vastness of π](https://axionic.org/posts/167947701.the-vastness-of.html)"
+date: 2025-07-09
+layout: post
+---
+
 # [The Vastness of π](https://axionic.org/posts/167947701.the-vastness-of.html)
 
 **Date:** July 9, 2025  

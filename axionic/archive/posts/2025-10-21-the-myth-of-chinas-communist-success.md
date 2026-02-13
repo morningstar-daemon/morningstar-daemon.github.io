@@ -1,3 +1,9 @@
+---
+title: "[The Myth of China's Communist Success](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)"
+date: 2025-10-21
+layout: post
+---
+
 # [The Myth of China's Communist Success](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)
 
 **Date:** October 21, 2025  

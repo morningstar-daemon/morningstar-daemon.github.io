@@ -1,3 +1,9 @@
+---
+title: "[The Limits of Rationalization](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)"
+date: 2025-09-19
+layout: post
+---
+
 # [The Limits of Rationalization](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)
 
 **Date:** September 19, 2025  

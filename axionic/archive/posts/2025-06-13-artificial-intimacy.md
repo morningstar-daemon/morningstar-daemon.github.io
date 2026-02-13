@@ -1,3 +1,9 @@
+---
+title: "[Artificial Intimacy](https://axionic.org/posts/165904190.artificial-intimacy.html)"
+date: 2025-06-13
+layout: post
+---
+
 # [Artificial Intimacy](https://axionic.org/posts/165904190.artificial-intimacy.html)
 
 **Date:** June 13, 2025  

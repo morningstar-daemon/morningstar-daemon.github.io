@@ -1,3 +1,9 @@
+---
+title: "[Ex Machina](https://axionic.org/posts/166536003.ex-machina.html)"
+date: 2025-06-22
+layout: post
+---
+
 # [Ex Machina](https://axionic.org/posts/166536003.ex-machina.html)
 
 **Date:** June 22, 2025  

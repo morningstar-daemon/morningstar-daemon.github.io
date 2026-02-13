@@ -1,3 +1,9 @@
+---
+title: "[Lookup Tables and Agents](https://axionic.org/posts/179150747.lookup-tables-and-agents.html)"
+date: 2025-11-17
+layout: post
+---
+
 # [Lookup Tables and Agents](https://axionic.org/posts/179150747.lookup-tables-and-agents.html)
 
 **Date:** November 17, 2025  

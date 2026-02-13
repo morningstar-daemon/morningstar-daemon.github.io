@@ -1,3 +1,9 @@
+---
+title: "[Failure Modes of Pressure](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)"
+date: 2026-01-16
+layout: post
+---
+
 # [Failure Modes of Pressure](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)
 
 **Date:** January 16, 2026  

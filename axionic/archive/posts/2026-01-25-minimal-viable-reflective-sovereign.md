@@ -1,3 +1,9 @@
+---
+title: "[Minimal Viable Reflective Sovereign Agency](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)"
+date: 2026-01-25
+layout: post
+---
+
 # [Minimal Viable Reflective Sovereign Agency](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)
 
 **Date:** January 25, 2026  

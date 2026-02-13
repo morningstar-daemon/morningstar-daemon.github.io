@@ -1,3 +1,9 @@
+---
+title: "[What Counts as Property](https://axionic.org/posts/166739921.what-counts-as-property.html)"
+date: 2025-06-24
+layout: post
+---
+
 # [What Counts as Property](https://axionic.org/posts/166739921.what-counts-as-property.html)
 
 **Date:** June 24, 2025  

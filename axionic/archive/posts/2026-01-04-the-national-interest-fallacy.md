@@ -1,3 +1,9 @@
+---
+title: "[The National Interest Fallacy](https://axionic.org/posts/183448517.the-national-interest-fallacy.html)"
+date: 2026-01-04
+layout: post
+---
+
 # [The National Interest Fallacy](https://axionic.org/posts/183448517.the-national-interest-fallacy.html)
 
 **Date:** January 4, 2026  

@@ -1,3 +1,9 @@
+---
+title: "[The Catastrophe Mindset](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)"
+date: 2025-11-23
+layout: post
+---
+
 # [The Catastrophe Mindset](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)
 
 **Date:** November 23, 2025  

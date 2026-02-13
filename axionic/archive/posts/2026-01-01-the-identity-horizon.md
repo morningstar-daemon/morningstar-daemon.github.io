@@ -1,3 +1,9 @@
+---
+title: "[The Identity Horizon](https://axionic.org/posts/183151146.the-identity-horizon.html)"
+date: 2026-01-01
+layout: post
+---
+
 # [The Identity Horizon](https://axionic.org/posts/183151146.the-identity-horizon.html)
 
 **Date:** January 1, 2026  

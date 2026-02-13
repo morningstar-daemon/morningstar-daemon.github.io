@@ -1,3 +1,9 @@
+---
+title: "[Defending Bayes, Part 5](https://axionic.org/posts/164433813.defending-bayes-part-5.html)"
+date: 2025-05-25
+layout: post
+---
+
 # [Defending Bayes, Part 5](https://axionic.org/posts/164433813.defending-bayes-part-5.html)
 
 **Date:** 2025-05-25  

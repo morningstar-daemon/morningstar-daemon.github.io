@@ -1,3 +1,9 @@
+---
+title: "[The Slavery Myth](https://axionic.org/posts/170730446.the-slavery-myth.html)"
+date: 2025-08-11
+layout: post
+---
+
 # [The Slavery Myth](https://axionic.org/posts/170730446.the-slavery-myth.html)
 
 **Date:** August 11, 2025  

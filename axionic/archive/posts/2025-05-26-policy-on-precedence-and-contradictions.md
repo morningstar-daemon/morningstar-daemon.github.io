@@ -1,3 +1,9 @@
+---
+title: "[Policy on Precedence and Contradictions](https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html)"
+date: 2025-05-26
+layout: post
+---
+
 # [Policy on Precedence and Contradictions](https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html)
 
 **Date:** 2025-05-26  

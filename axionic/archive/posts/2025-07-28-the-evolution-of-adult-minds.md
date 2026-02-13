@@ -1,3 +1,9 @@
+---
+title: "[The Evolution of Adult Minds](https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html)"
+date: 2025-07-28
+layout: post
+---
+
 # [The Evolution of Adult Minds](https://axionic.org/posts/169459023.the-evolution-of-adult-minds.html)
 
 **Date:** July 28, 2025  

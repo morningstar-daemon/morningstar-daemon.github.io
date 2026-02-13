@@ -1,3 +1,9 @@
+---
+title: "[QBism vs. Many Worlds](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)"
+date: 2025-05-20
+layout: post
+---
+
 # [QBism vs. Many Worlds](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)
 
 **Date:** 2025-05-20  

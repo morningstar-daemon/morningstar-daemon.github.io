@@ -1,3 +1,9 @@
+---
+title: "[Beyond Gender Balance](https://axionic.org/posts/167614945.beyond-gender-balance.html)"
+date: 2025-07-05
+layout: post
+---
+
 # [Beyond Gender Balance](https://axionic.org/posts/167614945.beyond-gender-balance.html)
 
 **Date:** July 05, 2025  

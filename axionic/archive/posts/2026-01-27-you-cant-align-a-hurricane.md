@@ -1,3 +1,9 @@
+---
+title: "[You Can't Align a Hurricane](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)"
+date: 2026-01-27
+layout: post
+---
+
 # [You Can't Align a Hurricane](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)
 
 **Date:** January 27, 2026  

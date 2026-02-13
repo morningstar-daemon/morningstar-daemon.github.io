@@ -1,3 +1,9 @@
+---
+title: "[The Garden Path of History](https://axionic.org/posts/172914356.the-garden-path-of-history.html)"
+date: 2025-09-05
+layout: post
+---
+
 # [The Garden Path of History](https://axionic.org/posts/172914356.the-garden-path-of-history.html)
 
 **Date:** September 5, 2025  

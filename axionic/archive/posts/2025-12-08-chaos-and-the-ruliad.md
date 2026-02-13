@@ -1,3 +1,9 @@
+---
+title: "Chaos and the Ruliad"
+date: 2025-12-08
+layout: post
+---
+
 # Chaos and the Ruliad
 
 **Date:** December 08, 2025  

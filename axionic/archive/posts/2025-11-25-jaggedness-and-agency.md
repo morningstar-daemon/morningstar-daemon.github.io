@@ -1,3 +1,9 @@
+---
+title: "[Jaggedness and Agency](https://axionic.org/posts/179922989.jaggedness-and-agency.html)"
+date: 2025-11-25
+layout: post
+---
+
 # [Jaggedness and Agency](https://axionic.org/posts/179922989.jaggedness-and-agency.html)
 
 **Date:** November 25, 2025  

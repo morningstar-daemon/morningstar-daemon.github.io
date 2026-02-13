@@ -1,3 +1,9 @@
+---
+title: "[Making Sense of P(doom)](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)"
+date: 2025-05-10
+layout: post
+---
+
 # [Making Sense of P(doom)](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)
 
 **Date:** 2025-05-10  

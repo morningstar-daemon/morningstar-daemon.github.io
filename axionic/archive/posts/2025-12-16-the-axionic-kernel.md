@@ -1,3 +1,9 @@
+---
+title: "The Axionic Kernel"
+date: 2025-12-16
+layout: post
+---
+
 # The Axionic Kernel
 
 **Date:** December 16, 2025  

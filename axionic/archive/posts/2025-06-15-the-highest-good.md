@@ -1,3 +1,9 @@
+---
+title: "[The Highest Good](https://axionic.org/posts/166023954.the-highest-good.html)"
+date: 2025-06-15
+layout: post
+---
+
 # [The Highest Good](https://axionic.org/posts/166023954.the-highest-good.html)
 
 **Date:** June 15, 2025  

@@ -1,3 +1,9 @@
+---
+title: "[Signals of Sentience](https://axionic.org/posts/170390075.signals-of-sentience.html)"
+date: 2025-08-07
+layout: post
+---
+
 # [Signals of Sentience](https://axionic.org/posts/170390075.signals-of-sentience.html)
 
 **Date:** August 7, 2025  

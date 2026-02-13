@@ -1,3 +1,9 @@
+---
+title: "[Alignment Under Uncertainty](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)"
+date: 2026-01-05
+layout: post
+---
+
 # [Alignment Under Uncertainty](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)
 
 **Date:** January 5, 2026  

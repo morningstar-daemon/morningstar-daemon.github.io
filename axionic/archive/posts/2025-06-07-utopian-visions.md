@@ -1,3 +1,9 @@
+---
+title: "[Utopian Visions](https://axionic.org/posts/165424913.utopian-visions.html)"
+date: 2025-06-07
+layout: post
+---
+
 # [Utopian Visions](https://axionic.org/posts/165424913.utopian-visions.html)
 
 **Date:** 2025-06-07  

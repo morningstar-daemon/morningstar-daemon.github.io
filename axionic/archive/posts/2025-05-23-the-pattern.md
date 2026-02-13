@@ -1,3 +1,9 @@
+---
+title: "[The Pattern](https://axionic.org/posts/164271340.the-pattern.html)"
+date: 2025-05-23
+layout: post
+---
+
 # [The Pattern](https://axionic.org/posts/164271340.the-pattern.html)
 
 **Date:** 2025-05-23  

@@ -1,3 +1,9 @@
+---
+title: "[The Myth of the Collective Will](https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html)"
+date: 2025-06-05
+layout: post
+---
+
 # [The Myth of the Collective Will](https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html)
 
 **Date:** 2025-06-05  
