@@ -7,7 +7,7 @@ source: https://axionic.org/posts/163356868.effective-decision-theory.html
 
 ## Summary
 
-*[Note: Content not fetched—inferring from title/context]*
+Introduces Effective Decision Theory (EDT), inspired by physics' Effective Field Theory. Classical Expected Utility Theory struggles with paradoxes like Pascal's Mugging and St. Petersburg, where improbable high-impact outcomes dominate analysis. EDT addresses this by setting a probability cutoff below which outcomes are treated as effectively zero — not denying their theoretical existence but acknowledging practical irrelevance. The cutoff can vary by context and stakes. This formalizes the heuristic of discounting negligible probabilities, providing a principled way to navigate uncertainty without paralysis from improbable catastrophes.
 
 Develops decision theory framework consistent with QBU/conditionalism. Likely addresses: decision-making under quantum branching (expected value across branches), agent-relative utility, counterfactual reasoning with Strong PIs, thermodynamic constraints on computation. May critique classical decision theory assumptions (single timeline, unconditioned probability). Integration of agency mechanics, kybit costs, measure amplification. Foundation for later alignment work and quantum ethics.
 
