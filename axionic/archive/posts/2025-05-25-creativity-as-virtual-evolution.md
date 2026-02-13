@@ -4,7 +4,6 @@ date: 2025-05-25
 layout: post
 ---
 
-# Creativity as Virtual Evolution
 
 **Date:** 2025-05-25  
 

@@ -4,10 +4,10 @@ date: 2025-11-25
 layout: post
 ---
 
-# Defending GEB
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/179971939.defending-geb.html](https://axionic.org/posts/179971939.defending-geb.html)
 
 ## Summary
 This post defends Hofstadter's *Gödel, Escher, Bach* against recent viral criticisms, arguing that critics commit a category error by treating it as a textbook rather than a "conceptual catalyst." Axios contends that GEB's value lies not in mathematical rigor but in building intuition about recursion, self-reference, and emergent meaning across domains. The piece notes that GEB disproportionately influences "builders"—those who construct conceptual systems themselves—and traces its formative impact on Axios's own intellectual trajectory (leaving HP for AI graduate work, eventually developing ideas that became Axio framework). While acknowledging GEB's weaknesses (overextended analogies, dated AI discussions, poetic rather than formal treatment of Gödel), the post frames these as "generative errors" that push readers to refine and surpass the original arguments.

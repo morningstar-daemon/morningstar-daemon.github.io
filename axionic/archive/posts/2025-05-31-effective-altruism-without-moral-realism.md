@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# Effective Altruism Without Moral Realism
 
 **Date:** 2025-05-31  
 

@@ -4,10 +4,10 @@ date: 2025-08-28
 layout: post
 ---
 
-# Beyond Clown World
 
 **Date:** August 28, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/172141003.beyond-clown-world.html](https://axionic.org/posts/172141003.beyond-clown-world.html)
 
 ## Summary
 

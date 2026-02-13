@@ -4,10 +4,10 @@ date: 2025-11-06
 layout: post
 ---
 
-# Truth as a Function of Binding
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html](https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html)
 
 ## Summary
 

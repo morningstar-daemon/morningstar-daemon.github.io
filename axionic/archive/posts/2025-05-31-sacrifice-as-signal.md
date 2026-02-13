@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# Sacrifice as Signal
 
 **Date:** 2025-05-31  
 

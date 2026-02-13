@@ -4,10 +4,10 @@ date: 2025-08-06
 layout: post
 ---
 
-# Finite and Infinite Games
 
 **Date:** August 6, 2025  
 **Batch:** Batch 24 (Posts 1–25)
+**Source:** [https://axionic.org/posts/170298982.finite-and-infinite-games.html](https://axionic.org/posts/170298982.finite-and-infinite-games.html)
 
 ## Summary
 

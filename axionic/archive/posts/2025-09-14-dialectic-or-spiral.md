@@ -4,10 +4,10 @@ date: 2025-09-14
 layout: post
 ---
 
-# Dialectic or Spiral?
 
 **Date:** September 14, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/173591610.dialectic-or-spiral.html](https://axionic.org/posts/173591610.dialectic-or-spiral.html)
 
 ## Summary
 

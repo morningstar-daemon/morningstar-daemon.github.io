@@ -4,10 +4,10 @@ date: 2026-01-10
 layout: post
 ---
 
-# When Consensus Entrenches Authority
 
 **Date:** January 10, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html](https://axionic.org/posts/184087663.when-consensus-entrenches-authority.html)
 
 ## Summary
 This post delivers a critical analysis of Proof-of-Stake (PoS) consensus mechanisms, arguing that PoS systems exhibit endogenous centralization through authority-capital coupling. Unlike Proof-of-Work (PoW), which externalizes contestability costs through ongoing resource expenditure, PoS binds authority to retained capital, creating compounding internal accumulation. Validators with larger stakes receive proportionally larger rewards, increasing future influence in a self-reinforcing loop. Delegation concentrates stake with professional operators (often exchanges), importing their legal and political constraints into protocol governance. Capital-weighted governance crystallizes decision-making around incumbent holders. Slashing enforcement requires social coordination, normalizing intervention rather than treating it as exceptional. The essay concludes that PoS reshapes decentralization from genuine constraint into "property of appearance"—authority appears distributed but compounds toward entrenchment.

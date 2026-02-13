@@ -4,10 +4,10 @@ date: 2025-11-09
 layout: post
 ---
 
-# The Defending Bayes Sequence
 
 **Date:** November 09, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178434650.the-defending-bayes-sequence.html](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)
 
 ## Summary
 

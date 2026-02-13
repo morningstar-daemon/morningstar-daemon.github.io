@@ -4,10 +4,10 @@ date: 2026-01-01
 layout: post
 ---
 
-# Constraint, Formalism, and Empiricism
 
 **Date:** January 1, 2026  
 **Batch:** Batch 30 (Posts 151–175)
+**Source:** [https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html](https://axionic.org/posts/183154208.constraint-formalism-and-empiricism.html)
 
 ## Summary
 This post clarifies the relationship between philosophy, mathematics, and science not as ancestry or rivalry but as precondition and consequence. Philosophy is not a sibling discipline but operates at the level of constraint—fixing background conditions under which inquiry is intelligible (what counts as explanation, justification, error, success). Mathematics and science are autonomous within their domains but rest on commitments they cannot self-justify. Mathematics cannot explain why axiomatic reasoning is legitimate, why consistency matters, or why formal truth should constrain belief; Gödel showed sufficiently expressive systems cannot establish their own consistency from within. Science cannot empirically establish that observation is epistemically privileged, induction is legitimate, or simpler explanations are preferable—these are inherited rules making data intelligible. Philosophy supplies admissibility conditions; mathematics explores formal consequence under axioms; science refines models under empirical constraint. Independence is illusory—apparent only when inherited constraints work so well they disappear from view. When empirical inquiry encounters persistent anomalies (quantum nonlocality, relativistic spacetime), it forces revision of admissibility conditions themselves. Simple test: can a domain justify its own standards without circularity? Only philosophy attempts this.

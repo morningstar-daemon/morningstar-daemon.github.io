@@ -4,7 +4,6 @@ date: 2025-05-10
 layout: post
 ---
 
-# Making Sense of P(doom)
 
 **Date:** 2025-05-10  
 

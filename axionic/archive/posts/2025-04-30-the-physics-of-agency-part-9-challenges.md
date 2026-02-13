@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 9: Challenges and FAQs
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 9 of 10)

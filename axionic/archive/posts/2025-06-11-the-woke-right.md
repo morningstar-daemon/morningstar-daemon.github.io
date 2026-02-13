@@ -4,10 +4,10 @@ date: 2025-06-11
 layout: post
 ---
 
-# The Woke Right
 
 **Date:** June 11, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165721326.the-woke-right.html](https://axionic.org/posts/165721326.the-woke-right.html)
 
 ## Summary
 This post identifies a troubling convergence between the woke Left and elements of the political Right that mirror woke methods while claiming to oppose them. Six parallel pathologies emerge: narrative over facts, omnipresent grievance culture, identity epistemology, enforced conformity/purity spirals, illiberal censorship, and dogmatic rejection of Enlightenment liberalism. James Lindsay and Konstantin Kisin's term "Woke Right" captures this symmetry—both sides abandon empirical reason and liberal principles for tribal identity and collective grievance. Axio argues this reveals a deeper psychological pattern: humans naturally gravitate toward tribalism unless checked by liberal institutions. Alternative labels include "Reactionary Identitarianism" or "Counter-Enlightenment Right." The solution is defending liberal principles and rigorous evidence standards, not mirroring the enemy's methods.

@@ -4,10 +4,10 @@ date: 2025-11-28
 layout: post
 ---
 
-# Above The Law
 
 **Date:** November 28, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/180208315.above-the-law.html](https://axionic.org/posts/180208315.above-the-law.html)
 
 ## Summary
 This post uses the U.S. Trinidad strike (destroying a suspected drug-smuggling boat without warning, then killing survivors) as a case study demonstrating that "no one is above the law" is an aspirational myth rather than reality. Law functions as coordination technology that binds only where enforcement capacity exists—when one actor possesses overwhelming reach and escape from reciprocal constraint, rules lose operational force. The strike reveals geopolitical topology: power concentrated beyond the reach of consequence. The post treats impunity not as moral outrage but as diagnostic, revealing where enforcement circuits are dead and corrective forces cannot reach.

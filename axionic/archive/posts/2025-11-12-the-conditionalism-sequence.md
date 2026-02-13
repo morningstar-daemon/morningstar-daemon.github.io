@@ -4,7 +4,6 @@ date: 2025-11-12
 layout: post
 ---
 
-# The Conditionalism Sequence
 
 **Date:** November 12, 2025  
 **Type:** Sequence Navigation  

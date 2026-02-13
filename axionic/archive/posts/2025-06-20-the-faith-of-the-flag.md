@@ -4,10 +4,10 @@ date: 2025-06-20
 layout: post
 ---
 
-# The Faith of the Flag
 
 **Date:** June 20, 2025  
 **Batch:** Batch 06 (Posts 138–162)
+**Source:** [https://axionic.org/posts/166408363.the-faith-of-the-flag.html](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)
 
 ## Summary
 

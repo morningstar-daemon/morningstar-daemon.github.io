@@ -4,10 +4,10 @@ date: 2025-07-07
 layout: post
 ---
 
-# Everything Has a Price
 
 **Date:** July 7, 2025  
 **Batch:** Batch 19 (Posts 167–191)
+**Source:** [https://axionic.org/posts/167735185.everything-has-a-price.html](https://axionic.org/posts/167735185.everything-has-a-price.html)
 
 ## Summary
 

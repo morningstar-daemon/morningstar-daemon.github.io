@@ -4,7 +4,6 @@ date: 2025-05-23
 layout: post
 ---
 
-# Sacred Coherence
 
 **Date:** 2025-05-23  
 

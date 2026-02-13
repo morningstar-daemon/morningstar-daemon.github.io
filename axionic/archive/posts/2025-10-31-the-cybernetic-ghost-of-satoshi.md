@@ -4,10 +4,10 @@ date: 2025-10-31
 layout: post
 ---
 
-# The Cybernetic Ghost of Satoshi
 
 **Date:** October 31, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)
 
 ## Summary
 

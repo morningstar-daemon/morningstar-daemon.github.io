@@ -4,10 +4,10 @@ date: 2025-12-27
 layout: post
 ---
 
-# Open Agentic Manifolds
 
 **Date:** December 27, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182730025.open-agentic-manifolds.html](https://axionic.org/posts/182730025.open-agentic-manifolds.html)
 
 ## Summary
 This post introduces the **Sacrifice–Collapse Theorem**: any system whose performance reliably improves through non-consensual agency loss for a captive class will, under sustained optimization pressure, structurally collapse openness via exit suppression, conformity enforcement, or dependency erosion. The theorem formalizes how optimization converts agency-loss into control variable when standing asymmetry exists. "Open agentic manifolds" are regions of system-space where agency preservation is maintained despite optimization pressure—requiring explicit constraints that prevent sacrifice patterns from stabilizing as attractors.

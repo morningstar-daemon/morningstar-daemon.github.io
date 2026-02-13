@@ -4,7 +4,6 @@ date: 2025-12-21
 layout: post
 ---
 
-# Axions as a Type of Agency
 
 **Date:** 2025-12-21  
 

@@ -4,10 +4,10 @@ date: 2025-08-30
 layout: post
 ---
 
-# Infohazards and Games
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/172362753.infohazards-and-games.html](https://axionic.org/posts/172362753.infohazards-and-games.html)
 
 ## Summary
 

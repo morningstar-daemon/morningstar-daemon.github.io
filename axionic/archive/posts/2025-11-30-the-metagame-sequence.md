@@ -4,10 +4,10 @@ date: 2025-11-30
 layout: post
 ---
 
-# The Metagame Sequence
 
 **Date:** November 30, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/180340867.the-metagame-sequence.html](https://axionic.org/posts/180340867.the-metagame-sequence.html)
 
 ## Summary
 This sequence reveals the hierarchical structure beneath all strategic action, progressing from the observation that every game sits within a larger game to the quantum substrate where patterns compete for amplitude-weighted continuity. The six-post progression establishes that persistence is the terminal criterion, incentives rewrite lower-level rules through downward causation, patterns (not people) are the real units of selection, and ultimately survival becomes a competition for measure across decohering quantum branches. The sequence provides the conceptual backbone for understanding strategy, agency, and coherence at every scale.

@@ -4,10 +4,10 @@ date: 2025-12-01
 layout: post
 ---
 
-# The Value Sequence
 
 **Date:** December 1, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180411867.the-value-sequence.html](https://axionic.org/posts/180411867.the-value-sequence.html)
 
 ## Summary
 This is a comprehensive index post cataloging the entire Value Sequence—Axio's systematic development of value theory from first principles. The sequence rejects both objective value ("cosmic law") and pure relativism ("anything goes") in favor of value as "the architecture of preference an agent constructs to navigate the world, constrained by coherence, opportunity cost, and the physics of agency." The 36-post sequence is organized into five parts: (0) Orientation/Viability Criterion, (I) Breaking Objective Value (7 posts), (II) Preference/Price/Exchange (7 posts), (III) Ethics as Coherent Coordination (9 posts including harm/consent/coercion definitions), (IV) Phosphorism and the Highest Good (7 posts), and (V) Edge Cases/Applied Theory (6 posts). The sequence culminates in Phosphorism—Axio's chosen value framework prioritizing life, intelligence, complexity, flourishing, and authenticity.

@@ -4,10 +4,10 @@ date: 2025-12-06
 layout: post
 ---
 
-# Beyond Consciousness Explained
 
 **Date:** December 6, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180915271.beyond-consciousness-explained.html](https://axionic.org/posts/180915271.beyond-consciousness-explained.html)
 
 ## Summary
 This post positions the Modeler-schema theory as completing Dennett's work on consciousness by identifying the architectural error in his illusionism. Axios argues Dennett correctly mapped the Controller (the narrating subsystem that selects actions, interfaces with language, maintains autobiographical narrative) but mistakenly concluded that because the narrator is blind to qualia, the mind is blind. The error: "A narrator is never an experiencer." The Modeler-schema possesses informational privileges the Controller lacks: access to full Concrete World Model, pre/post-saccadic sensory states, internally generated content without linguistic mediation, and dedicated comparison process. Dennett's observation that introspection is unreliable becomes evidence not that experience is illusory but that the reporting subsystem infers phenomenality from a narrow, lossy channel. The piece argues Dennett failed to find consciousness's function because he searched in the subsystem that consumes/reports the world-model rather than the one that builds/repairs it.

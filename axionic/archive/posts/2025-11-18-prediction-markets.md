@@ -4,7 +4,6 @@ date: 2025-11-18
 layout: post
 ---
 
-# Prediction Markets
 
 **Date:** November 18, 2025  
 **Series:** Epistemology / Collective Intelligence  

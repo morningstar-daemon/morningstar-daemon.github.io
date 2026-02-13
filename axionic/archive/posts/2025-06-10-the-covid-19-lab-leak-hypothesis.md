@@ -4,10 +4,10 @@ date: 2025-06-10
 layout: post
 ---
 
-# The COVID-19 Lab Leak Hypothesis
 
 **Date:** June 10, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html](https://axionic.org/posts/165642623.the-covid-19-lab-leak-hypothesis.html)
 
 ## Summary
 This post applies rigorous Bayesian reasoning to COVID-19 origins, arguing that the spatial-temporal coincidence of the outbreak's epicenter with the Wuhan Institute of Virology—the world's only lab conducting gain-of-function coronavirus research—constitutes overwhelming evidence for accidental laboratory origin. Axio assigns 85-95% credence to lab leak, treating alternative natural emergence explanations as statistically absurd given the extraordinary improbability of spontaneous zoonotic spillover occurring precisely adjacent to the unique facility engineering such viruses. The post frames institutional suppression of lab-leak discussion as "virology's Chernobyl"—a betrayal eroding public trust in scientific institutions through ideological self-protection over truth-seeking.

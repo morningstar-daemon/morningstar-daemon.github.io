@@ -4,10 +4,10 @@ date: 2025-08-22
 layout: post
 ---
 
-# Ghosts in the Machine
 
 **Date:** August 22, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/171666094.ghosts-in-the-machine.html](https://axionic.org/posts/171666094.ghosts-in-the-machine.html)
 
 ## Summary
 

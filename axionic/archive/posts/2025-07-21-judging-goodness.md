@@ -4,10 +4,10 @@ date: 2025-07-21
 layout: post
 ---
 
-# Judging Goodness
 
 **Date:** July 21, 2025  
 **Batch:** Batch 08 (Posts 26–50)
+**Source:** [https://axionic.org/posts/168901803.judging-goodness.html](https://axionic.org/posts/168901803.judging-goodness.html)
 
 ## Summary
 This post examines how to evaluate moral goodness using Effective Altruism (EA) as case study, emphasizing conditionalist approach to moral judgment. Six philosophical insights offered: **(1) Clarify basis of judgment**—Distinguish internal judgment (by your own moral standards) from external judgment (by standards target has chosen/professed). Conflating these causes ethical confusion. Example: Journalist Kelsey Piper donates 40-50% income to effective interventions—externally (by her standards) exemplary, internally depends on your values. **(2) Goodness is contextual, not absolute**—No universal moral standard exists. EA embodies virtues (rationality, generosity, consistency, measurable impact) widely respected but not universally prioritized. Admiring virtues ≠ asserting universal superiority. **(3) Integrity and authenticity are key virtues**—Consciously choosing ethical framework and living consistently within it, transparently aligning values and actions, deserves admiration across virtually any system valuing coherence and self-awareness. **(4) Transparency vs. privacy: philosophical choice**—EA prefers public giving (transparency encourages collective impact, leverages social norms); privacy around charity can reflect humility, authenticity, avoiding performative signaling. Neither inherently superior—each reflects underlying priorities. **(5) Common ground across frameworks**—Acknowledging EA's commendable traits (clarity, rationality, impact) fosters mutual respect, promotes understanding and cooperative alignment around shared virtues even if ultimate goals differ. **(6) Beware implicit objective moralizing**—Asserting moral superiority ("they're better people") implicitly assumes objective morality, philosophically problematic. Conditionalism demands rigorous clarity: always state conditions underlying moral judgments, avoid implying universal truths where none exist. Positions authenticity, integrity as virtues universally worth considering.

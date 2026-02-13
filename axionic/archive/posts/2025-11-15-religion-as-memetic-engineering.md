@@ -4,7 +4,6 @@ date: 2025-11-15
 layout: post
 ---
 
-# Religion as Memetic Engineering
 
 **Date:** November 15, 2025  
 **Series:** Memetics / Religion Analysis  

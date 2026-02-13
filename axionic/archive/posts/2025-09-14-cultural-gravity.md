@@ -4,10 +4,10 @@ date: 2025-09-14
 layout: post
 ---
 
-# Cultural Gravity
 
 **Date:** September 14, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/173608962.cultural-gravity.html](https://axionic.org/posts/173608962.cultural-gravity.html)
 
 ## Summary
 

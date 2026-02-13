@@ -4,10 +4,10 @@ date: 2025-06-24
 layout: post
 ---
 
-# What Counts as Property
 
 **Date:** June 24, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/166739921.what-counts-as-property.html](https://axionic.org/posts/166739921.what-counts-as-property.html)
 
 ## Summary
 This post provides rigorous technical definition of property, establishing five necessary conditions: scarcity (rivalrousness), identifiable boundaries, excludability, durability, and transferability. Axio formalizes ownership as tuple (Agent, Resource, Exclusive Authority, Exclusion Enforcement, Transferability), emphasizing that property fundamentally depends on enforcement mechanisms—without them, ownership reduces to mere possession. Under Conditionalist framework, property rights require interpretative frameworks and societal norms for existence; they are always conditional and context-specific. The post traces evolutionary origins from territorial behaviors in pre-human hominins through resource caching and tool ownership to fully symbolic, transferable norms emerging in humans. Edge cases clarify boundaries: animal territoriality fails transferability criterion; intellectual property requires explicit social/technological frameworks (laws, cryptography) for boundary identification and exclusion. This formal analytical structure enables precise reasoning about property systems, their evolution, and conditional foundations.

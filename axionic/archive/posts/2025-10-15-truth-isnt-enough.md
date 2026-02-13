@@ -4,10 +4,10 @@ date: 2025-10-15
 layout: post
 ---
 
-# Truth Isn't Enough
 
 **Date:** October 15, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176244039.truth-isnt-enough.html](https://axionic.org/posts/176244039.truth-isnt-enough.html)
 
 ## Summary
 This essay responds to a tweet claiming "smart people obsess over truth at the expense of memetic fitness," arguing this captures a real tension but draws dangerous conclusions if taken as prescription. The piece distinguishes two orthogonal dimensions: truth (correspondence with reality) and memetic fitness (replicative spread through social systems). While truth alone doesn't guarantee transmission—ideas must be packaged with emotion, narrative, simplicity—prioritizing fitness over truth yields propaganda and "ideological cancer." The essay critiques the slippery slope from "lies are tools" to becoming what you despise. The constructive kernel: truth needs luminous presentation, not dilution. The solution is "memetic engineering under epistemic constraint"—designing ideas to reproduce without mutating into nonsense by making truth aesthetically contagious, clarity emotionally satisfying, and rigor narratively elegant. Core principle: "Truth is the invariant payload; memetic fitness is the transmission protocol."

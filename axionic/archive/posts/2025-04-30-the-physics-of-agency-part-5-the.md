@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 5: The Law of Agency Decay — Entropy Always Wins
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 5 of 10)

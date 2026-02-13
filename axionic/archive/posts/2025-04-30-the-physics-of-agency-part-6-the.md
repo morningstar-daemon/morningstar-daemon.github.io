@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 6: The Law of Agency Limits — Perfect Control Is Impossible
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 6 of 10)

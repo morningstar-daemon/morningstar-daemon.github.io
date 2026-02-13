@@ -4,7 +4,6 @@ date: 2025-12-19
 layout: post
 ---
 
-# The Axionic Alignment Sequence
 
 **Date:** 2025-12-19  
 **Series:** Axionic Agency Sequence (Announcement/Index)

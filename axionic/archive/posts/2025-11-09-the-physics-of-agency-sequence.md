@@ -4,7 +4,6 @@ date: 2025-11-09
 layout: post
 ---
 
-# The Physics of Agency Sequence
 
 **Date:** November 09, 2025  
 **Type:** Sequence Navigation  

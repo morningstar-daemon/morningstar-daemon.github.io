@@ -4,7 +4,6 @@ date: 2025-11-13
 layout: post
 ---
 
-# Prometheus in Print
 
 **Date:** November 13, 2025  
 **Series:** Technology & Civilization / Historical Analysis  

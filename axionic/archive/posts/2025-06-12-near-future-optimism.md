@@ -4,10 +4,10 @@ date: 2025-06-12
 layout: post
 ---
 
-# Near Future Optimism
 
 **Date:** June 12, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165786637.near-future-optimism.html](https://axionic.org/posts/165786637.near-future-optimism.html)
 
 ## Summary
 This post addresses existential risks (XRisks) through the lens of Effective Decision Theory (EDT), which focuses pragmatically on scenarios with realistically meaningful probabilities while disregarding exceedingly rare catastrophic events. Despite tangible XRisks like nuclear war, bioengineered pandemics, climate disruptions, and unaligned AI, humanity's outlook remains positive when rationally calibrated. Historical evidence shows civilization repeatedly overcomes significant challenges—wars, pandemics, economic depressions, authoritarian regimes—emerging progressively stronger through scientific innovation, technological advances, international cooperation, and effective governance. Axio assigns ~75% credence that global life expectancy (proxy for civilizational health) will increase over the next 25 years. This is balanced assessment, not naive optimism: prudent reasoning supports cautious optimism based on humanity's proven capacity for adaptation and growth.

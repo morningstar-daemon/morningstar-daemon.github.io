@@ -4,7 +4,6 @@ date: 2025-11-19
 layout: post
 ---
 
-# The Quantum Sequence
 
 **Date:** 2025-11-19  
 **Series:** Quantum Sequence (Announcement/Index)

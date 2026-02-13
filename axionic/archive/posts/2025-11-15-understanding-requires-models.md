@@ -4,7 +4,6 @@ date: 2025-11-15
 layout: post
 ---
 
-# Understanding Requires Models
 
 **Date:** November 15, 2025  
 **Series:** Epistemology / Philosophy of Science  

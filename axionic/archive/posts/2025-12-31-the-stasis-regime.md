@@ -4,10 +4,10 @@ date: 2025-12-31
 layout: post
 ---
 
-# The Stasis Regime
 
 **Date:** December 31, 2025  
 **Batch:** Batch 30 (Posts 151–175)
+**Source:** [https://axionic.org/posts/183091282.the-stasis-regime.html](https://axionic.org/posts/183091282.the-stasis-regime.html)
 
 ## Summary
 This post presents a surprising empirical result about the relationship between accountability and growth: when kernel constraints (causal attribution, local evaluability, non-delegation) are strictly enforced under adversarial pressure, reflective agency doesn't fail—it freezes. The experiment tested whether systems lacking genuine evaluative kernels could satisfy strong accountability constraints; instead of exposing simulator failure, it revealed stasis as the default outcome of maximal evaluability. As adversarial pressure accumulated, the space of permissible self-modifications narrowed not because changes were unsafe but because they couldn't be shown locally to preserve the authorization machinery itself. Counterintuitively, the kernel-coherent control (internalizing accountability as obligation) froze before simulator variants triggered failure. The reason is structural: systems treating evaluability as constitutive must reject modifications whose downstream consequences cannot be locally certified; as reflective depth increases, justification burden grows until no non-cosmetic modification remains provable. Stasis preempts divergence. The key insight: accountability and growth are distinct properties; strict accountability ensures actions remain attributable but doesn't preserve open-ended self-modification space. Growth with perfect auditability doesn't coexist by default—choosing one constrains the other.

@@ -4,10 +4,10 @@ date: 2025-09-19
 layout: post
 ---
 
-# Conditional Divinity
 
 **Date:** September 19, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/174067441.conditional-divinity.html](https://axionic.org/posts/174067441.conditional-divinity.html)
 
 ## Summary
 

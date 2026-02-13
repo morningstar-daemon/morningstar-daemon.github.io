@@ -4,10 +4,10 @@ date: 2025-06-13
 layout: post
 ---
 
-# Universal Basic Income
 
 **Date:** June 13, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165866422.universal-basic-income.html](https://axionic.org/posts/165866422.universal-basic-income.html)
 
 ## Summary
 This post evaluates Universal Basic Income (UBI) through Axio's ethical framework: **the integrity of UBI hinges entirely on funding mechanism**. A UBI funded through voluntary contributions (donations, mutual aid, charity) embodies genuine compassion and respects agency—fully ethical. By contrast, UBI funded via taxation or inflation inherently involves coercion (credible threats of harm for noncompliance), transforming altruism into compulsion and undermining ethical foundations. Coercion violates individual rights and autonomy, diminishing societal agency even while expanding economic opportunity—a paradox. If UBI cannot be funded voluntarily, it indicates insufficient collective valuation, suggesting that coercive implementation would impose values society doesn't truly prioritize. **Conclusion:** If UBI cannot thrive voluntarily, it should not be pursued at all. Voluntary UBI remains ethical and desirable; coercive UBI fails the test of voluntary cooperation.

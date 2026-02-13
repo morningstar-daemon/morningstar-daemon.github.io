@@ -4,11 +4,11 @@ date: 2025-08-02
 layout: post
 ---
 
-# Invisible Chains
 
 **Date:** August 02, 2025  
 **Subtitle:** Analyzing the State's Ownership Over Citizens  
 **Batch:** Batch 09 (Posts 51–75)
+**Source:** [https://axionic.org/posts/169922062.invisible-chains.html](https://axionic.org/posts/169922062.invisible-chains.html)
 
 ## Summary
 This post presents a rigorous libertarian/anarchist argument that the state **literally owns citizens** by applying a technical definition of ownership and demonstrating that state-citizen relationships meet all criteria. Ownership, precisely defined, comprises three enforceable rights: **(1) Right to Use**—ability to employ/utilize the resource; **(2) Right to Exclude**—authority to control access, preventing others from benefiting; **(3) Right to Dispose**—freedom to transfer, alter, or sell the resource. The post systematically shows how the state exercises all three over citizens: **Use Rights**—the state dictates how citizens can use their bodies (licensing for driving, building, business, marriage), property, time, speech; regulates ingested substances, medicine access, expression; basic bodily autonomy is contingent on state permission; **Exclusion Rights**—occupational licensing prevents free participation in trades/professions without approval, effectively excluding citizens from economic activities; travel restrictions (borders, visas, passports, zoning) control where citizens can live, work, travel; **Disposal Rights**—taxation is mandatory extraction under threat of harm (not voluntary), appropriating citizens' money, property, assets; inheritance regulations and estate taxes determine how citizens can dispose of resources. The analysis concludes: **if ownership is defined by enforceable claims over use, exclusion, disposal, then citizens are substantially state-owned**. This isn't hyperbole or metaphor—it's technical truth revealed by applying ownership criteria consistently. Dismissing this as exaggerated misunderstands ownership's nature: ownership isn't about paper titles but enforceable claims over resources/beings. The state enforces claims over citizens' bodies, property, actions, speech. Final exhortation: "Confronting this truth is the first step toward reclaiming your autonomy from those who presume to own you"—revolutionary call to recognize and resist invisible chains. Represents Axio's anti-statist commitments, framing state power not as legitimate authority but property violation—citizens as de facto slaves with restricted property rights in themselves.

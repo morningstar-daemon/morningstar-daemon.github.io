@@ -4,10 +4,10 @@ date: 2025-06-26
 layout: post
 ---
 
-# Thinking vs. Feeling
 
 **Date:** June 26, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/166902989.thinking-vs-feeling.html](https://axionic.org/posts/166902989.thinking-vs-feeling.html)
 
 ## Summary
 This post challenges the stark thinking/feeling dichotomy popularized in discourse claiming "many people don't think, they feel." While capturing behavioral insight, this framing is oversimplified. Axio defines thinking as deliberative, conscious reasoning/problem-solving (slow, explicit, logically coherent) and feeling as rapid, automatic emotional evaluations/intuitive judgments (immediate, visceral, often unconscious). Both are forms of cognition—information-processing brain activities—under the broad category encompassing all mental activities for acquiring, processing, using information. Thinking enables flexible, strategic responses to novel complexity; feeling enables rapid survival-oriented threat/opportunity signaling based on evolutionary importance. Critically, they continuously inform each other: emotions establish priorities shaping decisions; reasoning modulates impulses guiding action. The post emphasizes thinking isn't uniquely human, citing deliberative cognition in crows, chimpanzees, squirrels, dolphins, dogs, parrots, apes—better viewed along complexity/abstraction continuum than categorical separation. Misunderstandings arise from mistaking emotional reactions for reasoned deliberation; recognizing both as distinct but complementary cognitive processes clarifies human behavior.

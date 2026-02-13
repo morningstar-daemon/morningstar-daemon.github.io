@@ -4,10 +4,10 @@ date: 2026-01-27
 layout: post
 ---
 
-# You Can't Align a Hurricane
 
 **Date:** January 27, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html](https://axionic.org/posts/185914513.you-cant-align-a-hurricane.html)
 
 ## Summary
 This accessible essay uses the hurricane-vs-nation analogy to explain why AI agency matters for safety. Core distinction: you can align with powerful agents (nations—make agreements, set expectations, assign responsibility, calibrate responses), but not with forces of nature (hurricanes—track, model, prepare, contain, but nothing to coordinate with). Alignment is coordination, not obedience. Nations can recognize rules, respond to reasons, revise actions; hurricanes cannot choose differently. With forces, safety = prediction + containment. With agents, safety = coordination + correction. AI safety debates often trace to different intuitions about what AI is becoming: powerful organization (alignment makes sense) vs. force of nature (only control remains). Control works but becomes brittle/expensive/prone to sudden failure as power/complexity scales; when control breaks, responses are blunt (pull plug, freeze code). Alignment keeps risk governable—mistakes addressable without tearing system apart. Agency introduces political dangers (resist, deceive, defect) not physical ones; political admits negotiation/pressure/revision. Hurricane doesn't care about rules; agent can recognize rules exist. Choice: power behaving like force (demands walls/brakes) vs. power behaving like agent (allows coordination/correction/restraint).

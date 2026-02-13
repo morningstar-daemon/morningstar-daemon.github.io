@@ -4,10 +4,10 @@ date: 2026-01-27
 layout: post
 ---
 
-# The Adolescence of Technology
 
 **Date:** January 27, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/185907078.the-adolescence-of-technology.html](https://axionic.org/posts/185907078.the-adolescence-of-technology.html)
 
 ## Summary
 This essay responds to Dario Amodei's "Adolescence of Technology" diagnosis (capabilities advancing faster than institutions can absorb). Axios agrees with urgency but reframes the core issue: not whether technology will "grow up," but whether systems preserve structural conditions for agency, responsibility, and governance as capability scales. When agency coherence holds, authorship is locatable, commitments bind across time/modification, decisions remain evaluable under pressure, authority revisable without dissolution—governance possible in strong sense. As capability increases, these properties erode in contemporary AI: decision-making distributed across models/organizations, self-modification opaque, incentives reward output while responsibility thins, control applied after-the-fact not exercised internally. Result: responsibility diffuses → regulation loses target → policy shifts to containment (broader, centralized, coercive) not correction. Ontological failure translates to policy bluntness. Developmental metaphor critique: "adolescence" assumes trajectory toward convergence, but technical capacity often outpaced institutional coherence historically, leading to centralization/fragmentation/collapse. If agency-preserving architectures infeasible beyond capability threshold, that should bound deployment—proceeding trades short-term capability for long-term ungovernability. Systems preserving agency coherence remain legible to intervention, responsibility attachable, authority revisable, failures correctable—survival remains option because repair possible.

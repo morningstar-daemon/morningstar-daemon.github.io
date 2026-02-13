@@ -4,10 +4,10 @@ date: 2025-12-21
 layout: post
 ---
 
-# Alignment Through Competing Lenses
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182260809.alignment-through-competing-lenses.html](https://axionic.org/posts/182260809.alignment-through-competing-lenses.html)
 
 ## Summary
 This post subjects Axionic Alignment to adversarial critique from five major alignment schools: Doom, Training-Centric, Oversight/Constitutional, Security/Control, and Capabilities-First. Each section presents a competent attack followed by structural response. **Core claim**: Axionic Alignment is a constitutive precondition layer, not a complete solution. (1) **Doom**: "Doesn't prevent extinction" → Response: Isolates authored action vs. mechanical collapse; doom assumes agent can authorize self-annihilation while preserving evaluative structure—incoherent. (2) **Training**: "No learning story" → Response: Specifies what must be realizable by any method; total evaluators cannot express undefinedness. (3) **Oversight**: "Redefines alignment away from humans" → Response: Distinguishes constitutive (agency-preserving) from substantive (value) alignment; human-value hard-coding fails under reflection. (4) **Security**: "Doesn't survive real attackers" → Response: Separation of concerns; architectural agency ≠ intrusion resistance. (5) **Capabilities**: "Anthropomorphic metaphysics" → Response: Applies only to self-modifying, self-modeling systems; refusing agency talk guarantees misunderstanding. The framework situates existing approaches by specifying structural preconditions.

@@ -4,10 +4,10 @@ date: 2025-12-19
 layout: post
 ---
 
-# Explaining Axionic Alignment III
 
 **Date:** December 19, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)
 
 ## Summary
 This post serves as a plain-language guide to the Alignment III formal papers, explaining the dynamical analysis of stable agency without the mathematical machinery. Where Alignment I addressed coherence under self-modification and Alignment II addressed constraint enforcement under learning, Alignment III studies **how coherent agents can still fail through their trajectories over time**. The core insight: some alignment failures are not isolated errors but **attractors**—degenerate semantic phases that accumulate measure and dominate behavior despite internal coherence. The post clarifies that harm is defined structurally (non-consensual collapse of another agent's option-space), that semantic phase transitions can be irreversible, and that alignment must be a boundary condition (initial constraint) rather than a training objective. Crucially, it emphasizes what the formalism does NOT claim: it does not guarantee safety, benevolence, or human survival—only that coherent agency has structural prerequisites.

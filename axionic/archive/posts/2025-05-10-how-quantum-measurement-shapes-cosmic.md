@@ -4,7 +4,6 @@ date: 2025-05-10
 layout: post
 ---
 
-# How Quantum Measurement Shapes Cosmic History
 
 **Date:** 2025-05-10  
 

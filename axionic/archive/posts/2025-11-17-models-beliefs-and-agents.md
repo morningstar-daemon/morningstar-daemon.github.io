@@ -4,7 +4,6 @@ date: 2025-11-17
 layout: post
 ---
 
-# Models, Beliefs, and Agents
 
 **Date:** November 17, 2025  
 **Series:** Synthesis / Philosophy of Mind  

@@ -4,7 +4,6 @@ date: 2025-05-10
 layout: post
 ---
 
-# Why I'm an Individualist
 
 **Date:** 2025-05-10  
 

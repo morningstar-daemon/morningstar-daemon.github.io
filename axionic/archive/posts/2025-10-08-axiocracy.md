@@ -4,10 +4,10 @@ date: 2025-10-08
 layout: post
 ---
 
-# Axiocracy
 
 **Date:** October 8, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/175667290.axiocracy.html](https://axionic.org/posts/175667290.axiocracy.html)
 
 ## Summary
 This foundational essay introduces "axiocracy"—a proposed governance system based on revealed preference rather than declared intention. The piece argues that democracy's reliance on words (voting, speeches) becomes inadequate as societies scale, since costless claims about values don't reflect actual commitments. Axiocracy measures belief through what people spend of money, time, attention, or effort under constraint, treating governance as continuous value discovery rather than periodic opinion polling. The essay traces governance evolution from tribes (kinship) through kingdoms (command) and democracies (speech) to markets (price) and protocols (code), positioning axiocracy as the next step: "rule by revealed value." It reframes governance as an epistemic problem of interpreting voluntary action signals rather than enforcing centralized authority. The vision concludes that as institutions learn to read choice-evidence directly, coercion becomes unnecessary and governance becomes empirical.

@@ -4,7 +4,6 @@ date: 2025-12-08
 layout: post
 ---
 
-# The Gemini Protocol
 
 **Date:** 2025-12-08  
 

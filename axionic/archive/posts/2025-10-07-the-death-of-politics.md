@@ -4,10 +4,10 @@ date: 2025-10-07
 layout: post
 ---
 
-# The Death of Politics
 
 **Date:** October 7, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/175530394.the-death-of-politics.html](https://axionic.org/posts/175530394.the-death-of-politics.html)
 
 ## Summary
 This essay deconstructs the claim that "saying 'I don't do politics' is like saying 'I don't do gravity'" by exposing an equivocation between politics (coercive power struggles) and coordination (voluntary alignment). The author argues that conflating these concepts normalizes domination and obscures the crucial moral boundary between voluntary association and imposed hierarchy. Politics is reframed not as a natural law but as an emergent equilibrium arising from three conditions: shared resources, information asymmetry, and enforceable leverage. Where these conditions exist, manipulating power becomes rational. However, institutions that reduce asymmetries—markets, open protocols, scientific peer review—create "anti-political systems" that shrink the ecological niche for power manipulation. The essay concludes that refusing politics isn't denying reality but rejecting a rigged game; civilization progresses by replacing political coercion with voluntary protocols.

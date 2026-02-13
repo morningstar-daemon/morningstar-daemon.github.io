@@ -4,10 +4,10 @@ date: 2025-09-03
 layout: post
 ---
 
-# Monopoly Hypocrisy
 
 **Date:** September 3, 2025  
 **Batch:** Batch 12 (Posts 126–150)
+**Source:** [https://axionic.org/posts/172679351.monopoly-hypocrisy.html](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)
 
 ## Summary
 This post exposes the hypocrisy of governments prosecuting corporate monopolies while themselves wielding the most absolute monopolies. The state positions itself as defender of competition and consumer choice, yet claims monopolies on taxation, lawmaking, policing, and violence—none conditional on consumer preference. Unlike business monopolies that can be displaced by better alternatives (Google by superior search, fiat by Bitcoin), state monopolies are backed by force with no option for rival suppliers except exile, prison, or death. Corporate monopolies are fragile because they depend on consent; state monopolies are entrenched because they don't. The "consumer protection" rhetoric masks the state's true motive: eliminating rival power centers. Antitrust enforcement isn't about protecting consumers from high prices or reduced innovation—the state itself sets price floors, bans innovation, and inflates currency. The essential difference: corporate monopolies are voluntary (you can stop using Facebook or Amazon), government monopolies are coercive (you cannot stop paying taxes without facing guns). When private firms grow large enough to rival state coordination, surveillance, and persuasion capacity, they appear as proto-states, and governments move to eliminate this competition in the realm of domination. The greatest trick the monopolist pulled is convincing the public it's their liberator—we're told to fear Standard Oil but not the IRS, Meta but not the NSA, Microsoft's browser bundling but not government's bundling of law and violence. This moral inversion is propaganda: the monopolist wears regulator's robes while accusing others of its own crimes.

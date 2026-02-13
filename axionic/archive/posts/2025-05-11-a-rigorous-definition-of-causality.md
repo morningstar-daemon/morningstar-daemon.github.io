@@ -4,7 +4,6 @@ date: 2025-05-11
 layout: post
 ---
 
-# A Rigorous Definition of Causality
 
 **Date:** 2025-05-11  
 

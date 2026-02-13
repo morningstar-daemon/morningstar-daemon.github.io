@@ -4,7 +4,6 @@ date: 2025-12-10
 layout: post
 ---
 
-# Viability Ethics Under Fire
 
 **Date:** December 10, 2025  
 **Post:** #104  

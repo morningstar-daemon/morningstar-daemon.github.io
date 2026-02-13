@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# IQ: Realities, Misconceptions, and Moral Confusions
 
 **Date:** 2025-06-07  
 

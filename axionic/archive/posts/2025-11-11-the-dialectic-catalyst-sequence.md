@@ -4,7 +4,6 @@ date: 2025-11-11
 layout: post
 ---
 
-# The Dialectic Catalyst Sequence
 
 **Date:** November 11, 2025  
 **Type:** Sequence Navigation  

@@ -4,10 +4,10 @@ date: 2025-07-24
 layout: post
 ---
 
-# Against Death Complacency
 
 **Date:** July 24, 2025  
 **Batch:** Batch 08 (Posts 26–50)
+**Source:** [https://axionic.org/posts/169150004.against-death-complacency.html](https://axionic.org/posts/169150004.against-death-complacency.html)
 
 ## Summary
 This brief post defends longevity research against critics framing the pursuit of longevity (particularly in tech communities) as comparable to disorders like anorexia, suggesting advocates are driven by anxiety, excessive control, or unhealthy fixation. Axio calls such rhetoric "misguided and morally confused." **Crucial distinction** exists between genuinely harmful behaviors (anorexia's self-destructive starvation) and longevity practices aimed explicitly at enhancing health and mitigating disease. Equating proactive health/longevity measures with compulsive self-harm trivializes real suffering and undermines meaningful aspirations. **Problematic assumption** underlying anti-longevity arguments: accepting death is virtuous or healthy, implying passive acceptance of aging, illness, mortality is desirable, even commendable. Challenging/resisting death erroneously labeled as pathological. While criticism of obsessive/irrational behaviors within longevity community may be justified (all fields have extremes), dismissing entire project because of anxiety-driven outliers is intellectually lazy, unfairly stigmatizes critical and valuable efforts aimed at extending human health and quality of life. **Conclusion:** Longevity efforts are not pathological; they represent rational desire for sustained health and vitality. Condemning this pursuit effectively endorses resignation to death—an irrational and morally indefensible position.

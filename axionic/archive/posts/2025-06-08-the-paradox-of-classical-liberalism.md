@@ -4,7 +4,6 @@ date: 2025-06-08
 layout: post
 ---
 
-# The Paradox of Classical Liberalism
 
 **Date:** 2025-06-08  
 

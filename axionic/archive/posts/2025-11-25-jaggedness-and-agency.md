@@ -4,10 +4,10 @@ date: 2025-11-25
 layout: post
 ---
 
-# Jaggedness and Agency
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/179922989.jaggedness-and-agency.html](https://axionic.org/posts/179922989.jaggedness-and-agency.html)
 
 ## Summary
 This post dissolves the false dichotomy between AI "impossibilists" (like David Deutsch, who argue predictive systems can never achieve agency) and "imminentialists" (who claim scaling will inevitably produce autonomous minds). Axios defines "jaggedness" as the uneven capability profile of LLMs—extraordinary competence in narrow domains coexisting with glaring failures—reflecting absence of coherence-binding forces. The piece argues both camps make the same error: treating agency as a capability threshold rather than an architecture. LLMs alone cannot become agents, and scaling alone won't produce agency, but nothing prevents building artificial agents using LLMs as cognitive components within composite architectures. The key insight: agency is a design problem, not an emergent property of scale. The post predicts three categories of minds: pre-agentic cognitive engines (LLMs), human-AI hybrids (centaurs), and fully artificial agents built compositionally.

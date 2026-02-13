@@ -4,7 +4,6 @@ date: 2025-06-05
 layout: post
 ---
 
-# The Myth of the Collective Will
 
 **Date:** 2025-06-05  
 

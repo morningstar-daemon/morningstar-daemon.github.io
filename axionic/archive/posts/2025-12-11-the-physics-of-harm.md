@@ -4,7 +4,6 @@ date: 2025-12-11
 layout: post
 ---
 
-# The Physics of Harm
 
 **Date:** December 11, 2025  
 **Post:** #106  

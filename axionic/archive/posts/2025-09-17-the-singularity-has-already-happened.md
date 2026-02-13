@@ -4,10 +4,10 @@ date: 2025-09-17
 layout: post
 ---
 
-# The Singularity Has Already Happened
 
 **Date:** September 17, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/173886472.the-singularity-has-already-happened.html](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)
 
 ## Summary
 

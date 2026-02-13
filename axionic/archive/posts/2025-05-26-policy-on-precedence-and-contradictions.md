@@ -4,7 +4,6 @@ date: 2025-05-26
 layout: post
 ---
 
-# Policy on Precedence and Contradictions
 
 **Date:** 2025-05-26  
 

@@ -4,10 +4,10 @@ date: 2025-10-07
 layout: post
 ---
 
-# The Semantics of Violence
 
 **Date:** October 7, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/175525671.the-semantics-of-violence.html](https://axionic.org/posts/175525671.the-semantics-of-violence.html)
 
 ## Summary
 This essay dissects an NPR/Marist poll question asking whether "Americans may have to resort to political violence to get the country back on track," exposing it as a linguistic manipulation rather than genuine belief measurement. The author identifies three deliberate tricks: (1) diffused agency ("Americans" rather than "you" grants moral distance while activating group identification), (2) implied necessity ("may have to" presupposes legitimacy as reluctant duty), and (3) normative framing (embedding the presupposition that "the country is off track" as shared grievance). Together, these transform a clear moral question (Is violence justified?) into an ambiguous sentimental one (Are you frustrated enough to believe someone might act?). When phrasing is neutralized to "Do you personally believe physical force for political goals can ever be justified?" support collapses across parties. The essay concludes that pollsters deliberately design linguistic fog to manufacture polarizing headlines rather than measure actual beliefs.

@@ -4,10 +4,10 @@ date: 2025-07-06
 layout: post
 ---
 
-# The Hedgefox
 
 **Date:** July 6, 2025  
 **Batch:** Batch 19 (Posts 167–191)
+**Source:** [https://axionic.org/posts/167664022.the-hedgefox.html](https://axionic.org/posts/167664022.the-hedgefox.html)
 
 ## Summary
 

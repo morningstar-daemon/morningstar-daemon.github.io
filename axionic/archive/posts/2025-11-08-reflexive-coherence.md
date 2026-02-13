@@ -4,10 +4,10 @@ date: 2025-11-08
 layout: post
 ---
 
-# Reflexive Coherence
 
 **Date:** November 08, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178362242.reflexive-coherence.html](https://axionic.org/posts/178362242.reflexive-coherence.html)
 
 ## Summary
 

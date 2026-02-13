@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# Observer Class Alignment
 
 **Date:** 2025-06-07  
 

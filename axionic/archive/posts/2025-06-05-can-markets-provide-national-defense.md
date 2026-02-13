@@ -4,7 +4,6 @@ date: 2025-06-05
 layout: post
 ---
 
-# Can Markets Provide National Defense?
 
 **Date:** 2025-06-05  
 

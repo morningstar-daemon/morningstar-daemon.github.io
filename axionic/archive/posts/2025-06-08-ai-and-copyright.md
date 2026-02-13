@@ -4,7 +4,6 @@ date: 2025-06-08
 layout: post
 ---
 
-# AI and Copyright
 
 **Date:** 2025-06-08  
 

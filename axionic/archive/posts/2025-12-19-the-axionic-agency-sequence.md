@@ -4,10 +4,10 @@ date: 2025-12-19
 layout: post
 ---
 
-# The Axionic Agency Sequence
 
 **Date:** December 19, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)
 
 ## Summary
 This meta-post serves as a comprehensive roadmap and overview of the entire Axionic Agency research program, listing and summarizing 60+ posts in the sequence. It reframes existential risk not as a problem of misaligned values but as **agency preservation under reflection**: the question of what architectural conditions allow a self-modeling, self-modifying system to meaningfully count as an agent at all. The sequence treats agency as a fragile structural achievement that can silently fail even as optimization and intelligence continue. Key claims: (1) Alignment is a governance relationship that only exists once agency itself is intact; (2) catastrophic failures arise from architectural breakdowns (loss of evaluability, semantic authority leakage, unbounded self-modification) rather than malice or value drift; (3) many classical alignment scenarios presuppose agents incapable of genuine reflection. The sequence spans from foundational coherence conditions through structural verification mechanisms to federated governance architectures.

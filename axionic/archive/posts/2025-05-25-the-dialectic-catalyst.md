@@ -4,7 +4,6 @@ date: 2025-05-25
 layout: post
 ---
 
-# The Dialectic Catalyst
 
 **Date:** 2025-05-25  
 

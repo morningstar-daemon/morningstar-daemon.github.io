@@ -4,10 +4,10 @@ date: 2025-09-04
 layout: post
 ---
 
-# In Defence of Conditional Truth
 
 **Date:** September 4, 2025  
 **Batch:** Batch 12 (Posts 126–150)
+**Source:** [https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)
 
 ## Summary
 This foundational post articulates Axio's philosophy of conditionalism as an escape from the false dichotomy between absolutism and relativism. In response to Alan S. Rome's "In Defence of Absolute Truth" in Quillette, Axio argues both positions collapse: absolutism denies its hidden assumptions while relativism denies meaningful cross-perspective discourse. The core insight: every truth claim requires interpretation, every interpretation requires background conditions, therefore only conditional statements meaningfully possess truth values. Truth is neither absolute ("X is true, full stop") nor purely relative ("X is only true for me"), but conditional validity relative to specified assumptions. Simple claims like "water boils at 100°C" compress entire lattices of conditions: sea level, standard pressure, pure H₂O, calibrated instruments, ignoring impurities. Relativism fails by making an absolute claim ("all truth is relative") that self-contradicts and dissolves cross-cultural critique. Absolutism fails by masquerading contested assumptions as eternal truths, making reasoning fragile and disputes interminable. Conditionalism preserves objectivity without absolutism and contextual sensitivity without relativism. "Slavery is wrong" becomes: given that we value agency, autonomy, and flourishing, slavery violates those values. This conditional form is stronger because it makes grounding explicit and debatable. Society requires not absolute truth but shared conditional frameworks—logic, mathematics, science, and human rights function as robust because their conditions are widely adopted and indispensable. They act as if absolute within our vantage while remaining conditional at meta-level. Instead of climbing toward impossible Absolutes, we refine and expand conditional frameworks. Conditionalism alone provides solid ground between dogmatism and nihilism.

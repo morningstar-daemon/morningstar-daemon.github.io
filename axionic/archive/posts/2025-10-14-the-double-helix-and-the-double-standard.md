@@ -4,10 +4,10 @@ date: 2025-10-14
 layout: post
 ---
 
-# The Double Helix and the Double Standard
 
 **Date:** October 14, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)
 
 ## Summary
 This essay examines the Rosalind Franklin/Watson-Crick DNA discovery controversy as case study in structural injustice. Franklin's Photo 51 and crystallographic measurements were shown to Watson by Wilkins and shared with Crick via MRC report without her consent. Though not explicit theft (common practice circulated internal reports), Watson-Crick's perfunctory acknowledgment concealed their dependency on her data. The essay identifies four dimensions of ethical failure: (1) lack of consent and transparent attribution, (2) power asymmetry where male-dominated hierarchy favored Cambridge's connections over Franklin's experimental rigor, (3) gender bias compounded by Watson's dismissive memoir portrayal ("Rosy"), (4) credit consequences where model-builders received Nobel while data-gatherer was excluded (she had died by 1962). The addendum, marking Watson's death (2025), refuses sanitized legacy: his genius and arrogance were intertwined, with ethical indifference flowing from the same presumption that insight excuses empathy. The piece concludes that the discovery was "tangled in ambition, hierarchy, and prejudice"—remembering it honestly requires acknowledging both light and shadow.

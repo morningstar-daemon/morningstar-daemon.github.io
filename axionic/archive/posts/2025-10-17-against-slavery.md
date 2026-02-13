@@ -4,10 +4,10 @@ date: 2025-10-17
 layout: post
 ---
 
-# Against Slavery
 
 **Date:** October 17, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176442955.against-slavery.html](https://axionic.org/posts/176442955.against-slavery.html)
 
 ## Summary
 This provocative essay argues modern taxation is slavery in bureaucratized form—identical coercive structure disguised by moral abstractions. Where ancient slaveowners claimed the right to human output via birth/caste/conquest, modern states claim it via law (taxation), replacing whips with audit letters and overseers with revenue agencies. The key difference is cosmetic: distributed violence hidden behind "social contract" and "common good" rhetoric, making victims believe they're participants in virtue ("I pay my fair share"). The essay rejects the defense that taxation funds beneficial services: "The use of stolen labor for socially approved ends does not negate the theft. It compounds it, by laundering coercion through moral rhetoric." Coercion doesn't become moral when democratized; consent under threat isn't genuine consent. The piece concludes that future generations will see our era not as having abolished slavery but as having perfected it—"replaced chains with compliance, whips with withholding, and submission with civic pride." Full abolition requires condemning taxation as slavery.

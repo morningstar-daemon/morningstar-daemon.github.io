@@ -4,7 +4,6 @@ date: 2025-11-11
 layout: post
 ---
 
-# The Child in the Library
 
 **Date:** November 11, 2025  
 **Series:** Philosophy of Religion / Einstein Analysis

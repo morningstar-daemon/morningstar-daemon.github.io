@@ -4,10 +4,10 @@ date: 2025-04-29
 layout: post
 ---
 
-# The Physics of Agency, Part 2: Agency vs Drift – The Thermodynamic Basis of Agency
 
 **Date:** April 29, 2025  
 **Batch:** Batch 01 (Posts 001–020)
+**Source:** [https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html](https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html)
 
 ## Summary
 This installment formalizes the adversary of agency: entropic drift. Drift is the passive statistical tendency of systems toward disorder, while agency is the costly, model-driven resistance to that trend. By highlighting intentionality as an energetic act that sculpts futures away from maximum entropy, the post sets up a dialectic between passive unfolding and deliberate control.

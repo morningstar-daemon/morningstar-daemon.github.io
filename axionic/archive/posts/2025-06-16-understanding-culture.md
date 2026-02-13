@@ -4,10 +4,10 @@ date: 2025-06-16
 layout: post
 ---
 
-# Understanding Culture
 
 **Date:** June 16, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166080146.understanding-culture.html](https://axionic.org/posts/166080146.understanding-culture.html)
 
 ## Summary
 

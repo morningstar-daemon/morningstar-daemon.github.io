@@ -4,10 +4,10 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 3: The Kybit — A New Unit of Control
 
 **Date:** April 30, 2025  
 **Batch:** Batch 01 (Posts 001–020)
+**Source:** [https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)
 
 ## Summary
 Here the series defines the kybit as the quantitative measure of intentional control, instantiated as the KL divergence between the prior probability distribution over outcomes and the distribution realized through deliberate intervention. Examples using a forced coin flip and a biased die demonstrate how kybits accumulate when agents push uncertainty toward certainty. The post ties kybits directly to thermodynamic cost via Landauer-like considerations, implying that every bit of control has a minimum energetic price.

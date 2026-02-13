@@ -4,7 +4,6 @@ date: 2025-06-05
 layout: post
 ---
 
-# Modern Monetary Fallacy
 
 **Date:** 2025-06-05  
 

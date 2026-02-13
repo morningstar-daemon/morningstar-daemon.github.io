@@ -4,7 +4,6 @@ date: 2025-06-03
 layout: post
 ---
 
-# Yes, We Can Assign Probabilities to Counterfactuals
 
 **Date:** 2025-06-03  
 

@@ -4,10 +4,10 @@ date: 2025-11-26
 layout: post
 ---
 
-# The Infantilization Reflex
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180036525.the-infantilization-reflex.html](https://axionic.org/posts/180036525.the-infantilization-reflex.html)
 
 ## Summary
 This post critiques the pattern where adult women are granted full agency except when romantic choices violate egalitarian expectations, at which point they're reframed as "fragile ingénues misled by cunning older men." Axios calls this the "infantilization reflex"—a cultural maneuver that selectively withdraws agency when choices conflict with ideological commitments. The piece argues this is logically inconsistent: women in their twenties are trusted with high-stakes decisions (voting, contracts, medical sovereignty, parenthood) but not mate choice if it involves age/status differentials. Axios attributes this to hidden incentives (intrasexual competition, status preservation, moral consistency maintenance) and argues the reflex reveals culture's inability to acknowledge autonomous non-egalitarian sexual preferences. The Axio position: agency is structural and embodied, not context-dependent and revocable.

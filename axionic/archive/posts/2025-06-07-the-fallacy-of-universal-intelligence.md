@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# The Fallacy of Universal Intelligence
 
 **Date:** 2025-06-07  
 

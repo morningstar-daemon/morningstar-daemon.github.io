@@ -4,7 +4,6 @@ date: 2025-06-01
 layout: post
 ---
 
-# Why Coercive Redistribution Is Always Harmful
 
 **Date:** 2025-06-01  
 

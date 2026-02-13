@@ -4,7 +4,6 @@ date: 2025-06-01
 layout: post
 ---
 
-# Immigration Restrictions Are a Form of Harm
 
 **Date:** 2025-06-01  
 

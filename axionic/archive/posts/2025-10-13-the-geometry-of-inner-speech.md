@@ -4,10 +4,10 @@ date: 2025-10-13
 layout: post
 ---
 
-# The Geometry of Inner Speech
 
 **Date:** October 13, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)
 
 ## Summary
 This essay reframes inner speech not as predictive simulation of auditory feedback but as geometric projection from high-dimensional conceptual space into lower-dimensional auditory subspace. Actual speech involves coordinated activation across motor, somatosensory, auditory, linguistic, and social circuits forming a full manifold. Inner speech collapses this manifold into a partial rendering that preserves auditory and semantic modes while suppressing motor output—creating a "sensory shadow" or "cortical hologram." Neuroimaging shows inner speech activates the same auditory cortex regions as actual hearing, but via top-down expectations without bottom-up error signals. The projectional model dissolves boundaries between thinking, remembering, and imagining—all are traversals of the same representational space, differing in which coordinates are active. Inner dialog feels like remembered dialog because both are sensory projections of conceptual structures. The essay concludes that all conscious modalities may be projections from high-dimensional representational fields onto perceivable manifolds—"observing the geometry of thought collapse into sound."

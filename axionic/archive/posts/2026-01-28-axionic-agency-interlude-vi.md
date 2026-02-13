@@ -4,10 +4,10 @@ date: 2026-01-28
 layout: post
 ---
 
-# Axionic Agency — Interlude VI
 
 **Date:** January 28, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html](https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html)
 
 ## Summary
 This interlude explains Phase VII results (ASI + SIR), which test whether authority exists as real, binding relation without identity persistence, and survives adversarial pressure. Authorized Succession Integrity (ASI): authority transferred/revoked/denied via purely structural mechanisms—successors inherit only if law authorizes (not resemblance/behavior/explanation); revocation unilateral, doesn't require successor cooperation. Sovereignty Impersonation Resistance (SIR): tests if authority enforcement degrades under stress—adversary presents imitation legitimate enough to accept. Most systems fail via heuristic enforcement: accept "mostly valid" credentials, treat partial provenance as sufficient, default open under timeout/load. SIR treats authority validity as global property (entire provenance binds or doesn't; no "close enough"); partial correctness doesn't compose. Empirical result: across tens of thousands of adversarial artifacts, zero counterfeit claims produced effect—not under load/ambiguity/malformed input/exceptions. Authority enforcement didn't degrade; sovereignty didn't blink. Core claim: authority can be defined, transferred, enforced, defended beyond identity persistence and under adversarial imitation, structurally within tested model. Phase VII doesn't prove safety/alignment/governance—proves authority can be made exact (enforced perfectly even if misguided).

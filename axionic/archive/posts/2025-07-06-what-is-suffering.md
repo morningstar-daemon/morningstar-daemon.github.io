@@ -4,10 +4,10 @@ date: 2025-07-06
 layout: post
 ---
 
-# What is Suffering?
 
 **Date:** July 06, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
+**Source:** [https://axionic.org/posts/167672844.what-is-suffering.html](https://axionic.org/posts/167672844.what-is-suffering.html)
 
 ## Summary
 This essay develops a rigorous technical definition of suffering essential for ethical frameworks, AI safety protocols, and therapeutic practices. The process moves from initial formulation through edge case testing to refined definition aligning with Buddhist and Stoic philosophical traditions.

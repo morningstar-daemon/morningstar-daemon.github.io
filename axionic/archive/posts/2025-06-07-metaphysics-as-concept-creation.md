@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# Metaphysics as Concept Creation
 
 **Date:** 2025-06-07  
 

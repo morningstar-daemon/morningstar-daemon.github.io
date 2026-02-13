@@ -4,7 +4,6 @@ date: 2025-05-17
 layout: post
 ---
 
-# The Starlight Analogy
 
 **Date:** 2025-05-17  
 

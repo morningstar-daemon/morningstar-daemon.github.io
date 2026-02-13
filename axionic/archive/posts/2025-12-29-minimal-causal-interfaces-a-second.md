@@ -4,7 +4,6 @@ date: 2025-12-29
 layout: post
 ---
 
-# Minimal Causal Interfaces
 
 **Date:** 2025-12-29  
 **Series:** Structural Verification (Marker 2)

@@ -4,7 +4,6 @@ date: 2025-05-28
 layout: post
 ---
 
-# From Sovereignty to Slavery
 
 **Date:** 2025-05-28  
 

@@ -4,7 +4,6 @@ date: 2025-06-06
 layout: post
 ---
 
-# When Plunder Funds Physics
 
 **Date:** 2025-06-06  
 

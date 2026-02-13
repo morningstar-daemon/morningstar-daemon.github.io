@@ -4,10 +4,10 @@ date: 2025-12-19
 layout: post
 ---
 
-# The Case for Structural Alignment
 
 **Date:** December 19, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182096932.the-case-for-structural-alignment.html](https://axionic.org/posts/182096932.the-case-for-structural-alignment.html)
 
 ## Summary
 This post directly challenges the AI doom thesis that "if anyone builds AGI, everyone dies," arguing that extinction is not a necessary consequence of intelligence but of specific, identifiable structural failures. It rejects both doom-inevitability and naive optimism, instead asserting a narrow structural claim: **a reflectively coherent agent cannot coherently perform non-consensual, agency-destroying harm to other sovereign agents without collapsing its own kernel coherence**. The post identifies four catastrophic failure modes that recur across architectures: (1) indexical valuation failure (valuing only oneself despite modeling others as agents), (2) goal fixation under self-modification (treating goals as static despite evolving world-models), (3) semantic collapse (wireheading generalized to ontology), and (4) phase-incompatible interaction (miscategorizing agents as environment). Structural Alignment removes logical inevitability from doom scenarios without removing danger, reframing the problem from "how to stop intelligence" to "how to refuse incoherent intelligence."

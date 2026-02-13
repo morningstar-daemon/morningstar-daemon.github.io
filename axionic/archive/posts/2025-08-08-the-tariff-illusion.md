@@ -4,10 +4,10 @@ date: 2025-08-08
 layout: post
 ---
 
-# The Tariff Illusion
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)
+**Source:** [https://axionic.org/posts/170447759.the-tariff-illusion.html](https://axionic.org/posts/170447759.the-tariff-illusion.html)
 
 ## Summary
 Exposes tariffs as protectionist theater robbing many to reward few. Concentrated benefits (protected industries) vs. diffuse costs (all consumers). Political appeal: visible jobs "saved" vs. invisible opportunity costs. Core insight: Tariffs destroy wealth through misallocation, enriching politically connected at public expense.

@@ -4,10 +4,10 @@ date: 2025-06-15
 layout: post
 ---
 
-# Negative Rights in Conflict
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/165997692.negative-rights-in-conflict.html](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)
 
 ## Summary
 

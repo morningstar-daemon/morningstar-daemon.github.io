@@ -4,7 +4,6 @@ date: 2025-06-10
 layout: post
 ---
 
-# What Counts as a Belief
 
 **Date:** 2025-06-10  
 

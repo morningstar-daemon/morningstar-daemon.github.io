@@ -4,10 +4,10 @@ date: 2025-12-05
 layout: post
 ---
 
-# Quantum Realism Is Inevitable
 
 **Date:** December 5, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html](https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html)
 
 ## Summary
 This post rebuts Paul Davies' claim that "quantum realism is impossible" by arguing quantum mechanics destroys classical object realism, not realism itself. Axios contends Davies confuses "death of object ontology with death of ontology," proposing instead quantum structural realism: the world as evolving amplitude field (universal wavefunction) under unitary evolution producing quasi-classical branches via decoherence. Measurement is reframed as branch location, not reality creation—agents become correlated with outcome-branches through entanglement, but nothing collapses or is created; only vantage changes. The piece distinguishes measure (objective branch weight) from credence (agent's uncertainty about which branch they'll occupy), arguing quantum uncertainty is irreducible but perspectival, not ontologically corrosive. The observer is indexical, not generative.

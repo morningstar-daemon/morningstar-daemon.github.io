@@ -4,10 +4,10 @@ date: 2025-08-29
 layout: post
 ---
 
-# Constructors and Transitions
 
 **Date:** August 29, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/172303733.constructors-and-transitions.html](https://axionic.org/posts/172303733.constructors-and-transitions.html)
 
 ## Summary
 

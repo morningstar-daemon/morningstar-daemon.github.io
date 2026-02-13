@@ -4,10 +4,10 @@ date: 2025-07-20
 layout: post
 ---
 
-# Defending Agency
 
 **Date:** July 20, 2025  
 **Batch:** Batch 08 (Posts 26–50)
+**Source:** [https://axionic.org/posts/168792678.defending-agency.html](https://axionic.org/posts/168792678.defending-agency.html)
 
 ## Summary
 This post preemptively addresses four major critiques of Axio's agency-based political framework (introduced in "Upgrading Liberty"), demonstrating philosophical rigor and practical resilience. **Critique 1: Agency maximization is utilitarianism in disguise**—Reply: Agency differs from utility by focusing on measurable capabilities/opportunities rather than subjective preference satisfaction, explicitly accounting for coercion as harm, thus limiting scenarios where individual autonomy is overridden. Prioritizes preserving individual choice capacities against coercion. **Critique 2: Framework ignores moral rights**—Reply: Rights understood as preferences society enforces against coercion; while no right is absolute, agency model places exceptionally high burden of proof on coercive intervention, making overriding rights exceedingly rare, justified only where overall agency significantly improves. **Critique 3: Quantifying agency is impossible or arbitrary**—Reply: Agency defined objectively through capacities (physical, cognitive, financial resources) and available meaningful choices (absence of coercion, opportunity availability). While precise numerical quantification challenging, relative comparisons of agency gains/losses remain practical and robust. Framework acknowledges epistemic uncertainty, requiring only clarity in directional effects, not precise numerical values. **Critique 4: Agency-maximization enables authoritarian overreach**—Reply: Coercion inherently reduces agency by definition, so framework inherently opposes authoritarianism. Built-in bias favors voluntary, minimally coercive interventions, requiring clear concrete evidence of significant agency gains strongly outweighing immediate coercive losses. Guards against authoritarian misuse through stringent standards and transparent evaluations. The framework integrates coercion's ethical cost and objective empirical measures, robustly safeguarding individual autonomy while clearly distinguishing justified from unjustified interventions.

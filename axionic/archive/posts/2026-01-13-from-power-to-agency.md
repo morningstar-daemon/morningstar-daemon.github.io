@@ -4,10 +4,10 @@ date: 2026-01-13
 layout: post
 ---
 
-# From Power to Agency
 
 **Date:** January 13, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/184458876.from-power-to-agency.html](https://axionic.org/posts/184458876.from-power-to-agency.html)
 
 ## Summary
 This essay presents the Axionic roadmap for building Reflective Sovereign Agents, inverting conventional AI development by starting with power/authority rather than cognition. The sequence is deliberate: (1) establish non-semantic authority substrate capable of leasing/revoking power under adversarial conditions (Architectural Sovereignty Boundary); (2) create constrained Semantic Interface where cognition expresses reasons as structured artifacts processed by deterministic compiler/verifier; (3) define agency as causal dependence on reasons—actions occur because of justifications, removal prevents action; (4) handle conflict through structural necessity (violations explicit, authorized, set-theoretically necessary); (5) require introspection before action—predict consequences of justifications, incorrect predictions halt execution (legislative foreseeability); (6) only then allow high-entropy cognition (LLMs) to participate. The destination: systems with architectural sovereignty that act for reasons, understand effects, revise commitments through protocol, withstand pressure, and remain evaluable. Guiding principle: "Sovereignty with semantics, without semantic sovereignty."

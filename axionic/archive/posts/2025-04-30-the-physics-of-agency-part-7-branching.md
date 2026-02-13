@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 7: Branching Realities — Agency in the Multiverse
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 7 of 10)

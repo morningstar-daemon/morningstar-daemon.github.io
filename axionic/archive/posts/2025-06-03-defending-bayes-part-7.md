@@ -9,7 +9,6 @@ batch: 4
 position: 78
 ---
 
-# Defending Bayes, Part 7
 
 ## Key Arguments
 

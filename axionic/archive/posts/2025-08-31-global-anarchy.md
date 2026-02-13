@@ -4,10 +4,10 @@ date: 2025-08-31
 layout: post
 ---
 
-# Global Anarchy
 
 **Date:** August 31, 2025  
 **Batch:** Batch 12 (Posts 126–150)
+**Source:** [https://axionic.org/posts/172427377.global-anarchy.html](https://axionic.org/posts/172427377.global-anarchy.html)
 
 ## Summary
 This post dismantles the popular myth that the world operates under "international law" in any meaningful legal sense. Axio argues that the international system is fundamentally anarchic—not chaotic, but lacking a sovereign authority above nation-states. What we call international law is actually coordinated etiquette sustained by mutual interest and the balance of power, not genuine enforcement machinery. Unlike domestic law backed by police and courts, international law has no enforcement mechanism beyond voluntary compliance and political will. The post uses examples like Israel's strikes in Yemen, Russia's invasion of Ukraine, and America's invasion of Iraq to illustrate that great powers can ignore "law" with impunity unless other sovereigns choose to intervene. This is not disorder but rather order without hierarchy—a lattice of norms and agreements maintained through reciprocity and shadowed by power. The key insight: we already live in global anarchy, and recognizing this clarifies rather than undermines the nature of international coordination.

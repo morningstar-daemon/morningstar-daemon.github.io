@@ -4,10 +4,10 @@ date: 2025-06-28
 layout: post
 ---
 
-# Cosmic Coincidence
 
 **Date:** June 28, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/167015115.cosmic-coincidence.html](https://axionic.org/posts/167015115.cosmic-coincidence.html)
 
 ## Summary
 This post analyzes the sun/moon angular size coincidence—both appear ~0.5 degrees from Earth, enabling spectacular solar eclipses—using Bayesian reasoning and anthropic principle. The alignment seems astronomically unlikely: Sun is 400× wider than Moon but also 400× farther, creating precise ratio making angular diameters remarkably close. Rough calculation suggests 1-in-100,000 probability universally. However, naive Bayesian analysis assigning high prior to cosmic engineering yields absurd 90%+ posterior for intentional design—artifact of flawed assumption. Correcting with realistic prior (1 in 10²⁰ for engineered universes) dramatically changes result: non-random measure ≈10⁻¹⁵, random measure ≈1.0, aligning with intuition that no engineering necessary. Anthropic reasoning provides clarity: intelligent observers inevitably find themselves in seemingly improbable circumstances precisely because those circumstances permit observation. Apparent coincidence isn't improbable conditioned on our existence—planets lacking such conditions lack observers to remark on absence. Conclusion: remarkable alignment natural, fascinating, benign coincidence requiring no extraordinary design. Universe remains beautiful, surprising, rational.

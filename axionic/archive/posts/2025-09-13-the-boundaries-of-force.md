@@ -4,10 +4,10 @@ date: 2025-09-13
 layout: post
 ---
 
-# The Boundaries of Force
 
 **Date:** September 13, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/173541004.the-boundaries-of-force.html](https://axionic.org/posts/173541004.the-boundaries-of-force.html)
 
 ## Summary
 

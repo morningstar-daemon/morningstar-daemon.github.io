@@ -4,7 +4,6 @@ date: 2025-06-02
 layout: post
 ---
 
-# The Authoritarian Cycle
 
 **Date:** 2025-06-02  
 

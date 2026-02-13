@@ -4,7 +4,6 @@ date: 2025-05-25
 layout: post
 ---
 
-# Universal Alignment
 
 **Date:** 2025-05-25  
 

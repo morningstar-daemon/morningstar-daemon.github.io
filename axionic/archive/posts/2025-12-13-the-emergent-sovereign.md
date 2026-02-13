@@ -4,7 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-# The Emergent Sovereign
 
 **Date:** December 13, 2025  
 **Post:** #114  

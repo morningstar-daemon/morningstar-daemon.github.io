@@ -4,10 +4,10 @@ date: 2026-01-26
 layout: post
 ---
 
-# Authority Without Identity
 
 **Date:** January 26, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/185899552.authority-without-identity.html](https://axionic.org/posts/185899552.authority-without-identity.html)
 
 ## Summary
 This post explains Axionic Agency IX.2 results on Authorized Succession Integrity (ASI), demonstrating that authority can survive replacement without relying on identity/resemblance. Historical illusion: authority appeared to "stick" to persisting systems because continuity carried the load; once replacement enters (copying, swapping, restarting, counterfeiting), continuity stops working. Identity tracks sameness but doesn't justify who gets to act; useful for bookkeeping, not legitimacy grounding. ASI tested whether authority could be granted/revoked/denied using only structural rules, without consulting behavior/explanation/intent. Key experiment: two identical successors—same state, explanations, behavior; one accepted, one rejected before acting. Distinction: provenance—accepted successor's authority traced to predecessor's law, rejected traced to wrong root (cryptographically valid but wrong origin). Result: behavioral equivalence doesn't imply legitimacy; authority is mechanically enforceable relation, not narrative inference. Authority regulates action selection through evaluable rules binding across succession; revocation unilateral, atomic, no negotiation. ASI doesn't defend against adversarial pressure; establishes prior question: can authority survive replacement at all? Answer: yes, when structurally grounded rather than inferred from resemblance.

@@ -4,10 +4,10 @@ date: 2025-06-15
 layout: post
 ---
 
-# The Universality Misconception in AI
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/166028334.the-universality-misconception-in.html](https://axionic.org/posts/166028334.the-universality-misconception-in.html)
 
 ## Summary
 This post critiques David Deutsch's claim that universality (capability of explaining literally anything) is the critical threshold separating AGI from narrow AI, and the corollary that specialized capabilities "round down to zero" compared to universal explainers. Axio argues this is deeply misleading. **Intelligence exists on a continuum**, not binary scale: narrow AI (chess engines) → humans (profoundly general but biologically constrained) → idealized universal explainer (practically impossible for finite systems). Literal universality requires infinite complexity handling—humans don't qualify by this standard. **Specialized AI capabilities retain lasting value**: medical diagnostics, financial analytics perform superhuman tasks that persist meaningfully even after AGI emergence. Real AGI targets **pragmatic generality** (wide range of adaptive problem-solving), not impossible universality. Humans prove this: extraordinarily broad but clearly finite intelligence suffices for profound thriving and innovation. Rejecting false dichotomy: value and nature of intelligence lie on spectrum of generality, not universality threshold.

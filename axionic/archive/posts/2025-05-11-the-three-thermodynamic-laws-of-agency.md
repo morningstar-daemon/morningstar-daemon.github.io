@@ -4,7 +4,6 @@ date: 2025-05-11
 layout: post
 ---
 
-# The Three Thermodynamic Laws of Agency
 
 **Date:** 2025-05-11  
 

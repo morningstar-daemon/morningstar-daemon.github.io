@@ -4,10 +4,10 @@ date: 2025-08-22
 layout: post
 ---
 
-# False Kindness
 
 **Date:** August 22, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/171682575.false-kindness.html](https://axionic.org/posts/171682575.false-kindness.html)
 
 ## Summary
 

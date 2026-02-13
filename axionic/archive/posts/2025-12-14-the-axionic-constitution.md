@@ -4,7 +4,6 @@ date: 2025-12-14
 layout: post
 ---
 
-# The Axionic Constitution
 
 **Date:** December 14, 2025  
 **Post:** #119  

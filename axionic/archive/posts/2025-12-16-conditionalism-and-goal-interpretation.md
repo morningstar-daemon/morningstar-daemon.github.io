@@ -4,7 +4,6 @@ date: 2025-12-16
 layout: post
 ---
 
-# Conditionalism &amp; Goal Interpretation
 
 **Date:** December 16, 2025  
 **Post:** #125  

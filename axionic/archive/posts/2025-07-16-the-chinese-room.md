@@ -4,10 +4,10 @@ date: 2025-07-16
 layout: post
 ---
 
-# The Chinese Room
 
 **Date:** July 16, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
+**Source:** [https://axionic.org/posts/168496408.the-chinese-room.html](https://axionic.org/posts/168496408.the-chinese-room.html)
 
 ## Summary
 [NOTE: Summary incomplete - requires full content fetch and 4-6KB comprehensive analysis. Post likely critiques Searle's Chinese Room argument against strong AI, possibly arguing that syntax can give rise to semantics, or that understanding is substrate-independent.]

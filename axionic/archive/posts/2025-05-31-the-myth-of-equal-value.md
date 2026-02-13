@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# The Myth of Equal Value
 
 **Date:** 2025-05-31  
 

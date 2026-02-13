@@ -4,7 +4,6 @@ date: 2025-05-23
 layout: post
 ---
 
-# The Pattern
 
 **Date:** 2025-05-23  
 

@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 10: The Grand Synthesis and Future Directions
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 10 of 10)

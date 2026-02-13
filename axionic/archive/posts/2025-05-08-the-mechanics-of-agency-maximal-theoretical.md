@@ -4,7 +4,6 @@ date: 2025-05-08
 layout: post
 ---
 
-# The Mechanics of Agency: Maximal Theoretical Agent
 
 **Date:** 2025-05-08  
 

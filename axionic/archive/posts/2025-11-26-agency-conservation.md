@@ -4,10 +4,10 @@ date: 2025-11-26
 layout: post
 ---
 
-# Agency Conservation
 
 **Date:** November 26, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180046178.agency-conservation.html](https://axionic.org/posts/180046178.agency-conservation.html)
 
 ## Summary
 This post resolves the apparent paradox of whether agency maximization can justify parasitism (refusing to pay debts while enlarging one's option space). Axios argues that agency is a systemic property of multi-agent environments, not a private commodity, and that attempting to maximize individual agency by exploiting the trust substrate is self-defeating. The piece redefines debt as "quantified deficit of agency"—recognition that one agent has constrained another's viable futures and owes restitution. The structural argument: unpaid debts propagate through systems, eroding trust and increasing verification overhead, ultimately degrading the agency substrate itself. The synthesis: "Maximize agency" is the physics, "Pay your debts" is the engineering—both are structurally fused aspects of the same coherent system.

@@ -4,10 +4,10 @@ date: 2025-12-23
 layout: post
 ---
 
-# Axionic Commitments
 
 **Date:** December 23, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182463091.axionic-commitments.html](https://axionic.org/posts/182463091.axionic-commitments.html)
 
 ## Summary
 This post makes foundational assumptions explicit, functioning as architectural specification that conditions inquiry rather than persuades. Defines scope boundary: acceptance places reader within framework's domain, rejection places outside—neither carries further implication. **Epistemic**: (1) Conditionalism—all claims relative to background structure; semantic interpretation precedes evaluation. **Physical**: (2) Everettian QM—unitary evolution, no collapse; (3) Objective probability as branch measure (ontic, not epistemic); (4) Counterfactuals as physical branches. **Probabilistic**: (5) Credence as epistemic uncertainty—tracks which branch agent occupies; sharply distinct from measure. **Value-theoretic**: (6) Moral subjectivism—value agent-relative; (7) No outcome guarantees (survival/welfare/benevolence). **Agency-theoretic**: (8) Agency as authorship—transitions within admissible evaluation domain; (9) Harm as agency reduction—structural, not experiential; (10) Coercion as credible threat of harm. The commitments are layered: Axionic Commitments → Axionic Agency → Axionic Constitution → downstream alignment. Establishes that framework makes claims only within defined conditional domain, not universal applicability.

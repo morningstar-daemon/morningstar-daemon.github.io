@@ -4,7 +4,6 @@ date: 2025-12-23
 layout: post
 ---
 
-# Axionic Agency — Interlude III
 
 **Date:** 2025-12-23  
 **Series:** Axionic Agency Sequence (Interlude III)

@@ -4,7 +4,6 @@ date: 2025-12-21
 layout: post
 ---
 
-# Axionic Agency Lab
 
 **Date:** 2025-12-21  
 

@@ -4,10 +4,10 @@ date: 2025-12-25
 layout: post
 ---
 
-# Why There Is Something Rather than Nothing
 
 **Date:** December 25, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182569831.why-there-is-something-rather-than.html](https://axionic.org/posts/182569831.why-there-is-something-rather-than.html)
 
 ## Summary
 This post likely addresses the fundamental metaphysical question through the lens of agency and quantum branching. Within the Everettian framework (Axionic Commitments), "nothing" is not a coherent quantum state—existence follows from unitary evolution and measure distribution across branches. May explore why agents exist (agency as thermodynamic necessity) and how measure conservation relates to the persistence of evaluative structure.

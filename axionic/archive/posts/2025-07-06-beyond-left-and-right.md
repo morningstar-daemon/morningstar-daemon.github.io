@@ -4,10 +4,10 @@ date: 2025-07-06
 layout: post
 ---
 
-# Beyond Left and Right
 
 **Date:** July 06, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
+**Source:** [https://axionic.org/posts/167677533.beyond-left-and-right.html](https://axionic.org/posts/167677533.beyond-left-and-right.html)
 
 ## Summary
 This essay clarifies political discourse by distinguishing three radically distinct philosophies often lumped together under the term "socialism," showing that treating socialism as monolithic results in conceptual confusion and undermines thoughtful engagement. The three forms are: National Socialism (ethno-nationalist authoritarianism), International Socialism (class-based authoritarian collectivism), and Liberal Socialism (democratic welfare capitalism). Understanding these distinctions helps transcend simplistic left-right binaries and promotes clearer thinking about social and economic structures.

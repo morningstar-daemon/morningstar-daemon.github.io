@@ -4,10 +4,10 @@ date: 2025-10-14
 layout: post
 ---
 
-# Blue Flight
 
 **Date:** October 14, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176140519.blue-flight.html](https://axionic.org/posts/176140519.blue-flight.html)
 
 ## Summary
 This essay draws a provocative parallel between BlueSky migration and white flight, arguing both represent ideological self-segregation disguised as moral necessity. Observing BlueSky's absence of coverage of Israeli hostage release, the piece identifies a "voluntary echo chamber" pattern: people fleeing discomfort and difference under the banner of self-protection. The structural grammar is identical across both phenomena: (1) voluntary separation framed as necessity, (2) moral framing inverting cowardice into righteousness, (3) disgust avoidance as emotional driver, (4) echo reinforcement redefining isolation as clarity. The essay diagnoses this as "contamination instinct"—moral immune system treating dissent as disease, producing "epistemic autoimmune disorder" where culture attacks its own correction capacity. The irony: progressives fleeing X to escape "toxicity" replicate the intolerance they condemned. The piece concludes that civilization risks withering from "self-curated ignorance" rather than censorship—mistaking insulation for integrity.

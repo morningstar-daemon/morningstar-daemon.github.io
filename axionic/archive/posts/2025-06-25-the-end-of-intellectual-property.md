@@ -4,10 +4,10 @@ date: 2025-06-25
 layout: post
 ---
 
-# The End of Intellectual Property
 
 **Date:** June 25, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/166822916.the-end-of-intellectual-property.html](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)
 
 ## Summary
 This post argues intellectual property (IP) is conceptually unsustainable and will inevitably erode over 50-75 years through incremental reforms. Core arguments: (1) IP isn't true property because ideas are non-rivalrous and infinitely replicable without depletion, violating fundamental property criteria; (2) digital distribution makes enforcement impossible—DRM and anti-piracy measures consistently fail; (3) IP systems generate inefficiency through litigation costs, monopolistic pricing, patent trolling, producing deadweight loss exceeding benefits; (4) innovation demonstrably flourishes without IP, evidenced by open-source software, Creative Commons, crowdsourced platforms. A thought experiment imagining overnight IP abolition predicts initial turmoil followed by rapid innovation, economic restructuring toward reputation/quality/first-mover advantage, and flourishing creative commons. Realistic prediction: gradual erosion via shortened copyright terms, broader fair-use, industry-specific relaxations, global competitive pressure. Post-IP preparation requires focus on reputation, brand loyalty, speed-to-market, patronage, crowdfunding, subscription models.

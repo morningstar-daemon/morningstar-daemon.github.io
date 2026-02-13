@@ -4,7 +4,6 @@ date: 2025-05-25
 layout: post
 ---
 
-# A Gigaplex of Parallel Lives
 
 **Date:** 2025-05-25  
 

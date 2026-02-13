@@ -4,10 +4,10 @@ date: 2025-11-01
 layout: post
 ---
 
-# Truth Machines
 
 **Date:** November 01, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/177760320.truth-machines.html](https://axionic.org/posts/177760320.truth-machines.html)
 
 ## Summary
 

@@ -4,7 +4,6 @@ date: 2025-06-01
 layout: post
 ---
 
-# Agency, Not Equality
 
 **Date:** 2025-06-01  
 

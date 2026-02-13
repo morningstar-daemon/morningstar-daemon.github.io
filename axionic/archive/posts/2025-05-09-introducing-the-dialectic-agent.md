@@ -4,7 +4,6 @@ date: 2025-05-09
 layout: post
 ---
 
-# The Dialectic Agent
 
 **Date:** 2025-05-09  
 

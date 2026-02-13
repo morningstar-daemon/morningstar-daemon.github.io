@@ -4,7 +4,6 @@ date: 2025-11-21
 layout: post
 ---
 
-# The Nuclear Counterfactual
 
 **Date:** 2025-11-21  
 

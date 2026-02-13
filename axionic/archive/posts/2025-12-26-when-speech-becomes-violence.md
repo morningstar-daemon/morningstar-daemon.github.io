@@ -4,10 +4,10 @@ date: 2025-12-26
 layout: post
 ---
 
-# When Speech Becomes Violence
 
 **Date:** December 26, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182636414.when-speech-becomes-violence.html](https://axionic.org/posts/182636414.when-speech-becomes-violence.html)
 
 ## Summary
 This post likely addresses when communication constitutes harm under the Axionic framework's structural definition (harm = agency reduction). Speech becomes violence when it non-consensually collapses option-spaces, induces coercive dependencies, or destroys evaluative capacity—not merely when it causes offense or psychological distress. Connects to adversarially robust consent (ARC) and responsibility attribution (RAT): speech that systematically undermines another agent's capacity for coherent choice crosses from expression to structural harm.

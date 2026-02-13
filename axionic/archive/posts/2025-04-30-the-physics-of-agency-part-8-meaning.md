@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 8: Meaning, Ethics, and Evolution Under the Physics of Agency
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 8 of 10)

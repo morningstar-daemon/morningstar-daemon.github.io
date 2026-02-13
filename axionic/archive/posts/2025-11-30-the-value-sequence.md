@@ -4,10 +4,10 @@ date: 2025-11-30
 layout: post
 ---
 
-# The Value Sequence
 
 **Date:** November 30, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/180411867.the-value-sequence.html](https://axionic.org/posts/180411867.the-value-sequence.html)
 
 ## Summary
 This comprehensive index organizes Axio's complete treatment of value theory into five progressive parts: breaking objective value, preference and exchange, ethics as coordination, Phosphorism as chosen value framework, and edge cases in applied theory. The sequence systematically dismantles both moral realism (objective value exists cosmically) and mushy relativism (all values are equally valid), replacing them with agent-bound value constrained by coherence, opportunity cost, and thermodynamic reality. Value emerges not from discovery or decree but from the architecture of preference an agent constructs and maintains through real sacrifice.

@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# The Ethics of the Unconceived
 
 **Date:** 2025-06-07  
 

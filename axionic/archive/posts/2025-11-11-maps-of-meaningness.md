@@ -4,7 +4,6 @@ date: 2025-11-11
 layout: post
 ---
 
-# Maps of Meaningness
 
 **Date:** November 11, 2025  
 **Series:** Comparative Philosophy / Coherence Theory

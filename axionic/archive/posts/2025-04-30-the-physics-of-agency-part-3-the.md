@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 3: The Kybit — A New Unit of Control
 
 **Date:** 2025-04-30  
 **Series:** Physics of Agency (Part 3 of 10)

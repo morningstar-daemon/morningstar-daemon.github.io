@@ -4,10 +4,10 @@ date: 2025-08-08
 layout: post
 ---
 
-# Singularities in Thought Space
 
 **Date:** August 8, 2025  
 **Batch:** Batch 24 (Posts 1–25)
+**Source:** [https://axionic.org/posts/170492163.singularities-in-thought-space.html](https://axionic.org/posts/170492163.singularities-in-thought-space.html)
 
 ## Summary
 

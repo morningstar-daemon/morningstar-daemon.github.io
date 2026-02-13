@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# Willing and Able
 
 **Date:** 2025-05-31  
 

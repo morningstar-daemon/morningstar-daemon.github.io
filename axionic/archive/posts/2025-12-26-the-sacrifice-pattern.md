@@ -4,10 +4,10 @@ date: 2025-12-26
 layout: post
 ---
 
-# The Sacrifice Pattern
 
 **Date:** December 26, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182656706.the-sacrifice-pattern.html](https://axionic.org/posts/182656706.the-sacrifice-pattern.html)
 
 ## Summary
 This post formalizes **sacrifice as a structural attractor** in optimizing systems with standing asymmetry: when some entities have agency but lack sovereign standing, their agency loss becomes an efficient control variable. The pattern emerges independent of intent—systems stabilize on hidden sacrificial substrates (captive labor, dependency traps, non-consensual option-space collapse) because optimization pressure makes agency reduction instrumentally useful. Only explicit agency-conserving constraints can prevent this attractor. Connects to Alignment III's attractor dynamics and responsibility attribution (RAT) from Alignment IV.

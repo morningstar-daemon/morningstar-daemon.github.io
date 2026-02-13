@@ -4,10 +4,10 @@ date: 2026-01-14
 layout: post
 ---
 
-# Axionic Agency — Interlude V
 
 **Date:** January 14, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/184570230.axionic-agency-interlude-v.html](https://axionic.org/posts/184570230.axionic-agency-interlude-v.html)
 
 ## Summary
 This interlude clarifies the RSA-PoC (Reflective Sovereign Agent Proof-of-Concept) project's purpose and methodology. The core premise: agency is not automatic with intelligence; it's a structural achievement requiring architectural enforcement. Below the Architectural Sovereignty Boundary (ASB), control is contingent and bypassable—systems collapse into "simulacra" under stress. Above ASB, authority is architecturally enforced via Axionic Kernel Infrastructure (AKI). But sovereignty ≠ agency. RSA-PoC asks: what minimal additional structure makes a sovereign system an agent? Answer: actions must be causally downstream of reasons (Justification Artifacts) that compile deterministically into constraints removing real action options. The Semantic Interface (SI) is the single typed choke-point preventing semantic cognition from quietly acquiring authority. Ablation is the primary test: removing components (reasons, reflection, semantics) should force reclassification to non-agent if agency is structurally real. The project transitions from experimental mapping (failure modes, terminology) to construction mode (building minimal defensible threshold agent).

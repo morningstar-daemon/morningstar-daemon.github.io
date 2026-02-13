@@ -4,10 +4,10 @@ date: 2025-11-25
 layout: post
 ---
 
-# Not Up For Debate
 
 **Date:** November 25, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/179943509.not-up-for-debate.html](https://axionic.org/posts/179943509.not-up-for-debate.html)
 
 ## Summary
 This post critiques the political pattern of declaring certain views "not up for debate," arguing that removing debate as a conflict-resolution mechanism inevitably leads to coercion and force. Drawing from Quillette Podcast #313, Axios distinguishes between values (minimal constraints for coherent agency like non-contradiction and reciprocity) and policies (empirical claims about the world that must remain debatable). The piece identifies "conceptual smuggling" where activists elevate policy interpretations into values themselves to shield them from scrutiny. The central Axio principle: "Every policy is up for debate because the alternative to debating a contested policy is eventually resolving it by force." The post argues that declaring topics undebatable performs social functions (boundary-marking, cost-inflation, conceptual freezing, platform control) that expand over time into "sacred narrative creep."

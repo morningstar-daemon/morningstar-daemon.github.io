@@ -4,10 +4,10 @@ date: 2025-10-31
 layout: post
 ---
 
-# Gödel in the Machine
 
 **Date:** October 31, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/177655646.godel-in-the-machine.html](https://axionic.org/posts/177655646.godel-in-the-machine.html)
 
 ## Summary
 

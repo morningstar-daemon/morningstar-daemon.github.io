@@ -4,7 +4,6 @@ date: 2025-05-17
 layout: post
 ---
 
-# Evolution Is All You Need
 
 **Date:** 2025-05-17  
 

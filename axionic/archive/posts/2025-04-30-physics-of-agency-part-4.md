@@ -4,7 +4,6 @@ date: 2025-04-30
 layout: post
 ---
 
-# The Physics of Agency, Part 4: The Law of Control Work
 
 **Date:** April 30, 2025  
 

@@ -4,10 +4,10 @@ date: 2025-11-04
 layout: post
 ---
 
-# Irony vs Integrity
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178031361.irony-vs-integrity.html](https://axionic.org/posts/178031361.irony-vs-integrity.html)
 
 ## Summary
 

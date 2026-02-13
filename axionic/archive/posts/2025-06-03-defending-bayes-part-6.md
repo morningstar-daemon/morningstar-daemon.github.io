@@ -9,7 +9,6 @@ batch: 4
 position: 79
 ---
 
-# Defending Bayes, Part 6 - Logical Induction
 
 ## Key Arguments
 

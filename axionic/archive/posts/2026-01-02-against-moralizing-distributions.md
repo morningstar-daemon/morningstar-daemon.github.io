@@ -4,10 +4,10 @@ date: 2026-01-02
 layout: post
 ---
 
-# Against Moralizing Distributions
 
 **Date:** January 2, 2026  
 **Batch:** Batch 30 (Posts 151–175)
+**Source:** [https://axionic.org/posts/183197544.against-moralizing-distributions.html](https://axionic.org/posts/183197544.against-moralizing-distributions.html)
 
 ## Summary
 This post argues inequality is distributional description not harm; conflating them replaces causal analysis with moralized snapshots. Key distinction: inequality is static, agency is dynamic. What matters is not position at time t but whether alternative futures remain reachable. Two societies with identical Gini coefficients feel radically different if one has open paths (high variance, mobility preserved) vs frozen positions (agency destroyed). Meta-analysis showing no reliable inequality-well-being link unsurprising: humans adapt to rank differences but not foreclosed possibility. Psychological distress correlates with loss of control/optionality/stagnation (immobility features) not inequality per se. Causal chain: coercive authority enables capture → mobility collapses → persistent inequality emerges (symptom not cause). Without coercive gatekeeping, wealth cannot enforce stasis. Competition selects among paths (compatible with agency); coercion removes them (harm). Taleb's "skin in the game" insight: exposure to risk forces attention on trajectories not snapshots; inequality discourse dominated by insulated classes mistaking positional comparison for moral insight. Axio treats harm as agency reduction—contraction of reachable futures. Moral question: are futures open? Society preserving mobility tolerates inequality; society suppressing mobility cannot tolerate even perfect equality.

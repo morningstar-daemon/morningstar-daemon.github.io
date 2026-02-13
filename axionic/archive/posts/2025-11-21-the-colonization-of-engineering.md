@@ -4,7 +4,6 @@ date: 2025-11-21
 layout: post
 ---
 
-# The Colonization of Engineering
 
 **Date:** 2025-11-21  
 

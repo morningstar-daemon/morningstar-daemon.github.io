@@ -4,7 +4,6 @@ date: 2025-11-17
 layout: post
 ---
 
-# Lookup Tables and Agents
 
 **Date:** November 17, 2025  
 **Series:** Agency Theory / Philosophy of Mind  

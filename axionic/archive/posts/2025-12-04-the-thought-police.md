@@ -4,10 +4,10 @@ date: 2025-12-04
 layout: post
 ---
 
-# The Thought Police
 
 **Date:** December 4, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/180658803.the-thought-police.html](https://axionic.org/posts/180658803.the-thought-police.html)
 
 ## Summary
 This post examines how liberal democracies can drift into thought-policing regimes through structural errors rather than malicious intent. Using the UK's criminalization of symbolic content as a case study, it demonstrates how conflating expression with action, offense with harm, and risk with guilt creates a predictable trajectory toward soft totalitarianism. The piece argues that this erosion happens through rational bureaucratic responses to faulty premises about agency and causality, making illiberal outcomes the logical consequence of misaligned institutional models.

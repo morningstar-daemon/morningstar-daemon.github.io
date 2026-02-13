@@ -4,7 +4,6 @@ date: 2025-06-01
 layout: post
 ---
 
-# The Libertarian Illusion of Equal Opportunity
 
 **Date:** 2025-06-01  
 

@@ -4,10 +4,10 @@ date: 2025-12-17
 layout: post
 ---
 
-# General Intelligence Is Not an Illusion
 
 **Date:** December 17, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html](https://axionic.org/posts/181841657.general-intelligence-is-not-an-illusion.html)
 
 ## Summary
 This post directly responds to Yann LeCun's claim that general intelligence is illusory, arguing that the denial succeeds only by covertly expanding the reference class to "all possible problems across all possible universes"—a quantifier so broad it trivializes the conclusion. The post distinguishes **universality** (competence across all possible tasks) from **generality** (capacity to acquire competence in new domains through learning and abstraction), showing that humans demonstrably possess the latter. General intelligence is reframed as **interpretation-preserving adaptability**: the ability to construct and revise world models, transfer structure across domains, and question ontologies when confronted with failure. The key insight is that human intelligence operates not within a fixed task manifold but via mechanisms that construct new manifolds—offloading cognition into external formal systems that outstrip native priors while preserving coherence.

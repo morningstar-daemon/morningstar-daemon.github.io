@@ -4,10 +4,10 @@ date: 2025-07-01
 layout: post
 ---
 
-# The Rise of the Technomancer
 
 **Date:** July 1, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)
 
 ## Summary
 This post celebrates term "Technomancer" as positive reframe of AI/ChatGPT use, responding to viral tweet (389K likes) proposing slur for people constantly using AI. Highlights unfortunate cultural impulse: responding to innovation and enthusiasm with scorn, fear, derision. Mercer's brilliant single-word response—"Technomancer"—effortlessly dismantles negativity by refusing to accept framing, instead elevating technology user into something mystical, empowered, intriguingly positive. "Technomancer" evokes image of someone skilled in technological enchantment art: suggests mastery rather than mockery, skill/creativity/imaginative power rather than weakness/laziness. Perfect retort precisely because refuses engaging negativity on its own terms. Exchange captures deeper philosophical issue: tension between reactionary hostility toward new technology and proactive embrace of human ingenuity. AI just tool—neither inherently good nor bad—but framing its use reflects cultural attitudes toward progress itself. Choice: let others set terms (reducing complex discussions to crude labels) or reclaim narrative, celebrating human potential behind technological innovation. Single witty reply reminds how we talk about technology shapes how we think about it—and ourselves.

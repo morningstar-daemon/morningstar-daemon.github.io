@@ -4,7 +4,6 @@ date: 2025-11-19
 layout: post
 ---
 
-# The Cybernetics Sequence
 
 **Date:** 2025-11-19  
 **Series:** Cybernetics Sequence (Announcement/Index)

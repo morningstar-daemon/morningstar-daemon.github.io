@@ -4,7 +4,6 @@ date: 2025-05-13
 layout: post
 ---
 
-# Quantum Agency in the Emergent Multiverse
 
 **Date:** 2025-05-13  
 

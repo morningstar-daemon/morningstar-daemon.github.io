@@ -4,10 +4,10 @@ date: 2025-07-06
 layout: post
 ---
 
-# Minds as Recursive Simulations
 
 **Date:** July 6, 2025  
 **Batch:** Batch 19 (Posts 167–191)
+**Source:** [https://axionic.org/posts/167660845.minds-as-recursive-simulations.html](https://axionic.org/posts/167660845.minds-as-recursive-simulations.html)
 
 ## Summary
 

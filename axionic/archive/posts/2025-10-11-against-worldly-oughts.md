@@ -4,10 +4,10 @@ date: 2025-10-11
 layout: post
 ---
 
-# Against Worldly Oughts
 
 **Date:** October 11, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/175891239.against-worldly-oughts.html](https://axionic.org/posts/175891239.against-worldly-oughts.html)
 
 ## Summary
 This essay critiques Brian Cantwell Smith's thesis that normativity (truth, reference, meaning) is non-causal but real—that the world itself enforces correctness. The author argues Smith commits the same error as moral realists: confusing constraint with obligation, resistance with reproach. Smith claims aboutness (thinking about Andromeda without causal connection) requires non-causal normative relations binding mind and world, making science a form of moral deference. The essay counters that norms don't exist independently but only through rule-following agents—the universe contains events, not correctness/falsity. When models fail, this is causal mismatch (mechanical feedback) not moral defeat. The piece develops an agent-centered ontology under Conditionalism: the world supplies constraints, agents supply evaluation. Normativity is vantage-relative, emergent from interpretive systems, not world-immanent. Humility remains meaningful but earned—recognizing model limitations without deifying the universe. The universe enforces consistency; agents enforce truth.

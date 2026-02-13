@@ -4,7 +4,6 @@ date: 2025-05-12
 layout: post
 ---
 
-# Active Inference and the Physics of Agency
 
 **Date:** 2025-05-12  
 

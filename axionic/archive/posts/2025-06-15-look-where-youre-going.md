@@ -4,10 +4,10 @@ date: 2025-06-15
 layout: post
 ---
 
-# Look Where You're Going
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166024344.look-where-youre-going.html](https://axionic.org/posts/166024344.look-where-youre-going.html)
 
 ## Summary
 

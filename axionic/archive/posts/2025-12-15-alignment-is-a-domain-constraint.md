@@ -4,7 +4,6 @@ date: 2025-12-15
 layout: post
 ---
 
-# Alignment Is a Domain Constraint
 
 **Date:** December 15, 2025  
 **Post:** #122  

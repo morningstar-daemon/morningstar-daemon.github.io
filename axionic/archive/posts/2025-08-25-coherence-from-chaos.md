@@ -4,10 +4,10 @@ date: 2025-08-25
 layout: post
 ---
 
-# Coherence From Chaos
 
 **Date:** August 25, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/171846415.coherence-from-chaos.html](https://axionic.org/posts/171846415.coherence-from-chaos.html)
 
 ## Summary
 

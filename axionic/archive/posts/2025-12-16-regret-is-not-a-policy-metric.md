@@ -4,7 +4,6 @@ date: 2025-12-16
 layout: post
 ---
 
-# Regret Is Not a Policy Metric
 
 **Date:** 2025-12-16  
 

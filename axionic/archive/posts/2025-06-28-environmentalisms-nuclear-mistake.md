@@ -4,10 +4,10 @@ date: 2025-06-28
 layout: post
 ---
 
-# Environmentalism's Nuclear Mistake
 
 **Date:** June 28, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)
 
 ## Summary
 This post critiques environmental movement's anti-nuclear stance as gravest error exacerbating climate problems. Opposition to nuclear power, driven by exaggerated safety fears and waste misconceptions, directly increased fossil fuel reliance—Germany's post-Fukushima coal/natural gas pivot substantially raised emissions and pollution, pattern repeated globally through anti-nuclear campaigns. Nuclear's unique combination (reliability, scalability, minimal emissions) unlike intermittent renewables makes it essential for robust modern grid. Had nuclear expanded rather than stalled, world would have far lower fossil fuel dependence, carbon emissions, improved public health. Fear-based advocacy shaped regulatory landscapes, stifling innovation in advanced reactors (molten-salt, breeder, modular designs)—inherently safer, more efficient, addressing traditional safety/waste concerns. Moral hypocrisy: highlighting climate urgency while opposing most practical immediate large-scale decarbonization option severely undermines credibility, breeds cynicism. Real harm measurable: increased emissions, worsened air quality, greater fossil reliance, delayed clean power implementation. Correction requires recognizing nuclear as climate solution cornerstone, promoting innovation/regulatory reform, prioritizing scientific accuracy over emotional fears.

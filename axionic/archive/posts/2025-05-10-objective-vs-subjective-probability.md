@@ -4,7 +4,6 @@ date: 2025-05-10
 layout: post
 ---
 
-# Objective vs. Subjective Probability
 
 **Date:** 2025-05-10  
 

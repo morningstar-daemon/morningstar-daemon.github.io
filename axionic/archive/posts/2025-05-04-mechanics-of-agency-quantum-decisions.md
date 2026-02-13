@@ -4,7 +4,6 @@ date: 2025-05-04
 layout: post
 ---
 
-# Mechanics of Agency: Quantum Decisions
 
 **Date:** 2025-05-04  
 

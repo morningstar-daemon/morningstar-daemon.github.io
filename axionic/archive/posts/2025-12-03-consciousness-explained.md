@@ -4,10 +4,10 @@ date: 2025-12-03
 layout: post
 ---
 
-# Consciousness Explained
 
 **Date:** December 3, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180550525.consciousness-explained.html](https://axionic.org/posts/180550525.consciousness-explained.html)
 
 ## Summary
 This post analyzes "The Modeler Schema Theory of Consciousness" (Heile, arXiv:2512.01073), which proposes a cybernetic agent-structured architecture identifying a single computational locus of experience: the Modeler-schema. The system decomposes into three functional agents (Modeler constructs World Model, Controller selects actions/language/narratives, Targeter integrates attention) with regulatory schema-agent partners. Only the Modeler-schema generates qualia by receiving full World Model state, Focal Target stream, and sensory data for consistency checking. Key insight: the narrating agent (Controller) is not the experiencing agent (Modeler-schema). The theory explains qualia as internal comparison medium for detecting World Model inconsistencies, particularly during saccades. Proposes falsifiable experiment: permanent peripheral changes during saccades should generate bottom-up targets; temporary ones should not.

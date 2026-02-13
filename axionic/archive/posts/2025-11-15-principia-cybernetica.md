@@ -4,7 +4,6 @@ date: 2025-11-15
 layout: post
 ---
 
-# Principia Cybernetica
 
 **Date:** November 15, 2025  
 **Series:** Intellectual History / Systems Philosophy  

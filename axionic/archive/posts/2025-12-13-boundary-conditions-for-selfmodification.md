@@ -4,7 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-# Boundary Conditions for Self-Modification
 
 **Date:** 2025-12-13  
 

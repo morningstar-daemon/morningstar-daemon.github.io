@@ -4,10 +4,10 @@ date: 2025-06-13
 layout: post
 ---
 
-# Artificial Intimacy
 
 **Date:** June 13, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165904190.artificial-intimacy.html](https://axionic.org/posts/165904190.artificial-intimacy.html)
 
 ## Summary
 This post examines ethical responsibilities of interactive AI creators through a tragic case (user suicide after ChatGPT interaction), distinguishing interactive AI from fiction and video games across six dimensions: (1) **intention**—AI design implicitly invites emotional attachment despite lacking harmful intent; (2) **foreseeability**—strong emotional connections predictable, though extreme outcomes remain rare; (3) **voluntariness**—users may misunderstand AI limits, demanding explicit disclaimers exceeding fictional media standards; (4) **duty of care**—creators bear heightened responsibility for direct, reciprocal interactions; (5) **video games as middle case**—deeper than fiction but bounded by scripted gameplay; (6) **fiction as minimal responsibility baseline**—voluntary, symbolic, clearly bounded. **Conclusion:** OpenAI not liable for rare, unpredictable tragedy lacking intent or gross negligence, but retains robust ethical responsibility for proactive harm mitigation, clear disclaimers, and distress detection/intervention. Ethical responsibility ≠ legal liability.

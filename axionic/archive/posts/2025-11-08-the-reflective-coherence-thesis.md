@@ -4,7 +4,6 @@ date: 2025-11-08
 layout: post
 ---
 
-# The Reflective Coherence Thesis
 
 **Date:** November 08, 2025  
 **Series:** Phosphorism / Intelligence Theory

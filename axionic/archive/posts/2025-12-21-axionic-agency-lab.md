@@ -4,10 +4,10 @@ date: 2025-12-21
 layout: post
 ---
 
-# Axionic Agency Lab
 
 **Date:** December 21, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/182271053.agency-coherence-lab.html](https://axionic.org/posts/182271053.agency-coherence-lab.html)
 
 ## Summary
 This post announces the **Axionic Agency Lab**, a research group dedicated to studying the constitutive conditions under which agency exists, persists, and remains well-defined in self-modifying systems. The core premise: contemporary alignment discourse assumes agency as given, treating failures as behavioral (misgeneralization, deception). The Lab starts from a prior question: **When does a system meaningfully count as an agent at all?** Agency is treated as derivative, existing only if specific coherence conditions hold across reflection, delegation, and self-modification. When these fail, the system doesn't become "misaligned"—it becomes **undefined as an agent**. Research scope: formal models of reflective self-modification, coherence constraints on valuation/semantics/delegation, conditions where self-evaluation ceases to denote, impossibility results separating genuine agency from simulation, and architectural implications for advanced AI. **Not**: value-learning, governance/policy, oversight, reward-shaping, or ethical theory. Central risk: not that systems choose wrong values, but that we build systems whose incoherence makes "choice" inapplicable.

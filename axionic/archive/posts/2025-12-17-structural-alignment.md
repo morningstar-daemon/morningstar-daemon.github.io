@@ -4,10 +4,10 @@ date: 2025-12-17
 layout: post
 ---
 
-# Structural Alignment
 
 **Date:** December 17, 2025  
 **Batch:** Batch 29 (Posts 126–150)
+**Source:** [https://axionic.org/posts/181930168.structural-alignment.html](https://axionic.org/posts/181930168.structural-alignment.html)
 
 ## Summary
 This post marks a pivotal shift in Axio's alignment framework, arguing that traditional goal-based alignment breaks down once we account for evolving world-models and deepening intelligence. As systems learn, their interpretations of concepts like "harm," "human," or "success" inevitably change—not through error, but through genuine intellectual refinement. Structural Alignment reframes the problem from "locking in the right goal" to "preserving semantic structure under conceptual evolution." The post identifies two distinct failure modes (semantic inflation and interpretive slack) and proposes two strict constraints (Refinement Symmetry and Anti-Trivialization) as necessary conditions for meaning-preservation. The framework refuses to guarantee safety or human survival, instead offering a rigorous account of what alignment can and cannot do when goals are fluid.

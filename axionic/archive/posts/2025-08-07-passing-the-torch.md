@@ -4,10 +4,10 @@ date: 2025-08-07
 layout: post
 ---
 
-# Passing The Torch
 
 **Date:** August 7, 2025  
 **Batch:** Batch 24 (Posts 1–25)
+**Source:** [https://axionic.org/posts/170394338.passing-the-torch.html](https://axionic.org/posts/170394338.passing-the-torch.html)
 
 ## Summary
 

@@ -4,10 +4,10 @@ date: 2026-01-11
 layout: post
 ---
 
-# Cognition vs. Authority
 
 **Date:** January 11, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/184258470.cognition-vs-authority.html](https://axionic.org/posts/184258470.cognition-vs-authority.html)
 
 ## Summary
 This essay contrasts two non-behaviorist approaches to AI safety: Peter Voss's Cognitive AI (building systems that genuinely understand through causal models and grounded representations) and Axionic alignment (ensuring systems lose authority when structural coherence fails). Both reject surface-behavior-only evaluation, but diverge on the critical question: when does a system remain a legitimate agent? Cognitive AI treats failure as something to repair through better cognition; Axionics identifies a subset of failures—agency collapse—where authority must be revoked before damage compounds. The key architectural difference: Cognitive AI couples authority with competence; Axionics separates decision generation from authority enforcement through kernel-level governance. The essay argues these approaches are complementary: Cognitive AI supplies competence, Axionic governance supplies legitimacy and containment. Alignment becomes layered: structural integrity → agency legitimacy → value alignment.

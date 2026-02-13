@@ -4,10 +4,10 @@ date: 2025-12-06
 layout: post
 ---
 
-# The Fork and the Merge
 
 **Date:** December 6, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180917415.the-fork-and-the-merge.html](https://axionic.org/posts/180917415.the-fork-and-the-merge.html)
 
 ## Summary
 This post argues Ethereum's abandonment of decentralization occurred through two steps: the DAO bailout (moral override) and the Merge to Proof-of-Stake (architectural capitulation). The DAO hard fork to reverse a $50M exploit established that protocol outcomes were negotiable and created a political override class, making immutability optional. The Merge sealed the failure by replacing thermodynamic objectivity (PoW's energy expenditure) with capital governance (PoS), introducing three structural problems: identity becomes gatekeeper (validators are legible/taxable/sanctionable), capital compounds into oligarchy (stake begets reward begets more stake), and consensus becomes permissioned club. The piece contends PoS inherently absorbs capital's constraints (regulation, taxation, sanctions, surveillance), making censorship-resistance probabilistic rather than absolute. Verdict: "Ethereum jumped the shark when it abandoned physics for finance."

@@ -4,7 +4,6 @@ date: 2025-05-22
 layout: post
 ---
 
-# Defending Bayes, Part 2
 
 **Date:** 2025-05-22  
 

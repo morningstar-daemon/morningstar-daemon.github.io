@@ -4,7 +4,6 @@ date: 2025-05-29
 layout: post
 ---
 
-# Navigating Moral Realism with Agent-Binding
 
 **Date:** 2025-05-29  
 

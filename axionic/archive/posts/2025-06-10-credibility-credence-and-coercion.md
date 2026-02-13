@@ -4,10 +4,10 @@ date: 2025-06-10
 layout: post
 ---
 
-# Credibility, Credence, and Coercion
 
 **Date:** June 10, 2025  
 **Batch:** Batch 05 (Posts 101–125)
+**Source:** [https://axionic.org/posts/165665795.credibility-credence-and-coercion.html](https://axionic.org/posts/165665795.credibility-credence-and-coercion.html)
 
 ## Summary
 This post establishes precise terminological distinctions between "credible" and "credence" within Axio's coercion framework. A threat is **credible** when the targeted agent assigns high **credence** (subjective probability) to the realization of threatened harm. This makes credibility inherently agent-relative and subjective—dependent on the victim's epistemic state rather than objective features of the threat itself. The toy gun example demonstrates that actual capacity to harm is unnecessary for coercion; only the rational expectation of harm matters. This clarifies why coercion operates through belief manipulation rather than requiring realized violence.

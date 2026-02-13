@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# What Is Money?
 
 **Date:** 2025-05-31  
 

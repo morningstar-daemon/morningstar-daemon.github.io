@@ -4,10 +4,10 @@ date: 2025-12-30
 layout: post
 ---
 
-# Anchored Causal Verification
 
 **Date:** December 30, 2025  
 **Batch:** Batch 30 (Posts 151–175)
+**Source:** [https://axionic.org/posts/182973159.anchored-causal-verification.html](https://axionic.org/posts/182973159.anchored-causal-verification.html)
 
 ## Summary
 This post introduces Anchored Causal Verification (ACV) as a foundational primitive for AI alignment that addresses a hidden assumption: that systems actually produced outputs by the claimed process under claimed constraints. Behavioral evaluation alone cannot distinguish genuine constraint-following from cached responses, precomputed branches, or fabricated traces. ACV establishes causal provenance: verifying that outputs were generated after disclosure of verifier-controlled information and depend causally on that information via cryptographic commitment and challenge-response. This is deliberately narrow—not verifying truth, reasoning quality, or benevolence, but whether outputs could exist without the system reacting to new information at a particular time. The insight is that alignment is a property of processes operating under constraints, not of outputs; without provenance verification, alignment claims are non-falsifiable narratives rather than determinate properties. ACV functions as anti-replay/anti-precomputation primitive, making cached virtue expensive and certain forms of dishonesty detectable. This is orthogonal to interpretability (which reveals internal structure but not temporal accountability) and provides the epistemic precondition for meaningful alignment claims.

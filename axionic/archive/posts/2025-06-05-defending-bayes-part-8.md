@@ -4,7 +4,6 @@ date: 2025-06-05
 layout: post
 ---
 
-# Defending Bayes, Part 8
 
 **Date:** 2025-06-05  
 **Series:** Defending Bayes (Part 8)

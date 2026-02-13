@@ -4,7 +4,6 @@ date: 2025-05-31
 layout: post
 ---
 
-# The Price Illusion
 
 **Date:** 2025-05-31  
 

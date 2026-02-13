@@ -4,7 +4,6 @@ date: 2025-05-04
 layout: post
 ---
 
-# The Mechanics of Agency
 
 **Date:** 2025-05-04  
 

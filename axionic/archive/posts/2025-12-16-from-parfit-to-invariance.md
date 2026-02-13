@@ -4,7 +4,6 @@ date: 2025-12-16
 layout: post
 ---
 
-# From Parfit to Invariance
 
 **Date:** 2025-12-16  
 

@@ -4,10 +4,10 @@ date: 2025-06-22
 layout: post
 ---
 
-# Ex Machina
 
 **Date:** June 22, 2025  
 **Batch:** Batch 06 (Posts 138–162)
+**Source:** [https://axionic.org/posts/166536003.ex-machina.html](https://axionic.org/posts/166536003.ex-machina.html)
 
 ## Summary
 

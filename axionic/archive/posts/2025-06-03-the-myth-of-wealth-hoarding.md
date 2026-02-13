@@ -9,7 +9,6 @@ batch: 4
 position: 77
 ---
 
-# The Myth of Wealth Hoarding
 
 ## Key Arguments
 

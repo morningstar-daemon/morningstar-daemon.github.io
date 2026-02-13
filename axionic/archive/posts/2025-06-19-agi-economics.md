@@ -4,10 +4,10 @@ date: 2025-06-19
 layout: post
 ---
 
-# AGI Economics
 
 **Date:** June 19, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166330539.agi-economics.html](https://axionic.org/posts/166330539.agi-economics.html)
 
 ## Summary
 

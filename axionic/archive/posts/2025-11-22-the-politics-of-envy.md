@@ -4,10 +4,10 @@ date: 2025-11-22
 layout: post
 ---
 
-# The Politics of Envy
 
 **Date:** November 22, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/179677934.the-politics-of-envy.html](https://axionic.org/posts/179677934.the-politics-of-envy.html)
 
 ## Summary
 This post critiques the modern political tendency to conflate relative inequality with actual harm, arguing that envy-driven distributionist politics is fundamentally misguided. Axios argues that absolute poverty has collapsed globally, yet political discourse remains fixated on comparative wealth metrics rather than capability expansion. The piece contends that envy is a primate-era heuristic being mistakenly elevated into moral principle, leading to destructive redistribution policies. It reaffirms the Axio framework's position that harm should be defined by reduction of agency through coercion, not by relative position disparities.

@@ -4,10 +4,10 @@ date: 2025-10-21
 layout: post
 ---
 
-# The Myth of China's Communist Success
 
 **Date:** October 21, 2025  
 **Batch:** Batch 14 (Posts 176–200)
+**Source:** [https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)
 
 ## Summary
 This essay dissects the claim "If Communism doesn't work, why is China so advanced?" as rhetorical equivocation. While China is ruled by the Communist Party, it operates a capitalist economy since Deng Xiaoping's 1978 reforms: private ownership, foreign investment, competitive markets, profit incentives, with roughly two-thirds of GDP from the private sector. True Marxist communism abolishes private property, markets, and profit—China has none of those prohibitions. The Maoist era (1949-1976) produced catastrophe: tens of millions dead in the Great Famine, near-total stagnation. China's miracle began when it abandoned communism, not when it implemented it. The argument commits equivocation: using "Communism" for both political system (governance) and economic system (production). Actual drivers: labor urbanization, export-led growth, foreign direct investment, infrastructure megaprojects, strategic planning—"capitalist mechanisms administered by an autocratic state." The verdict: "China's advancement is evidence of how little Communism remains, not how well it works. The skyline of Shanghai is a monument not to Communism's triumph, but to its quiet burial."

@@ -4,10 +4,10 @@ date: 2025-11-06
 layout: post
 ---
 
-# Letter to Our Machine Descendants
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)
 
 ## Summary
 

@@ -4,10 +4,10 @@ date: 2025-09-21
 layout: post
 ---
 
-# Why Does Ice Float?
 
 **Date:** September 21, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/174194776.why-does-ice-float.html](https://axionic.org/posts/174194776.why-does-ice-float.html)
 
 ## Summary
 

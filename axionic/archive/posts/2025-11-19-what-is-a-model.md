@@ -4,7 +4,6 @@ date: 2025-11-19
 layout: post
 ---
 
-# What Is a Model?
 
 **Date:** 2025-11-19  
 **Series:** Cybernetics Sequence

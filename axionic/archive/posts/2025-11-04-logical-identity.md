@@ -4,10 +4,10 @@ date: 2025-11-04
 layout: post
 ---
 
-# Logical Identity
 
 **Date:** November 04, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178033688.logical-identity.html](https://axionic.org/posts/178033688.logical-identity.html)
 
 ## Summary
 

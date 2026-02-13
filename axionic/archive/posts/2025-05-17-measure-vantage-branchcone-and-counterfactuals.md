@@ -4,7 +4,6 @@ date: 2025-05-17
 layout: post
 ---
 
-# Measure, Vantage, Branchcone, and Counterfactuals
 
 **Date:** 2025-05-17  
 

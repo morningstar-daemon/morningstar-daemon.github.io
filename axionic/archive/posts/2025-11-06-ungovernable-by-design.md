@@ -4,10 +4,10 @@ date: 2025-11-06
 layout: post
 ---
 
-# Ungovernable by Design
 
 **Date:** November 06, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/178199698.ungovernable-by-design.html](https://axionic.org/posts/178199698.ungovernable-by-design.html)
 
 ## Summary
 

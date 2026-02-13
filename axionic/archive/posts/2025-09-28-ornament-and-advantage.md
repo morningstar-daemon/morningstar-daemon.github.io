@@ -4,10 +4,10 @@ date: 2025-09-28
 layout: post
 ---
 
-# Ornament and Advantage
 
 **Date:** September 28, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/174783426.ornament-and-advantage.html](https://axionic.org/posts/174783426.ornament-and-advantage.html)
 
 ## Summary
 

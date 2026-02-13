@@ -4,10 +4,10 @@ date: 2025-10-01
 layout: post
 ---
 
-# Anarchy and Order
 
 **Date:** October 1, 2025  
 **Batch:** Batch 13 (Posts 151–175)
+**Source:** [https://axionic.org/posts/174977942.anarchy-and-order.html](https://axionic.org/posts/174977942.anarchy-and-order.html)
 
 ## Summary
 

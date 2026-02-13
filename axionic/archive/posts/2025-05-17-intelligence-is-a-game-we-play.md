@@ -4,7 +4,6 @@ date: 2025-05-17
 layout: post
 ---
 
-# Intelligence is a Game We Play
 
 **Date:** 2025-05-17  
 

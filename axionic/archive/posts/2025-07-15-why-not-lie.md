@@ -4,10 +4,10 @@ date: 2025-07-15
 layout: post
 ---
 
-# Why Not Lie?
 
 **Date:** July 15, 2025  
 **Batch:** Batch 21 (Posts 1-25 from remaining list)
+**Source:** [https://axionic.org/posts/168391300.why-not-lie.html](https://axionic.org/posts/168391300.why-not-lie.html)
 
 ## Summary
 [NOTE: Summary incomplete - requires full content fetch and 4-6KB comprehensive analysis. Post addresses rational basis for honesty in godless universe, likely exploring pragmatic, consequentialist, or agency-based arguments for truth-telling without appeal to divine command or absolute moral laws.]

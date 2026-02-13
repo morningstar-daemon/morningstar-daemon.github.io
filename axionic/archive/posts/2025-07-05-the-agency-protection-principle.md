@@ -4,10 +4,10 @@ date: 2025-07-05
 layout: post
 ---
 
-# The Agency Protection Principle
 
 **Date:** July 05, 2025  
 **Batch:** Batch 18 (Posts 1–25 of remaining 222)
+**Source:** [https://axionic.org/posts/167587968.the-agency-protection-principle.html](https://axionic.org/posts/167587968.the-agency-protection-principle.html)
 
 ## Summary
 This essay proposes a refined ethical principle improving upon libertarianism's traditional Non-Aggression Principle (NAP) by explicitly grounding coercion's legitimacy in the protection and restoration of voluntary agency. The **Agency Protection Principle:** *Coercion is justified if, and only if, it prevents or remedies violations of voluntary agency.* This formulation addresses the NAP's significant limitations while maintaining libertarianism's best moral intuitions with greater conceptual clarity and ethical applicability.

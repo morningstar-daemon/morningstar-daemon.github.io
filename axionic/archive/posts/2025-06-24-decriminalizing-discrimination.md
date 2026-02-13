@@ -4,10 +4,10 @@ date: 2025-06-24
 layout: post
 ---
 
-# Decriminalizing Discrimination
 
 **Date:** June 24, 2025  
 **Batch:** Batch 07 (Posts 1–25)
+**Source:** [https://axionic.org/posts/166743482.decriminalizing-discrimination.html](https://axionic.org/posts/166743482.decriminalizing-discrimination.html)
 
 ## Summary
 This post argues for decriminalizing discrimination by distinguishing discrimination-as-distinction (essential to rational choice) from discrimination-as-bigotry (morally objectionable but not coercive harm). Building on precise definitions of harm (reduction in voluntary agency capacity) and coercion (credible threat of harm to gain compliance), Axio contends that unjustified discrimination in employment, private clubs, or social contexts doesn't constitute coercive harm because no entitlement exists to others' association. Anti-discrimination laws therefore violate freedom of association, using coercion to compel association—itself constituting actual harm by restricting voluntary agency. The post endorses non-coercive approaches to discourage bigotry: social ostracism, reputation systems, consumer choice, education, and institutional innovation demonstrating merit-based superiority. This parallels opposition to adultery laws: condemning behavior morally while rejecting coercive legal prohibition. Discrimination-as-choice is morally neutral; only coercive interference with voluntary association violates fundamental ethical principles.

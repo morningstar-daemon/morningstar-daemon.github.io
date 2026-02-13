@@ -4,7 +4,6 @@ date: 2025-05-27
 layout: post
 ---
 
-# Do Ideas Move Atoms?
 
 **Date:** 2025-05-27  
 

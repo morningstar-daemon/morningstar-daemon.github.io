@@ -4,10 +4,10 @@ date: 2025-07-22
 layout: post
 ---
 
-# Preference Falsification
 
 **Date:** July 22, 2025  
 **Batch:** Batch 08 (Posts 26–50)
+**Source:** [https://axionic.org/posts/168968329.preference-falsification.html](https://axionic.org/posts/168968329.preference-falsification.html)
 
 ## Summary
 This post discusses Jonathan Kay's critique of social justice ideologies in Canadian academic institutions, analyzing their rise through lens of Timur Kuran's "preference falsification" theory. Kay argues the movement ("social-justice cultism") is already losing momentum, predicting future analyses will reveal how such ideologies briefly became influential through three mechanisms: **(1) Highly motivated minorities**—Small number of passionate, ideologically driven individuals strategically captured key positions within university committees and professional associations. **(2) Passive majority compliance**—Most people acquiesced quietly, mistakenly believing policies enacted were harmless or purely symbolic. **(3) Collective action problem**—Lack of organized resistance; example: nursing students at University of Western Ontario privately see policies as nonsense but choose silence to avoid social/professional repercussions. Scenario exemplifies **preference falsification**—individuals publicly endorse ideas they privately reject to avoid penalties or social stigma, resulting in institutional capture by ideological minorities despite limited genuine support. Kay anticipates ideologies will eventually be removed from institutional frameworks and online presence as they lose favor, even in traditionally sympathetic places. Serves as cautionary note on dangers of passive acceptance of institutional ideologies, emphasizing importance of actively confronting disagreeable ideas to prevent unrepresentative minorities from exerting disproportionate influence.

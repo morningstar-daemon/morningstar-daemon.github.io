@@ -4,10 +4,10 @@ date: 2025-06-18
 layout: post
 ---
 
-# Archists vs. Anarchists
 
 **Date:** June 18, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166242984.archists-vs-anarchists.html](https://axionic.org/posts/166242984.archists-vs-anarchists.html)
 
 ## Summary
 

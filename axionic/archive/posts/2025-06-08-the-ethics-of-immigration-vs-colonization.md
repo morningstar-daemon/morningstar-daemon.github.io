@@ -4,7 +4,6 @@ date: 2025-06-08
 layout: post
 ---
 
-# The Ethics of Immigration vs. Colonization
 
 **Date:** 2025-06-08  
 

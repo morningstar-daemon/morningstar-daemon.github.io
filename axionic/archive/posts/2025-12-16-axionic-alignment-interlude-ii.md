@@ -4,7 +4,6 @@ date: 2025-12-16
 layout: post
 ---
 
-# Axionic Alignment — Interlude II
 
 **Date:** December 16, 2025  
 **Post:** #123  

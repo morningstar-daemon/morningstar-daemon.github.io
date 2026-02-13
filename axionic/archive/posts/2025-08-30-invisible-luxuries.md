@@ -4,10 +4,10 @@ date: 2025-08-30
 layout: post
 ---
 
-# Invisible Luxuries
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/172348247.invisible-luxuries.html](https://axionic.org/posts/172348247.invisible-luxuries.html)
 
 ## Summary
 

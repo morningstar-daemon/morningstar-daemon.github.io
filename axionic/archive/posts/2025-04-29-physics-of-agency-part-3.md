@@ -4,7 +4,6 @@ date: 2025-04-29
 layout: post
 ---
 
-# The Physics of Agency, Part 3: The Kybit
 
 **Date:** April 29, 2025  
 

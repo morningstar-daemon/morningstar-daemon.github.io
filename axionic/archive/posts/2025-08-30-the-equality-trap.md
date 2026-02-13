@@ -4,10 +4,10 @@ date: 2025-08-30
 layout: post
 ---
 
-# The Equality Trap
 
 **Date:** August 30, 2025  
 **Batch:** Batch 11 (Posts 101–125)
+**Source:** [https://axionic.org/posts/172367780.the-equality-trap.html](https://axionic.org/posts/172367780.the-equality-trap.html)
 
 ## Summary
 

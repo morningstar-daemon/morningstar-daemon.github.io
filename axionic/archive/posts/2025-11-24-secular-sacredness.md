@@ -4,10 +4,10 @@ date: 2025-11-24
 layout: post
 ---
 
-# Secular Sacredness
 
 **Date:** November 24, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/179826744.secular-sacredness.html](https://axionic.org/posts/179826744.secular-sacredness.html)
 
 ## Summary
 This post argues that secular people have not abandoned sacredness but merely changed its content, examining three complementary secular accounts of the sacred. Robin Hanson's sociological view treats sacredness as coalition glue—deliberately vague values that bind groups and suppress internal conflict. David Chapman's phenomenological approach frames sacredness as an interactive mode of perception and engagement requiring no metaphysical scaffolding. Axio's structural account defines sacredness as whatever occupies the apex position in a value hierarchy, the principle that arbitrates all conflicts. The piece concludes that understanding secular sacredness is "intellectual hygiene" necessary for recognizing what actually governs your choices and alliances.

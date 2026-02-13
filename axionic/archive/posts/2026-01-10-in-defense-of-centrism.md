@@ -4,10 +4,10 @@ date: 2026-01-10
 layout: post
 ---
 
-# In Defense of Centrism
 
 **Date:** January 10, 2026  
 **Batch:** Batch 31 (Posts 176–195)
+**Source:** [https://axionic.org/posts/184137688.in-defense-of-centrism.html](https://axionic.org/posts/184137688.in-defense-of-centrism.html)
 
 ## Summary
 This essay defends centrism not as aesthetic moderation or political compromise, but as a rigorous governance discipline shaped by complexity, uncertainty, and irreversibility. Axios argues that political extremes share a fatal structural error: they frame politics as moral warfare where victory equals progress and opposition equals evil. Centrism instead treats society as an evolving ecology of agents with incomplete information, where moral clarity often amplifies error. The essay establishes variance tolerance as central—distinguishing voluntary variance (emergent from agency) from coerced variance (produced by suppression). Centrism tolerates the former while targeting the latter. The piece acknowledges that metastable evils (feudalism, apartheid) require decisive rupture, but evaluates disruption by whether it expands or destroys agency. Centrism emerges as selective decisiveness under constraint, not passivity.

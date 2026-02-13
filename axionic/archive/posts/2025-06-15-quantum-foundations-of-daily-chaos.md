@@ -4,10 +4,10 @@ date: 2025-06-15
 layout: post
 ---
 
-# Quantum Foundations of Daily Chaos
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)
 
 ## Summary
 

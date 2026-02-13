@@ -4,10 +4,10 @@ date: 2025-06-15
 layout: post
 ---
 
-# True Neutral
 
 **Date:** June 15, 2025  
 **Batch:** Batch 05 (Posts 113–137)
+**Source:** [https://axionic.org/posts/166022218.true-neutral.html](https://axionic.org/posts/166022218.true-neutral.html)
 
 ## Summary
 

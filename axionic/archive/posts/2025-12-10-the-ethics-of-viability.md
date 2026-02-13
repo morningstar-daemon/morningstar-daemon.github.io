@@ -4,7 +4,6 @@ date: 2025-12-10
 layout: post
 ---
 
-# The Ethics of Viability
 
 **Date:** December 10, 2025  
 **Post:** #105  

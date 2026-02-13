@@ -4,7 +4,6 @@ date: 2025-06-07
 layout: post
 ---
 
-# Communism at Home
 
 **Date:** 2025-06-07  
 

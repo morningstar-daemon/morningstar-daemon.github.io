@@ -4,10 +4,10 @@ date: 2025-12-02
 layout: post
 ---
 
-# The Axiocracy Sequence
 
 **Date:** December 2, 2025  
 **Batch:** Batch 27 (Posts 076–100)
+**Source:** [https://axionic.org/posts/180457610.the-axiocracy-sequence.html](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)
 
 ## Summary
 This comprehensive index cataloging the Axiocracy sequence—Axio's political framework where "coherent agency, rather than authority or collective sentiment, becomes the organizing principle of governance." The 50+ post sequence integrates Axio's formal definitions of coercion, rights, harm, consent, and economic incentives into a unified political architecture. Organized into four major parts: (I) Coercion Theory (10 posts formally analyzing threats, force, agency-reduction), (II) Rights & Libertarian Structures (12 posts treating rights as protocol boundaries, not metaphysics), (III) Economics & Policy (14 posts on markets as distributed agency-preservation systems), and (IV) Civilization & Coordination (10+ posts on civilizational dynamics under agency-first principles). The framework aims to show "how coercive political structures collapse, how voluntary systems scale, and how civilizations evolve under agency-first dynamics."

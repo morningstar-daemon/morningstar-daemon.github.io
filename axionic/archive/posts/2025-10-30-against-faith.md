@@ -4,10 +4,10 @@ date: 2025-10-30
 layout: post
 ---
 
-# Against Faith
 
 **Date:** October 30, 2025  
 **Batch:** Batch 02 (Posts 026–050)
+**Source:** [https://axionic.org/posts/177598036.against-faith.html](https://axionic.org/posts/177598036.against-faith.html)
 
 ## Summary
 

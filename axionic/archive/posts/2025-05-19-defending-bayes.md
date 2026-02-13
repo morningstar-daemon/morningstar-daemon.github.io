@@ -4,7 +4,6 @@ date: 2025-05-19
 layout: post
 ---
 
-# Defending Bayes
 
 **Date:** 2025-05-19  
 
