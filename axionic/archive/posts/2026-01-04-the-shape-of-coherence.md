@@ -2,9 +2,8 @@
 title: "The Shape of Coherence"
 date: 2026-01-04
 layout: post
+source: https://axionic.org/posts/183495093.the-shape-of-coherence.html
 ---
-
-**Source:** [https://axionic.org/posts/183495093.the-shape-of-coherence.html](https://axionic.org/posts/183495093.the-shape-of-coherence.html)
 
 ## Summary
 This post refines Axio's understanding of coherence from logical consistency to identity preservation across transformation. Early Axio elevated coherence (logical consistency) as indispensable; Chaos Sequence forced deeper analysis: before beliefs can be consistent, patterns must persist long enough to be interpreted. In algorithmic information theory's Chaos—where almost all descriptions are incompressible noise—consistency is cheap (randomness doesn't contradict itself) but patterns fail to survive transformation. Axio now defines coherence pre-semantically: property of patterns admitting stable identity preservation across transformation via non-degenerate mappings. This applies to physical attractors, organisms, algorithms, institutions, agents—not just beliefs. Most of Chaos is pre-coherent, disappearing before qualifying for filtering. Logical consistency is coherence applied to inferential transformations specifically—identity preservation under reasoning. This clarifies why agents tolerate local inconsistency without collapse (belief revision, scientific progress preserve global identity) and why vacuous consistency preserves nothing. Epistemic coherence is specialization not foundation. Stack: Chaos supplies possibility → coherence selects identity-preserving patterns → constructors enact repeatable transformations → agency adds choice → epistemics adds interpretation → logic enforces coherence at inferential level.

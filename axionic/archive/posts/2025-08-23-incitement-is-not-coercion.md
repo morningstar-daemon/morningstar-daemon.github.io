@@ -2,9 +2,8 @@
 title: "Incitement Is Not Coercion"
 date: 2025-08-23
 layout: post
+source: https://axionic.org/posts/171703023.incitement-is-not-coercion.html
 ---
-
-**Source:** [https://axionic.org/posts/171703023.incitement-is-not-coercion.html](https://axionic.org/posts/171703023.incitement-is-not-coercion.html)
 
 ## Summary
 

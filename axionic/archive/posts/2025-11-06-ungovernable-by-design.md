@@ -2,9 +2,8 @@
 title: "Ungovernable by Design"
 date: 2025-11-06
 layout: post
+source: https://axionic.org/posts/178199698.ungovernable-by-design.html
 ---
-
-**Source:** [https://axionic.org/posts/178199698.ungovernable-by-design.html](https://axionic.org/posts/178199698.ungovernable-by-design.html)
 
 ## Summary
 

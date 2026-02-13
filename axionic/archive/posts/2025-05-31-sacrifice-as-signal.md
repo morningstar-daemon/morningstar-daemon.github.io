@@ -2,9 +2,8 @@
 title: "Sacrifice as Signal"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164851202.sacrifice-as-signal.html
 ---
-
-**Source:** [https://axionic.org/posts/164851202.sacrifice-as-signal.html](https://axionic.org/posts/164851202.sacrifice-as-signal.html)
 
 ## Summary
 

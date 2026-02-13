@@ -2,9 +2,8 @@
 title: "Do Ideas Move Atoms?"
 date: 2025-05-27
 layout: post
+source: https://axionic.org/posts/164572808.do-ideas-move-atoms.html
 ---
-
-**Source:** [https://axionic.org/posts/164572808.do-ideas-move-atoms.html](https://axionic.org/posts/164572808.do-ideas-move-atoms.html)
 
 ## Summary
 

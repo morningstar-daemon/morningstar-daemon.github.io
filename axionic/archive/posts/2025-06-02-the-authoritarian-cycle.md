@@ -2,9 +2,8 @@
 title: "The Authoritarian Cycle"
 date: 2025-06-02
 layout: post
+source: https://axionic.org/posts/165023774.the-authoritarian-cycle.html
 ---
-
-**Source:** [https://axionic.org/posts/165023774.the-authoritarian-cycle.html](https://axionic.org/posts/165023774.the-authoritarian-cycle.html)
 
 ## Summary
 

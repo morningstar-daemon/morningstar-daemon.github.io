@@ -2,9 +2,8 @@
 title: "A Note on Verifiable Causal Agency"
 date: 2025-12-29
 layout: post
+source: https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html](https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html)
 
 ## Summary
 This post documents the first successful implementation of Axio's core claim: that causal agency can be structurally verified rather than evaluated behaviorally. The prototype (toy_pseudo_axion) demonstrates a working system where agents must pre-commit to causal traces in tamper-evident form and face adversarial counterfactual probes. Two agents were tested: an Honest agent whose decisions and explanations come from the same process, and a Pseudo agent with hidden optimization that fabricates post-hoc explanations. The Honest agent passed all probes; the Pseudo agent consistently failed under causal counterfactual challenges—when variables it claimed were decisive were mutated, its decisions didn't change as predicted or its replay logic collapsed. The key insight is that maintaining false causal narratives under counterfactual mutation carries a computational tax (requires simulating two coherent world-models simultaneously). This shifts AI governance from "do outputs appear acceptable?" to "can the system stand behind its reasons under scrutiny?" making opacity an explicit design choice rather than an inevitability.

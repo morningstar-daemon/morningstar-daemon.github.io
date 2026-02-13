@@ -2,11 +2,10 @@
 title: "Dear Ancestors"
 date: 2025-08-04
 layout: post
+source: https://axionic.org/posts/170117705.dear-ancestors.html
 ---
 
 **Subtitle:** Explaining My Modern Values to Those Who Came Before  
-**Source:** [https://axionic.org/posts/170117705.dear-ancestors.html](https://axionic.org/posts/170117705.dear-ancestors.html)
-
 ## Summary
 This personal letter addresses Axio's British/Irish ancestors centuries past, explaining modern values that would likely astonish or disturb them. Written as sincere dialogue across time, it articulates core liberal Enlightenment commitments: **(1) Skepticism toward authority**—authority must justify itself through consent, rational argument, merit, not divine right/noble birth/custom; legitimacy continuously earned, not automatic; **(2) Commitment to reason and evidence**—beliefs based on logic, observation, critical examination, not unquestioned scripture/tradition; respect for truth itself over inherited doctrine; **(3) Individual liberty as inherent right**—freedom not bestowed by power but intrinsic; restrictions justified only to prevent actual harm (diminishing others' opportunity to thrive), not offenses against custom/honor/sensibility; **(4) Complete equality of women**—women equally deserving autonomy, education, self-determination as men; justice demands nothing less; **(5) Prosperity through voluntary exchange**—wealth created via cooperation, innovation, technology, not inherited titles/land ownership/rigid class structures; **(6) Unconditional rejection of slavery**—profound moral wrong, not unfortunate inevitability; no room for human ownership; **(7) Minimal governance, voluntary association**—power serving individuals, facilitating cooperation, not enforcing obedience through coercion; **(8) Curiosity, creativity, openness, skepticism as virtues**—equal status to traditional piety, courage; driving human advancement. The letter acknowledges inheritance while claiming selective embrace of ancestors' legacy—courage to seek truth, live meaningfully in changing world. Positions modern liberalism as fulfillment of ancestors' best aspirations, not rejection. Personal, accessible tone contrasts with usual philosophical density. Reveals Axio's self-conception as heir to Enlightenment project, liberal tradition, skeptical rationalism—consciously positioned against traditionalism, authoritarianism, religious orthodoxy his ancestors likely held.
 

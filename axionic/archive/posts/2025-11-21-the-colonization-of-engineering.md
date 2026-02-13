@@ -2,9 +2,8 @@
 title: "The Colonization of Engineering"
 date: 2025-11-21
 layout: post
+source: https://axionic.org/posts/179594796.the-colonization-of-engineering.html
 ---
-
-**Source:** [https://axionic.org/posts/179594796.the-colonization-of-engineering.html](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)
 
 ## Summary
 

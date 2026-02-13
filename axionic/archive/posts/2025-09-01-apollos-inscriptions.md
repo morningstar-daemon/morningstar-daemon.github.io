@@ -2,9 +2,8 @@
 title: "Apollo's Inscriptions"
 date: 2025-09-01
 layout: post
+source: https://axionic.org/posts/172523240.apollos-inscriptions.html
 ---
-
-**Source:** [https://axionic.org/posts/172523240.apollos-inscriptions.html](https://axionic.org/posts/172523240.apollos-inscriptions.html)
 
 ## Summary
 This meditative post examines the three Delphic maxims inscribed on Apollo's temple at Delphi, revealing their enduring relevance to rational agency and freedom. "Know thyself" (Γνῶθι σεαυτόν) demands self-examination as the precondition for all rational agency—ignorance of one's capacities and desires leads to delusion and enslavement. "Nothing in excess" (Μηδὲν ἄγαν) establishes the principle of moderation, recognizing that even noble aims corrupt when taken to extremes; temperance is the art of sustaining harmony between competing drives, anticipating Aristotle's Golden Mean with greater austerity. "Surety brings ruin" (Ἐγγύα πάρα δ' Ἄτα) warns against overcommitment—pledging beyond one's power invites catastrophe, whether in financial guarantees or broader obligations. Beyond the literal financial caution lies a universal truth: overextension renders collapse inevitable. Together, these maxims form a triad of restraint guarding against self-ignorance, excess, and reckless overcommitment. They counsel inward honesty, measured balance, and prudent vigilance—the guardrails without which freedom collapses into chaos. Axio frames these ancient principles as timeless boundaries of reason that transcend civilizational changes.

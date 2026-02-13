@@ -2,9 +2,8 @@
 title: "Resolving the Paradox of Tolerance"
 date: 2025-06-12
 layout: post
+source: https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html
 ---
-
-**Source:** [https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html](https://axionic.org/posts/165751396.resolving-the-paradox-of-tolerance.html)
 
 ## Summary
 This post resolves Popper's paradox of tolerance (unlimited tolerance leads to tolerance's destruction) through Conditionalist principles: tolerance is conditional, bounded precisely by conditions necessary for voluntary cooperation and coercion minimization. The resolution: **tolerate all non-coercive speech** (regardless of offense) but **never tolerate coercive harm** (credible threats diminishing others' agency). Four hard cases demonstrate application: (1) explicit incitement to violence—intolerable (directly threatens agency); (2) harsh ideological criticism—fully tolerable (mere offense insufficient); (3) persistent defamation—generally tolerable unless causally linked to measurable coercive outcomes; (4) doxxing—intolerable (predictably increases third-party coercion probability despite indirect mechanism). The criterion is elegant: tolerance extends fully to any speech unless it explicitly or predictably provokes coercion.

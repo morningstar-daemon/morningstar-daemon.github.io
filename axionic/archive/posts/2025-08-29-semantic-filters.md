@@ -2,9 +2,8 @@
 title: "Semantic Filters"
 date: 2025-08-29
 layout: post
+source: https://axionic.org/posts/172302569.semantic-filters.html
 ---
-
-**Source:** [https://axionic.org/posts/172302569.semantic-filters.html](https://axionic.org/posts/172302569.semantic-filters.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Hedgefox"
 date: 2025-07-06
 layout: post
+source: https://axionic.org/posts/167664022.the-hedgefox.html
 ---
-
-**Source:** [https://axionic.org/posts/167664022.the-hedgefox.html](https://axionic.org/posts/167664022.the-hedgefox.html)
 
 ## Summary
 

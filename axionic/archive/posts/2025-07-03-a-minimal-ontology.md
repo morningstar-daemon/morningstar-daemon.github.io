@@ -2,9 +2,8 @@
 title: "A Minimal Ontology"
 date: 2025-07-03
 layout: post
+source: https://axionic.org/posts/167444843.a-minimal-ontology.html
 ---
-
-**Source:** [https://axionic.org/posts/167444843.a-minimal-ontology.html](https://axionic.org/posts/167444843.a-minimal-ontology.html)
 
 ## Summary
 

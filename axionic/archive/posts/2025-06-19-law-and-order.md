@@ -2,9 +2,8 @@
 title: "Law and Order"
 date: 2025-06-19
 layout: post
+source: https://axionic.org/posts/166356539.law-and-order.html
 ---
-
-**Source:** [https://axionic.org/posts/166356539.law-and-order.html](https://axionic.org/posts/166356539.law-and-order.html)
 
 ## Summary
 

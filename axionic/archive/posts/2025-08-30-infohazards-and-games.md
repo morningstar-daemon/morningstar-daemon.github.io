@@ -2,9 +2,8 @@
 title: "Infohazards and Games"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172362753.infohazards-and-games.html
 ---
-
-**Source:** [https://axionic.org/posts/172362753.infohazards-and-games.html](https://axionic.org/posts/172362753.infohazards-and-games.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "What Counts as Evil"
 date: 2025-06-26
 layout: post
+source: https://axionic.org/posts/166913167.what-counts-as-evil.html
 ---
-
-**Source:** [https://axionic.org/posts/166913167.what-counts-as-evil.html](https://axionic.org/posts/166913167.what-counts-as-evil.html)
 
 ## Summary
 This post defines evil formally as "intentional harm caused by an agent," building on precise technical definition of harm (measurable reduction of voluntary agency capacity). Evil necessarily involves two components: agency (capability of intention) and intention (deliberate aim to diminish another's agency). The post distinguishes "dangerous" (potential/likelihood of harm regardless of intent—natural disasters, accidents, unintended consequences) from "evil" (requiring purposeful malicious intention). Critically, intentionality is the differentiator. An agent can be evil without being dangerous (harboring malicious intent but lacking capability to execute), and dangerous without being evil (capable of harm but without malicious intent). The post introduces "menace" to identify agents combining evil intention with dangerous capability—those deliberately malicious and sufficiently capable to pose genuine credible threat. This taxonomy clarifies moral responsibility, improves risk assessment, and enables more effective ethical discourse around harm, intent, agency, and coercion.

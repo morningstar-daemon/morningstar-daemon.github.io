@@ -2,9 +2,8 @@
 title: "Singularities in Thought Space"
 date: 2025-08-08
 layout: post
+source: https://axionic.org/posts/170492163.singularities-in-thought-space.html
 ---
-
-**Source:** [https://axionic.org/posts/170492163.singularities-in-thought-space.html](https://axionic.org/posts/170492163.singularities-in-thought-space.html)
 
 ## Summary
 

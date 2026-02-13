@@ -2,9 +2,8 @@
 title: "The Death of the Turing Test"
 date: 2025-10-19
 layout: post
+source: https://axionic.org/posts/176577621.the-death-of-the-turing-test.html
 ---
-
-**Source:** [https://axionic.org/posts/176577621.the-death-of-the-turing-test.html](https://axionic.org/posts/176577621.the-death-of-the-turing-test.html)
 
 ## Summary
 This essay chronicles the Loebner Prize's quiet end in 2019—"just before the explosion of transformer-based language models that would have rendered it obsolete overnight." For three decades (1990-2019), the contest measured imitation, not intelligence, with rule-based chatbots (A.L.I.C.E., Rose, Mitsuku) using pattern-matching and canned humor. The framework "froze progress in amber: five-minute text exchanges, no external knowledge, judges primed to be deceived." GPT-2 (2019) and GPT-3 (2020) transformed the paradigm—these systems didn't simulate conversation, they "built internal probabilistic models of syntax, semantics, and even intention." They didn't need to fool anyone; they openly acknowledged artificiality while writing essays, coding, and debating philosophy. The essay identifies a "paradigm inversion": the test assumed human-likeness measured intelligence; LLMs revealed intelligence doesn't require human-likeness. The new criteria: useful, coherent, aligned, truthful—not "can it pretend to be a person." The prize "wasn't defeated by a better chatbot; it was erased by a paradigm that made chatbots irrelevant."

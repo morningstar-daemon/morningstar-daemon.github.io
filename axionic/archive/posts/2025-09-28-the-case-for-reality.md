@@ -2,9 +2,8 @@
 title: "The Case for Reality"
 date: 2025-09-28
 layout: post
+source: https://axionic.org/posts/174785128.the-case-for-reality.html
 ---
-
-**Source:** [https://axionic.org/posts/174785128.the-case-for-reality.html](https://axionic.org/posts/174785128.the-case-for-reality.html)
 
 ## Summary
 

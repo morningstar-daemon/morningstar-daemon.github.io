@@ -2,9 +2,8 @@
 title: "Beyond Clown World"
 date: 2025-08-28
 layout: post
+source: https://axionic.org/posts/172141003.beyond-clown-world.html
 ---
-
-**Source:** [https://axionic.org/posts/172141003.beyond-clown-world.html](https://axionic.org/posts/172141003.beyond-clown-world.html)
 
 ## Summary
 

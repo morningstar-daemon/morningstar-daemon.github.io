@@ -2,9 +2,8 @@
 title: "The Pathologies of Misaligned Incentives"
 date: 2025-11-28
 layout: post
+source: https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html
 ---
-
-**Source:** [https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html](https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html)
 
 ## Summary
 This post analyzes how incentive misalignment produces systemic pathologies when strategies that win lower-level games degrade coherence at higher levels. Axios defines misalignment formally: "when actions that optimize performance at level L degrade coherence, stability, or persistence at level L+1." The piece identifies five major forms: local vs. global (departments optimize publication counts, replication collapses), short vs. long-term (dense immediate feedback dominates sparse future benefits), signaling vs. substance (appearance eclipses reality), coalition vs. truth (alliance-securing beliefs defeat reality-tracking), and survival vs. stated-purpose (institutional self-preservation supersedes mission). These misalignments propagate through cascades (downward/upward), lock-ins (anti-corrective systems), and runaway dynamics (metrics become meaningless targets). The ultimate framing: misaligned systems are patterns losing the persistence game by burning coherence for short-term advantage.

@@ -2,9 +2,8 @@
 title: "The Three Thermodynamic Laws of Agency"
 date: 2025-05-11
 layout: post
+source: https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html](https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html)
 
 ## Summary
 

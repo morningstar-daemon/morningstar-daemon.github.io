@@ -2,9 +2,8 @@
 title: "Truth as a Function of Binding"
 date: 2025-11-06
 layout: post
+source: https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html
 ---
-
-**Source:** [https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html](https://axionic.org/posts/178181286.truth-as-a-function-of-binding.html)
 
 ## Summary
 

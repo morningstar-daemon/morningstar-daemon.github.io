@@ -2,9 +2,8 @@
 title: "Invisible Luxuries"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172348247.invisible-luxuries.html
 ---
-
-**Source:** [https://axionic.org/posts/172348247.invisible-luxuries.html](https://axionic.org/posts/172348247.invisible-luxuries.html)
 
 ## Summary
 

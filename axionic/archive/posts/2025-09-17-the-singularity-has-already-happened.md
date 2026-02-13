@@ -2,9 +2,8 @@
 title: "The Singularity Has Already Happened"
 date: 2025-09-17
 layout: post
+source: https://axionic.org/posts/173886472.the-singularity-has-already-happened.html
 ---
-
-**Source:** [https://axionic.org/posts/173886472.the-singularity-has-already-happened.html](https://axionic.org/posts/173886472.the-singularity-has-already-happened.html)
 
 ## Summary
 

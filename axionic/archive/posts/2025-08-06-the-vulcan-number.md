@@ -2,9 +2,8 @@
 title: "The Vulcan Number"
 date: 2025-08-06
 layout: post
+source: https://axionic.org/posts/170284204.the-vulcan-number.html
 ---
-
-**Source:** [https://axionic.org/posts/170284204.the-vulcan-number.html](https://axionic.org/posts/170284204.the-vulcan-number.html)
 
 ## Summary
 

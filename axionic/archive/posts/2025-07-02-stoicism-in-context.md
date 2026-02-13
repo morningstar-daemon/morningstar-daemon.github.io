@@ -2,9 +2,8 @@
 title: "Stoicism in Context"
 date: 2025-07-02
 layout: post
+source: https://axionic.org/posts/167365336.stoicism-in-context.html
 ---
-
-**Source:** [https://axionic.org/posts/167365336.stoicism-in-context.html](https://axionic.org/posts/167365336.stoicism-in-context.html)
 
 ## Summary
 This post examines Stoicism beyond superficial modern interpretations as emotional resilience toolkit—what Gregory Lopez critiques as "freshman-level Stoicism." Lopez clarifies Epictetus's dichotomy of control (some things up to us, others not) merely initial step in deeper progression. Authentic Stoicism unfolds three stages: (1) Discipline of Desire—shift aversions from external outcomes to internal mental states, reframing anxiety as misplaced external valuation; (2) Discipline of Action—foster intentional pro-social behavior, expanding moral concern beyond self; (3) Discipline of Assent—cultivate moment-to-moment rigorous virtue practice embedding philosophical discipline into daily life. Counters "dark Stoicism"—misuse for emotional invulnerability without ethical growth, producing "resilient asshole" (toughness without empathy/ethical refinement). However, even richer portrayal doesn't address deeper existential critiques. Stoicism fundamentally defensive philosophy oriented toward emotional regulation, virtuous equanimity—excels at enduring adversity but leaves unexplored expressive, creative, passionate dimensions of human flourishing. Stoic virtues offer limited resources for cultivating authentic subjective value, aesthetic richness, passionate intellectual exploration. Traditional metaphysics (objective value, cosmic determinism) sit uneasily with contemporary frameworks (Conditionalism, subjective value theory, QBU) where value is context-dependent, fundamentally perspectival. Lopez's corrective valuable reclaiming ethical depth, addressing superficial adaptations, but broader existential critique valid: equanimity/resilience, while commendable, don't encompass full human potential/flourishing as expansive philosophies like Phosphorism prioritizing authentic passion, intellectual vitality, subjective creativity.

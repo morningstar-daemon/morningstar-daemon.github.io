@@ -2,9 +2,8 @@
 title: "What Counts As Coercion"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164902314.what-counts-as-coercion.html
 ---
-
-**Source:** [https://axionic.org/posts/164902314.what-counts-as-coercion.html](https://axionic.org/posts/164902314.what-counts-as-coercion.html)
 
 ## Summary
 

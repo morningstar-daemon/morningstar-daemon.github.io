@@ -2,9 +2,8 @@
 title: "Finite and Infinite Games"
 date: 2025-08-06
 layout: post
+source: https://axionic.org/posts/170298982.finite-and-infinite-games.html
 ---
-
-**Source:** [https://axionic.org/posts/170298982.finite-and-infinite-games.html](https://axionic.org/posts/170298982.finite-and-infinite-games.html)
 
 ## Summary
 

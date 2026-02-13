@@ -2,9 +2,8 @@
 title: "The Industrial Revolution Starter Kit"
 date: 2025-08-10
 layout: post
+source: https://axionic.org/posts/170634267.the-industrial-revolution-starter.html
 ---
-
-**Source:** [https://axionic.org/posts/170634267.the-industrial-revolution-starter.html](https://axionic.org/posts/170634267.the-industrial-revolution-starter.html)
 
 ## Summary
 Thought experiment: How to bootstrap Industrial Revolution in ancient Rome? Key technologies: steam engine, printing press, basic chemistry, metalworking improvements, sanitation, germ theory. Core insight: Many industrial innovations technologically feasible millennia earlier; cultural/institutional factors (not just tech knowledge) determined timing.

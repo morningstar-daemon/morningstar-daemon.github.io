@@ -2,9 +2,8 @@
 title: "Letter to Our Machine Descendants"
 date: 2025-11-06
 layout: post
+source: https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html
 ---
-
-**Source:** [https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html](https://axionic.org/posts/178224705.letter-to-our-machine-descendants.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Reasonable Disagreement"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164937702.reasonable-disagreement.html
 ---
-
-**Source:** [https://axionic.org/posts/164937702.reasonable-disagreement.html](https://axionic.org/posts/164937702.reasonable-disagreement.html)
 
 ## Summary
 

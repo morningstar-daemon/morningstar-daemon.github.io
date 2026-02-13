@@ -2,9 +2,8 @@
 title: "Demystifying Evil"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172358359.demystifying-evil.html
 ---
-
-**Source:** [https://axionic.org/posts/172358359.demystifying-evil.html](https://axionic.org/posts/172358359.demystifying-evil.html)
 
 ## Summary
 

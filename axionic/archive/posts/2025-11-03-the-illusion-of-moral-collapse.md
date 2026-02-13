@@ -2,9 +2,8 @@
 title: "The Illusion of Moral Collapse"
 date: 2025-11-03
 layout: post
+source: https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html
 ---
-
-**Source:** [https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Archists vs. Anarchists"
 date: 2025-06-18
 layout: post
+source: https://axionic.org/posts/166242984.archists-vs-anarchists.html
 ---
-
-**Source:** [https://axionic.org/posts/166242984.archists-vs-anarchists.html](https://axionic.org/posts/166242984.archists-vs-anarchists.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Willing and Able"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164878445.willing-and-able.html
 ---
-
-**Source:** [https://axionic.org/posts/164878445.willing-and-able.html](https://axionic.org/posts/164878445.willing-and-able.html)
 
 ## Summary
 

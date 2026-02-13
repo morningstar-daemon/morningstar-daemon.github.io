@@ -2,9 +2,8 @@
 title: "Filters in Chaos"
 date: 2025-08-27
 layout: post
+source: https://axionic.org/posts/172130342.filters-in-chaos.html
 ---
-
-**Source:** [https://axionic.org/posts/172130342.filters-in-chaos.html](https://axionic.org/posts/172130342.filters-in-chaos.html)
 
 ## Summary
 

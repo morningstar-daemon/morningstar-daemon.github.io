@@ -2,9 +2,8 @@
 title: "The Limits of Rationalization"
 date: 2025-09-19
 layout: post
+source: https://axionic.org/posts/174063496.the-limits-of-rationalization.html
 ---
-
-**Source:** [https://axionic.org/posts/174063496.the-limits-of-rationalization.html](https://axionic.org/posts/174063496.the-limits-of-rationalization.html)
 
 ## Summary
 

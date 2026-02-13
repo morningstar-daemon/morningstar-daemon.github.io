@@ -2,9 +2,8 @@
 title: "The Trinity and Relational Metaphysics"
 date: 2025-06-12
 layout: post
+source: https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html
 ---
-
-**Source:** [https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html](https://axionic.org/posts/165822622.the-trinity-and-relational-metaphysics.html)
 
 ## Summary
 This post examines Jordan Hall's surprising conversion to Christianity based on a sophisticated philosophical argument: that the Christian Trinity is logically necessary given relational metaphysics. Relational metaphysics posits that relations (not isolated objects/substances) constitute reality's fundamental structure. Hall argues: (1) reality is fundamentally relational, (2) coherent relationality requires simultaneous unity and multiplicity (pure monism lacks internal relations; pure pluralism disintegrates), (3) the Trinity uniquely satisfies this requirement—one divine essence existing as three inseparable persons. Axio evaluates the argument with philosophical charity but skepticism: while intellectually elegant, it requires rigorous proof that Trinity is the *only* coherent relational structure, eliminating alternatives like process philosophy, network theory, or Buddhist interdependent origination. From a Bayesian standpoint, low credence is justified without extraordinary evidence. The value lies in exploring how theological concepts intersect with contemporary philosophy, not necessarily accepting metaphysical conclusions.

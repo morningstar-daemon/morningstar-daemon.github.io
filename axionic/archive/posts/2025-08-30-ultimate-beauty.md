@@ -2,9 +2,8 @@
 title: "Ultimate Beauty"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172368510.ultimate-beauty.html
 ---
-
-**Source:** [https://axionic.org/posts/172368510.ultimate-beauty.html](https://axionic.org/posts/172368510.ultimate-beauty.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Rethinking Justice"
 date: 2025-07-06
 layout: post
+source: https://axionic.org/posts/167669720.rethinking-justice.html
 ---
-
-**Source:** [https://axionic.org/posts/167669720.rethinking-justice.html](https://axionic.org/posts/167669720.rethinking-justice.html)
 
 ## Summary
 This essay critiques contemporary justice systems' framing of criminal punishment as "paying a debt to society," exposing fundamental ethical and logical inconsistencies where offenders serve time yet victims remain largely uncompensated. The proposed alternative: victim-centered restorative justice prioritizing direct restitution over punitive incarceration.

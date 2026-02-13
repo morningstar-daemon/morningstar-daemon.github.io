@@ -2,9 +2,8 @@
 title: "Constructors From Coherence"
 date: 2025-08-25
 layout: post
+source: https://axionic.org/posts/171907779.constructors-from-coherence.html
 ---
-
-**Source:** [https://axionic.org/posts/171907779.constructors-from-coherence.html](https://axionic.org/posts/171907779.constructors-from-coherence.html)
 
 ## Summary
 

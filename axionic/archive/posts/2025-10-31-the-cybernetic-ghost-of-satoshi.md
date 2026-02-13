@@ -2,9 +2,8 @@
 title: "The Cybernetic Ghost of Satoshi"
 date: 2025-10-31
 layout: post
+source: https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html
 ---
-
-**Source:** [https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html](https://axionic.org/posts/177657478.the-cybernetic-ghost-of-satoshi.html)
 
 ## Summary
 

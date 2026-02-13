@@ -2,11 +2,10 @@
 title: "Minimal Causal Interfaces"
 date: 2025-12-29
 layout: post
+source: https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html
 ---
 
 **Series:** Structural Verification (Marker 2)
-
-**Source:** [https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 ## Summary
 

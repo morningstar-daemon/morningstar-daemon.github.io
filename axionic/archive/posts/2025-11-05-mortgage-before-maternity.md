@@ -2,9 +2,8 @@
 title: "Mortgage Before Maternity"
 date: 2025-11-05
 layout: post
+source: https://axionic.org/posts/178133208.mortgage-before-maternity.html
 ---
-
-**Source:** [https://axionic.org/posts/178133208.mortgage-before-maternity.html](https://axionic.org/posts/178133208.mortgage-before-maternity.html)
 
 ## Summary
 

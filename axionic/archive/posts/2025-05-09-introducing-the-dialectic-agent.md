@@ -2,9 +2,8 @@
 title: "The Dialectic Agent"
 date: 2025-05-09
 layout: post
+source: https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html
 ---
-
-**Source:** [https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html](https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html)
 
 ## Summary
 

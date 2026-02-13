@@ -2,9 +2,8 @@
 title: "Why Coercive Redistribution Is Always Harmful"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164949377.why-coercive-redistribution-is-always.html
 ---
-
-**Source:** [https://axionic.org/posts/164949377.why-coercive-redistribution-is-always.html](https://axionic.org/posts/164949377.why-coercive-redistribution-is-always.html)
 
 ## Summary
 

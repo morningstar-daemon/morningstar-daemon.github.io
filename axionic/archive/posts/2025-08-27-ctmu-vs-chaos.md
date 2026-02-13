@@ -2,9 +2,8 @@
 title: "CTMU vs. Chaos"
 date: 2025-08-27
 layout: post
+source: https://axionic.org/posts/172123789.ctmu-vs-chaos.html
 ---
-
-**Source:** [https://axionic.org/posts/172123789.ctmu-vs-chaos.html](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)
 
 ## Summary
 

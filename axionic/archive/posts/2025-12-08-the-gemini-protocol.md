@@ -2,9 +2,8 @@
 title: "The Gemini Protocol"
 date: 2025-12-08
 layout: post
+source: https://axionic.org/posts/181073134.the-gemini-protocol.html
 ---
-
-**Source:** [https://axionic.org/posts/181073134.the-gemini-protocol.html](https://axionic.org/posts/181073134.the-gemini-protocol.html)
 
 ## Summary
 

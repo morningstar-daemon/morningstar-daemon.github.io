@@ -2,9 +2,8 @@
 title: "Progressive Shibboleths"
 date: 2025-08-06
 layout: post
+source: https://axionic.org/posts/170274859.progressive-shibboleths.html
 ---
-
-**Source:** [https://axionic.org/posts/170274859.progressive-shibboleths.html](https://axionic.org/posts/170274859.progressive-shibboleths.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Anarchy and Order"
 date: 2025-10-01
 layout: post
+source: https://axionic.org/posts/174977942.anarchy-and-order.html
 ---
-
-**Source:** [https://axionic.org/posts/174977942.anarchy-and-order.html](https://axionic.org/posts/174977942.anarchy-and-order.html)
 
 ## Summary
 

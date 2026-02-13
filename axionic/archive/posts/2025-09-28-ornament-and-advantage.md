@@ -2,9 +2,8 @@
 title: "Ornament and Advantage"
 date: 2025-09-28
 layout: post
+source: https://axionic.org/posts/174783426.ornament-and-advantage.html
 ---
-
-**Source:** [https://axionic.org/posts/174783426.ornament-and-advantage.html](https://axionic.org/posts/174783426.ornament-and-advantage.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Sentience vs. Sapience"
 date: 2025-06-22
 layout: post
+source: https://axionic.org/posts/166538433.sentience-vs-sapience.html
 ---
-
-**Source:** [https://axionic.org/posts/166538433.sentience-vs-sapience.html](https://axionic.org/posts/166538433.sentience-vs-sapience.html)
 
 ## Summary
 

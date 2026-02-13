@@ -2,9 +2,8 @@
 title: "Absurdity vs. Freedom"
 date: 2025-06-21
 layout: post
+source: https://axionic.org/posts/166489779.absurdity-vs-freedom.html
 ---
-
-**Source:** [https://axionic.org/posts/166489779.absurdity-vs-freedom.html](https://axionic.org/posts/166489779.absurdity-vs-freedom.html)
 
 ## Summary
 

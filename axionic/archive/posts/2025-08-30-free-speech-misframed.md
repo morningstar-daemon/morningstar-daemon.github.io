@@ -2,9 +2,8 @@
 title: "Free Speech, Misframed"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172365268.free-speech-misframed.html
 ---
-
-**Source:** [https://axionic.org/posts/172365268.free-speech-misframed.html](https://axionic.org/posts/172365268.free-speech-misframed.html)
 
 ## Summary
 

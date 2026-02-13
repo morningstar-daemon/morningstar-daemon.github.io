@@ -2,9 +2,8 @@
 title: "A Gigaplex of Parallel Lives"
 date: 2025-05-25
 layout: post
+source: https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html
 ---
-
-**Source:** [https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)
 
 ## Summary
 

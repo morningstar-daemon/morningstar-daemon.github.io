@@ -2,9 +2,8 @@
 title: "True Neutral"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166022218.true-neutral.html
 ---
-
-**Source:** [https://axionic.org/posts/166022218.true-neutral.html](https://axionic.org/posts/166022218.true-neutral.html)
 
 ## Summary
 

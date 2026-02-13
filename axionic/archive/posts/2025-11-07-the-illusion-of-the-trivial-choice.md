@@ -2,9 +2,8 @@
 title: "The Illusion of the Trivial Choice"
 date: 2025-11-07
 layout: post
+source: https://axionic.org/posts/178313983.the-illusion-of-the-trivial-choice.html
 ---
-
-**Source:** [https://axionic.org/posts/178313983.the-illusion-of-the-trivial-choice.html](https://axionic.org/posts/178313983.the-illusion-of-the-trivial-choice.html)
 
 ## Summary
 

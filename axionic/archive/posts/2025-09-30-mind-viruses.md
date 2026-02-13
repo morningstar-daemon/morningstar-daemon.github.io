@@ -2,9 +2,8 @@
 title: "Mind Viruses"
 date: 2025-09-30
 layout: post
+source: https://axionic.org/posts/174938004.mind-viruses.html
 ---
-
-**Source:** [https://axionic.org/posts/174938004.mind-viruses.html](https://axionic.org/posts/174938004.mind-viruses.html)
 
 ## Summary
 

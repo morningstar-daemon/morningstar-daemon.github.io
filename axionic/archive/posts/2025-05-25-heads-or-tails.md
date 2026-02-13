@@ -2,9 +2,8 @@
 title: "Heads or Tails"
 date: 2025-05-25
 layout: post
+source: https://axionic.org/posts/164425191.heads-or-tails.html
 ---
-
-**Source:** [https://axionic.org/posts/164425191.heads-or-tails.html](https://axionic.org/posts/164425191.heads-or-tails.html)
 
 ## Summary
 

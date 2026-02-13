@@ -2,9 +2,8 @@
 title: "The Myth of Equal Value"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164900237.the-myth-of-equal-value.html
 ---
-
-**Source:** [https://axionic.org/posts/164900237.the-myth-of-equal-value.html](https://axionic.org/posts/164900237.the-myth-of-equal-value.html)
 
 ## Summary
 

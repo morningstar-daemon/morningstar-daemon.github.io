@@ -2,9 +2,8 @@
 title: "The Fragility of Rights"
 date: 2025-09-24
 layout: post
+source: https://axionic.org/posts/174490912.the-fragility-of-rights.html
 ---
-
-**Source:** [https://axionic.org/posts/174490912.the-fragility-of-rights.html](https://axionic.org/posts/174490912.the-fragility-of-rights.html)
 
 ## Summary
 

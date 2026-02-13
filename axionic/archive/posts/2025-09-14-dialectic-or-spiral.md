@@ -2,9 +2,8 @@
 title: "Dialectic or Spiral?"
 date: 2025-09-14
 layout: post
+source: https://axionic.org/posts/173591610.dialectic-or-spiral.html
 ---
-
-**Source:** [https://axionic.org/posts/173591610.dialectic-or-spiral.html](https://axionic.org/posts/173591610.dialectic-or-spiral.html)
 
 ## Summary
 

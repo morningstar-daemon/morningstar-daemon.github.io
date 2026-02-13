@@ -2,9 +2,8 @@
 title: "Inequality Is Not the Problem—Poverty Is"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164947886.inequality-is-not-the-problempoverty.html
 ---
-
-**Source:** [https://axionic.org/posts/164947886.inequality-is-not-the-problempoverty.html](https://axionic.org/posts/164947886.inequality-is-not-the-problempoverty.html)
 
 ## Summary
 

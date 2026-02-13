@@ -2,9 +2,8 @@
 title: "AGI Economics"
 date: 2025-06-19
 layout: post
+source: https://axionic.org/posts/166330539.agi-economics.html
 ---
-
-**Source:** [https://axionic.org/posts/166330539.agi-economics.html](https://axionic.org/posts/166330539.agi-economics.html)
 
 ## Summary
 

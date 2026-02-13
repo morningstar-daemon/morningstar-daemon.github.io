@@ -2,9 +2,8 @@
 title: "From Common Law to Command Law"
 date: 2025-08-27
 layout: post
+source: https://axionic.org/posts/172049474.from-common-law-to-command-law.html
 ---
-
-**Source:** [https://axionic.org/posts/172049474.from-common-law-to-command-law.html](https://axionic.org/posts/172049474.from-common-law-to-command-law.html)
 
 ## Summary
 

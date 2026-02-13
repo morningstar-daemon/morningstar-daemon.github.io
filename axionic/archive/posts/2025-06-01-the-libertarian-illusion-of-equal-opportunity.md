@@ -2,9 +2,8 @@
 title: "The Libertarian Illusion of Equal Opportunity"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164949734.the-libertarian-illusion-of-equal.html
 ---
-
-**Source:** [https://axionic.org/posts/164949734.the-libertarian-illusion-of-equal.html](https://axionic.org/posts/164949734.the-libertarian-illusion-of-equal.html)
 
 ## Summary
 

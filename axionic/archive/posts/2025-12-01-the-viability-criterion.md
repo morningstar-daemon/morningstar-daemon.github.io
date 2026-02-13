@@ -2,9 +2,8 @@
 title: "The Viability Criterion"
 date: 2025-12-01
 layout: post
+source: https://axionic.org/posts/180427300.the-viability-criterion.html
 ---
-
-**Source:** [https://axionic.org/posts/180427300.the-viability-criterion.html](https://axionic.org/posts/180427300.the-viability-criterion.html)
 
 ## Summary
 This post serves as the executive summary and conceptual gateway to the Value Sequence, reframing Axio's treatment of value not as moral philosophy but as viability analysis. It describes how preference architectures behave under recursive, thermodynamic, and informational constraints—which values remain stable over time and which collapse under their own consequences. The piece explicitly rejects both objective morality and relativism, instead modeling values as control-theoretic structures subject to selection pressure. Phosphorism emerges not as a moral obligation but as a long-run attractor for agents seeking persistent agency.

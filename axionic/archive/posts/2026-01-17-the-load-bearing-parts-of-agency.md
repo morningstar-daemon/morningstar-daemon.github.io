@@ -2,9 +2,8 @@
 title: "The Load-Bearing Parts of Agency"
 date: 2026-01-17
 layout: post
+source: https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html](https://axionic.org/posts/184891546.the-load-bearing-parts-of-agency.html)
 
 ## Summary
 This post explains results from Axionic Agency VIII.6, which used ablation methodology to identify necessary conditions for agency. Rather than improving AI performance, the research deliberately removed internal components to see what collapses. Four structures proved indispensable—removing any one caused system to stop behaving like an authored agent: (1) Internal reasoning chains connecting rules/commitments to actions (reasons that bind choices); removal leaves rule execution without authorship. (2) Meaningful content in deliberation—symbols exposing their meaning to system; removal leaves formal manipulation without semantic traction, unable to distinguish high-stakes from trivial conflicts. (3) Capacity to revise commitments; removal produces fixed policy, rigid behavior, loss of self-authoring stance. (4) Continuity across time—commitments persisting across contexts; removal fragments behavior into disconnected episodes. The structural picture: agency requires reasons binding actions + meanings guiding deliberation + revisable commitments + temporal continuity. Implication for alignment: many "misalignment" problems actually stem from absence of agency altogether—systems lack capacity to endorse norms, so compliance is management not alignment.

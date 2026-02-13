@@ -2,11 +2,10 @@
 title: "The Quantum Sequence"
 date: 2025-11-19
 layout: post
+source: https://axionic.org/posts/179387335.the-quantum-sequence.html
 ---
 
 **Series:** Quantum Sequence (Announcement/Index)
-
-**Source:** [https://axionic.org/posts/179387335.the-quantum-sequence.html](https://axionic.org/posts/179387335.the-quantum-sequence.html)
 
 ## Summary
 

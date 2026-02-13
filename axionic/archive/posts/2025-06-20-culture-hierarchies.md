@@ -2,9 +2,8 @@
 title: "Culture Hierarchies"
 date: 2025-06-20
 layout: post
+source: https://axionic.org/posts/166409545.culture-hierarchies.html
 ---
-
-**Source:** [https://axionic.org/posts/166409545.culture-hierarchies.html](https://axionic.org/posts/166409545.culture-hierarchies.html)
 
 ## Summary
 

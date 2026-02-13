@@ -2,9 +2,8 @@
 title: "Entangled Truths"
 date: 2025-09-20
 layout: post
+source: https://axionic.org/posts/174125219.entangled-truths.html
 ---
-
-**Source:** [https://axionic.org/posts/174125219.entangled-truths.html](https://axionic.org/posts/174125219.entangled-truths.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Shadow War"
 date: 2025-11-23
 layout: post
+source: https://axionic.org/posts/179726756.the-shadow-war.html
 ---
-
-**Source:** [https://axionic.org/posts/179726756.the-shadow-war.html](https://axionic.org/posts/179726756.the-shadow-war.html)
 
 ## Summary
 This post reinterprets the Shadow War from Babylon 5 as a philosophical conflict about civilizational development rather than a simple good-versus-evil narrative. Axios argues that the Vorlons (order, obedience, stability) and Shadows (chaos, conflict, Darwinian selection) are "failed philosophers who mistake their own heuristics for cosmic laws." Both ancient races treat younger civilizations as objects to be shaped rather than agents with self-determination. The pivotal moment comes when Sheridan and younger races refuse to inherit either ancient framework, asserting civilizational adulthood by rejecting the false binary. The post frames this as an Axio exemplar: the moment when a civilization steps out of ideological adolescence and claims responsibility for authoring its own meaning.

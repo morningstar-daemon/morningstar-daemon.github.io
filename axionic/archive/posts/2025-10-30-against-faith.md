@@ -2,9 +2,8 @@
 title: "Against Faith"
 date: 2025-10-30
 layout: post
+source: https://axionic.org/posts/177598036.against-faith.html
 ---
-
-**Source:** [https://axionic.org/posts/177598036.against-faith.html](https://axionic.org/posts/177598036.against-faith.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Myth of Cultural Threat"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html
 ---
-
-**Source:** [https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html](https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html)
 
 ## Summary
 

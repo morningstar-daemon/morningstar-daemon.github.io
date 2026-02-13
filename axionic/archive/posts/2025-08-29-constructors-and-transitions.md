@@ -2,9 +2,8 @@
 title: "Constructors and Transitions"
 date: 2025-08-29
 layout: post
+source: https://axionic.org/posts/172303733.constructors-and-transitions.html
 ---
-
-**Source:** [https://axionic.org/posts/172303733.constructors-and-transitions.html](https://axionic.org/posts/172303733.constructors-and-transitions.html)
 
 ## Summary
 

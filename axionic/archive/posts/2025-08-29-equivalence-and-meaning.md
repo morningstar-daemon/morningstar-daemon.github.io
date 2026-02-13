@@ -2,9 +2,8 @@
 title: "Equivalence and Meaning"
 date: 2025-08-29
 layout: post
+source: https://axionic.org/posts/172303106.equivalence-and-meaning.html
 ---
-
-**Source:** [https://axionic.org/posts/172303106.equivalence-and-meaning.html](https://axionic.org/posts/172303106.equivalence-and-meaning.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Metaphysics as Concept Creation"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html
 ---
-
-**Source:** [https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html](https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html)
 
 ## Summary
 

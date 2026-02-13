@@ -2,9 +2,8 @@
 title: "The Inner Monologue Fallacy"
 date: 2025-06-29
 layout: post
+source: https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html
 ---
-
-**Source:** [https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html](https://axionic.org/posts/167104397.the-inner-monologue-fallacy.html)
 
 ## Summary
 This post addresses the inner monologue fallacy—confusing thinking with internal speech. Carl Feynman's observation that he thinks in thoughts rather than words reveals basic cognitive error: inner monologue isn't reasoning but narrative layer added over deeper cognitive processes. Clarification: everyone has thoughts; some translate thoughts into internal speech; those with inner monologues often mistake monologue for thinking itself. Inner speech acts as mental check useful for linguistic rehearsal, but actual thinking happens beneath through images, intuitions, patterns, abstract reasoning. Mistaking inner speech for thought like confusing shadow with object—words are symbolic representations, compressed versions of richer cognitive activities. Verbal misconception leads to errors: assuming non-linguistic thinking animals unintelligent, believing infants/language-impaired cognitively limited, thinking language models understand because they produce coherent text. Such errors obscure true intelligence operating independently of language, encoding knowledge in visual, emotional, structural, intuitive forms beyond words. Thought independent of language—like algorithms separate from programming syntax. Inner speech analogous to logging/debugging output: sometimes useful, rarely essential. AI demonstrates this: ChatGPT generates fluent text effortlessly, but fluency doesn't imply genuine reasoning. Humans without internal verbalization aren't disadvantaged; they may benefit from fewer linguistic constraints. Real cognition broader, richer, deeper than words alone.

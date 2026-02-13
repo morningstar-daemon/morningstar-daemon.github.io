@@ -2,9 +2,8 @@
 title: "The Equality Trap"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172367780.the-equality-trap.html
 ---
-
-**Source:** [https://axionic.org/posts/172367780.the-equality-trap.html](https://axionic.org/posts/172367780.the-equality-trap.html)
 
 ## Summary
 

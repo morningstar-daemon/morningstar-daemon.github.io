@@ -2,9 +2,8 @@
 title: "Violence vs. Coercion"
 date: 2025-09-13
 layout: post
+source: https://axionic.org/posts/173538253.violence-vs-coercion.html
 ---
-
-**Source:** [https://axionic.org/posts/173538253.violence-vs-coercion.html](https://axionic.org/posts/173538253.violence-vs-coercion.html)
 
 ## Summary
 

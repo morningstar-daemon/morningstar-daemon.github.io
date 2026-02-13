@@ -2,9 +2,8 @@
 title: "Minimal Viable Reflective Sovereign Agency"
 date: 2026-01-25
 layout: post
+source: https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html
 ---
-
-**Source:** [https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html](https://axionic.org/posts/185750490.minimal-viable-reflective-sovereign.html)
 
 ## Summary
 This post explains Axionic Agency VIII.7 results identifying necessary components for Minimal Viable Reflective Sovereign Agency (MVRSA). Core insight: agency is property of constraint, not skill—system has agency only when its own reasons can prevent it from acting. Distinguishes execution competence (doing tasks) from normative competence (understanding/preserving/repairing rule structure defining what "doing the task" means). MVRSA architecture enforces strict justification-action separation: before any action, system must generate justification compiled into constraint determining feasible actions; action selector sees what's permitted, not why (blind to antecedents/consequences/explanation). Ablation tests: removing justification traces, reflective write access, persistence, or semantic access causes collapse—not performance degradation, structural failure. Critical experiment: tested whether semantic access could be reconstructed through collision feedback (learning norms by hitting them). Result: with semantics, agent succeeded reliably; without semantics (opaque rules, collision traces preserved), success dropped to zero—execution competence survived, normative competence didn't. Contradiction detection requires understanding how norms interact, not just that they were violated. In episodic repair-driven agents without gradient access to rule semantics, normative competence cannot bootstrap from collision feedback.

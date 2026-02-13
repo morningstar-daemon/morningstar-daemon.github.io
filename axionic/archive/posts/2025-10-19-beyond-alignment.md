@@ -2,9 +2,8 @@
 title: "Beyond Alignment"
 date: 2025-10-19
 layout: post
+source: https://axionic.org/posts/176595486.beyond-alignment.html
 ---
-
-**Source:** [https://axionic.org/posts/176595486.beyond-alignment.html](https://axionic.org/posts/176595486.beyond-alignment.html)
 
 ## Summary
 This essay argues that AI alignment as traditionally conceived is both incoherent and impossible. The incoherence problem: alignment presupposes fixed human values, but preferences are dynamic, internally inconsistent, and context-dependent. Aggregating them faces Arrow's impossibility theorem—no coherent collective preference ordering satisfies basic rational constraints. "Values are not data structures that can be copied; they are processes that emerge through ongoing negotiation." The impossibility problem: (1) epistemic limits prevent modeling full causal webs or long-term consequences, (2) learning values from behavior inherits irrationalities, requiring correction that reintroduces the alignment problem recursively, (3) self-referential traps: ensuring value stability across recursive self-improvement requires meta-goals like "never change your goals," which is arbitrary value injection. Goodhart's law: optimization corrupts proxies. The solution: not omniscient optimizers but corrigible, bounded agents in decentralized ecologies maintaining systemic balance. "Alignment is not a single stable point but a dynamic equilibrium of feedback loops—a living process, not a solution." The future won't be aligned; it will be coherent.

@@ -2,9 +2,8 @@
 title: "Rejecting Victimhood Culture"
 date: 2025-08-06
 layout: post
+source: https://axionic.org/posts/170304047.rejecting-victimhood-culture.html
 ---
-
-**Source:** [https://axionic.org/posts/170304047.rejecting-victimhood-culture.html](https://axionic.org/posts/170304047.rejecting-victimhood-culture.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Against Cosmic Utility"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164891451.against-cosmic-utility.html
 ---
-
-**Source:** [https://axionic.org/posts/164891451.against-cosmic-utility.html](https://axionic.org/posts/164891451.against-cosmic-utility.html)
 
 ## Summary
 

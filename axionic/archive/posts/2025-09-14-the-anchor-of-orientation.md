@@ -2,9 +2,8 @@
 title: "The Anchor of Orientation"
 date: 2025-09-14
 layout: post
+source: https://axionic.org/posts/173611210.the-anchor-of-orientation.html
 ---
-
-**Source:** [https://axionic.org/posts/173611210.the-anchor-of-orientation.html](https://axionic.org/posts/173611210.the-anchor-of-orientation.html)
 
 ## Summary
 

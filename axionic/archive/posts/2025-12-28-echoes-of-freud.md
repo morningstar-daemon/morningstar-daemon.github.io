@@ -2,9 +2,8 @@
 title: "Echoes of Freud"
 date: 2025-12-28
 layout: post
+source: https://axionic.org/posts/182785676.echoes-of-freud.html
 ---
-
-**Source:** [https://axionic.org/posts/182785676.echoes-of-freud.html](https://axionic.org/posts/182785676.echoes-of-freud.html)
 
 ## Summary
 This post analyzes Freud's lasting cultural influence not through his discredited clinical theories but through his transformation of explanatory defaults. Freud's core achievement was architectural: he made opacity the explanatory baseline rather than the exception, establishing that behavior should be understood as surface traces of hidden processes rather than as transparent expressions of conscious intent. The post catalogs Freud's memetic success—concepts like repression, projection, rationalization, denial—showing how these replicators colonized everyday discourse independent of psychoanalytic theory. It argues that even as neuroscience replaces libido with circuits and complexes with schemas, the cultural posture remains Freudian: explanation runs beneath conscious access, testimony is downgraded, and authority flows to experts who can see what subjects cannot. From an agency-preserving perspective, this inheritance is costly—it renders self-report suspect, authorship inferential rather than asserted, and responsibility diffuse.

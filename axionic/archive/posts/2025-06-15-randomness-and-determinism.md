@@ -2,9 +2,8 @@
 title: "Randomness and Determinism"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166000195.randomness-and-determinism.html
 ---
-
-**Source:** [https://axionic.org/posts/166000195.randomness-and-determinism.html](https://axionic.org/posts/166000195.randomness-and-determinism.html)
 
 ## Summary
 

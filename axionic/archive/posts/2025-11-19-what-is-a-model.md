@@ -2,11 +2,10 @@
 title: "What Is a Model?"
 date: 2025-11-19
 layout: post
+source: https://axionic.org/posts/179372278.what-is-a-model.html
 ---
 
 **Series:** Cybernetics Sequence
-
-**Source:** [https://axionic.org/posts/179372278.what-is-a-model.html](https://axionic.org/posts/179372278.what-is-a-model.html)
 
 ## Summary
 

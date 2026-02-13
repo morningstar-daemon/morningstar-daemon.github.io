@@ -2,9 +2,8 @@
 title: "Navigating The Multiverse"
 date: 2025-09-27
 layout: post
+source: https://axionic.org/posts/174698078.navigating-the-multiverse.html
 ---
-
-**Source:** [https://axionic.org/posts/174698078.navigating-the-multiverse.html](https://axionic.org/posts/174698078.navigating-the-multiverse.html)
 
 ## Summary
 

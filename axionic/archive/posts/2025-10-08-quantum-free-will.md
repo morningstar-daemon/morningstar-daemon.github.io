@@ -2,9 +2,8 @@
 title: "Quantum Free Will"
 date: 2025-10-08
 layout: post
+source: https://axionic.org/posts/175664749.quantum-free-will.html
 ---
-
-**Source:** [https://axionic.org/posts/175664749.quantum-free-will.html](https://axionic.org/posts/175664749.quantum-free-will.html)
 
 ## Summary
 This essay resolves the free will vs. determinism debate through Quantum Branching Universe (QBU) physics. It argues the traditional dilemma assumes a single linear timeline where determinism eliminates freedom or libertarian free will inserts uncaused choosers—both frameworks collapse when all physically possible outcomes branch continuously. Choice is reframed not as creating new futures but as filtering existing branches: your cognitive state acts as a sorting function determining which branches continue to host coherent versions of you. Using a binary decision example (Good=0.8 measure, Bad=0.2 measure), the essay shows you cannot change total measure but can determine which measure contains you. Free will becomes "conditional identification within an invariant measure landscape"—agents align their identity with specific amplitude distributions through their decision algorithms. The piece introduces Minimum Viable Agent (MVA) as patterns capable of anticipating and conditioning their future measure distribution, reinterprets compatibilism as precise physical description, and transforms ethics into "measure responsibility"—maximizing amplitude of value-aligned outcomes.

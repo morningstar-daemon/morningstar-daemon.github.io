@@ -2,9 +2,8 @@
 title: "The Limits of Psychedelic Revelation"
 date: 2025-07-12
 layout: post
+source: https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html
 ---
-
-**Source:** [https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html](https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html)
 
 ## Summary
 

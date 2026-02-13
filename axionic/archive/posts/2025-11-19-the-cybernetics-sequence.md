@@ -2,11 +2,10 @@
 title: "The Cybernetics Sequence"
 date: 2025-11-19
 layout: post
+source: https://axionic.org/posts/179373939.the-cybernetics-sequence.html
 ---
 
 **Series:** Cybernetics Sequence (Announcement/Index)
-
-**Source:** [https://axionic.org/posts/179373939.the-cybernetics-sequence.html](https://axionic.org/posts/179373939.the-cybernetics-sequence.html)
 
 ## Summary
 

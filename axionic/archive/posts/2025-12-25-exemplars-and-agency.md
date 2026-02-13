@@ -2,9 +2,8 @@
 title: "Exemplars and Agency"
 date: 2025-12-25
 layout: post
+source: https://axionic.org/posts/182596460.exemplars-and-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/182596460.exemplars-and-agency.html](https://axionic.org/posts/182596460.exemplars-and-agency.html)
 
 ## Summary
 This post examines how agency relates to exemplar-based reasoning and prototype categories, likely exploring whether reflective agents must be defined extensionally (via exemplars like "humans") or intentionally (via structural properties). The Axionic framework's rejection of extensional definitions means agency cannot be grounded in specific instances but must be characterized structurally, avoiding ontological drift where improved models reclassify away moral standing.

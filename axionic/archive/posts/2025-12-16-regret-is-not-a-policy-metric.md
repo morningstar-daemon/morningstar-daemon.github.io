@@ -2,9 +2,8 @@
 title: "Regret Is Not a Policy Metric"
 date: 2025-12-16
 layout: post
+source: https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html
 ---
-
-**Source:** [https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)
 
 ## Summary
 

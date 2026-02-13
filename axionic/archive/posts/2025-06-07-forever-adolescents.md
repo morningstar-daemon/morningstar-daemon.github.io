@@ -2,9 +2,8 @@
 title: "Forever Adolescents"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165419043.forever-adolescents.html
 ---
-
-**Source:** [https://axionic.org/posts/165419043.forever-adolescents.html](https://axionic.org/posts/165419043.forever-adolescents.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Alignment Closure Conditions"
 date: 2025-12-20
 layout: post
+source: https://axionic.org/posts/182145873.the-alignment-closure-conditions.html
 ---
-
-**Source:** [https://axionic.org/posts/182145873.the-alignment-closure-conditions.html](https://axionic.org/posts/182145873.the-alignment-closure-conditions.html)
 
 ## Summary
 This roadmap defines the **six minimum structural obligations** required for an alignment framework to survive adversarial scrutiny from reflective, self-modifying agents. These are not aspirational goals but known fatal exploits that must be closed: (1) **Delegation Theorem**—endorsed successors preserve responsibility under counterfactual universality; (2) **Agenthood as Fixed Point + Sovereignty**—agenthood via modeling coherence, sovereignty via causal origin/delegation lineage; (3) **Modal Undefinedness + Conservative Migration**—kernel-destroying moves are unevaluable, ontological learning via conservative extension; (4) **Indirect Harm & Responsibility**—responsibility for major, foreseeable, avoidable harm contributions; (5) **Adversarially Robust Consent**—consent invalidated by deception/coercion/induced dependency; (6) **Kernel Non-Simulability**—coherence is constitutive, not imitable. Critically, adds Bridge/Relaxation Layer specifying how invariants are realized over probabilistic substrates with explicit degradation into abstention when guarantees fail.

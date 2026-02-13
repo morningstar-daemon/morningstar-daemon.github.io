@@ -2,9 +2,8 @@
 title: "The Physics of Agency, Part 3: The Kybit"
 date: 2025-04-29
 layout: post
+source: https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html
 ---
-
-**Source:** [https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html](https://axionic.org/posts/162485677.the-physics-of-agency-part-3-the.html)
 
 ## Summary
 

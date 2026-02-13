@@ -2,9 +2,8 @@
 title: "Logical Identity"
 date: 2025-11-04
 layout: post
+source: https://axionic.org/posts/178033688.logical-identity.html
 ---
-
-**Source:** [https://axionic.org/posts/178033688.logical-identity.html](https://axionic.org/posts/178033688.logical-identity.html)
 
 ## Summary
 

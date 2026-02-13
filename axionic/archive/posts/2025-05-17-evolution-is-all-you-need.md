@@ -2,9 +2,8 @@
 title: "Evolution Is All You Need"
 date: 2025-05-17
 layout: post
+source: https://axionic.org/posts/163797482.evolution-is-all-you-need.html
 ---
-
-**Source:** [https://axionic.org/posts/163797482.evolution-is-all-you-need.html](https://axionic.org/posts/163797482.evolution-is-all-you-need.html)
 
 ## Summary
 

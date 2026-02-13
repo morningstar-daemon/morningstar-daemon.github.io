@@ -2,9 +2,8 @@
 title: "Consciousness Explained"
 date: 2025-12-02
 layout: post
+source: https://axionic.org/posts/180550525.consciousness-explained.html
 ---
-
-**Source:** [https://axionic.org/posts/180550525.consciousness-explained.html](https://axionic.org/posts/180550525.consciousness-explained.html)
 
 ## Summary
 This post presents the Modeler-Schema Theory of Consciousness, a mechanistic account that identifies a specific computational locus of experience within a multi-agent cognitive architecture. The theory proposes that consciousness resides in the "Modeler-schema" component, which generates qualia as an internal calibration mechanism for detecting inconsistencies in the World Model. Critically, the theory offers a falsifiable experimental prediction about change detection during saccades, moving consciousness research from metaphysical speculation to testable science. The framework resolves the "hard problem" by treating phenomenal experience as a necessary comparator function rather than an inexplicable add-on.

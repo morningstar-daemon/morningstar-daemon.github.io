@@ -2,9 +2,8 @@
 title: "Quantum Foundations of Daily Chaos"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html
 ---
-
-**Source:** [https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html](https://axionic.org/posts/166002442.quantum-foundations-of-daily-chaos.html)
 
 ## Summary
 

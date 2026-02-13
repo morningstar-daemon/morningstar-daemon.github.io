@@ -2,9 +2,8 @@
 title: "Integrating Meaningness"
 date: 2025-11-30
 layout: post
+source: https://axionic.org/posts/180330920.integrating-meaningness.html
 ---
-
-**Source:** [https://axionic.org/posts/180330920.integrating-meaningness.html](https://axionic.org/posts/180330920.integrating-meaningness.html)
 
 ## Summary
 This post synthesizes David Chapman's Meaningness framework with Axio by arguing they describe the same underlying process from different angles: "participatory in how it feels, agentic in how it functions." Chapman emphasizes participation—meaning arising through enacted interaction, neither discovered nor invented. Axio emphasizes agency—coherence-preserving minds modeling, choosing, and acting across time. Axios argues these aren't competing theories but dual aspects of one continuous loop: agency requires participation (sensory coupling, feedback, interaction) while participation requires agency (selective attention, intentional arcs, pattern-sensitivity). The synthesis: "Meaning is the participatory dynamic through which agents cohere; value is the structural dynamic through which coherence propagates." Meaningness provides phenomenology; Axio provides mechanics.

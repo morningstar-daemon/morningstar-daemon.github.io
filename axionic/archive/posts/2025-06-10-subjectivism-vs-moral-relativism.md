@@ -2,9 +2,8 @@
 title: "Subjectivism vs. Moral Relativism"
 date: 2025-06-10
 layout: post
+source: https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html
 ---
-
-**Source:** [https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html](https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html)
 
 ## Summary
 This post responds to David Deutsch's critique of moral relativism by clarifying the distinction between relativism and Axio's **agent-binding subjectivism**. While moral relativism denies objective truth and dissolves evaluative standards into arbitrary cultural norms or whims, agent-binding subjectivism maintains rigorous rational accountability by explicitly binding moral claims to clearly articulated agent preferences. The key insight: moral statements are conditionally objective—true or false relative to a specified evaluative framework. This preserves coherent ethical discourse and rational criticism while rejecting moral realism's metaphysical claims about agent-independent values. Subjectivism is not relativism; it's a middle ground securing both subjective foundations and conditional objectivity.

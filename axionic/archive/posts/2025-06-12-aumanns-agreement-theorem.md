@@ -2,9 +2,8 @@
 title: "Aumann's Agreement Theorem"
 date: 2025-06-12
 layout: post
+source: https://axionic.org/posts/165822194.aumanns-agreement-theorem.html
 ---
-
-**Source:** [https://axionic.org/posts/165822194.aumanns-agreement-theorem.html](https://axionic.org/posts/165822194.aumanns-agreement-theorem.html)
 
 ## Summary
 This post explicates Aumann's Agreement Theorem (1976): two perfectly rational Bayesian agents with common knowledge of each other's beliefs and priors cannot agree to disagree—rational updating on shared information must lead to credence convergence. The theorem hinges on perfect Bayesian rationality and common knowledge (infinite mutual knowledge regress). Persistent disagreement implies: different priors, asymmetrical information, or misunderstood reasoning. In practice, these conditions rarely hold—humans have divergent priors, imperfect information, and cognitive biases. Axio applies this to philosophical/theological disagreements (e.g., Trinity): rational agents may assign vastly different credences (1-2% vs. 0.01-0.1%) while both being rational given their priors and epistemic standards. The key insight: rational disagreement is a *diagnostic tool* signaling underlying informational asymmetries or prior differences worth investigating explicitly.

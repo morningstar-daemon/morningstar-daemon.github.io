@@ -2,9 +2,8 @@
 title: "A Rigorous Definition of Causality"
 date: 2025-05-11
 layout: post
+source: https://axionic.org/posts/163348907.a-rigorous-definition-of-causality.html
 ---
-
-**Source:** [https://axionic.org/posts/163348907.a-rigorous-definition-of-causality.html](https://axionic.org/posts/163348907.a-rigorous-definition-of-causality.html)
 
 ## Summary
 

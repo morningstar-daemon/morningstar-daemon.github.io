@@ -2,9 +2,8 @@
 title: "Cultural Gravity"
 date: 2025-09-14
 layout: post
+source: https://axionic.org/posts/173608962.cultural-gravity.html
 ---
-
-**Source:** [https://axionic.org/posts/173608962.cultural-gravity.html](https://axionic.org/posts/173608962.cultural-gravity.html)
 
 ## Summary
 

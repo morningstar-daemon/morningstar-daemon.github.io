@@ -2,9 +2,8 @@
 title: "The Death of Objective Morality"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164891095.the-death-of-objective-morality.html
 ---
-
-**Source:** [https://axionic.org/posts/164891095.the-death-of-objective-morality.html](https://axionic.org/posts/164891095.the-death-of-objective-morality.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Axionic Agency — Interlude III"
 date: 2025-12-23
 layout: post
+source: https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html
 ---
-
-**Source:** [https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
 
 ## Summary
 This post documents the project's **explicit pivot from "Axionic Alignment" to "Axionic Agency"**, correcting the mismatch between name and content. Original framing: can alignment survive self-modification? Evolution exposed deeper instabilities: (1) **Egoism collapses** under reflection (indexical valuation fails when self-model represents branching/symmetry); (2) **Fixed terminal goals disappear** (goals acquire meaning only through interpretation relative to evolving models—no stable referent for lock-in); (3) **Alignment II produced semantic phases**, not refined alignment targets (equivalence classes of interpretations, with irreversible transitions between them). By Alignment IV, the project was identifying **conditions for coherent agency**, not methods to align with values. The pivot: Alignment is now downstream—a governance relationship between agent and authorizers, meaningful only once agency coherence is secured. Core claim: framework has **closed architectural routes** for successor betrayal, delegation evasion, epistemic degradation, negligence denial, manufactured consent, and competence-based disenfranchisement by making them **undefinable**, not merely disincentivized.

@@ -2,9 +2,8 @@
 title: "In Defense of IQ"
 date: 2026-01-11
 layout: post
+source: https://axionic.org/posts/184234856.in-defense-of-iq.html
 ---
-
-**Source:** [https://axionic.org/posts/184234856.in-defense-of-iq.html](https://axionic.org/posts/184234856.in-defense-of-iq.html)
 
 ## Summary
 This essay responds to critiques framing IQ as a lossy scalar projection from high-dimensional cognitive space by grounding the discussion in a prior commitment: intelligence is game-relative effectiveness. Intelligence only becomes meaningful relative to strategic contexts defined by goals, constraints, and choices. IQ measures performance within a specific family of games characterized by abstract rule systems, symbolic manipulation, time-bounded decisions, and formal transfer. Within this domain, scalar measurement is appropriate because games generate scores—compression that tracks success within the game. The essay argues IQ's legitimacy derives from empirical constraint (performance covariance across tasks), stability, and predictive reach within its domain. General intelligence (g) requires not universality across all games but transfer across structurally related families. The piece separates measurement validity (does IQ track effectiveness in its domain?) from political questions (why do societies reward this game?), defending IQ as disciplined abstraction bounded by context.

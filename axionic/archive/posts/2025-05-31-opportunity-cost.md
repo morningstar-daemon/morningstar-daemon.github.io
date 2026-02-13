@@ -2,9 +2,8 @@
 title: "Opportunity Cost"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164882854.opportunity-cost.html
 ---
-
-**Source:** [https://axionic.org/posts/164882854.opportunity-cost.html](https://axionic.org/posts/164882854.opportunity-cost.html)
 
 ## Summary
 

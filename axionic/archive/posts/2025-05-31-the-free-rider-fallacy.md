@@ -2,9 +2,8 @@
 title: "The Free Rider Fallacy"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164847204.the-free-rider-fallacy.html
 ---
-
-**Source:** [https://axionic.org/posts/164847204.the-free-rider-fallacy.html](https://axionic.org/posts/164847204.the-free-rider-fallacy.html)
 
 ## Summary
 

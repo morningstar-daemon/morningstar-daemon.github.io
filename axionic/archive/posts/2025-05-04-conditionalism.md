@@ -2,9 +2,8 @@
 title: "Conditionalism"
 date: 2025-05-04
 layout: post
+source: https://axionic.org/posts/162831503.conditionalism.html
 ---
-
-**Source:** [https://axionic.org/posts/162831503.conditionalism.html](https://axionic.org/posts/162831503.conditionalism.html)
 
 ## Summary
 

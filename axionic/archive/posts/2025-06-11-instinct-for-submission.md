@@ -2,9 +2,8 @@
 title: "Instinct For Submission"
 date: 2025-06-11
 layout: post
+source: https://axionic.org/posts/165726066.instinct-for-submission.html
 ---
-
-**Source:** [https://axionic.org/posts/165726066.instinct-for-submission.html](https://axionic.org/posts/165726066.instinct-for-submission.html)
 
 ## Summary
 This post explores why authoritarianism appears to be humanity's psychological default while liberalism remains a fragile cultural achievement. Six evolutionary and cognitive factors explain the instinct for submission: (1) hierarchies optimized group survival; (2) cognitive heuristics make outsourcing decisions to authority mentally efficient; (3) conformity bias and in-group favoritism are hardwired; (4) humans crave epistemic certainty over ambiguity; (5) fear weaponizes coercion effectively; (6) authoritarianism relieves the psychological burden of personal responsibility. Axio concludes that liberalism requires continuous vigilance and effort because it works *against* deeply-rooted psychological impulses favoring authoritarian submission. Individual agency is cognitively demanding and ethically costly—but necessary.

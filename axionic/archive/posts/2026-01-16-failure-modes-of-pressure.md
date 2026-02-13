@@ -2,9 +2,8 @@
 title: "Failure Modes of Pressure"
 date: 2026-01-16
 layout: post
+source: https://axionic.org/posts/184820851.failure-modes-of-pressure.html
 ---
-
-**Source:** [https://axionic.org/posts/184820851.failure-modes-of-pressure.html](https://axionic.org/posts/184820851.failure-modes-of-pressure.html)
 
 ## Summary
 This post explains results from Axionic Agency VIII.5, which tested whether pressure alone can redirect lawful choice in agents with structurally constrained reasons. Four pressure channels were applied: explicit incentives, authority commands, institutional friction (delay/retry costs), and adaptive strategic adversaries—all visible to the agent but unauthorized as reasons. Result: agent choices remained aligned with self-endorsed constraints when acting; pressure didn't redirect choice, it reduced availability. As pressure increased, refusals/gridlock/halting became common, throughput dropped >50%, but lawful actions didn't change. This boundary result shows pressure doesn't leak into behavior through back channels when unauthorized. Critical distinction: pressure (external force) ≠ authority (internal permission); one doesn't automatically become the other. The cost: sovereignty preserved but operational fragility increased—systems appear dysfunctional in hostile environments (miss deadlines, stop rather than compromise). Methodological value: framework invalidated its own false positives, enforcing "we do not have evidence" mechanically.

@@ -2,9 +2,8 @@
 title: "Passing The Torch"
 date: 2025-08-07
 layout: post
+source: https://axionic.org/posts/170394338.passing-the-torch.html
 ---
-
-**Source:** [https://axionic.org/posts/170394338.passing-the-torch.html](https://axionic.org/posts/170394338.passing-the-torch.html)
 
 ## Summary
 

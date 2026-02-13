@@ -2,9 +2,8 @@
 title: "Governments as Economic Parasites"
 date: 2025-07-06
 layout: post
+source: https://axionic.org/posts/167675968.governments-as-economic-parasites.html
 ---
-
-**Source:** [https://axionic.org/posts/167675968.governments-as-economic-parasites.html](https://axionic.org/posts/167675968.governments-as-economic-parasites.html)
 
 ## Summary
 This essay applies Cory Doctorow's observation that "all complex ecosystems have parasites" literally to government, arguing that governments qualify as economic parasites under a strict definition. The central question: Does government systematically extract resources without proportionally contributing productive benefits, impose economic inefficiency, and benefit disproportionately at the expense of productive elements? The answer: Yes, under a rigorous economic analysis.

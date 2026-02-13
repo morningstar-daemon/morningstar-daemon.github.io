@@ -2,9 +2,8 @@
 title: "Quantum Chess"
 date: 2025-06-21
 layout: post
+source: https://axionic.org/posts/166481044.quantum-chess.html
 ---
-
-**Source:** [https://axionic.org/posts/166481044.quantum-chess.html](https://axionic.org/posts/166481044.quantum-chess.html)
 
 ## Summary
 

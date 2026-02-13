@@ -2,9 +2,8 @@
 title: "Against the Minimum Wage"
 date: 2025-10-16
 layout: post
+source: https://axionic.org/posts/176368883.against-the-minimum-wage.html
 ---
-
-**Source:** [https://axionic.org/posts/176368883.against-the-minimum-wage.html](https://axionic.org/posts/176368883.against-the-minimum-wage.html)
 
 ## Summary
 This essay argues minimum wage laws are coercion masquerading as compassion—criminalizing voluntary agreements below arbitrary thresholds rather than granting value to labor. As price controls, they reduce demand for labor through basic economics: when cost exceeds marginal productivity, businesses automate, outsource, or don't hire. The visible effect is higher wages for those employed; the invisible effect (Bastiat's "unseen") is jobs never created, workers never gaining experience, businesses never forming. The moral tragedy is not layoffs but non-hiring: the young, unskilled, immigrant, and marginalized are locked out of entry-level work by laws claiming to help them. The policy also accelerates automation (substitution effect) and capital flight to jurisdictions without price fixing. From axiocratic perspective, this reduces agency—eliminating voluntary exchanges and blocking the feedback loop of experience. Real compassion would offer direct support (subsidies, apprenticeships, charity) without outlawing low-skill labor. "You cannot legislate value into existence. You can only ban those who would have created it."

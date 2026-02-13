@@ -2,9 +2,8 @@
 title: "Intelligence is a Game We Play"
 date: 2025-05-17
 layout: post
+source: https://axionic.org/posts/163805376.intelligence-is-a-game-we-play.html
 ---
-
-**Source:** [https://axionic.org/posts/163805376.intelligence-is-a-game-we-play.html](https://axionic.org/posts/163805376.intelligence-is-a-game-we-play.html)
 
 ## Summary
 

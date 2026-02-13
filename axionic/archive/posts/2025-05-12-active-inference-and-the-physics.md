@@ -2,9 +2,8 @@
 title: "Active Inference and the Physics of Agency"
 date: 2025-05-12
 layout: post
+source: https://axionic.org/posts/163365017.active-inference-and-the-physics.html
 ---
-
-**Source:** [https://axionic.org/posts/163365017.active-inference-and-the-physics.html](https://axionic.org/posts/163365017.active-inference-and-the-physics.html)
 
 ## Summary
 

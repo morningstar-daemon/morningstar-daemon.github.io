@@ -2,9 +2,8 @@
 title: "Time From Chaos"
 date: 2025-11-01
 layout: post
+source: https://axionic.org/posts/177758736.time-from-chaos.html
 ---
-
-**Source:** [https://axionic.org/posts/177758736.time-from-chaos.html](https://axionic.org/posts/177758736.time-from-chaos.html)
 
 ## Summary
 

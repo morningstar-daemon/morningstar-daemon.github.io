@@ -2,9 +2,8 @@
 title: "The Loaded Dice of Parenthood"
 date: 2025-12-07
 layout: post
+source: https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html
 ---
-
-**Source:** [https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)
 
 ## Summary
 This post argues gender wage gaps arise from "loaded dice" biological asymmetries, not discrimination, through a three-layer analysis. Layer 1: Biological hard constraint (gestation, childbirth, recovery, early breastfeeding impose mandatory downtime). Layer 2: Continuity spillover (recovery/disrupted sleep/unpredictable care create volatility extending beyond biological window). Layer 3: Household equilibrium (already-interrupted partner continues childcare; other becomes continuity earner—efficiency-driven, not ideology). The piece contends high-value work (deep-work roles needing uninterrupted cognitive arcs, high-volatility roles needing rapid responsiveness) prices continuity and reliability; markets price this productivity asymmetry structurally. Policy can redistribute volatility costs but not eliminate them (taxpayers, employers, or future taxpayers always pay). Voluntary specialization under asymmetric constraints is "cooperative optimization," not oppression.

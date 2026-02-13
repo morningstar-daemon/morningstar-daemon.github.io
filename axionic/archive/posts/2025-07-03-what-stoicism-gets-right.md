@@ -2,9 +2,8 @@
 title: "What Stoicism Gets Right"
 date: 2025-07-03
 layout: post
+source: https://axionic.org/posts/167442753.what-stoicism-gets-right.html
 ---
-
-**Source:** [https://axionic.org/posts/167442753.what-stoicism-gets-right.html](https://axionic.org/posts/167442753.what-stoicism-gets-right.html)
 
 ## Summary
 

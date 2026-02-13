@@ -2,9 +2,8 @@
 title: "The Myth of the Collective Will"
 date: 2025-06-05
 layout: post
+source: https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html
 ---
-
-**Source:** [https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html](https://axionic.org/posts/165264123.the-myth-of-the-collective-will.html)
 
 ## Summary
 

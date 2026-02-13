@@ -2,9 +2,8 @@
 title: "Understanding Culture"
 date: 2025-06-16
 layout: post
+source: https://axionic.org/posts/166080146.understanding-culture.html
 ---
-
-**Source:** [https://axionic.org/posts/166080146.understanding-culture.html](https://axionic.org/posts/166080146.understanding-culture.html)
 
 ## Summary
 

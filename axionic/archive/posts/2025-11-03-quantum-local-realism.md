@@ -2,9 +2,8 @@
 title: "Quantum Local Realism"
 date: 2025-11-03
 layout: post
+source: https://axionic.org/posts/177913654.quantum-local-realism.html
 ---
-
-**Source:** [https://axionic.org/posts/177913654.quantum-local-realism.html](https://axionic.org/posts/177913654.quantum-local-realism.html)
 
 ## Summary
 

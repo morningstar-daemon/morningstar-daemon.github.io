@@ -2,9 +2,8 @@
 title: "Liberty Without Monopoly"
 date: 2025-07-04
 layout: post
+source: https://axionic.org/posts/167552421.liberty-without-monopoly.html
 ---
-
-**Source:** [https://axionic.org/posts/167552421.liberty-without-monopoly.html](https://axionic.org/posts/167552421.liberty-without-monopoly.html)
 
 ## Summary
 

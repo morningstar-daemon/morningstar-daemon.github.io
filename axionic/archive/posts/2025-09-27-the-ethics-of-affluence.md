@@ -2,9 +2,8 @@
 title: "The Ethics of Affluence"
 date: 2025-09-27
 layout: post
+source: https://axionic.org/posts/174661679.the-ethics-of-affluence.html
 ---
-
-**Source:** [https://axionic.org/posts/174661679.the-ethics-of-affluence.html](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)
 
 ## Summary
 

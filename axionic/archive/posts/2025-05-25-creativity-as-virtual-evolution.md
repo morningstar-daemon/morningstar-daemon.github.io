@@ -2,9 +2,8 @@
 title: "Creativity as Virtual Evolution"
 date: 2025-05-25
 layout: post
+source: https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html
 ---
-
-**Source:** [https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html](https://axionic.org/posts/164411286.creativity-as-virtual-evolution.html)
 
 ## Summary
 

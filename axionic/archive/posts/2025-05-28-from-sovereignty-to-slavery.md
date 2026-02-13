@@ -2,9 +2,8 @@
 title: "From Sovereignty to Slavery"
 date: 2025-05-28
 layout: post
+source: https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html
 ---
-
-**Source:** [https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html](https://axionic.org/posts/164678345.from-sovereignty-to-slavery.html)
 
 ## Summary
 

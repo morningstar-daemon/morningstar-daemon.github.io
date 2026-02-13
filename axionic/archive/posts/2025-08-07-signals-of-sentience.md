@@ -2,9 +2,8 @@
 title: "Signals of Sentience"
 date: 2025-08-07
 layout: post
+source: https://axionic.org/posts/170390075.signals-of-sentience.html
 ---
-
-**Source:** [https://axionic.org/posts/170390075.signals-of-sentience.html](https://axionic.org/posts/170390075.signals-of-sentience.html)
 
 ## Summary
 

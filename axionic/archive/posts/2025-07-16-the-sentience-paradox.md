@@ -2,9 +2,8 @@
 title: "The Sentience Paradox"
 date: 2025-07-16
 layout: post
+source: https://axionic.org/posts/168495314.the-sentience-paradox.html
 ---
-
-**Source:** [https://axionic.org/posts/168495314.the-sentience-paradox.html](https://axionic.org/posts/168495314.the-sentience-paradox.html)
 
 ## Summary
 [NOTE: Summary incomplete - requires full content fetch and 4-6KB comprehensive analysis. Post likely addresses epistemic problem of other minds - we cannot definitively test for sentience but must make ethical decisions assuming its existence or absence.]

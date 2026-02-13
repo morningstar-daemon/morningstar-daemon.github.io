@@ -2,9 +2,8 @@
 title: "Comparing Value Systems"
 date: 2025-07-12
 layout: post
+source: https://axionic.org/posts/168174943.comparing-value-systems.html
 ---
-
-**Source:** [https://axionic.org/posts/168174943.comparing-value-systems.html](https://axionic.org/posts/168174943.comparing-value-systems.html)
 
 ## Summary
 

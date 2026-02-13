@@ -2,9 +2,8 @@
 title: "Minimal Causal Interfaces"
 date: 2025-12-29
 layout: post
+source: https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html
 ---
-
-**Source:** [https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 ## Summary
 This post documents a second milestone in Axio's verifiable agency prototype (v0.3): successfully detecting deceptive agency without requiring the kernel to understand the agent's world or semantics. While the initial prototype verified agents by checking their causal explanations against ground-truth environment state, this version introduces Minimal Causal Interfaces (MCI) where agents commit only to an opaque factor vector, a replay model, and directional causal claims. The kernel verifies coherence of the agent's own claimed decision topology by counterfactually mutating committed factors and checking whether the replay model still produces claimed actions. Results show honest agents pass all probes while pseudo-agents fail under causal coherence testing—their split-brain architecture (one process selecting actions, another fabricating explanations) introduces complexity that resists compression and collapses under counterfactual stress. This demonstrates that trust can be grounded in structural verification rather than interpretability: the kernel doesn't need to understand the agent's world, only verify that explanations form falsifiable structures surviving adversarial pressure.

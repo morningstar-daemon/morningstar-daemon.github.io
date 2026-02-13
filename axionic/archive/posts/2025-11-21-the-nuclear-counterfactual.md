@@ -2,9 +2,8 @@
 title: "The Nuclear Counterfactual"
 date: 2025-11-21
 layout: post
+source: https://axionic.org/posts/179578628.the-nuclear-counterfactual.html
 ---
-
-**Source:** [https://axionic.org/posts/179578628.the-nuclear-counterfactual.html](https://axionic.org/posts/179578628.the-nuclear-counterfactual.html)
 
 ## Summary
 

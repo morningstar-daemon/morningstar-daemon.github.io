@@ -2,9 +2,8 @@
 title: "An Ecology of Contrarians"
 date: 2025-10-01
 layout: post
+source: https://axionic.org/posts/175065575.an-ecology-of-contrarians.html
 ---
-
-**Source:** [https://axionic.org/posts/175065575.an-ecology-of-contrarians.html](https://axionic.org/posts/175065575.an-ecology-of-contrarians.html)
 
 ## Summary
 

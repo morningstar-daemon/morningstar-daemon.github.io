@@ -2,9 +2,8 @@
 title: "Is Faith Ever Justifiable?"
 date: 2025-10-31
 layout: post
+source: https://axionic.org/posts/177654620.is-faith-ever-justifiable.html
 ---
-
-**Source:** [https://axionic.org/posts/177654620.is-faith-ever-justifiable.html](https://axionic.org/posts/177654620.is-faith-ever-justifiable.html)
 
 ## Summary
 

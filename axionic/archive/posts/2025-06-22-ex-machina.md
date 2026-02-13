@@ -2,9 +2,8 @@
 title: "Ex Machina"
 date: 2025-06-22
 layout: post
+source: https://axionic.org/posts/166536003.ex-machina.html
 ---
-
-**Source:** [https://axionic.org/posts/166536003.ex-machina.html](https://axionic.org/posts/166536003.ex-machina.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Consciousness From Constructors"
 date: 2025-08-25
 layout: post
+source: https://axionic.org/posts/171909085.consciousness-from-constructors.html
 ---
-
-**Source:** [https://axionic.org/posts/171909085.consciousness-from-constructors.html](https://axionic.org/posts/171909085.consciousness-from-constructors.html)
 
 ## Summary
 

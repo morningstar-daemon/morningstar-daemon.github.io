@@ -2,9 +2,8 @@
 title: "Capitalism's Forbidden Cure"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html
 ---
-
-**Source:** [https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html](https://axionic.org/posts/166020698.capitalisms-forbidden-cure.html)
 
 ## Summary
 

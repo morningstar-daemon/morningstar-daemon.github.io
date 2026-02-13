@@ -2,9 +2,8 @@
 title: "The Metagame of Incentives"
 date: 2025-11-26
 layout: post
+source: https://axionic.org/posts/180058480.the-metagame-of-incentives.html
 ---
-
-**Source:** [https://axionic.org/posts/180058480.the-metagame-of-incentives.html](https://axionic.org/posts/180058480.the-metagame-of-incentives.html)
 
 ## Summary
 This post examines incentives as the transmission mechanism by which higher-level games shape lower-level ones without altering formal rules. Axios defines incentives not as simple carrots/sticks but as "consequence structures that make one strategy more attractive than another to an agent trying to win a higher-level game." The piece traces how incentive gradients propagate downward (funding prioritizes novelty → journals prioritize novelty → scientists chase novelty → replication collapses), connecting to the ultimate metagame of persistence that shapes all lower games through survival, stability, and resource-competition pressures. The post positions understanding incentives as central to agency: "Agency is not merely choosing actions. Agency is choosing which incentives you allow to govern your actions."

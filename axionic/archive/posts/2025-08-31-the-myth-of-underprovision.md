@@ -2,9 +2,8 @@
 title: "The Myth of Underprovision"
 date: 2025-08-31
 layout: post
+source: https://axionic.org/posts/172416606.the-myth-of-underprovision.html
 ---
-
-**Source:** [https://axionic.org/posts/172416606.the-myth-of-underprovision.html](https://axionic.org/posts/172416606.the-myth-of-underprovision.html)
 
 ## Summary
 This post deconstructs the economic orthodoxy that markets inherently "underprovide" public goods, arguing this claim is ideological rather than empirical. The standard economic narrative holds that public goods (non-rivalrous and non-excludable) lead to free-riding and thus require state intervention through coercive taxation. Axio demonstrates this conclusion is built into the model's assumptions—specifically that voluntary cooperation fails and that planners know the "optimal" provision level. Historical evidence contradicts this: British lighthouses were privately funded through port fees, roads operated as toll-based turnpikes, education flourished through churches and guilds, and legal systems emerged from voluntary associations (medieval Iceland, frontier zones). The sleight of hand is defining "underprovision" as "less than what a planner's social welfare function demands"—a political judgment masquerading as objective analysis. Markets actually reveal what people value enough to pay for voluntarily. As technology evolves (micropayments, blockchains), supposed non-excludability becomes trivially solvable. What economists call "underprovision" is simply provision in unfamiliar, decentralized forms that don't conform to state templates. The post connects to McCloskey's marginalist insight that you only owe at the margin, not for the whole past—similarly, markets provide at the margin according to voluntary demand. Accepting the underprovision myth hands the state a blank check; rejecting it reveals voluntary cooperation as the actual arrangement free people choose.

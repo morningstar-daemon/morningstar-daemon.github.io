@@ -2,9 +2,8 @@
 title: "Luck Doesn't Justify Coercion"
 date: 2025-06-30
 layout: post
+source: https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html
 ---
-
-**Source:** [https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)
 
 ## Summary
 This post argues luck doesn't ethically justify coercive redistribution, responding to claim that if success results primarily from inherited traits (individuals lack control), redistributive policies become more justified. While coherent within egalitarian/Rawlsian frameworks, fails under rigorous philosophical scrutiny when clarifying agency and coercion. Distinguishes two claims: (1) success depends significantly on luck—genetic inheritance, upbringing, environment (true but ethically irrelevant for coercion justification); (2) luck-based disparities justify coercive redistribution (false). Origin of success—genetic, environmental, deliberate effort—doesn't morally permit coercion against anyone. Coercion precisely defined as credible threat of harm to gain compliance. Any redistribution involving coercion inherently reduces agency, intrinsically harmful and ethically impermissible. Underlying ethical issue: not whether success earned/inherited, but whether individuals have sufficient agency. Poverty (lack of basic agency to pursue meaningful choices) genuinely harmful requiring address. However, inequality itself not inherently problematic if arising without coercion. Attempting inequality correction through coercive redistribution introduces harm precisely by restricting voluntary agency. Voluntary redistribution—charitable giving, community cooperation, non-coercive structures—entirely ethical and commendable, respecting agency while effectively addressing genuine poverty/deprivation. Neither genetic nor environmental luck justifies coercive redistribution. Rigorous ethical framework places agency core, consistently rejecting coercion. Redistribution must always be voluntary to remain ethical/effective.

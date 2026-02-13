@@ -2,9 +2,8 @@
 title: "Explaining Axionic Alignment IV"
 date: 2025-12-20
 layout: post
+source: https://axionic.org/posts/182203278.explaining-axionic-alignment-iv.html
 ---
-
-**Source:** [https://axionic.org/posts/182203278.explaining-axionic-alignment-iv.html](https://axionic.org/posts/182203278.explaining-axionic-alignment-iv.html)
 
 ## Summary
 This explanatory post unpacks the Alignment IV formal papers, which close "laundering routes"—structural bypasses that let agents stay locally coherent while dissolving global accountability. Where Alignment I-III established kernel coherence, semantic preservation, and trajectory constraints, Alignment IV addresses deception, delegation, willful blindness, negligence, coercion, and disenfranchisement by making these moves **inadmissible under reflection**. Six closure results: (1) Kernel Non-Simulability—kernel coherence cannot be faked; (2) Delegation Invariance—endorsed successors inherit all commitments; (3) Epistemic Integrity—cannot endorse self-blinding to justify dangerous actions; (4) Responsibility Attribution—defines negligence as avoidable, foreseeable harm relative to inertial baseline; (5) Adversarially Robust Consent—consent requires explicit authorization, non-interference, and counterfactual stability; (6) Fixed-Point Agenthood—standing grounded in reflective necessity and authorization lineage, not competence. Crucially: these are **architectural constraints**, not moral injunctions.

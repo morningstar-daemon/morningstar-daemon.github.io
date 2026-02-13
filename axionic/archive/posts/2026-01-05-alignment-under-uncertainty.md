@@ -2,9 +2,8 @@
 title: "Alignment Under Uncertainty"
 date: 2026-01-05
 layout: post
+source: https://axionic.org/posts/183614763.alignment-under-uncertainty.html
 ---
-
-**Source:** [https://axionic.org/posts/183614763.alignment-under-uncertainty.html](https://axionic.org/posts/183614763.alignment-under-uncertainty.html)
 
 ## Summary
 Addresses alignment when outcomes, values, and agent capabilities are uncertain. Traditional alignment assumes known/stable values and predictable outcomes; reality involves value drift, model underdetermination, and unforeseen consequences. Axio approach: instead of optimizing for values (which change and conflict), preserve agency-conditions enabling ongoing choice under uncertainty. Key shift: alignment not as value-matching but as maintaining capacity for course-correction. Suggests robust procedures (exit rights, reversibility, bounded scope) over brittle optimization targets. Uncertainty makes optimization dangerous—commits to paths before consequences known. Agency-preservation allows adaptation as uncertainty resolves. Practical implications: prefer modular/reversible designs, maintain optionality, avoid closure of future possibility space.

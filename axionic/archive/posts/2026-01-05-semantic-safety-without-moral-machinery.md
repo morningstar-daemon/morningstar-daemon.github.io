@@ -2,9 +2,8 @@
 title: "Semantic Safety Without Moral Machinery"
 date: 2026-01-05
 layout: post
+source: https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html
 ---
-
-**Source:** [https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)
 
 ## Summary
 Argues safety mechanisms requiring moral evaluation/intention-interpretation introduce stasis-prone complexity. Alternative: structural constraints preventing harm-classes without semantic understanding of "good." Semantic safety (interpreting whether action is moral) requires expanding kernel scope until stasis; non-semantic safety (enforcing that certain capability-classes are inadmissible) remains tractable. Examples: preventing direct harm (capability boundary) vs ensuring benevolent outcomes (moral evaluation). Moral machinery introduces interpretive burden incompatible with evaluability under pressure. Axio approach: remove harmful action-types from executable space structurally rather than evaluating whether specific actions moral in context. This preserves tractability but accepts limitation: cannot guarantee benevolence, only prevent specific harm-patterns. Explicit tradeoff: structural safety over moral correctness.

@@ -2,9 +2,8 @@
 title: "Communism at Home"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165430456.communism-at-home.html
 ---
-
-**Source:** [https://axionic.org/posts/165430456.communism-at-home.html](https://axionic.org/posts/165430456.communism-at-home.html)
 
 ## Summary
 

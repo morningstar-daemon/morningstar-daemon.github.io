@@ -2,9 +2,8 @@
 title: "From Correlation to Counterfactuals"
 date: 2025-10-18
 layout: post
+source: https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html
 ---
-
-**Source:** [https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)
 
 ## Summary
 This essay recounts testing GPT-5 with Judea Pearl's firing squad thought experiment (from "The Book of Why") and finding it successfully performed counterfactual reasoning—distinguishing overdetermination from preemption, causal responsibility from moral culpability, and formalizing the structure. Pearl claimed deep learning systems, being "mere statistical correlators," couldn't reason this way. What changed? Architecture: modern LLMs contain hybrid reasoning layers—symbolic interpreters capable of building structural causal models (SCMs) on demand. When language invokes causal relationships, the model generates variables and edges, executes interventions using do-calculus semantics, and reports results. It doesn't merely imitate causal talk—it performs causal reasoning. Pearl emphasized explicit world models were necessary but didn't specify how they might emerge from hybrid systems fusing neural pattern recognition with symbolic inference. The essay concludes this completes Pearl's vision: "language itself becomes a laboratory for causal thought."

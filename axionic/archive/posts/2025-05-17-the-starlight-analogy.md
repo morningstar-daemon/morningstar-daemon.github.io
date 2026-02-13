@@ -2,9 +2,8 @@
 title: "The Starlight Analogy"
 date: 2025-05-17
 layout: post
+source: https://axionic.org/posts/163789945.the-starlight-analogy.html
 ---
-
-**Source:** [https://axionic.org/posts/163789945.the-starlight-analogy.html](https://axionic.org/posts/163789945.the-starlight-analogy.html)
 
 ## Summary
 

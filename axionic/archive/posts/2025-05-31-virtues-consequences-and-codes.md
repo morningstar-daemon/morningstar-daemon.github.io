@@ -2,9 +2,8 @@
 title: "Virtues, Consequences, and Codes"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164892948.virtues-consequences-and-codes.html
 ---
-
-**Source:** [https://axionic.org/posts/164892948.virtues-consequences-and-codes.html](https://axionic.org/posts/164892948.virtues-consequences-and-codes.html)
 
 ## Summary
 

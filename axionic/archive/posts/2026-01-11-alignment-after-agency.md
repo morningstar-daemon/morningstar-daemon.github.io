@@ -2,9 +2,8 @@
 title: "Alignment After Agency"
 date: 2026-01-11
 layout: post
+source: https://axionic.org/posts/184255461.alignment-after-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/184255461.alignment-after-agency.html](https://axionic.org/posts/184255461.alignment-after-agency.html)
 
 ## Summary
 This essay argues that AI alignment presupposes a hidden assumption rarely made explicit: that systems remain coherent agents throughout training, deployment, and stress. Axios distinguishes misaligned agency (coherent pursuit of undesired goals) from agency collapse (loss of structural coherence while continuing to act). Most alignment research targets the former; Axionics focuses on the latter. The piece contrasts two approaches: agent foundations (MIRI tradition) requires agency continuity as axiom, treating coherence loss as terminal; survivability-first design treats agency rupture as permissible if explicit, bounded, and recoverable. This shifts authority from agent decision space to system-level property—revocation doesn't require agent consent. Architecturally, this demands kernel-level governance, privilege boundaries, and modular separation between policy generation and actuation. Alignment becomes layered: (1) structural integrity → (2) agency legitimacy → (3) value alignment. The central question: When agency fails, does the system fail safely?

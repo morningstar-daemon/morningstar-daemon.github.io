@@ -2,9 +2,8 @@
 title: "Virtual Ancestors"
 date: 2025-06-14
 layout: post
+source: https://axionic.org/posts/165910125.virtual-ancestors.html
 ---
-
-**Source:** [https://axionic.org/posts/165910125.virtual-ancestors.html](https://axionic.org/posts/165910125.virtual-ancestors.html)
 
 ## Summary
 This post proposes a computational framework for genealogical analysis using **virtual ancestors**—theoretical ancestral slots identified by binary strings where each digit encodes parental lineage (0 = maternal, 1 = paternal). Every person has 2^n virtual ancestors at generation n (e.g., 1,024 slots ten generations back), but **pedigree collapse** occurs when multiple virtual ancestor IDs map to the same historical individual. The binary ID 010101 specifies mother's father's mother's father's mother's father (six generations, last digit reveals gender). The **Ancestor Redundancy Factor (ARF)** quantifies collapse: ratio of virtual to unique real ancestors. ARF ≈ 1 indicates maximal genetic diversity; higher ARF signals ancestral overlap from population bottlenecks or endogamy. Benefits: computational precision, explicit identification of repeated ancestors, historical insight into mating patterns, genetic diversity implications. Genealogy software can adopt this framework for better pedigree collapse visualization and quantification.

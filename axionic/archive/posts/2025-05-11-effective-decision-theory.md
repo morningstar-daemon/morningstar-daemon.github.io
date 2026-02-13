@@ -2,9 +2,8 @@
 title: "Effective Decision Theory"
 date: 2025-05-11
 layout: post
+source: https://axionic.org/posts/163356868.effective-decision-theory.html
 ---
-
-**Source:** [https://axionic.org/posts/163356868.effective-decision-theory.html](https://axionic.org/posts/163356868.effective-decision-theory.html)
 
 ## Summary
 

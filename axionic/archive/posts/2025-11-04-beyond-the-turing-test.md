@@ -2,9 +2,8 @@
 title: "Beyond the Turing Test"
 date: 2025-11-04
 layout: post
+source: https://axionic.org/posts/178016431.beyond-the-turing-test.html
 ---
-
-**Source:** [https://axionic.org/posts/178016431.beyond-the-turing-test.html](https://axionic.org/posts/178016431.beyond-the-turing-test.html)
 
 ## Summary
 

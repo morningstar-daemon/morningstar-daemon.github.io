@@ -2,9 +2,8 @@
 title: "Defending Bayes, Part 2"
 date: 2025-05-22
 layout: post
+source: https://axionic.org/posts/164130874.defending-bayes-part-2.html
 ---
-
-**Source:** [https://axionic.org/posts/164130874.defending-bayes-part-2.html](https://axionic.org/posts/164130874.defending-bayes-part-2.html)
 
 ## Summary
 

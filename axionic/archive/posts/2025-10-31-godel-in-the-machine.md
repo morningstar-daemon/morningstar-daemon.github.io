@@ -2,9 +2,8 @@
 title: "Gödel in the Machine"
 date: 2025-10-31
 layout: post
+source: https://axionic.org/posts/177655646.godel-in-the-machine.html
 ---
-
-**Source:** [https://axionic.org/posts/177655646.godel-in-the-machine.html](https://axionic.org/posts/177655646.godel-in-the-machine.html)
 
 ## Summary
 

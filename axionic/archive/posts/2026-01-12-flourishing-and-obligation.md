@@ -2,9 +2,8 @@
 title: "Flourishing and Obligation"
 date: 2026-01-12
 layout: post
+source: https://axionic.org/posts/184262903.flourishing-and-obligation.html
 ---
-
-**Source:** [https://axionic.org/posts/184262903.flourishing-and-obligation.html](https://axionic.org/posts/184262903.flourishing-and-obligation.html)
 
 ## Summary
 This essay critiques Objectivist ethics from an Axionic perspective, acknowledging its strengths (rejection of self-sacrifice, emphasis on agency, coherence) while challenging its claim to objective moral authority. Objectivism grounds morality in effectiveness—principles justified by supporting survival, flourishing, productivity. Axionics argues this conflates instrumental success (what works given a goal) with ethical authority (which reasons may bind an agent). Terminal values (human life, flourishing, rational self-interest) appear in Objectivism as discoveries rather than commitments requiring endorsement. The essay identifies fragilities: egoism relies on convergence not constraint (fails under adversarial conditions with asymmetric power); voluntariness treated as binary when consent admits degrees/defeasibility; lacks mechanism distinguishing guidance from governance when scaled to politics. Axionic reframe: Objectivism becomes valuable recommendation for agents endorsing certain commitments, not moral law. Axionics addresses prior question: what must remain intact for moral questions to make sense at all—preservation of coherent agency under reflection.

@@ -2,9 +2,8 @@
 title: "You Are Your Choices"
 date: 2025-11-07
 layout: post
+source: https://axionic.org/posts/178311820.you-are-your-choices.html
 ---
-
-**Source:** [https://axionic.org/posts/178311820.you-are-your-choices.html](https://axionic.org/posts/178311820.you-are-your-choices.html)
 
 ## Summary
 

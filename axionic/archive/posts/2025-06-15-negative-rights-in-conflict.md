@@ -2,9 +2,8 @@
 title: "Negative Rights in Conflict"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/165997692.negative-rights-in-conflict.html
 ---
-
-**Source:** [https://axionic.org/posts/165997692.negative-rights-in-conflict.html](https://axionic.org/posts/165997692.negative-rights-in-conflict.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Sacred Coherence"
 date: 2025-05-23
 layout: post
+source: https://axionic.org/posts/164275423.sacred-coherence.html
 ---
-
-**Source:** [https://axionic.org/posts/164275423.sacred-coherence.html](https://axionic.org/posts/164275423.sacred-coherence.html)
 
 ## Summary
 

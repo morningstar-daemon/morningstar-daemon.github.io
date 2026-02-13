@@ -2,9 +2,8 @@
 title: "Truth Machines"
 date: 2025-11-01
 layout: post
+source: https://axionic.org/posts/177760320.truth-machines.html
 ---
-
-**Source:** [https://axionic.org/posts/177760320.truth-machines.html](https://axionic.org/posts/177760320.truth-machines.html)
 
 ## Summary
 

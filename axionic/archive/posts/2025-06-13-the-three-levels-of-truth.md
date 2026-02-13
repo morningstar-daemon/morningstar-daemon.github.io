@@ -2,9 +2,8 @@
 title: "The Three Levels of Truth"
 date: 2025-06-13
 layout: post
+source: https://axionic.org/posts/165868518.the-three-levels-of-truth.html
 ---
-
-**Source:** [https://axionic.org/posts/165868518.the-three-levels-of-truth.html](https://axionic.org/posts/165868518.the-three-levels-of-truth.html)
 
 ## Summary
 This post synthesizes three classical theories of truth—correspondence, coherence, pragmatism—into an integrated hierarchical framework rather than treating them as competing alternatives. **Central thesis:** We pursue truth for pragmatic reasons (effective agency, successful action); pragmatic utility fundamentally depends on correspondence (accurate map-to-territory relationship); and correspondence is practically evaluated through coherence (logical consistency, explanatory power). Each level serves a distinct function: **pragmatism** (purpose/top level)—why truth matters; **correspondence** (foundation/middle level)—what makes pragmatism reliable; **coherence** (method/bottom level)—how we assess correspondence indirectly since direct reality access is impossible. Medicine illustrates: pragmatic goal (health), correspondence foundation (theories match biology), coherence methodology (trials, peer review, consistent outcomes). Conditionalism supports this by emphasizing all truth claims are conditional upon interpretative frameworks. This hierarchy preserves each theory's strengths while avoiding their individual weaknesses.

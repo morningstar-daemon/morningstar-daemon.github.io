@@ -2,9 +2,8 @@
 title: "The Highest Good"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166023954.the-highest-good.html
 ---
-
-**Source:** [https://axionic.org/posts/166023954.the-highest-good.html](https://axionic.org/posts/166023954.the-highest-good.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Price Illusion"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164884396.the-price-illusion.html
 ---
-
-**Source:** [https://axionic.org/posts/164884396.the-price-illusion.html](https://axionic.org/posts/164884396.the-price-illusion.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Ghosts in the Machine"
 date: 2025-08-22
 layout: post
+source: https://axionic.org/posts/171666094.ghosts-in-the-machine.html
 ---
-
-**Source:** [https://axionic.org/posts/171666094.ghosts-in-the-machine.html](https://axionic.org/posts/171666094.ghosts-in-the-machine.html)
 
 ## Summary
 

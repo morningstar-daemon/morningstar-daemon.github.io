@@ -2,9 +2,8 @@
 title: "Observer Class Alignment"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165410248.html
 ---
-
-**Source:** [https://axionic.org/posts/165410248.html](https://axionic.org/posts/165410248.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Axio Index"
 date: 2025-11-30
 layout: post
+source: https://axionic.org/posts/180343052.the-axio-index.html
 ---
-
-**Source:** [https://axionic.org/posts/180343052.the-axio-index.html](https://axionic.org/posts/180343052.the-axio-index.html)
 
 ## Summary
 This master index maps the complete architecture of Axio across twelve major sequences, revealing how each layer solves tensions created by its predecessors. The progression moves from algorithmic chaos through quantum mechanics, agency physics, cybernetic control, epistemology, probability, hybrid cognition, strategic metagames, value theory, political philosophy, artificial intelligence, and finally alignment theory. The index demonstrates that Axio was not designed top-down but evolved organically as each sequence generated questions only the next could answer, creating a coherent multi-layered framework for understanding reality, agency, and coordination.

@@ -2,9 +2,8 @@
 title: "Making Sense of P(doom)"
 date: 2025-05-10
 layout: post
+source: https://axionic.org/posts/163293406.making-sense-of-pdoom.html
 ---
-
-**Source:** [https://axionic.org/posts/163293406.making-sense-of-pdoom.html](https://axionic.org/posts/163293406.making-sense-of-pdoom.html)
 
 ## Summary
 

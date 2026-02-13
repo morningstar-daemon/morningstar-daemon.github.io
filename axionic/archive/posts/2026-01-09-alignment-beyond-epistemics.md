@@ -2,9 +2,8 @@
 title: "Alignment Beyond Epistemics"
 date: 2026-01-09
 layout: post
+source: https://axionic.org/posts/184075360.alignment-beyond-epistemics.html
 ---
-
-**Source:** [https://axionic.org/posts/184075360.alignment-beyond-epistemics.html](https://axionic.org/posts/184075360.alignment-beyond-epistemics.html)
 
 ## Summary
 Argues alignment discourse over-focuses on epistemic problems (what AI knows/believes/understands) while neglecting structural constraints on authority and actuation. Traditional approach: get AI to know/care about right things. Axio approach: establish boundaries on what AI can do regardless of knowledge/values. Key insight: epistemic alignment (better world-models, value-learning) insufficient for safety because capable optimizers find ways around preference-based constraints. Structural alignment (capability removal, non-delegable actuation, enforced inadmissibility) survives optimization pressure that epistemic approaches don't. This doesn't eliminate need for epistemics but subordinates it: good world-models useful within structural boundaries, but boundaries must hold independent of understanding. Practical implication: build actuation architecture first, then permit epistemic capability growth within it. Reverses typical priority (make AI smart and good, then let it act).

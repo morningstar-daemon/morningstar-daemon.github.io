@@ -2,9 +2,8 @@
 title: "The Mechanics of Agency: Maximal Theoretical Agent"
 date: 2025-05-08
 layout: post
+source: https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html
 ---
-
-**Source:** [https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html](https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html)
 
 ## Summary
 

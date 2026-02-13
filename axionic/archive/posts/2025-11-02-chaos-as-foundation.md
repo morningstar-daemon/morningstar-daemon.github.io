@@ -2,9 +2,8 @@
 title: "Chaos as Foundation"
 date: 2025-11-02
 layout: post
+source: https://axionic.org/posts/177832101.chaos-as-foundation.html
 ---
-
-**Source:** [https://axionic.org/posts/177832101.chaos-as-foundation.html](https://axionic.org/posts/177832101.chaos-as-foundation.html)
 
 ## Summary
 

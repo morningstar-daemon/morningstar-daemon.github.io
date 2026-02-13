@@ -2,9 +2,8 @@
 title: "Against Positive Rights"
 date: 2025-06-14
 layout: post
+source: https://axionic.org/posts/165967029.against-positive-rights.html
 ---
-
-**Source:** [https://axionic.org/posts/165967029.against-positive-rights.html](https://axionic.org/posts/165967029.against-positive-rights.html)
 
 ## Summary
 This post argues that within Axio's framework, **all valid rights are negative rights**. A valid right is an ethical preference justifiable to enforce through coercion, which itself is defined as credible threat of harm for compliance. Coercion can only be justified defensively (responding to/preventing prior/imminent harm). **Negative rights** (non-interference: freedom from assault, theft, fraud) impose no active obligations beyond restraint, preserving agency. **Positive rights** (healthcare, education, welfare) impose active obligations on others; enforcing them coercively (via taxation, mandates) inherently reduces agency and constitutes harm. Since ethical coercion is exclusively defensive, any coercive enforcement of positive rights is offensive (imposing proactive demands), thus unjustifiable. Voluntary provision (charity, mutual aid) can fulfill societal needs without being enforceable rights—voluntariness removes coercion, distinguishing ethical generosity from enforceable entitlement.

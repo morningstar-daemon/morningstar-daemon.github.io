@@ -2,9 +2,8 @@
 title: "What Counts as Knowledge"
 date: 2025-06-27
 layout: post
+source: https://axionic.org/posts/167007172.what-counts-as-knowledge.html
 ---
-
-**Source:** [https://axionic.org/posts/167007172.what-counts-as-knowledge.html](https://axionic.org/posts/167007172.what-counts-as-knowledge.html)
 
 ## Summary
 This post provides technical definition of knowledge grounded in Information Theory and Physics of Agency framework, addressing traditional "justified true belief" problems including Gettier cases. Knowledge is pattern-encoded information within agent's predictive structure reliably and quantifiably reducing Shannon entropy (uncertainty) regarding future events/states across quantum-branching timelines. Three components: (1) Pattern Identifier—reproducible structure (neural configuration, logical rule, algorithm, cultural convention) enabling consistent predictions; (2) Reliability—PI consistently reduces uncertainty across scenarios; (3) Entropy Reduction—quantifiable Shannon entropy decrease in bits, providing objective predictive capability metric. Definition tested against scenarios: weather forecasts (knowledge), false beliefs (fail—no reliable entropy reduction), Gettier problems (fail—no reliable predictability), quantum uncertainty (epistemic vs. ontic distinction), random guesses (fail), tacit knowledge/skills (pass), cultural knowledge (pass), conditional knowledge (context-dependent pass), QBU branching knowledge (pass), raw data without agency (fail). Integrates with Conditionalist and QBU frameworks, emphasizing agent-centricity, measurability, practical action-facilitation.

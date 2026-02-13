@@ -2,9 +2,8 @@
 title: "The Paradox of Classical Liberalism"
 date: 2025-06-08
 layout: post
+source: https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html
 ---
-
-**Source:** [https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html](https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html)
 
 ## Summary
 

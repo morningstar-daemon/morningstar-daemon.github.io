@@ -2,9 +2,8 @@
 title: "Quantum Agency in the Emergent Multiverse"
 date: 2025-05-13
 layout: post
+source: https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html
 ---
-
-**Source:** [https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html](https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html)
 
 ## Summary
 

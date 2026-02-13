@@ -2,9 +2,8 @@
 title: "Phosphorism: Illuminating Agency"
 date: 2025-06-29
 layout: post
+source: https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html](https://axionic.org/posts/167118984.phosphorism-illuminating-agency.html)
 
 ## Summary
 This post introduces Phosphorism as consciously chosen philosophical framework synthesizing Vitalism (default evolutionary/biological imperatives: survival, reproduction, continuity) and Valorism (conscious rejection of inherited values, prioritizing authenticity, integrity, deliberately chosen subjective values). Phosphorism embraces authenticity and deliberate choice while explicitly valuing particular preferences promoting intellectual/existential illumination: life over death, intelligence over ignorance, complexity over simplicity, flourishing over suffering, consent over coercion, freedom over slavery, liberty over enforced equality, prosperity over equity, free enterprise over central planning, free speech over censorship, free thought over dogma, voluntary charity over coercive redistribution. Framework emphasizes ongoing reflective practice—continuously re-evaluating values in light of new experiences/evidence/understanding. Phosphorists embrace complexity, acknowledging rare clear-cut answers in interconnected dynamic world, encouraging adaptive thinking, flexible responsiveness, intellectual humility. Explicitly subjective and contingent, avoiding universal moral truth claims—positioned as self-aware reflective framework, consciously chosen and intentionally maintained. Symbolizes commitment to intellectual/existential illumination, fostering authentic flourishing through explicitly selected values rather than inherited defaults or enforced universalisms. Serves as philosophical beacon for consciously illuminated living.

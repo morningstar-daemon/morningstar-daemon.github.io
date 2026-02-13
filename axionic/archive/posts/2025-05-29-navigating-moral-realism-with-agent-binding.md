@@ -2,9 +2,8 @@
 title: "Navigating Moral Realism with Agent-Binding"
 date: 2025-05-29
 layout: post
+source: https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html
 ---
-
-**Source:** [https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html](https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html)
 
 ## Summary
 

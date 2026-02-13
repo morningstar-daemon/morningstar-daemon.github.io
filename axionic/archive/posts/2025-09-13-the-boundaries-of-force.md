@@ -2,9 +2,8 @@
 title: "The Boundaries of Force"
 date: 2025-09-13
 layout: post
+source: https://axionic.org/posts/173541004.the-boundaries-of-force.html
 ---
-
-**Source:** [https://axionic.org/posts/173541004.the-boundaries-of-force.html](https://axionic.org/posts/173541004.the-boundaries-of-force.html)
 
 ## Summary
 

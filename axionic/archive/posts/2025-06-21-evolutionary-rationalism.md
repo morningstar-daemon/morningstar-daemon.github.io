@@ -2,9 +2,8 @@
 title: "Evolutionary Rationalism"
 date: 2025-06-21
 layout: post
+source: https://axionic.org/posts/166439024.evolutionary-rationalism.html
 ---
-
-**Source:** [https://axionic.org/posts/166439024.evolutionary-rationalism.html](https://axionic.org/posts/166439024.evolutionary-rationalism.html)
 
 ## Summary
 

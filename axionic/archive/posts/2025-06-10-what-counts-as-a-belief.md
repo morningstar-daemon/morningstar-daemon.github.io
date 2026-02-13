@@ -2,9 +2,8 @@
 title: "What Counts as a Belief"
 date: 2025-06-10
 layout: post
+source: https://axionic.org/posts/165666289.what-counts-as-a-belief.html
 ---
-
-**Source:** [https://axionic.org/posts/165666289.what-counts-as-a-belief.html](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)
 
 ## Summary
 

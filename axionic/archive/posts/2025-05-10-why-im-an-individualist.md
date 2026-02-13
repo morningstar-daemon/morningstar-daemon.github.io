@@ -2,9 +2,8 @@
 title: "Why I'm an Individualist"
 date: 2025-05-10
 layout: post
+source: https://axionic.org/posts/163272667.why-im-an-individualist.html
 ---
-
-**Source:** [https://axionic.org/posts/163272667.why-im-an-individualist.html](https://axionic.org/posts/163272667.why-im-an-individualist.html)
 
 ## Summary
 

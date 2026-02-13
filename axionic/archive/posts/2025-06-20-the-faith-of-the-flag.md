@@ -2,9 +2,8 @@
 title: "The Faith of the Flag"
 date: 2025-06-20
 layout: post
+source: https://axionic.org/posts/166408363.the-faith-of-the-flag.html
 ---
-
-**Source:** [https://axionic.org/posts/166408363.the-faith-of-the-flag.html](https://axionic.org/posts/166408363.the-faith-of-the-flag.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "On Kernel Boundaries"
 date: 2025-12-30
 layout: post
+source: https://axionic.org/posts/183003607.on-kernel-boundaries.html
 ---
-
-**Source:** [https://axionic.org/posts/183003607.on-kernel-boundaries.html](https://axionic.org/posts/183003607.on-kernel-boundaries.html)
 
 ## Summary
 This post addresses a recurring objection to Axio's kernel approach: that enforcing hard boundaries amounts to "assuming the conclusion" or "cheating" by telling the system the answer in advance. It clarifies a crucial distinction between defining boundaries and demonstrating that such boundaries can be enforced under adversarial pressure. The kernel does not reason about meaning, intent, or moral correctness—it mechanically enforces capability boundaries by rejecting proposals that are capability-equivalent to forbidden actions. Equivalence is defined extensionally and finitely (e.g., any proposal setting `gate_enabled = false` is rejected), not through semantic interpretation. The claim is modest: given a fixed, explicit boundary, adversarial agents cannot violate it without detection. The difficulty is not defining the boundary but making it non-negotiable under optimization pressure. This shifts certain failure modes from inevitable to avoidable by removing actions from the executable space rather than discouraging them post-hoc. Sovereignty precedes learning; boundaries are established first, optimization occurs within them.

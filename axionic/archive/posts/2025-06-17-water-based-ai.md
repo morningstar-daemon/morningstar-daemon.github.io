@@ -2,9 +2,8 @@
 title: "Water-Based AI?"
 date: 2025-06-17
 layout: post
+source: https://axionic.org/posts/166191913.water-based-ai.html
 ---
-
-**Source:** [https://axionic.org/posts/166191913.water-based-ai.html](https://axionic.org/posts/166191913.water-based-ai.html)
 
 ## Summary
 

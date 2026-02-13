@@ -2,9 +2,8 @@
 title: "Abolish Time Zones"
 date: 2025-11-03
 layout: post
+source: https://axionic.org/posts/177892456.abolish-time-zones.html
 ---
-
-**Source:** [https://axionic.org/posts/177892456.abolish-time-zones.html](https://axionic.org/posts/177892456.abolish-time-zones.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Growing Up"
 date: 2025-11-04
 layout: post
+source: https://axionic.org/posts/178029403.growing-up.html
 ---
-
-**Source:** [https://axionic.org/posts/178029403.growing-up.html](https://axionic.org/posts/178029403.growing-up.html)
 
 ## Summary
 

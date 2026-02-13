@@ -2,9 +2,8 @@
 title: "Your Brain on ChatGPT"
 date: 2025-06-23
 layout: post
+source: https://axionic.org/posts/166606301.your-brain-on-chatgpt.html
 ---
-
-**Source:** [https://axionic.org/posts/166606301.your-brain-on-chatgpt.html](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)
 
 ## Summary
 This post analyzes an MIT study showing reduced neural activity in ChatGPT users, countering alarmist "brain rot" headlines with nuanced interpretation. Axio distinguishes passive AI reliance—which genuinely risks cognitive laziness by replacing thought—from active, deliberate use as a "Dialectic Catalyst" that amplifies critical thinking, creativity, and metacognitive clarity. The study itself revealed this distinction: participants starting with active engagement who later transitioned to AI showed cognitive boosts, not decline. Axio frames AI as neither universally beneficial nor harmful; outcomes depend entirely on usage mode. When integrated thoughtfully into rigorous intellectual practice, AI strengthens rather than atrophies cognitive capabilities. This positions AI tools as potential allies in thought amplification, provided users maintain active dialectical engagement rather than surrendering agency to automation.

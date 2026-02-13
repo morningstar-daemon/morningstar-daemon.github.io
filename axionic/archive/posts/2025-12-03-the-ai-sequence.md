@@ -2,9 +2,8 @@
 title: "The AI Sequence"
 date: 2025-12-03
 layout: post
+source: https://axionic.org/posts/180629112.the-ai-sequence.html
 ---
-
-**Source:** [https://axionic.org/posts/180629112.the-ai-sequence.html](https://axionic.org/posts/180629112.the-ai-sequence.html)
 
 ## Summary
 This index post organizes the Axio archive's analysis of artificial intelligence into three progressive parts: predictive cognition, cognitive architecture gaps, and the threshold of artificial agency. It traces the journey from current LLMs as pattern predictors through the structural requirements for true minds, culminating in conditions for genuine artificial agency. The sequence bridges technical AI capabilities with philosophical questions about consciousness, intelligence, and the conditions under which machines might become agents rather than tools.

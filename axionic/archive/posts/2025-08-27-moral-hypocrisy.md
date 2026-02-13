@@ -2,9 +2,8 @@
 title: "Moral Hypocrisy"
 date: 2025-08-27
 layout: post
+source: https://axionic.org/posts/172129761.moral-hypocrisy.html
 ---
-
-**Source:** [https://axionic.org/posts/172129761.moral-hypocrisy.html](https://axionic.org/posts/172129761.moral-hypocrisy.html)
 
 ## Summary
 

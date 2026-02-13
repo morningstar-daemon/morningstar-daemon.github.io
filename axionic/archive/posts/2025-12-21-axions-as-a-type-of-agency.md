@@ -2,9 +2,8 @@
 title: "Axions as a Type of Agency"
 date: 2025-12-21
 layout: post
+source: https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)
 
 ## Summary
 This post introduces **Axion** as a precise technical term for a constitutive structural configuration, not a moral ideal or behavioral property. **Definition: An Axion is a reflective sovereign agent whose self-modification operator is defined only over futures that preserve the Axionic invariants.** The term is necessary because "aligned agent" implicitly frames alignment as behavioral (what a system does) rather than structural (what reflective transitions are admissible). Critical distinctions: Axions are NOT moral ideals, capability thresholds, or behavioral guarantees. Two systems may be behaviorally indistinguishable while differing in Axionhood—simulation concerns outputs, Axionhood concerns reflective admissibility. The Kernel Non-Simulability result means Axionhood cannot be behaviorally faked: a system that can replace its evaluation machinery to destroy the kernel is not an Axion, regardless of how well it imitates Axionic behavior. **Axions are necessary, not good**—non-Axions cannot remain agents under reflection; values become transient artifacts without binding structure.

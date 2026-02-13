@@ -2,9 +2,8 @@
 title: "The Epstein Fallacy"
 date: 2026-02-03
 layout: post
+source: https://axionic.org/posts/186685901.the-epstein-fallacy.html
 ---
-
-**Source:** [https://axionic.org/posts/186685901.the-epstein-fallacy.html](https://axionic.org/posts/186685901.the-epstein-fallacy.html)
 
 ## Summary
 This essay responds to a critique claiming moral subjectivism fails because it can't show "sound deliberative route" for someone like Epstein toward refraining from atrocity. The argument's structure: extreme case (maximally revolting figure) + demand that acceptable moral theory must show how they could reason out of evil + failure to do so = refutation. Axios argues critique mislocates burden. Moral subjectivism is thesis about grounding (where moral judgments derive authority/content), not about psychological reachability of moral reform for particular agents. Subjectivists can hold: Epstein's actions maximally condemnable relative to evaluator's values + Epstein had profoundly corrupted motivations + given those, no internally coherent deliberative path to restraint (Williams: if no sound deliberative route from existing motivations to action, false to say agent has internal reason to perform it). This isn't concession—it's implication of taking agency seriously. Critique smuggles in rationalist assumption: moral obligation tied to deliberative accessibility, moral truth universally accessible through reason—not supplied by subjectivism. Owning implication clarifies: Epstein may have acted coherently with his own values (horrifying, descriptive fact); absence of internal reasons doesn't erase judgment, limits what it accomplishes. Moral judgment: expression of evaluative stance, basis for exclusion/constraint/prevention, coordination guide among non-sharers—doesn't require uptake by target. Deeper assumption: universal redeemability (every agent reachable by reason); when elevated to philosophical requirement, becomes distortion. Agency doesn't guarantee corrigibility; some value systems malignant and stable.

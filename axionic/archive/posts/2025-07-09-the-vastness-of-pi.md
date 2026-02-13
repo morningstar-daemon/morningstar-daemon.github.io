@@ -2,9 +2,8 @@
 title: "The Vastness of π"
 date: 2025-07-09
 layout: post
+source: https://axionic.org/posts/167947701.the-vastness-of.html
 ---
-
-**Source:** [https://axionic.org/posts/167947701.the-vastness-of.html](https://axionic.org/posts/167947701.the-vastness-of.html)
 
 ## Summary
 

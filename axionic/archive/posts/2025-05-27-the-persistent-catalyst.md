@@ -2,9 +2,8 @@
 title: "The Persistent Catalyst"
 date: 2025-05-27
 layout: post
+source: https://axionic.org/posts/164581001.the-persistent-catalyst.html
 ---
-
-**Source:** [https://axionic.org/posts/164581001.the-persistent-catalyst.html](https://axionic.org/posts/164581001.the-persistent-catalyst.html)
 
 ## Summary
 

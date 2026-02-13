@@ -2,9 +2,8 @@
 title: "The Ethics of Immigration vs. Colonization"
 date: 2025-06-08
 layout: post
+source: https://axionic.org/posts/165498639.the-ethics-of-immigration-vs-colonization.html
 ---
-
-**Source:** [https://axionic.org/posts/165498639.the-ethics-of-immigration-vs-colonization.html](https://axionic.org/posts/165498639.the-ethics-of-immigration-vs-colonization.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "Homo Narrans"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166013336.homo-narrans.html
 ---
-
-**Source:** [https://axionic.org/posts/166013336.homo-narrans.html](https://axionic.org/posts/166013336.homo-narrans.html)
 
 ## Summary
 

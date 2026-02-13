@@ -2,9 +2,8 @@
 title: "How Quantum Measurement Shapes Cosmic History"
 date: 2025-05-10
 layout: post
+source: https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html
 ---
-
-**Source:** [https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html](https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html)
 
 ## Summary
 

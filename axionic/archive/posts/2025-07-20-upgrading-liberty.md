@@ -2,9 +2,8 @@
 title: "Upgrading Liberty"
 date: 2025-07-20
 layout: post
+source: https://axionic.org/posts/168790363.upgrading-liberty.html
 ---
-
-**Source:** [https://axionic.org/posts/168790363.upgrading-liberty.html](https://axionic.org/posts/168790363.upgrading-liberty.html)
 
 ## Summary
 This post proposes upgrading political philosophy from liberty as core ideal to the richer concept of **agency**—defined as the capacity to intentionally choose and pursue goals. While liberty (freedom from coercion) is essential to agency, agency encompasses additional dimensions: **(1) Capability**—physical, intellectual, social abilities to execute meaningful choices; **(2) Opportunity**—access to meaningful and valuable choices. This resolves tensions inherent in pure liberty maximization, which conflicts with legitimate societal goals (security, justice, environmental protection, public health). Framework builds on established definitions: **harm** as any reduction of agency, **coercion** as credible threat of harm to gain compliance. Decision-theoretic principle: **interventions (even coercive) justified if and only if they produce net increase in overall agency** (Δ Net Agency > 0). This resolves libertarian blind spots: environmental regulations restrict liberty but preserve overall agency by preventing greater harm; public health measures (vaccinations, quarantines) restrict liberty temporarily but justified through net agency preservation. **Quantifying agency** as effective capacity for choice enables explicit reasoning about interventions. **Practical examples:** Immigration restrictions significantly reduce migrants' agency with minimal local gain, thus fail agency test; coercive redistribution generally reduces agency due to coercion involved, voluntary/mutually beneficial interventions remain justified. Framework aligns with Conditionalism and Physics of Choice, clarifying ethics by quantifying harm and delineating acceptable scope of political authority. Positions agency-centric approach as offering philosophical clarity and practical guidance—nuanced, internally consistent approach explicitly accounting for harm, coercion, genuine flourishing.

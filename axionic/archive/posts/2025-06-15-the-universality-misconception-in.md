@@ -2,9 +2,8 @@
 title: "The Universality Misconception in AI"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166028334.the-universality-misconception-in.html
 ---
-
-**Source:** [https://axionic.org/posts/166028334.the-universality-misconception-in.html](https://axionic.org/posts/166028334.the-universality-misconception-in.html)
 
 ## Summary
 

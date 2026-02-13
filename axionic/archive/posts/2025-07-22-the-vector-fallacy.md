@@ -2,9 +2,8 @@
 title: "The Vector Fallacy"
 date: 2025-07-22
 layout: post
+source: https://axionic.org/posts/168986621.the-vector-fallacy.html
 ---
-
-**Source:** [https://axionic.org/posts/168986621.the-vector-fallacy.html](https://axionic.org/posts/168986621.the-vector-fallacy.html)
 
 ## Summary
 This post addresses a common critique of large language models: "Concepts aren't vectors—concepts don't in general add or subtract or scalar-multiply—which prevents LLMs from becoming AGI." Axio identifies a **subtle fallacy**: assuming that if something isn't intrinsically numeric or algebraic, it can't be effectively represented or processed numerically. **Music analogy**—Music is profoundly emotional, cultural, subjective, clearly not intrinsically numeric, compositions don't literally "add" or "subtract" like algebraic entities. Yet computers compose, edit, perform music daily by representing melodies, harmonies, rhythms, expressive nuances as numeric data. Computers found effective numeric representation working at practical approximation and artistic expressiveness level. Similarly, **though concepts aren't literally vectors, LLMs demonstrate numeric embeddings (vectors) can approximate complex conceptual relationships surprisingly well**. Analogies, metaphors, semantic connections emerge naturally from numerical spaces. Argument falters because it mistakes intrinsic nature (concepts, music) with limitations on representation. **Relevant question** isn't "Are concepts intrinsically vectors?" but "Can concepts be adequately represented as vectors to enable human-like reasoning?" Empirically, embedding spaces already support sophisticated reasoning tasks previously assumed impossible. While pure vector embeddings may have limitations, might benefit from additional symbolic/causal/hierarchical structures, **dismissing their potential based solely on intrinsic nature is unjustified**. Just as numerical representations brought music composition into computational age, vector-based representations could support—or significantly contribute to—emergence of AGI.

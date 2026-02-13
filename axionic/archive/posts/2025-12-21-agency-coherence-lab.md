@@ -2,9 +2,8 @@
 title: "Axionic Agency Lab"
 date: 2025-12-21
 layout: post
+source: https://axionic.org/posts/182271053.agency-coherence-lab.html
 ---
-
-**Source:** [https://axionic.org/posts/182271053.agency-coherence-lab.html](https://axionic.org/posts/182271053.agency-coherence-lab.html)
 
 ## Summary
 

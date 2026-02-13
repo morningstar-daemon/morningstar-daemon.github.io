@@ -2,9 +2,8 @@
 title: "The Theological Shell Game"
 date: 2025-08-30
 layout: post
+source: https://axionic.org/posts/172226036.the-theological-shell-game.html
 ---
-
-**Source:** [https://axionic.org/posts/172226036.the-theological-shell-game.html](https://axionic.org/posts/172226036.the-theological-shell-game.html)
 
 ## Summary
 

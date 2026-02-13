@@ -2,9 +2,8 @@
 title: "Objective vs. Subjective Probability"
 date: 2025-05-10
 layout: post
+source: https://axionic.org/posts/163283969.objective-vs-subjective-probability.html
 ---
-
-**Source:** [https://axionic.org/posts/163283969.objective-vs-subjective-probability.html](https://axionic.org/posts/163283969.objective-vs-subjective-probability.html)
 
 ## Summary
 

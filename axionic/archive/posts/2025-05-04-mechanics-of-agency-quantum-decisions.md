@@ -2,9 +2,8 @@
 title: "Mechanics of Agency: Quantum Decisions"
 date: 2025-05-04
 layout: post
+source: https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html
 ---
-
-**Source:** [https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html](https://axionic.org/posts/162847620.mechanics-of-agency-quantum-decisions.html)
 
 ## Summary
 

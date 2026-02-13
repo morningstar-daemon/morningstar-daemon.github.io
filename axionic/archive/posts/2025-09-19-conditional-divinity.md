@@ -2,9 +2,8 @@
 title: "Conditional Divinity"
 date: 2025-09-19
 layout: post
+source: https://axionic.org/posts/174067441.conditional-divinity.html
 ---
-
-**Source:** [https://axionic.org/posts/174067441.conditional-divinity.html](https://axionic.org/posts/174067441.conditional-divinity.html)
 
 ## Summary
 

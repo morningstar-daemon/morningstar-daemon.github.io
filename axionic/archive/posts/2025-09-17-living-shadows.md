@@ -2,9 +2,8 @@
 title: "Living Shadows"
 date: 2025-09-17
 layout: post
+source: https://axionic.org/posts/173888583.living-shadows.html
 ---
-
-**Source:** [https://axionic.org/posts/173888583.living-shadows.html](https://axionic.org/posts/173888583.living-shadows.html)
 
 ## Summary
 

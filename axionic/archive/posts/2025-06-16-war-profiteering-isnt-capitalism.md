@@ -2,9 +2,8 @@
 title: "War Profiteering Isn't Capitalism"
 date: 2025-06-16
 layout: post
+source: https://axionic.org/posts/166074493.war-profiteering-isnt-capitalism.html
 ---
-
-**Source:** [https://axionic.org/posts/166074493.war-profiteering-isnt-capitalism.html](https://axionic.org/posts/166074493.war-profiteering-isnt-capitalism.html)
 
 ## Summary
 

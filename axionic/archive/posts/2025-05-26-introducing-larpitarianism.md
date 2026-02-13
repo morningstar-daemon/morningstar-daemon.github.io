@@ -2,9 +2,8 @@
 title: "Introducing LARPitarianism"
 date: 2025-05-26
 layout: post
+source: https://axionic.org/posts/164446895.introducing-larpitarianism.html
 ---
-
-**Source:** [https://axionic.org/posts/164446895.introducing-larpitarianism.html](https://axionic.org/posts/164446895.introducing-larpitarianism.html)
 
 ## Summary
 

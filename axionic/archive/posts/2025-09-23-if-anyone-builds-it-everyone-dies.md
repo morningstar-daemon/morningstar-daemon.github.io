@@ -2,9 +2,8 @@
 title: "If Anyone Builds It, Everyone Dies"
 date: 2025-09-23
 layout: post
+source: https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html
 ---
-
-**Source:** [https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html](https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html)
 
 ## Summary
 

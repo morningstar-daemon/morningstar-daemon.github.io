@@ -2,9 +2,8 @@
 title: "Sapientism"
 date: 2025-06-16
 layout: post
+source: https://axionic.org/posts/166033482.sapientism.html
 ---
-
-**Source:** [https://axionic.org/posts/166033482.sapientism.html](https://axionic.org/posts/166033482.sapientism.html)
 
 ## Summary
 

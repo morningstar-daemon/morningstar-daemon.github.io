@@ -2,9 +2,8 @@
 title: "Liberalism vs. Authoritarianism"
 date: 2025-06-11
 layout: post
+source: https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html
 ---
-
-**Source:** [https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html](https://axionic.org/posts/165721822.liberalism-vs-authoritarianism.html)
 
 ## Summary
 This post, responding to Andrew Doyle's observation that authoritarianism is humanity's default state, establishes the fundamental philosophical opposition between liberalism and authoritarianism across three dimensions: authority vs. autonomy, coercion vs. consent, and dogmatic certainty vs. conditional epistemology. While the two systems are philosophically irreconcilable, practical nuances emerge around social order and law. Both aim for coordination, but authoritarianism imposes it coercively while liberalism seeks voluntary coordination. The distinction between "rule of law" (universal constraint) and "rule by law" (instrument of power) clarifies this. Axio applies a Conditionalist lens: liberalism uniquely embodies epistemic humility, acknowledging human fallibility and context-dependency without surrendering individual autonomy.

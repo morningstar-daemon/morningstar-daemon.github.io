@@ -2,9 +2,8 @@
 title: "The Symmetry of Belief"
 date: 2025-11-03
 layout: post
+source: https://axionic.org/posts/177934551.the-symmetry-of-belief.html
 ---
-
-**Source:** [https://axionic.org/posts/177934551.the-symmetry-of-belief.html](https://axionic.org/posts/177934551.the-symmetry-of-belief.html)
 
 ## Summary
 

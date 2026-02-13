@@ -2,9 +2,8 @@
 title: "The Mechanics of Agency"
 date: 2025-05-04
 layout: post
+source: https://axionic.org/posts/162831172.the-mechanics-of-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/162831172.the-mechanics-of-agency.html](https://axionic.org/posts/162831172.the-mechanics-of-agency.html)
 
 ## Summary
 

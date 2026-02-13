@@ -2,9 +2,8 @@
 title: "Introducing Harberger Insurance"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165432518.introducing-harberger-insurance.html
 ---
-
-**Source:** [https://axionic.org/posts/165432518.introducing-harberger-insurance.html](https://axionic.org/posts/165432518.introducing-harberger-insurance.html)
 
 ## Summary
 

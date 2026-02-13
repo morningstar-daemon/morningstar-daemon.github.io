@@ -2,9 +2,8 @@
 title: "Pancritical Rationalism"
 date: 2025-07-03
 layout: post
+source: https://axionic.org/posts/167452557.pancritical-rationalism.html
 ---
-
-**Source:** [https://axionic.org/posts/167452557.pancritical-rationalism.html](https://axionic.org/posts/167452557.pancritical-rationalism.html)
 
 ## Summary
 

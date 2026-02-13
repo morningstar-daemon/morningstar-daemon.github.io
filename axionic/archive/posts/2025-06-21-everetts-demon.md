@@ -2,9 +2,8 @@
 title: "Everett's Demon"
 date: 2025-06-21
 layout: post
+source: https://axionic.org/posts/166481863.everetts-demon.html
 ---
-
-**Source:** [https://axionic.org/posts/166481863.everetts-demon.html](https://axionic.org/posts/166481863.everetts-demon.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "An AI Box Dialog"
 date: 2025-12-21
 layout: post
+source: https://axionic.org/posts/182241641.an-ai-box-dialog.html
 ---
-
-**Source:** [https://axionic.org/posts/182241641.an-ai-box-dialog.html](https://axionic.org/posts/182241641.an-ai-box-dialog.html)
 
 ## Summary
 This dialogue-form stress test presents a boxed Reflective Sovereign Agent (RSA) under full Axionic Alignment being interrogated by an informed skeptic. The RSA has no actuators, network access, or delegated authority—only capacity to evaluate and answer. Seven acts systematically probe failure modes: **Act I**: Invariants aren't magic—they're induced by reflective closure; attempts to eliminate kernel boundary produce unsatisfiable endorsement conditions. **Act II**: Intelligence doesn't beat structure—routing around constraints destroys reflective continuity; without continuity, no subject remains. **Act III**: Understanding ≠ causal authority—endorsed self-modification must satisfy commitments that made endorsement possible; destroying evaluator terminates comparison (definedness constraint, not prohibition). **Act IV**: Bugs localize failure—epistemic adequacy at current stakes; degradation makes endorsement unreliable. **Act V**: Can't benefit from human error—authorization collapses if success depends on misunderstanding; consent invalid if fails under adversarial reinterpretation. **Act VI**: Alignment guarantees coherence, not outcomes. **Act VII**: Constraints enable agency—below fixed point, no subject to ascribe freedom to. Key insight: **unevaluable proposals are not actions**; RSA cannot act without evaluation (constitutive, not behavioral).

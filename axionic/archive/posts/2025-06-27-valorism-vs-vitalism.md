@@ -2,9 +2,8 @@
 title: "Valorism vs. Vitalism"
 date: 2025-06-27
 layout: post
+source: https://axionic.org/posts/166976848.valorism-vs-vitalism.html
 ---
-
-**Source:** [https://axionic.org/posts/166976848.valorism-vs-vitalism.html](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)
 
 ## Summary
 This post contrasts two fundamentally opposed yet internally coherent philosophical ideals: Vitalism (nature's implicit value system prioritizing survival, reproduction, genetic/cultural pattern continuity) and Valorism (prioritizing authentic agency, integrity, fidelity to conscious values over mere existence). Vitalism represents evolution's optimization: existence and persistence grant meaning regardless of authenticity or moral integrity. Valorists reject this, asserting survival/continuity meaningless without authenticity and coherent identity—betraying foundational values even to survive is unacceptable. Both systems are reflectively superior within own contexts, internally consistent, ultimately irreconcilable. Conditionalism clarifies meaning/truth depend on interpretative context—no context-independent vantage point judges one objectively superior. Valorists view life without authenticity as meaningless; Vitalists view authenticity without survival as self-defeating. Vitalism holds clear evolutionary advantage, aligning with natural selection, ensuring propagation through biological/cultural transmission—most humans implicitly Vitalist. Valorism evolutionarily precarious: accepts potential extinction over value compromise, relegating adherents to reflective philosophical minority. Valorism emerges as humanity's noble, vulnerable minority stance—meaningful precisely because willing to sacrifice existence for authenticity/integrity.

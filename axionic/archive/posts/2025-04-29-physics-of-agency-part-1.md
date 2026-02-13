@@ -2,9 +2,8 @@
 title: "The Physics of Agency, Part 1: The Physical Nature of Agency"
 date: 2025-04-29
 layout: post
+source: https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html
 ---
-
-**Source:** [https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html](https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html)
 
 ## Summary
 Opening the flagship series, this post argues that agency is not a mystical psychological artifact but a thermodynamic process. An agent is defined as a system that spends energy to bias the branching weight of future timelines, and the essay introduces the kybit as the quantitative unit of such intentional control. The piece reframes deliberation, meaning, and responsibility as physical feats accomplished against entropy rather than as purely mental abstractions.

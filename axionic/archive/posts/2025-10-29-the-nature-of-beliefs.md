@@ -2,9 +2,8 @@
 title: "The Nature of Beliefs"
 date: 2025-10-29
 layout: post
+source: https://axionic.org/posts/177433505.the-nature-of-beliefs.html
 ---
-
-**Source:** [https://axionic.org/posts/177433505.the-nature-of-beliefs.html](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 
 ## Summary
 

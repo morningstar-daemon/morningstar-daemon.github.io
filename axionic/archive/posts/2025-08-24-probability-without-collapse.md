@@ -2,9 +2,8 @@
 title: "Probability Without Collapse"
 date: 2025-08-24
 layout: post
+source: https://axionic.org/posts/171824780.probability-without-collapse.html
 ---
-
-**Source:** [https://axionic.org/posts/171824780.probability-without-collapse.html](https://axionic.org/posts/171824780.probability-without-collapse.html)
 
 ## Summary
 

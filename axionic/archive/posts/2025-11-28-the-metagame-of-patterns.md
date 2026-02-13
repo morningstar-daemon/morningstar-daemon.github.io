@@ -2,9 +2,8 @@
 title: "The Metagame of Patterns"
 date: 2025-11-28
 layout: post
+source: https://axionic.org/posts/180199129.the-metagame-of-patterns.html
 ---
-
-**Source:** [https://axionic.org/posts/180199129.the-metagame-of-patterns.html](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)
 
 ## Summary
 This post reframes the metagame hierarchy by identifying patterns—not individuals—as the true competitors. Axios defines patterns as "coherent configurations of information that remain stable enough to exert influence," encompassing behavioral, cognitive, institutional, cultural, technological, and economic forms. The piece argues that patterns persist by maintaining internal coherence while fitting their incentive environment, with selection operating independently of goodness, truth, or virtue. Key dynamics include pattern drift (accumulated changes shift purpose), pattern lock (self-reinforcing equilibrium persists despite harm), and pattern collapse (coherence failure). The post positions patterns as the bridge to the ultimate metagame of persistence because they're substrate-neutral, outlive agents, and compete for influence across time. Agency becomes "the capacity to decide which patterns you propagate, resist, nurture, or extinguish."

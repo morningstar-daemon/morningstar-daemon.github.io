@@ -2,9 +2,8 @@
 title: "Universal Alignment"
 date: 2025-05-25
 layout: post
+source: https://axionic.org/posts/164437547.universal-alignment.html
 ---
-
-**Source:** [https://axionic.org/posts/164437547.universal-alignment.html](https://axionic.org/posts/164437547.universal-alignment.html)
 
 ## Summary
 

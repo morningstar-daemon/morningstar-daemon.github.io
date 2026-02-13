@@ -2,9 +2,8 @@
 title: "Irony vs Integrity"
 date: 2025-11-04
 layout: post
+source: https://axionic.org/posts/178031361.irony-vs-integrity.html
 ---
-
-**Source:** [https://axionic.org/posts/178031361.irony-vs-integrity.html](https://axionic.org/posts/178031361.irony-vs-integrity.html)
 
 ## Summary
 

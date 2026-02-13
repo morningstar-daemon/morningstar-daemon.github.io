@@ -2,9 +2,8 @@
 title: "The Fallacy of Universal Intelligence"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html
 ---
-
-**Source:** [https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html](https://axionic.org/posts/165426721.the-fallacy-of-universal-intelligence.html)
 
 ## Summary
 

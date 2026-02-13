@@ -2,9 +2,8 @@
 title: "False Kindness"
 date: 2025-08-22
 layout: post
+source: https://axionic.org/posts/171682575.false-kindness.html
 ---
-
-**Source:** [https://axionic.org/posts/171682575.false-kindness.html](https://axionic.org/posts/171682575.false-kindness.html)
 
 ## Summary
 

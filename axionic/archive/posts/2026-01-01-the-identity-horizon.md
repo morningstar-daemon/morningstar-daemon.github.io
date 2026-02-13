@@ -2,9 +2,8 @@
 title: "The Identity Horizon"
 date: 2026-01-01
 layout: post
+source: https://axionic.org/posts/183151146.the-identity-horizon.html
 ---
-
-**Source:** [https://axionic.org/posts/183151146.the-identity-horizon.html](https://axionic.org/posts/183151146.the-identity-horizon.html)
 
 ## Summary
 This post introduces the Identity Horizon: a structural measure of how quickly a choice causes the living population set to be replaced by a different set. It doesn't measure moral importance, harm, or value—only population replacement speed via living-population overlap decay between divergent futures. Key insight: all non-null choices cause immediate population divergence (conception, survival, interaction are timing-sensitive and socially entangled), but spread rates differ. Serial propagation (mate choice) affects small lineages spreading outward slowly; parallel propagation (wars, pandemics) affects many lineages simultaneously, dropping overlap rapidly. A choice is null only if alternatives are symmetric and decoupled from population-affecting systems at the tracked pattern level (sock order yes, tea vs coffee no—caffeine affects timing/behavior coupling into reproduction networks). The concept is deliberately blind to experience/outcome differences among the same people, tracking only who exists. Primary use is diagnostic: ruling out invalid arguments relying on "future people" as stable object of concern. Under strict identity criterion, future populations are fragile and rapidly replaced—formal expression of Non-Identity Problem.

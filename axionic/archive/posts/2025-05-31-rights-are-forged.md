@@ -2,9 +2,8 @@
 title: "Rights Are Forged"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164901368.rights-are-forged.html
 ---
-
-**Source:** [https://axionic.org/posts/164901368.rights-are-forged.html](https://axionic.org/posts/164901368.rights-are-forged.html)
 
 ## Summary
 

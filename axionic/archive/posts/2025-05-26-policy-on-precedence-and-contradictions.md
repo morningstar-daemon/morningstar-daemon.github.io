@@ -2,9 +2,8 @@
 title: "Policy on Precedence and Contradictions"
 date: 2025-05-26
 layout: post
+source: https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html
 ---
-
-**Source:** [https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html](https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html)
 
 ## Summary
 

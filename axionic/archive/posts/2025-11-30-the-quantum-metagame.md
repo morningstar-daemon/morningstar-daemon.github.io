@@ -2,9 +2,8 @@
 title: "The Quantum Metagame"
 date: 2025-11-30
 layout: post
+source: https://axionic.org/posts/180339872.the-quantum-metagame.html
 ---
-
-**Source:** [https://axionic.org/posts/180339872.the-quantum-metagame.html](https://axionic.org/posts/180339872.the-quantum-metagame.html)
 
 ## Summary
 This post establishes the deepest layer of the Metagame Sequence by reconceptualizing persistence under Everettian quantum mechanics. Classical survival assumes a single linear future, but reality branches through decoherence, creating multiple quasi-classical histories. Patterns persist not by surviving in one timeline but by maintaining structural coherence across amplitude-weighted branches. Measure—the squared amplitude of branches—becomes the scoreboard of the quantum metagame, and agency transforms from "choosing which future" to "choosing which pattern to instantiate across futures." This reframes meaning, ethics, and value as competitions for coherence under branching reality.

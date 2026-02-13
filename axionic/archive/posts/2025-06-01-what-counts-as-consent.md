@@ -2,9 +2,8 @@
 title: "What Counts as Consent"
 date: 2025-06-01
 layout: post
+source: https://axionic.org/posts/164911762.what-counts-as-consent.html
 ---
-
-**Source:** [https://axionic.org/posts/164911762.what-counts-as-consent.html](https://axionic.org/posts/164911762.what-counts-as-consent.html)
 
 ## Summary
 

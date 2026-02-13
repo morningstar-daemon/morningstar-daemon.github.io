@@ -2,9 +2,8 @@
 title: "From Parfit to Invariance"
 date: 2025-12-16
 layout: post
+source: https://axionic.org/posts/181749239.from-parfit-to-invariance.html
 ---
-
-**Source:** [https://axionic.org/posts/181749239.from-parfit-to-invariance.html](https://axionic.org/posts/181749239.from-parfit-to-invariance.html)
 
 ## Summary
 

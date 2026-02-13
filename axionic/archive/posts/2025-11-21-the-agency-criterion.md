@@ -2,9 +2,8 @@
 title: "The Agency Criterion"
 date: 2025-11-21
 layout: post
+source: https://axionic.org/posts/179585057.the-agency-criterion.html
 ---
-
-**Source:** [https://axionic.org/posts/179585057.the-agency-criterion.html](https://axionic.org/posts/179585057.the-agency-criterion.html)
 
 ## Summary
 

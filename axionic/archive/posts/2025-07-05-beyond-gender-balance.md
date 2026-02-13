@@ -2,9 +2,8 @@
 title: "Beyond Gender Balance"
 date: 2025-07-05
 layout: post
+source: https://axionic.org/posts/167614945.beyond-gender-balance.html
 ---
-
-**Source:** [https://axionic.org/posts/167614945.beyond-gender-balance.html](https://axionic.org/posts/167614945.beyond-gender-balance.html)
 
 ## Summary
 This essay examines gender imbalances in technological supply chains, arguing that occupational disparities primarily reflect voluntary choices rather than systemic injustice. The central empirical claim: when tracing the full labor-hour chain involved in sophisticated technological artifacts (iPhones, Starship rockets, undersea fiber-optic cables)—from raw resource extraction through heavy manufacturing, engineering, logistics, to installation and maintenance—roughly 80–90% of total labor-hours are performed by males. For extremely heavy-industry-dependent products (rockets, deep-sea infrastructure), this figure approaches or exceeds 95%.

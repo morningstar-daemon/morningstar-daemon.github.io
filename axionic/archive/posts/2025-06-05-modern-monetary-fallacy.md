@@ -2,9 +2,8 @@
 title: "Modern Monetary Fallacy"
 date: 2025-06-05
 layout: post
+source: https://axionic.org/posts/165301790.modern-monetary-fallacy.html
 ---
-
-**Source:** [https://axionic.org/posts/165301790.modern-monetary-fallacy.html](https://axionic.org/posts/165301790.modern-monetary-fallacy.html)
 
 ## Summary
 

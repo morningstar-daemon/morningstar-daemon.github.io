@@ -2,9 +2,8 @@
 title: "Mythogenesis"
 date: 2025-10-03
 layout: post
+source: https://axionic.org/posts/175193629.mythogenesis.html
 ---
-
-**Source:** [https://axionic.org/posts/175193629.mythogenesis.html](https://axionic.org/posts/175193629.mythogenesis.html)
 
 ## Summary
 This essay explores how historical figures become colonized by myth through a process the author frames as "mythogenesis." Using the motte-and-bailey framing, it argues that history begins with minimal facts (the "motte") but human imagination demands narrative meaning (the "bailey"), leading legends to overwhelm the original historical core. Three case studies—Arthur, Socrates, and Jesus—illustrate an escalating spectrum: Arthur's historicity is dubious but his mythic bailey dominates British identity; Socrates certainly lived but is known only through philosophical projections; Jesus has a secure historical motte but the most expansive cosmic bailey, transforming from Galilean preacher to cornerstone of civilization. The essay concludes that legends thrive not because they are true, but because they are culturally useful.

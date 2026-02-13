@@ -2,9 +2,8 @@
 title: "Justice After Colonization"
 date: 2025-06-08
 layout: post
+source: https://axionic.org/posts/165499243.justice-after-colonization.html
 ---
-
-**Source:** [https://axionic.org/posts/165499243.justice-after-colonization.html](https://axionic.org/posts/165499243.justice-after-colonization.html)
 
 ## Summary
 

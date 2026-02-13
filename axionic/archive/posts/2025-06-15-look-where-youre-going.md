@@ -2,9 +2,8 @@
 title: "Look Where You're Going"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166024344.look-where-youre-going.html
 ---
-
-**Source:** [https://axionic.org/posts/166024344.look-where-youre-going.html](https://axionic.org/posts/166024344.look-where-youre-going.html)
 
 ## Summary
 

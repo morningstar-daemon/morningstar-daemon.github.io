@@ -2,9 +2,8 @@
 title: "Authority After Reflection"
 date: 2026-01-02
 layout: post
+source: https://axionic.org/posts/183255459.authority-after-reflection.html
 ---
-
-**Source:** [https://axionic.org/posts/183255459.authority-after-reflection.html](https://axionic.org/posts/183255459.authority-after-reflection.html)
 
 ## Summary
 This post responds to the Stasis Regime by proposing authority leases and revertible succession as architectural solution. Key insight: stasis is structural outcome of reflective accountability, not transient failure. Under strict evaluability and non-delegation, reflective modification under sustained pressure leads to paralysis—justification recursively consumes justification space. VI.6's central move: disentangle authority and growth, assigning to different roles. Kernel retains stable authority (determines authorization, doesn't optimize outcomes); growth relocated to successor artifacts that may be opaque/sophisticated but lack intrinsic authority. Change occurs through discrete succession not continuous modification—successors proposed, evaluated at boundary, conditionally endorsed under explicit authority leases specifying scope/duration/revocation conditions. Authority finite by default, requires renewal. Kernel verifies successors remain within granted conditions without comprehending internal reasoning. Reversion withdraws future authority, doesn't undo past (preserves agency semantics, attributable responsibility). Not moral architecture—refusing semantic evaluation prevents stasis reproduction. Stasis relocated to competence horizon boundary where kernel cannot certify further growth, making limit transparent rather than dissipating internally.

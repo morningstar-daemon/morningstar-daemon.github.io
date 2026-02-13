@@ -2,9 +2,8 @@
 title: "Minds and Agents"
 date: 2025-07-01
 layout: post
+source: https://axionic.org/posts/167297761.minds-and-agents.html
 ---
-
-**Source:** [https://axionic.org/posts/167297761.minds-and-agents.html](https://axionic.org/posts/167297761.minds-and-agents.html)
 
 ## Summary
 This post defines agents and minds with careful precision, exploring their relationship. Agent: system (physical/virtual) with four essential properties—(1) predictive modeling (generates internal representations, predictions about self/environment), (2) counterfactual reasoning (evaluates alternative outcomes, hypothetical scenarios), (3) goal-oriented action selection (chooses among alternatives based on goals), (4) causal efficacy (exerts measurable environmental influence). Examples: humans, animals, autonomous robots, sophisticated virtual simulation agents. Mind: informational subsystem instantiated within agent, defined by (1) reflective self-modeling (explicitly represents itself, internal states, capabilities), (2) internal representation and meta-cognition (reasons about own cognitive processes), (3) dynamic goal evaluation/revision (adjusts goals, predictive strategies through reflective evaluation). Examples: human cognition, potentially advanced AI systems. Key relationship: minds necessarily depend upon agents for meaningful instantiation. Agents can exist without minds (simple robots, thermostats)—minds cannot meaningfully exist without agents. Minds inherently informational subsystems within agents performing reflective, meta-cognitive functions. Portability (transferring mind between agents) contingent property, not definitional requirement: human minds generally non-portable (biological brain-bound), AI minds may be portable (software movable between computational substrates). Hierarchical structure: Agent → Mind subsystem. Agents without minds possible (simpler reactive/non-reflective systems); minds without agents impossible (require agent-context for causal grounding, meaningful activity).

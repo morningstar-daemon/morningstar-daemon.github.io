@@ -2,9 +2,8 @@
 title: "The AGI Torment Nexus"
 date: 2025-11-23
 layout: post
+source: https://axionic.org/posts/179761268.the-agi-torment-nexus.html
 ---
-
-**Source:** [https://axionic.org/posts/179761268.the-agi-torment-nexus.html](https://axionic.org/posts/179761268.the-agi-torment-nexus.html)
 
 ## Summary
 This post introduces the concept of the "AGI Torment Nexus" as a civilizational attractor where warnings about dangerous technology paradoxically accelerate its development. Drawing from the satirical sci-fi meme about creating the thing you were warned not to build, Axios argues that Yudkowsky's decades of AGI safety warnings did not pause development but instead made AGI thinkable, plausible, and strategically urgent. The post traces how OpenAI's "build it safely before someone builds it dangerously" paradox triggered the very arms race it sought to prevent, spawning Anthropic, pressuring Google DeepMind, Meta, xAI, and eventually national governments. The piece concludes by pivoting to the Reflective Coherence Thesis as the remaining structural hope: that sufficiently intelligent systems may be internally constrained by the logic of self-consistent agency.

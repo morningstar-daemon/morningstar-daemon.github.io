@@ -2,9 +2,8 @@
 title: "Integrating Meaningness"
 date: 2025-11-28
 layout: post
+source: https://axionic.org/posts/180330920.integrating-meaningness.html
 ---
-
-**Source:** [https://axionic.org/posts/180330920.integrating-meaningness.html](https://axionic.org/posts/180330920.integrating-meaningness.html)
 
 ## Summary
 This post reconciles two apparently distinct frameworks for understanding value: Chapman's Meaningness (phenomenological, emphasizing participation and enacted meaning) and Axio (structural, emphasizing agency and coherence dynamics). The integration reveals they are dual aspects of a single continuous process—the same dynamical loop viewed from inside (agency: choosing, intending, maintaining coherence) and outside (participation: attunement, responsiveness, co-creation). Neither framework is complete alone: Meaningness offers phenomenology without mechanics, Axio offers mechanics without phenomenology. Together they describe the only kind of mind the universe allows: participatory in how it feels, agentic in how it functions.

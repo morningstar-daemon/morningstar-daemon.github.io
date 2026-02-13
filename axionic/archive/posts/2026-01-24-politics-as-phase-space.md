@@ -2,9 +2,8 @@
 title: "Politics as Phase Space"
 date: 2026-01-24
 layout: post
+source: https://axionic.org/posts/185641221.politics-as-phase-space.html
 ---
-
-**Source:** [https://axionic.org/posts/185641221.politics-as-phase-space.html](https://axionic.org/posts/185641221.politics-as-phase-space.html)
 
 ## Summary
 This essay argues the left-right political spectrum is a representational failure that compresses authority, economics, moral scope, and coercion into one axis, making structurally different systems rhetorically interchangeable. Political systems are defined by how power is arranged, requiring three independent dimensions: (1) command (where authority resides, how far it reaches), (2) ownership (who controls productive resources), (3) moral scope (who the system is for). Adding a fourth dimension—evaluability—captures whether agents can model the system acting on them: rules legible before binding, obligations anticipatable, authority challengeable, exit possible without catastrophic imposed harm. Axio is a meta-framework constraining systems by agency-preservation. The Axionic admissible region requires: authority traceable to agent delegation, control relations challengeable, participation not enforced through threats of imposed harm, obligations legible in advance, exit possible. The essay maps real regimes: Nazi Germany and USSR exit on all dimensions; China has mixed economics but fails on authority/contestation/exit; US is conditional case near boundary; Switzerland comfortably inside; Singapore conditional (high evaluability compensates for limited contestation). Systems fail Axio when authority becomes irreducible, contestation collapses, or exit involves imposed harm.

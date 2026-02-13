@@ -2,9 +2,8 @@
 title: "Games and Metagames"
 date: 2025-11-25
 layout: post
+source: https://axionic.org/posts/179967878.games-and-metagames.html
 ---
-
-**Source:** [https://axionic.org/posts/179967878.games-and-metagames.html](https://axionic.org/posts/179967878.games-and-metagames.html)
 
 ## Summary
 This post introduces the conceptual framework of nested games and metagames as a fundamental lens for understanding decision-making and agency. Axios argues that games are not recreational artifacts but describe any system with goals, choices, constraints, and feedback—making life, institutions, culture, and evolution all game-like structures. The key insight is that every game sits inside a larger metagame that sets context and shapes what "winning" means at lower levels. The piece emphasizes how metagames mislead us when we misidentify which game we're actually playing (optimizing for truth when rewarded for loyalty, etc.). While acknowledging that games nest within games extensively, the post hints that the ladder doesn't go up forever but eventually reaches fundamental constraints.

@@ -2,9 +2,8 @@
 title: "The Turing Test Revisited"
 date: 2025-11-04
 layout: post
+source: https://axionic.org/posts/177985047.the-turing-test-revisited.html
 ---
-
-**Source:** [https://axionic.org/posts/177985047.the-turing-test-revisited.html](https://axionic.org/posts/177985047.the-turing-test-revisited.html)
 
 ## Summary
 

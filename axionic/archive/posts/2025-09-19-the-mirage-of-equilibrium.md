@@ -2,9 +2,8 @@
 title: "The Mirage of Equilibrium"
 date: 2025-09-19
 layout: post
+source: https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html
 ---
-
-**Source:** [https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html](https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html)
 
 ## Summary
 

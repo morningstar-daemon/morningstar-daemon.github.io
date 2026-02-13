@@ -2,9 +2,8 @@
 title: "The Future Is Extropian"
 date: 2025-11-27
 layout: post
+source: https://axionic.org/posts/180128433.the-future-is-extropian.html
 ---
-
-**Source:** [https://axionic.org/posts/180128433.the-future-is-extropian.html](https://axionic.org/posts/180128433.the-future-is-extropian.html)
 
 ## Summary
 This extensive historical essay argues that major 21st-century developments (Bitcoin, AGI research, rationalism, crypto-anarchism, network governance, existential risk studies) share a coherent intellectual lineage: the Extropian community of the 1990s. Axios traces how the Extropian mailing list functioned as a "distributed research environment" bringing together cryptographers, cognitive scientists, economists, philosophers, and futurists for interdisciplinary stress-testing of ideas. The piece profiles key figures (Max More, Hal Finney, Wei Dai, Nick Szabo, Mark Miller, Robin Hanson, Nick Bostrom, Eliezer Yudkowsky, and others) and documents their specific contributions across domains. The post attributes Extropian success to cultural norms enabling "generative disagreement": good faith + direct criticism, speculative reasoning + methodological discipline, authority from clarity not credentials, and willingness to revise models.

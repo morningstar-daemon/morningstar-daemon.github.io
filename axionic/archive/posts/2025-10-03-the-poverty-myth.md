@@ -2,9 +2,8 @@
 title: "The Poverty Myth"
 date: 2025-10-03
 layout: post
+source: https://axionic.org/posts/175235972.the-poverty-myth.html
 ---
-
-**Source:** [https://axionic.org/posts/175235972.the-poverty-myth.html](https://axionic.org/posts/175235972.the-poverty-myth.html)
 
 ## Summary
 

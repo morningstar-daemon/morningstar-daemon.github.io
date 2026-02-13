@@ -2,9 +2,8 @@
 title: "What Is Money?"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164883871.what-is-money.html
 ---
-
-**Source:** [https://axionic.org/posts/164883871.what-is-money.html](https://axionic.org/posts/164883871.what-is-money.html)
 
 ## Summary
 

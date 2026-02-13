@@ -2,9 +2,8 @@
 title: "Agency Under Authority"
 date: 2026-01-04
 layout: post
+source: https://axionic.org/posts/183487653.agency-under-authority.html
 ---
-
-**Source:** [https://axionic.org/posts/183487653.agency-under-authority.html](https://axionic.org/posts/183487653.agency-under-authority.html)
 
 ## Summary
 Examines tension between agency preservation and legitimate authority structures. Central question: when can authority be exercised without destroying agency of those subject to it? Distinguishes constitutive constraints (preserving conditions for agency) from outcome constraints (imposing substantive ends). Authority remains legitimate when it enforces action-boundaries rather than dictating outcomes—preventing harm/coercion while leaving choice-space open. Explores when delegation to authority is voluntary vs coerced, and how authority structures can degrade into domination. Key insight: agency under authority requires clear jurisdictional boundaries, exit options, and constraint-transparency. Authority claiming to optimize outcomes "for" agents rather than preserving their capacity to choose for themselves crosses into illegitimate territory. Connects to broader Axio theme: governance must preserve agency as constitutive rather than treating it as instrumental.

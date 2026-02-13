@@ -2,9 +2,8 @@
 title: "Identifying Branches in the QBU"
 date: 2025-05-04
 layout: post
+source: https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html
 ---
-
-**Source:** [https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html](https://axionic.org/posts/162845671.identifying-branches-in-the-qbu.html)
 
 ## Summary
 

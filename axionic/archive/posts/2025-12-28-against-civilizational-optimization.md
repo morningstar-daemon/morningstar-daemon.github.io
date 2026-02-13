@@ -2,9 +2,8 @@
 title: "Against Civilizational Optimization"
 date: 2025-12-28
 layout: post
+source: https://axionic.org/posts/182797492.against-civilizational-optimization.html
 ---
-
-**Source:** [https://axionic.org/posts/182797492.against-civilizational-optimization.html](https://axionic.org/posts/182797492.against-civilizational-optimization.html)
 
 ## Summary
 This post argues that treating civilization as an optimization target is a **category error**: aggregate metrics over non-consenting agents necessarily induce structural sacrifice, converting agency loss into an efficient control variable. The post rejects "rational steering" as an illicit assignment of authority—who gets to define the optimization target?—and reframes Moloch as a diagnostic signature (systems exhibiting sacrificial dynamics) rather than an enemy to defeat. Rationality is confined to a negative role: auditing assumptions, exposing sacrifice gradients, and enforcing action-constraints (what agents may not do), while denying any mandate to impose outcome-constraints (what states the world must reach) or close the space of futures. Optimization over non-consenting agents is fundamentally incompatible with agency preservation.

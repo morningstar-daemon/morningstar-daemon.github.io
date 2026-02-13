@@ -2,9 +2,8 @@
 title: "The Myth of Objective Value"
 date: 2025-05-31
 layout: post
+source: https://axionic.org/posts/164846085.the-myth-of-objective-value.html
 ---
-
-**Source:** [https://axionic.org/posts/164846085.the-myth-of-objective-value.html](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)
 
 ## Summary
 

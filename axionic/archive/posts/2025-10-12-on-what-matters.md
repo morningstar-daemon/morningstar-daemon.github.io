@@ -2,9 +2,8 @@
 title: "On What Matters"
 date: 2025-10-12
 layout: post
+source: https://axionic.org/posts/175970360.on-what-matters.html
 ---
-
-**Source:** [https://axionic.org/posts/175970360.on-what-matters.html](https://axionic.org/posts/175970360.on-what-matters.html)
 
 ## Summary
 This essay critiques Derek Parfit's "On What Matters" through the lens of Conditionalism, arguing Parfit's attempt to rescue moral realism by converging Kantian duty, consequentialist utility, and contractualist fairness commits a category error—mistaking coherence for ontology. The author rejects Parfit's "non-natural moral facts" as unconditional claims that smuggle in interpretive background conditions: objectivity is a property of procedures, not propositions. The Triple Theory's apparent harmony reflects shared cognitive architecture evolved for cooperation (computational convergence) rather than metaphysical moral truth. Parfit's "reasons out there" are reframed as "locally stable patterns of preference propagation across agents"—emergent invariants in information flow, not Platonic entities. The piece repositions moral principles as evolutionary equilibria in the space of choice, not eternal truths. Where Parfit seeks "laws of ethics," Axio seeks "physics of choice"—what matters is increasing persistence, complexity, and autonomy of agents capable of caring.

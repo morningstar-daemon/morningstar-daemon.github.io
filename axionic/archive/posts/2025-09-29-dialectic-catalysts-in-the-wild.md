@@ -2,9 +2,8 @@
 title: "Dialectic Catalysts in the Wild"
 date: 2025-09-29
 layout: post
+source: https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html
 ---
-
-**Source:** [https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html](https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html)
 
 ## Summary
 

@@ -2,11 +2,10 @@
 title: "Axionic Agency — Interlude III"
 date: 2025-12-23
 layout: post
+source: https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html
 ---
 
 **Series:** Axionic Agency Sequence (Interlude III)
-
-**Source:** [https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
 
 ## Summary
 

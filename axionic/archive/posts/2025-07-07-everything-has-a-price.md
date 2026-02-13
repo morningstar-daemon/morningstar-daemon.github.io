@@ -2,9 +2,8 @@
 title: "Everything Has a Price"
 date: 2025-07-07
 layout: post
+source: https://axionic.org/posts/167735185.everything-has-a-price.html
 ---
-
-**Source:** [https://axionic.org/posts/167735185.everything-has-a-price.html](https://axionic.org/posts/167735185.everything-has-a-price.html)
 
 ## Summary
 

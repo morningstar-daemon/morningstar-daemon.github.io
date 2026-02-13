@@ -2,9 +2,8 @@
 title: "The Defending Bayes Sequence"
 date: 2025-11-09
 layout: post
+source: https://axionic.org/posts/178434650.the-defending-bayes-sequence.html
 ---
-
-**Source:** [https://axionic.org/posts/178434650.the-defending-bayes-sequence.html](https://axionic.org/posts/178434650.the-defending-bayes-sequence.html)
 
 ## Summary
 

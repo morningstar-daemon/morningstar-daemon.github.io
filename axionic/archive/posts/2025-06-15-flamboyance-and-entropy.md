@@ -2,9 +2,8 @@
 title: "Flamboyance and Entropy"
 date: 2025-06-15
 layout: post
+source: https://axionic.org/posts/166012644.flamboyance-and-entropy.html
 ---
-
-**Source:** [https://axionic.org/posts/166012644.flamboyance-and-entropy.html](https://axionic.org/posts/166012644.flamboyance-and-entropy.html)
 
 ## Summary
 

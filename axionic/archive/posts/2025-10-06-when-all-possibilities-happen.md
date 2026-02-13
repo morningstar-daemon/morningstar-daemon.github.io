@@ -2,9 +2,8 @@
 title: "When All Possibilities Happen"
 date: 2025-10-06
 layout: post
+source: https://axionic.org/posts/175473326.when-all-possibilities-happen.html
 ---
-
-**Source:** [https://axionic.org/posts/175473326.when-all-possibilities-happen.html](https://axionic.org/posts/175473326.when-all-possibilities-happen.html)
 
 ## Summary
 This essay explores the implications of many-worlds quantum mechanics for agency, probability, and ethics. Opening with the question of "hoping" to see the AI singularity, it argues that if the wavefunction never collapses, every possible future already exists—the question is not whether you'll experience it but "how much of you" will. Future selves are not singular threads but measure-weighted subsets of the universal wavefunction descended from your current pattern. Uncertainty becomes self-locational rather than ontological: you're not predicting which future exists (they all do) but where within the branching structure you'll find yourself. Agency transforms into "measure modulation"—you can't eliminate branches but can bias the amplitude distribution of your continuations toward flourishing. The essay concludes that ethics becomes amplitude allocation: moral acts thicken the measure of flourishing branches, while destructive acts amplify suffering. Living rationally is engineering the measure distribution of continuations.

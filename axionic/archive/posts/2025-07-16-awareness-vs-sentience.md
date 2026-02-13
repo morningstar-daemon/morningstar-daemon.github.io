@@ -2,9 +2,8 @@
 title: "Awareness vs. Sentience"
 date: 2025-07-16
 layout: post
+source: https://axionic.org/posts/168493940.awareness-vs-sentience.html
 ---
-
-**Source:** [https://axionic.org/posts/168493940.awareness-vs-sentience.html](https://axionic.org/posts/168493940.awareness-vs-sentience.html)
 
 ## Summary
 [NOTE: Summary incomplete - requires full content fetch and 4-6KB comprehensive analysis. Post likely distinguishes between awareness (information processing, responsiveness) and sentience (subjective experience, qualia) as crucial conceptual categories.]

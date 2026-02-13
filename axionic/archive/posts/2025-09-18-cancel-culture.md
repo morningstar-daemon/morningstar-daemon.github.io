@@ -2,9 +2,8 @@
 title: "Cancel Culture"
 date: 2025-09-18
 layout: post
+source: https://axionic.org/posts/173950922.cancel-culture.html
 ---
-
-**Source:** [https://axionic.org/posts/173950922.cancel-culture.html](https://axionic.org/posts/173950922.cancel-culture.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Quantum Branching Universe (QBU)"
 date: 2025-05-04
 layout: post
+source: https://axionic.org/posts/162844036.the-quantum-branching-universe-qbu.html
 ---
-
-**Source:** [https://axionic.org/posts/162844036.the-quantum-branching-universe-qbu.html](https://axionic.org/posts/162844036.the-quantum-branching-universe-qbu.html)
 
 ## Summary
 

@@ -2,9 +2,8 @@
 title: "The Price of Agency"
 date: 2026-01-18
 layout: post
+source: https://axionic.org/posts/184979362.the-price-of-agency.html
 ---
-
-**Source:** [https://axionic.org/posts/184979362.the-price-of-agency.html](https://axionic.org/posts/184979362.the-price-of-agency.html)
 
 ## Summary
 This essay responds to the critique that libertarianism "can't handle evil" by clarifying what legal/political frameworks can plausibly do while preserving agency. Evil is defined as intentional harm caused by an agent—knowingly acting to reduce another's feasible futures. Evil arises upstream of law (from preference structures, beliefs, incentives, commitments agents form); law can respond to harmful actions but cannot reach into intention without extending coercion into thought. Eliminating evil requires preemptive force, which itself harms by restricting agency before demonstrated harm—structural limit. The work shifts to culture: norms, reputation, selective association, covenant communities, exit—mechanisms that constrain behavior without coercion, failures remain local not systemic. Defensive action becomes legitimate once harm/credible threat exists; containment justified by demonstrated patterns, not inferred intent. The "something else" supplement historically becomes moral authority acting ahead of harm, expanding into routine administration. Agency-centered framework accepts risk in exchange for authorship; alternative replaces authorship with managed behavior. The choice: authorship with risk vs. safety without authorship.

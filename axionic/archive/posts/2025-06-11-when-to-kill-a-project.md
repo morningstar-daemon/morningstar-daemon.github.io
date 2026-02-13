@@ -2,9 +2,8 @@
 title: "When To Kill A Project"
 date: 2025-06-11
 layout: post
+source: https://axionic.org/posts/165708751.when-to-kill-a-project.html
 ---
-
-**Source:** [https://axionic.org/posts/165708751.when-to-kill-a-project.html](https://axionic.org/posts/165708751.when-to-kill-a-project.html)
 
 ## Summary
 This post challenges the notion that projects can possess inherent value beyond the sum of individual subjective valuations. Axio rejects objective value theory, asserting that **the value of any project is precisely the aggregate of actual individual valuations—no more, no less**. The common belief that infrastructure, research, or education has intrinsic worth independent of voluntary support commits a philosophical error: value doesn't exist without subjective evaluation by agents. Potential hypothetical benefits don't constitute actual value. The ethical implication is stark: **if a project isn't voluntarily funded, it's not valuable enough to pursue**. This respects individual agency, aligns with voluntarist ethics, and resolves tensions between hypothetical benefit and actual value. Collective action problems are structural incentives, not inherent value discrepancies, solvable through voluntary mechanisms like assurance contracts.

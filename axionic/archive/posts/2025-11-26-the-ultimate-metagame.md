@@ -2,9 +2,8 @@
 title: "The Ultimate Metagame"
 date: 2025-11-26
 layout: post
+source: https://axionic.org/posts/180026930.the-ultimate-metagame.html
 ---
-
-**Source:** [https://axionic.org/posts/180026930.the-ultimate-metagame.html](https://axionic.org/posts/180026930.the-ultimate-metagame.html)
 
 ## Summary
 This post identifies the terminal level of the nested game hierarchy introduced in "Games and Metagames": the ultimate metagame is the competition among patterns for persistence across time. Axios argues the ladder must end because an infinite regress of metagames would lack grounding for goals and incentives. The key insight: every game presupposes the player exists long enough to play it—making persistence the universal precondition. This applies not just to biological life but to ideas, technologies, institutions, behaviors, cultures, strategies, and cognitive patterns. Unlike lower games with explicit rules, the ultimate metagame operates through constraints (entropy, energy, physics of replication, coherence stability). All other games—economic, political, cultural, intellectual—are subgames optimizing for various forms of persistence (genetic, memetic, structural, functional, cognitive).

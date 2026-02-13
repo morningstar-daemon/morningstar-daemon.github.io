@@ -2,9 +2,8 @@
 title: "The Catastrophe Mindset"
 date: 2025-11-23
 layout: post
+source: https://axionic.org/posts/179741669.the-catastrophe-mindset.html
 ---
-
-**Source:** [https://axionic.org/posts/179741669.the-catastrophe-mindset.html](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)
 
 ## Summary
 This post analyzes how movements grounded in extinction narratives structurally produce volatility and radicalization. Using the StopAI incident (where cofounder Sam Kirchner allegedly assaulted a colleague) as a case study, Axios argues that catastrophic framing predictably leads members—especially founders—to abandon ordinary moral constraints. The piece identifies a recurring pattern across environmental extremism, anti-nuclear activism, and doomsday movements: moralization, urgency, institutional delegitimization, and lone-wolf heroization combine to make violence a foreseeable outcome. The post criticizes StopAI's response as insufficient, arguing they must revise their narrative scaffolding rather than simply restating commitment to nonviolence.

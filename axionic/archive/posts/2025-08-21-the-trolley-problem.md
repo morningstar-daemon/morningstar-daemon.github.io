@@ -2,9 +2,8 @@
 title: "The Trolley Problem"
 date: 2025-08-21
 layout: post
+source: https://axionic.org/posts/171523071.the-trolley-problem.html
 ---
-
-**Source:** [https://axionic.org/posts/171523071.the-trolley-problem.html](https://axionic.org/posts/171523071.the-trolley-problem.html)
 
 ## Summary
 

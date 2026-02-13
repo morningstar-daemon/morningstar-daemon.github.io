@@ -2,9 +2,8 @@
 title: "Coherence From Chaos"
 date: 2025-08-25
 layout: post
+source: https://axionic.org/posts/171846415.coherence-from-chaos.html
 ---
-
-**Source:** [https://axionic.org/posts/171846415.coherence-from-chaos.html](https://axionic.org/posts/171846415.coherence-from-chaos.html)
 
 ## Summary
 

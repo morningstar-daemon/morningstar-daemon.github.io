@@ -2,9 +2,8 @@
 title: "Anchored Minimal Causal Interfaces"
 date: 2025-12-30
 layout: post
+source: https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html
 ---
-
-**Source:** [https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html](https://axionic.org/posts/182921145.anchored-minimal-causal-interfaces.html)
 
 ## Summary
 This post resolves the question left by Minimal Causal Interfaces: is coherence alone sufficient once semantic grounding is removed? The answer is no. In v0.3 MCI, a sufficiently careful pseudo-agent could construct self-consistent but fabricated decision topology satisfying all coherence checks without commitments relating to actual computation. Pure coherence verification cannot distinguish true causal explanations from explanations that are merely self-consistent. The v0.4 resolution adds minimal anchoring: kernel generates unpredictable random salt at each decision step; agent must immediately incorporate salt into factor derivation and commit; after episode concludes, kernel recomputes expected factors using revealed salts and recorded environment states, verifying committed factors match anchored computation. With anchoring, honest agents pass all checks while pseudo-agents fail deterministically—they cannot pre-fabricate salted factors or satisfy post-hoc verification. The conclusion: verifiable causal provenance requires unforgeable external anchor. Coherence alone can be fabricated; anchored coherence cannot. This demonstrates trust in opaque systems doesn't require interpretability but does require computational "skin in the game"—binding explanations to unpredictable outcomes.

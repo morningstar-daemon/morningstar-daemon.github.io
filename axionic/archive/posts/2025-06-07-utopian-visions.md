@@ -2,9 +2,8 @@
 title: "Utopian Visions"
 date: 2025-06-07
 layout: post
+source: https://axionic.org/posts/165424913.utopian-visions.html
 ---
-
-**Source:** [https://axionic.org/posts/165424913.utopian-visions.html](https://axionic.org/posts/165424913.utopian-visions.html)
 
 ## Summary
 

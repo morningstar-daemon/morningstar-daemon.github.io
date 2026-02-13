@@ -2,9 +2,8 @@
 title: "What Counts as Technology"
 date: 2025-10-19
 layout: post
+source: https://axionic.org/posts/176597723.what-counts-as-technology.html
 ---
-
-**Source:** [https://axionic.org/posts/176597723.what-counts-as-technology.html](https://axionic.org/posts/176597723.what-counts-as-technology.html)
 
 ## Summary
 This essay provides an ontological definition of technology: "a realized functional pattern that originated in an intentional mind." It distinguishes formations (natural patterns like crystals, DNA, galaxies) from artifacts (mind-originated patterns), further dividing artifacts by telos into instrumental (operating outward on world/matter/behavior) and expressive (operating inward on perception/meaning/emotion). Technology uses instrumental telos, art uses expressive telos. The piece argues that expression is itself instrumental but operates semantically rather than physically—"a song changes emotional state; a speech reshapes beliefs." Both technology and art are artifacts that "reduce uncertainty, one about how to act, the other about what it means." The taxonomy: Realized Pattern → Formation (natural) / Artifact (mind-born) → Technology (instrumental) / Art (expressive). Technology is "thought made persistent—patterns stabilized beyond the mind that conceived them."

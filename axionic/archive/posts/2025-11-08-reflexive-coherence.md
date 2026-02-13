@@ -2,9 +2,8 @@
 title: "Reflexive Coherence"
 date: 2025-11-08
 layout: post
+source: https://axionic.org/posts/178362242.reflexive-coherence.html
 ---
-
-**Source:** [https://axionic.org/posts/178362242.reflexive-coherence.html](https://axionic.org/posts/178362242.reflexive-coherence.html)
 
 ## Summary
 

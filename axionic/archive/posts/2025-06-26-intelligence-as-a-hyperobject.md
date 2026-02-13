@@ -2,9 +2,8 @@
 title: "Intelligence as a Hyperobject"
 date: 2025-06-26
 layout: post
+source: https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html
 ---
-
-**Source:** [https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)
 
 ## Summary
 This post applies Timothy Morton's "hyperobject" concept to intelligence, arguing that competing theories (intelligence as prediction, goal-direction, evolutionary fitness, social coordination, general problem-solving) are each compelling yet incomplete because intelligence is inherently multidimensional. Hyperobjects are vast, distributed, multidimensional entities ungrasped from singular perspectives. Intelligence exhibits five hyperobject characteristics: (1) high dimensionality—integrating cognition, perception, emotion, computation, social interaction; (2) non-locality—distributed across brains, bodies, environments, cultural systems; (3) temporal extension—spanning evolutionary history, developmental lifespans, cultural evolution; (4) interobjectivity—only meaningful relationally through agent-environment-tool-society interactions; (5) partial observability—no single discipline/model captures full complexity. This framing encourages epistemic humility (accepting limits of isolated perspectives) and emphasizes multidisciplinary synthesis. Active Inference, Predictive Processing, Evolutionary Rationalism, embodied/extended cognition theories already embody this integrative approach. Intelligence isn't reducible to IQ or computational power; it's profound interconnected hyperobject demanding integrative frameworks.
