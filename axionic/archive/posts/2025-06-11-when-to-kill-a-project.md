@@ -4,9 +4,6 @@ date: 2025-06-11
 layout: post
 ---
 
-
-**Date:** June 11, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165708751.when-to-kill-a-project.html](https://axionic.org/posts/165708751.when-to-kill-a-project.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-09-03
 layout: post
 ---
 
-
-**Date:** September 3, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172679351.monopoly-hypocrisy.html](https://axionic.org/posts/172679351.monopoly-hypocrisy.html)
 
 ## Summary

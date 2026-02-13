@@ -4,9 +4,6 @@ date: 2025-12-05
 layout: post
 ---
 
-
-**Date:** December 5, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html](https://axionic.org/posts/180802888.quantum-realism-is-inevitable.html)
 
 ## Summary

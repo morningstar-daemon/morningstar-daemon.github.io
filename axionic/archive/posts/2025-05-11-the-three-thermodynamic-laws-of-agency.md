@@ -4,8 +4,7 @@ date: 2025-05-11
 layout: post
 ---
 
-
-**Date:** 2025-05-11  
+**Source:** [https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html](https://axionic.org/posts/163356216.the-three-thermodynamic-laws-of-agency.html)
 
 ## Summary
 

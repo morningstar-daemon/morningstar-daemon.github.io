@@ -4,8 +4,7 @@ date: 2025-12-21
 layout: post
 ---
 
-
-**Date:** 2025-12-21  
+**Source:** [https://axionic.org/posts/182271053.agency-coherence-lab.html](https://axionic.org/posts/182271053.agency-coherence-lab.html)
 
 ## Summary
 

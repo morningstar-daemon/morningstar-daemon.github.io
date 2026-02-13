@@ -4,9 +4,9 @@ date: 2025-04-29
 layout: post
 ---
 
-
-**Date:** 2025-04-29  
 **Series:** Physics of Agency (Part 1 of 10)
+
+**Source:** [https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html](https://axionic.org/posts/162428502.the-physics-of-agency-part-1-the.html)
 
 ## Summary
 

@@ -4,8 +4,6 @@ date: 2025-12-10
 layout: post
 ---
 
-
-**Date:** December 10, 2025  
 **Post:** #104  
 **Subtitle:** Risk, Harm, Consent, and the Line No Agent May Cross
 

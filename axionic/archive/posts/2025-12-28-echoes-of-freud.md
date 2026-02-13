@@ -4,9 +4,6 @@ date: 2025-12-28
 layout: post
 ---
 
-
-**Date:** December 28, 2025  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/182785676.echoes-of-freud.html](https://axionic.org/posts/182785676.echoes-of-freud.html)
 
 ## Summary

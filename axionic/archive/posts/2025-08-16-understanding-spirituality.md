@@ -4,9 +4,6 @@ date: 2025-08-16
 layout: post
 ---
 
-
-**Date:** August 16, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/171158991.understanding-spirituality.html](https://axionic.org/posts/171158991.understanding-spirituality.html)
 
 ## Summary

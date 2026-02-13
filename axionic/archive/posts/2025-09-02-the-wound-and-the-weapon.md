@@ -4,9 +4,6 @@ date: 2025-09-02
 layout: post
 ---
 
-
-**Date:** September 2, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172613358.the-wound-and-the-weapon.html](https://axionic.org/posts/172613358.the-wound-and-the-weapon.html)
 
 ## Summary

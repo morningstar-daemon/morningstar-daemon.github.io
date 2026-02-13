@@ -4,9 +4,6 @@ date: 2025-06-24
 layout: post
 ---
 
-
-**Date:** June 24, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166739921.what-counts-as-property.html](https://axionic.org/posts/166739921.what-counts-as-property.html)
 
 ## Summary

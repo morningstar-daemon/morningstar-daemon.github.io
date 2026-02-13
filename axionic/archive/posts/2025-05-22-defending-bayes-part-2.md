@@ -4,8 +4,7 @@ date: 2025-05-22
 layout: post
 ---
 
-
-**Date:** 2025-05-22  
+**Source:** [https://axionic.org/posts/164130874.defending-bayes-part-2.html](https://axionic.org/posts/164130874.defending-bayes-part-2.html)
 
 ## Summary
 

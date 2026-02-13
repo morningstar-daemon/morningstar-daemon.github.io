@@ -4,9 +4,9 @@ date: 2025-12-23
 layout: post
 ---
 
-
-**Date:** 2025-12-23  
 **Series:** Axionic Agency Sequence (Interlude III)
+
+**Source:** [https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html](https://axionic.org/posts/182459854.axionic-agency-interlude-iii.html)
 
 ## Summary
 

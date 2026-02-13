@@ -4,9 +4,6 @@ date: 2025-11-28
 layout: post
 ---
 
-
-**Date:** November 28, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html](https://axionic.org/posts/180188906.the-pathologies-of-misaligned-incentives.html)
 
 ## Summary

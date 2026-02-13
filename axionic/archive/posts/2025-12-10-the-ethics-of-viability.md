@@ -4,8 +4,6 @@ date: 2025-12-10
 layout: post
 ---
 
-
-**Date:** December 10, 2025  
 **Post:** #105  
 **Subtitle:** A Stable Strategy in the Ultimate Metagame of Agency
 

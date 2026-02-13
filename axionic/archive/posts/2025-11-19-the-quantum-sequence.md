@@ -4,9 +4,9 @@ date: 2025-11-19
 layout: post
 ---
 
-
-**Date:** 2025-11-19  
 **Series:** Quantum Sequence (Announcement/Index)
+
+**Source:** [https://axionic.org/posts/179387335.the-quantum-sequence.html](https://axionic.org/posts/179387335.the-quantum-sequence.html)
 
 ## Summary
 

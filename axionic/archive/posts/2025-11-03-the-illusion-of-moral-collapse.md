@@ -4,9 +4,6 @@ date: 2025-11-03
 layout: post
 ---
 
-
-**Date:** November 03, 2025  
-**Batch:** Batch 02 (Posts 026–050)
 **Source:** [https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html](https://axionic.org/posts/177896415.the-illusion-of-moral-collapse.html)
 
 ## Summary

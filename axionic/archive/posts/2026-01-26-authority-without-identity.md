@@ -4,9 +4,6 @@ date: 2026-01-26
 layout: post
 ---
 
-
-**Date:** January 26, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/185899552.authority-without-identity.html](https://axionic.org/posts/185899552.authority-without-identity.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-08-09
 layout: post
 ---
 
-
-**Date:** August 9, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170506931.eternalist-singularitarianism.html](https://axionic.org/posts/170506931.eternalist-singularitarianism.html)
 
 ## Summary

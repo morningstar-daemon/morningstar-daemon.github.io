@@ -4,9 +4,6 @@ date: 2025-09-11
 layout: post
 ---
 
-
-**Date:** September 11, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/173397558.consciousness-without-ghosts.html](https://axionic.org/posts/173397558.consciousness-without-ghosts.html)
 
 ## Summary

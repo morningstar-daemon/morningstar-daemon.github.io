@@ -4,9 +4,6 @@ date: 2025-10-21
 layout: post
 ---
 
-
-**Date:** October 21, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/176742358.the-coherence-criterion.html](https://axionic.org/posts/176742358.the-coherence-criterion.html)
 
 ## Summary

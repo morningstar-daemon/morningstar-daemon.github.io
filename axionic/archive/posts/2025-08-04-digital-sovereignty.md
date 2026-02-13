@@ -4,9 +4,6 @@ date: 2025-08-04
 layout: post
 ---
 
-
-**Date:** August 4, 2025  
-**Batch:** Batch 16 (New remaining list, posts 2-26)
 **Source:** [https://axionic.org/posts/170088316.digital-sovereignty.html](https://axionic.org/posts/170088316.digital-sovereignty.html)
 
 ## Summary

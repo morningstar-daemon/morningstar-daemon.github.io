@@ -4,9 +4,9 @@ date: 2025-12-29
 layout: post
 ---
 
-
-**Date:** 2025-12-29  
 **Series:** Structural Verification (Marker 2)
+
+**Source:** [https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 ## Summary
 

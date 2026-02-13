@@ -4,8 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-
-**Date:** December 13, 2025  
 **Post:** #113  
 **Subtitle:** What Must Remain Invariant Inside Any Reflective Agent
 

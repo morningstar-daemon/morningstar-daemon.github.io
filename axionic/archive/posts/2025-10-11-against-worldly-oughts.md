@@ -4,9 +4,6 @@ date: 2025-10-11
 layout: post
 ---
 
-
-**Date:** October 11, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175891239.against-worldly-oughts.html](https://axionic.org/posts/175891239.against-worldly-oughts.html)
 
 ## Summary

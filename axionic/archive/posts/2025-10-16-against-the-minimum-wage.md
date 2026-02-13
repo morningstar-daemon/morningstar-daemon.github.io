@@ -4,9 +4,6 @@ date: 2025-10-16
 layout: post
 ---
 
-
-**Date:** October 16, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176368883.against-the-minimum-wage.html](https://axionic.org/posts/176368883.against-the-minimum-wage.html)
 
 ## Summary

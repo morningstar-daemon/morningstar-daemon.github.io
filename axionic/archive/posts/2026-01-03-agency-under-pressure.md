@@ -4,9 +4,6 @@ date: 2026-01-03
 layout: post
 ---
 
-
-**Date:** January 3, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183363135.agency-under-pressure.html](https://axionic.org/posts/183363135.agency-under-pressure.html)
 
 ## Summary

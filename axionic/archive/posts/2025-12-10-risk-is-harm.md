@@ -4,8 +4,6 @@ date: 2025-12-10
 layout: post
 ---
 
-
-**Date:** December 10, 2025  
 **Post:** #103  
 **Subtitle:** Why Gambling With Others Is Coercion.
 

@@ -4,9 +4,6 @@ date: 2025-09-29
 layout: post
 ---
 
-
-**Date:** September 29, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html](https://axionic.org/posts/174855132.dialectic-catalysts-in-the-wild.html)
 
 ## Summary

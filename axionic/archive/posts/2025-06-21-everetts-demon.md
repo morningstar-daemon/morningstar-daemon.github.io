@@ -4,9 +4,6 @@ date: 2025-06-21
 layout: post
 ---
 
-
-**Date:** June 21, 2025  
-**Batch:** Batch 06 (Posts 138–162)
 **Source:** [https://axionic.org/posts/166481863.everetts-demon.html](https://axionic.org/posts/166481863.everetts-demon.html)
 
 ## Summary

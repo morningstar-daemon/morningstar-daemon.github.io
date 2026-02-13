@@ -4,9 +4,6 @@ date: 2025-12-02
 layout: post
 ---
 
-
-**Date:** December 2, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/180550525.consciousness-explained.html](https://axionic.org/posts/180550525.consciousness-explained.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-09-08
 layout: post
 ---
 
-
-**Date:** September 8, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/173134484.the-heros-delusion.html](https://axionic.org/posts/173134484.the-heros-delusion.html)
 
 ## Summary

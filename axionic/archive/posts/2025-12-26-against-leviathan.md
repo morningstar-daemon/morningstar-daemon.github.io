@@ -4,9 +4,6 @@ date: 2025-12-26
 layout: post
 ---
 
-
-**Date:** December 26, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182655739.against-leviathan.html](https://axionic.org/posts/182655739.against-leviathan.html)
 
 ## Summary

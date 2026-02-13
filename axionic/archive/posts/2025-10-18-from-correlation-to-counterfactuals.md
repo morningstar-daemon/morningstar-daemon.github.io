@@ -4,9 +4,6 @@ date: 2025-10-18
 layout: post
 ---
 
-
-**Date:** October 18, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html](https://axionic.org/posts/176516919.from-correlation-to-counterfactuals.html)
 
 ## Summary

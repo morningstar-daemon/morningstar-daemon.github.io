@@ -4,9 +4,6 @@ date: 2025-06-15
 layout: post
 ---
 
-
-**Date:** June 15, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/166028334.the-universality-misconception-in.html](https://axionic.org/posts/166028334.the-universality-misconception-in.html)
 
 ## Summary

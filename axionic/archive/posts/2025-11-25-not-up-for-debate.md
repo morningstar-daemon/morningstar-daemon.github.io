@@ -4,9 +4,6 @@ date: 2025-11-25
 layout: post
 ---
 
-
-**Date:** November 25, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/179943509.not-up-for-debate.html](https://axionic.org/posts/179943509.not-up-for-debate.html)
 
 ## Summary

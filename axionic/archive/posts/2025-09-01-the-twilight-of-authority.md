@@ -4,9 +4,6 @@ date: 2025-09-01
 layout: post
 ---
 
-
-**Date:** September 1, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172520720.the-twilight-of-authority.html](https://axionic.org/posts/172520720.the-twilight-of-authority.html)
 
 ## Summary

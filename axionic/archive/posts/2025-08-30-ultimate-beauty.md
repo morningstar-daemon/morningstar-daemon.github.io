@@ -4,9 +4,6 @@ date: 2025-08-30
 layout: post
 ---
 
-
-**Date:** August 30, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/172368510.ultimate-beauty.html](https://axionic.org/posts/172368510.ultimate-beauty.html)
 
 ## Summary

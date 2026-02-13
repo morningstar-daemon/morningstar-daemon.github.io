@@ -4,9 +4,6 @@ date: 2025-11-30
 layout: post
 ---
 
-
-**Date:** November 30, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/180340867.the-metagame-sequence.html](https://axionic.org/posts/180340867.the-metagame-sequence.html)
 
 ## Summary

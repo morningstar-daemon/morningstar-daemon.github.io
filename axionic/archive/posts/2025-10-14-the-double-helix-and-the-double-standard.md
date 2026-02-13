@@ -4,9 +4,6 @@ date: 2025-10-14
 layout: post
 ---
 
-
-**Date:** October 14, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html](https://axionic.org/posts/176149353.the-double-helix-and-the-double-standard.html)
 
 ## Summary

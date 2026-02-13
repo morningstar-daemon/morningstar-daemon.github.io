@@ -4,9 +4,6 @@ date: 2025-06-14
 layout: post
 ---
 
-
-**Date:** June 14, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165967029.against-positive-rights.html](https://axionic.org/posts/165967029.against-positive-rights.html)
 
 ## Summary

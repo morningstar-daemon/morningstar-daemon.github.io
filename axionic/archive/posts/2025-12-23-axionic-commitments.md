@@ -4,9 +4,6 @@ date: 2025-12-23
 layout: post
 ---
 
-
-**Date:** December 23, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182463091.axionic-commitments.html](https://axionic.org/posts/182463091.axionic-commitments.html)
 
 ## Summary

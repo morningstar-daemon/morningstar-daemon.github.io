@@ -4,9 +4,6 @@ date: 2025-12-31
 layout: post
 ---
 
-
-**Date:** December 31, 2025  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183091282.the-stasis-regime.html](https://axionic.org/posts/183091282.the-stasis-regime.html)
 
 ## Summary

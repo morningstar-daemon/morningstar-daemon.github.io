@@ -4,9 +4,9 @@ date: 2025-12-19
 layout: post
 ---
 
-
-**Date:** 2025-12-19  
 **Series:** Axionic Agency Sequence (Announcement/Index)
+
+**Source:** [https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html](https://axionic.org/posts/182120522.the-axionic-alignment-sequence.html)
 
 ## Summary
 

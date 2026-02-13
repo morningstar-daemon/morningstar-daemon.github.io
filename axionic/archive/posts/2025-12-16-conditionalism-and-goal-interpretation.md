@@ -4,8 +4,6 @@ date: 2025-12-16
 layout: post
 ---
 
-
-**Date:** December 16, 2025  
 **Post:** #125  
 **Subtitle:** Why “Fixed Goals” Collapse Under Intelligence
 

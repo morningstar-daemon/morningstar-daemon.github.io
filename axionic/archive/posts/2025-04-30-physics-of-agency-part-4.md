@@ -4,8 +4,7 @@ date: 2025-04-30
 layout: post
 ---
 
-
-**Date:** April 30, 2025  
+**Source:** [https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html](https://axionic.org/posts/162543579.the-physics-of-agency-part-4-the.html)
 
 ## Summary
 

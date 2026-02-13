@@ -9,7 +9,6 @@ batch: 4
 position: 78
 ---
 
-
 ## Key Arguments
 
 **Central Thesis:** Refines earlier agreement with Deutsch/Hall's critique—they're right that theories don't have objective probabilities, but wrong to dismiss credences to theories entirely.

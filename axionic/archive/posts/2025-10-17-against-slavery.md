@@ -4,9 +4,6 @@ date: 2025-10-17
 layout: post
 ---
 
-
-**Date:** October 17, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176442955.against-slavery.html](https://axionic.org/posts/176442955.against-slavery.html)
 
 ## Summary

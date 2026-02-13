@@ -4,9 +4,6 @@ date: 2025-10-15
 layout: post
 ---
 
-
-**Date:** October 15, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176244039.truth-isnt-enough.html](https://axionic.org/posts/176244039.truth-isnt-enough.html)
 
 ## Summary

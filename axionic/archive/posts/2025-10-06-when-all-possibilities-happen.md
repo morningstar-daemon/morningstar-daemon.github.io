@@ -4,9 +4,6 @@ date: 2025-10-06
 layout: post
 ---
 
-
-**Date:** October 6, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175473326.when-all-possibilities-happen.html](https://axionic.org/posts/175473326.when-all-possibilities-happen.html)
 
 ## Summary

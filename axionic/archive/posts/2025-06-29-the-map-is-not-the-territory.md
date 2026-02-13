@@ -4,9 +4,6 @@ date: 2025-06-29
 layout: post
 ---
 
-
-**Date:** June 29, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167116201.the-map-is-not-the-territory.html](https://axionic.org/posts/167116201.the-map-is-not-the-territory.html)
 
 ## Summary

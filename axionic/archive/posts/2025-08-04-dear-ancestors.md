@@ -4,10 +4,7 @@ date: 2025-08-04
 layout: post
 ---
 
-
-**Date:** August 04, 2025  
 **Subtitle:** Explaining My Modern Values to Those Who Came Before  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/170117705.dear-ancestors.html](https://axionic.org/posts/170117705.dear-ancestors.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-11-26
 layout: post
 ---
 
-
-**Date:** November 26, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180026930.the-ultimate-metagame.html](https://axionic.org/posts/180026930.the-ultimate-metagame.html)
 
 ## Summary

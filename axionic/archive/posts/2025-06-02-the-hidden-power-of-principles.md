@@ -4,8 +4,7 @@ date: 2025-06-02
 layout: post
 ---
 
-
-**Date:** 2025-06-02  
+**Source:** [https://axionic.org/posts/165040003.the-hidden-power-of-principles.html](https://axionic.org/posts/165040003.the-hidden-power-of-principles.html)
 
 ## Summary
 

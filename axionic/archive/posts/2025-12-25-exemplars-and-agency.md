@@ -4,9 +4,6 @@ date: 2025-12-25
 layout: post
 ---
 
-
-**Date:** December 25, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182596460.exemplars-and-agency.html](https://axionic.org/posts/182596460.exemplars-and-agency.html)
 
 ## Summary

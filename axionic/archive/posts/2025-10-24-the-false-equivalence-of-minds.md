@@ -4,9 +4,6 @@ date: 2025-10-24
 layout: post
 ---
 
-
-**Date:** October 24, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html](https://axionic.org/posts/177051505.the-false-equivalence-of-minds.html)
 
 ## Summary

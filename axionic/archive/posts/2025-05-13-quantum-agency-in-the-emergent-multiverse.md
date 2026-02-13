@@ -4,8 +4,7 @@ date: 2025-05-13
 layout: post
 ---
 
-
-**Date:** 2025-05-13  
+**Source:** [https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html](https://axionic.org/posts/163509485.quantum-agency-in-the-emergent-multiverse.html)
 
 ## Summary
 

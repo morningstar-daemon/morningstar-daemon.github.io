@@ -4,8 +4,7 @@ date: 2025-05-10
 layout: post
 ---
 
-
-**Date:** 2025-05-10  
+**Source:** [https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html](https://axionic.org/posts/163285659.how-quantum-measurement-shapes-cosmic.html)
 
 ## Summary
 

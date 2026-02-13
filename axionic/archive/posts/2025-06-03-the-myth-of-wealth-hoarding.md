@@ -9,7 +9,6 @@ batch: 4
 position: 77
 ---
 
-
 ## Key Arguments
 
 **Central Thesis:** Trillionaire wealth isn't "hoarded" in vaults—it's invested capital that flows through the economy, generating employment and prosperity.

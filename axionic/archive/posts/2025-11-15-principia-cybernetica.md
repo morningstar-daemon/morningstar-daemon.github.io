@@ -4,8 +4,6 @@ date: 2025-11-15
 layout: post
 ---
 
-
-**Date:** November 15, 2025  
 **Series:** Intellectual History / Systems Philosophy  
 **Project:** [Principia Cybernetica Project](https://web.archive.org/web/20060701091106/http://pespmc1.vub.ac.be/DEFAULT.html)
 

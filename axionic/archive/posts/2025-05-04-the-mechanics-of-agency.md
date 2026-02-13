@@ -4,8 +4,7 @@ date: 2025-05-04
 layout: post
 ---
 
-
-**Date:** 2025-05-04  
+**Source:** [https://axionic.org/posts/162831172.the-mechanics-of-agency.html](https://axionic.org/posts/162831172.the-mechanics-of-agency.html)
 
 ## Summary
 

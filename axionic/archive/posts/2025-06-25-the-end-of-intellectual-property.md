@@ -4,9 +4,6 @@ date: 2025-06-25
 layout: post
 ---
 
-
-**Date:** June 25, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166822916.the-end-of-intellectual-property.html](https://axionic.org/posts/166822916.the-end-of-intellectual-property.html)
 
 ## Summary

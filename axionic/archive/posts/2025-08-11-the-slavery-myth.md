@@ -4,9 +4,6 @@ date: 2025-08-11
 layout: post
 ---
 
-
-**Date:** August 11, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170730446.the-slavery-myth.html](https://axionic.org/posts/170730446.the-slavery-myth.html)
 
 ## Summary

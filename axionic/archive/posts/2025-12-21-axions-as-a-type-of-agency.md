@@ -4,9 +4,6 @@ date: 2025-12-21
 layout: post
 ---
 
-
-**Date:** December 21, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)
 
 ## Summary

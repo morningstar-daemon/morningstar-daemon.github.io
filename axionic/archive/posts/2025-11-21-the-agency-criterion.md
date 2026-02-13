@@ -4,8 +4,7 @@ date: 2025-11-21
 layout: post
 ---
 
-
-**Date:** 2025-11-21  
+**Source:** [https://axionic.org/posts/179585057.the-agency-criterion.html](https://axionic.org/posts/179585057.the-agency-criterion.html)
 
 ## Summary
 

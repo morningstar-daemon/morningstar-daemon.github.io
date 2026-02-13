@@ -4,9 +4,6 @@ date: 2025-09-12
 layout: post
 ---
 
-
-**Date:** September 12, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html](https://axionic.org/posts/173473123.the-sysop-and-the-cassandra.html)
 
 ## Summary

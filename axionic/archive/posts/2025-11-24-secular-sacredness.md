@@ -4,9 +4,6 @@ date: 2025-11-24
 layout: post
 ---
 
-
-**Date:** November 24, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/179826744.secular-sacredness.html](https://axionic.org/posts/179826744.secular-sacredness.html)
 
 ## Summary

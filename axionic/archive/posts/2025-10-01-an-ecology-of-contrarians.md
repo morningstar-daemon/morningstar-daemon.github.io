@@ -4,9 +4,6 @@ date: 2025-10-01
 layout: post
 ---
 
-
-**Date:** October 1, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/175065575.an-ecology-of-contrarians.html](https://axionic.org/posts/175065575.an-ecology-of-contrarians.html)
 
 ## Summary

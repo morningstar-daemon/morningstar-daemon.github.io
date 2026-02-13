@@ -4,9 +4,6 @@ date: 2025-08-27
 layout: post
 ---
 
-
-**Date:** August 27, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/172123789.ctmu-vs-chaos.html](https://axionic.org/posts/172123789.ctmu-vs-chaos.html)
 
 ## Summary

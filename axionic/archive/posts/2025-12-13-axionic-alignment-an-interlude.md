@@ -4,8 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-
-**Date:** December 13, 2025  
 **Post:** #110  
 **Subtitle:** Claims, Structure, and Open Problems
 

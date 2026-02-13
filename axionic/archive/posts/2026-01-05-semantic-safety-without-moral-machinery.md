@@ -4,9 +4,6 @@ date: 2026-01-05
 layout: post
 ---
 
-
-**Date:** January 5, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html](https://axionic.org/posts/183568372.semantic-safety-without-moral-machinery.html)
 
 ## Summary

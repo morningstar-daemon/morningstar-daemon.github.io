@@ -4,8 +4,6 @@ date: 2025-11-11
 layout: post
 ---
 
-
-**Date:** November 11, 2025  
 **Type:** Personal / Apologetic  
 **Series:** Philosophy of Religion
 

@@ -4,9 +4,6 @@ date: 2025-07-05
 layout: post
 ---
 
-
-**Date:** July 05, 2025  
-**Batch:** Batch 18 (Posts 1–25 of remaining 222)
 **Source:** [https://axionic.org/posts/167614945.beyond-gender-balance.html](https://axionic.org/posts/167614945.beyond-gender-balance.html)
 
 ## Summary

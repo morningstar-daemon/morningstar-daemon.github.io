@@ -4,9 +4,9 @@ date: 2025-11-19
 layout: post
 ---
 
-
-**Date:** 2025-11-19  
 **Series:** Cybernetics Sequence
+
+**Source:** [https://axionic.org/posts/179372278.what-is-a-model.html](https://axionic.org/posts/179372278.what-is-a-model.html)
 
 ## Summary
 

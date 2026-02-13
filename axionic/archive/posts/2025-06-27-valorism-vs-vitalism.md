@@ -4,9 +4,6 @@ date: 2025-06-27
 layout: post
 ---
 
-
-**Date:** June 27, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166976848.valorism-vs-vitalism.html](https://axionic.org/posts/166976848.valorism-vs-vitalism.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-12-04
 layout: post
 ---
 
-
-**Date:** December 4, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/180658803.the-thought-police.html](https://axionic.org/posts/180658803.the-thought-police.html)
 
 ## Summary

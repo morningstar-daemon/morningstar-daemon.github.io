@@ -4,9 +4,6 @@ date: 2025-12-20
 layout: post
 ---
 
-
-**Date:** December 20, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182202678.why-axionic-alignment-requires-hybrid.html](https://axionic.org/posts/182202678.why-axionic-alignment-requires-hybrid.html)
 
 ## Summary

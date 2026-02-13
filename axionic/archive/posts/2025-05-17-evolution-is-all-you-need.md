@@ -4,8 +4,7 @@ date: 2025-05-17
 layout: post
 ---
 
-
-**Date:** 2025-05-17  
+**Source:** [https://axionic.org/posts/163797482.evolution-is-all-you-need.html](https://axionic.org/posts/163797482.evolution-is-all-you-need.html)
 
 ## Summary
 

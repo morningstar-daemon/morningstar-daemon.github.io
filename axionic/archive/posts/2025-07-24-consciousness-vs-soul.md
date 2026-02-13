@@ -4,9 +4,6 @@ date: 2025-07-24
 layout: post
 ---
 
-
-**Date:** July 24, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/169145093.consciousness-vs-soul.html](https://axionic.org/posts/169145093.consciousness-vs-soul.html)
 
 ## Summary

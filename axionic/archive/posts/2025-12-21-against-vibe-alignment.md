@@ -4,9 +4,6 @@ date: 2025-12-21
 layout: post
 ---
 
-
-**Date:** December 21, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182250795.against-vibe-alignment.html](https://axionic.org/posts/182250795.against-vibe-alignment.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-07-21
 layout: post
 ---
 
-
-**Date:** July 21, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/168867250.lessons-from-peak-oil.html](https://axionic.org/posts/168867250.lessons-from-peak-oil.html)
 
 ## Summary

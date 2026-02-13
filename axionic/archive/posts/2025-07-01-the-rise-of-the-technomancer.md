@@ -4,9 +4,6 @@ date: 2025-07-01
 layout: post
 ---
 
-
-**Date:** July 1, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html](https://axionic.org/posts/167272333.the-rise-of-the-technomancer.html)
 
 ## Summary

@@ -4,10 +4,7 @@ date: 2025-07-30
 layout: post
 ---
 
-
-**Date:** July 30, 2025  
 **Subtitle:** Creating Reality from Informational Coherence  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/169627584.physics-engineering.html](https://axionic.org/posts/169627584.physics-engineering.html)
 
 ## Summary

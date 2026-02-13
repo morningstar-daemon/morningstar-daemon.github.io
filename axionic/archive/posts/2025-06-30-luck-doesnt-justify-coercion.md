@@ -4,9 +4,6 @@ date: 2025-06-30
 layout: post
 ---
 
-
-**Date:** June 30, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html](https://axionic.org/posts/167140257.luck-doesnt-justify-coercion.html)
 
 ## Summary

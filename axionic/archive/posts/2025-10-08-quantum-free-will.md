@@ -4,9 +4,6 @@ date: 2025-10-08
 layout: post
 ---
 
-
-**Date:** October 8, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175664749.quantum-free-will.html](https://axionic.org/posts/175664749.quantum-free-will.html)
 
 ## Summary

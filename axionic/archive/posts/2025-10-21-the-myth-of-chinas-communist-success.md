@@ -4,9 +4,6 @@ date: 2025-10-21
 layout: post
 ---
 
-
-**Date:** October 21, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html](https://axionic.org/posts/176756726.the-myth-of-chinas-communist-success.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-09-06
 layout: post
 ---
 
-
-**Date:** September 6, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172978476.the-spiral-of-certainty.html](https://axionic.org/posts/172978476.the-spiral-of-certainty.html)
 
 ## Summary

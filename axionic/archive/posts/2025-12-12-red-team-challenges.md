@@ -4,8 +4,6 @@ date: 2025-12-12
 layout: post
 ---
 
-
-**Date:** December 12, 2025  
 **Post:** #108  
 **Subtitle:** The Hardest Tests an Invariant‑Based Alignment Theory Must Survive
 

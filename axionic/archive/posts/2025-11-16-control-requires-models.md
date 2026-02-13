@@ -4,8 +4,6 @@ date: 2025-11-16
 layout: post
 ---
 
-
-**Date:** November 16, 2025  
 **Series:** Epistemology / Control Theory  
 **Companion:** [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html)
 

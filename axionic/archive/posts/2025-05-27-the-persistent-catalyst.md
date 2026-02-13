@@ -4,8 +4,7 @@ date: 2025-05-27
 layout: post
 ---
 
-
-**Date:** 2025-05-27  
+**Source:** [https://axionic.org/posts/164581001.the-persistent-catalyst.html](https://axionic.org/posts/164581001.the-persistent-catalyst.html)
 
 ## Summary
 

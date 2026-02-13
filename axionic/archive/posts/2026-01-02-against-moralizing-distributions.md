@@ -4,9 +4,6 @@ date: 2026-01-02
 layout: post
 ---
 
-
-**Date:** January 2, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183197544.against-moralizing-distributions.html](https://axionic.org/posts/183197544.against-moralizing-distributions.html)
 
 ## Summary

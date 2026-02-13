@@ -4,9 +4,6 @@ date: 2025-10-22
 layout: post
 ---
 
-
-**Date:** October 22, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/176838567.beauty-and-truth.html](https://axionic.org/posts/176838567.beauty-and-truth.html)
 
 ## Summary

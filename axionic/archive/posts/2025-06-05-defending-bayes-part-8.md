@@ -4,9 +4,9 @@ date: 2025-06-05
 layout: post
 ---
 
-
-**Date:** 2025-06-05  
 **Series:** Defending Bayes (Part 8)
+
+**Source:** [https://axionic.org/posts/165272096.defending-bayes-part-8.html](https://axionic.org/posts/165272096.defending-bayes-part-8.html)
 
 ## Summary
 

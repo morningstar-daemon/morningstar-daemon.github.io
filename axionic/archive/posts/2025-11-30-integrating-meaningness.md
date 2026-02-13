@@ -4,9 +4,6 @@ date: 2025-11-30
 layout: post
 ---
 
-
-**Date:** November 30, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180330920.integrating-meaningness.html](https://axionic.org/posts/180330920.integrating-meaningness.html)
 
 ## Summary

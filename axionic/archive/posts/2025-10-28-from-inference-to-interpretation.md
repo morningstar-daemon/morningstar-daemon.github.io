@@ -4,9 +4,6 @@ date: 2025-10-28
 layout: post
 ---
 
-
-**Date:** October 28, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/177386987.from-inference-to-interpretation.html](https://axionic.org/posts/177386987.from-inference-to-interpretation.html)
 
 ## Summary

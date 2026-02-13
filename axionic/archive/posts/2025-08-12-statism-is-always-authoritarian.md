@@ -4,9 +4,6 @@ date: 2025-08-12
 layout: post
 ---
 
-
-**Date:** August 12, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170825921.statism-is-always-authoritarian.html](https://axionic.org/posts/170825921.statism-is-always-authoritarian.html)
 
 ## Summary

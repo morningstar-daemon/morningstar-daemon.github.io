@@ -4,8 +4,7 @@ date: 2025-05-17
 layout: post
 ---
 
-
-**Date:** 2025-05-17  
+**Source:** [https://axionic.org/posts/163789945.the-starlight-analogy.html](https://axionic.org/posts/163789945.the-starlight-analogy.html)
 
 ## Summary
 

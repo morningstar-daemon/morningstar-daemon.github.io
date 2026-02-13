@@ -4,9 +4,6 @@ date: 2025-07-16
 layout: post
 ---
 
-
-**Date:** July 16, 2025  
-**Batch:** Batch 21 (Posts 1-25 from remaining list)
 **Source:** [https://axionic.org/posts/168493940.awareness-vs-sentience.html](https://axionic.org/posts/168493940.awareness-vs-sentience.html)
 
 ## Summary

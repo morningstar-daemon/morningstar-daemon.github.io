@@ -4,9 +4,6 @@ date: 2025-11-28
 layout: post
 ---
 
-
-**Date:** November 28, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180199129.the-metagame-of-patterns.html](https://axionic.org/posts/180199129.the-metagame-of-patterns.html)
 
 ## Summary

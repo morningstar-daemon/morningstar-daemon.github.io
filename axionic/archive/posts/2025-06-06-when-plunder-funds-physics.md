@@ -4,8 +4,7 @@ date: 2025-06-06
 layout: post
 ---
 
-
-**Date:** 2025-06-06  
+**Source:** [https://axionic.org/posts/165340454.when-plunder-funds-physics.html](https://axionic.org/posts/165340454.when-plunder-funds-physics.html)
 
 ## Summary
 

@@ -4,9 +4,6 @@ date: 2025-08-08
 layout: post
 ---
 
-
-**Date:** August 8, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170446132.progressive-hypocrisy.html](https://axionic.org/posts/170446132.progressive-hypocrisy.html)
 
 ## Summary

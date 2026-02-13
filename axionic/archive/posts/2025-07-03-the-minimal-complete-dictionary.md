@@ -4,9 +4,6 @@ date: 2025-07-03
 layout: post
 ---
 
-
-**Date:** July 3, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html](https://axionic.org/posts/167462936.the-minimal-complete-dictionary.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-08-20
 layout: post
 ---
 
-
-**Date:** August 20, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/171515563.against-antinatalism.html](https://axionic.org/posts/171515563.against-antinatalism.html)
 
 ## Summary

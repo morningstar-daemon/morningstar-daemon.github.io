@@ -4,9 +4,6 @@ date: 2026-02-03
 layout: post
 ---
 
-
-**Date:** February 3, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/186685901.the-epstein-fallacy.html](https://axionic.org/posts/186685901.the-epstein-fallacy.html)
 
 ## Summary

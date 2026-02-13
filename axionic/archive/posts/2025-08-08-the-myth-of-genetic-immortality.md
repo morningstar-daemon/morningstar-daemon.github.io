@@ -4,9 +4,6 @@ date: 2025-08-08
 layout: post
 ---
 
-
-**Date:** August 8, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html](https://axionic.org/posts/170472989.the-myth-of-genetic-immortality.html)
 
 ## Summary

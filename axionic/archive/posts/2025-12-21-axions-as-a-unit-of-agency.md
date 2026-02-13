@@ -4,10 +4,9 @@ date: 2025-12-21
 layout: post
 ---
 
-
-**Date:** 2025-12-21  
-
 **Note:** Original title "Axions as a Unit of Agency" corrected to "Type of Agency" for ontological precision.
+
+**Source:** [https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html](https://axionic.org/posts/182274824.axions-as-a-unit-of-agency.html)
 
 ## Summary
 

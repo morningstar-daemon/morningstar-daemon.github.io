@@ -4,8 +4,6 @@ date: 2025-11-13
 layout: post
 ---
 
-
-**Date:** November 13, 2025  
 **Series:** Technology & Civilization / Historical Analysis  
 **Companion:** [Prometheus in Code](https://axionic.org/posts/178795619.prometheus-in-code.html)
 

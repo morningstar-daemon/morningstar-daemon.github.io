@@ -4,8 +4,7 @@ date: 2025-12-16
 layout: post
 ---
 
-
-**Date:** 2025-12-16  
+**Source:** [https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html](https://axionic.org/posts/181743727.regret-is-not-a-policy-metric.html)
 
 ## Summary
 

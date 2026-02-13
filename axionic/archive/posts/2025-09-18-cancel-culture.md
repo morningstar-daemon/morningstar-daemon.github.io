@@ -4,9 +4,6 @@ date: 2025-09-18
 layout: post
 ---
 
-
-**Date:** September 18, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/173950922.cancel-culture.html](https://axionic.org/posts/173950922.cancel-culture.html)
 
 ## Summary

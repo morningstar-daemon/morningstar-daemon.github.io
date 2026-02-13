@@ -4,10 +4,7 @@ date: 2025-08-02
 layout: post
 ---
 
-
-**Date:** August 02, 2025  
 **Subtitle:** Analyzing the State's Ownership Over Citizens  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/169922062.invisible-chains.html](https://axionic.org/posts/169922062.invisible-chains.html)
 
 ## Summary

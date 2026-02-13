@@ -4,9 +4,6 @@ date: 2025-07-17
 layout: post
 ---
 
-
-**Date:** July 17, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/168596138.defending-the-strong.html](https://axionic.org/posts/168596138.defending-the-strong.html)
 
 ## Summary

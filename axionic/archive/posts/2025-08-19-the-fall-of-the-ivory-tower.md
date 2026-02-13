@@ -4,9 +4,6 @@ date: 2025-08-19
 layout: post
 ---
 
-
-**Date:** August 19, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html](https://axionic.org/posts/171413518.the-fall-of-the-ivory-tower.html)
 
 ## Summary

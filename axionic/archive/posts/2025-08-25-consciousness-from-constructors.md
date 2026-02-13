@@ -4,9 +4,6 @@ date: 2025-08-25
 layout: post
 ---
 
-
-**Date:** August 25, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/171909085.consciousness-from-constructors.html](https://axionic.org/posts/171909085.consciousness-from-constructors.html)
 
 ## Summary

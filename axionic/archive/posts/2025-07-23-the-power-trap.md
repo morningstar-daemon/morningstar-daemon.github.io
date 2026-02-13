@@ -4,9 +4,6 @@ date: 2025-07-23
 layout: post
 ---
 
-
-**Date:** July 23, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/169087374.the-power-trap.html](https://axionic.org/posts/169087374.the-power-trap.html)
 
 ## Summary

@@ -4,8 +4,7 @@ date: 2025-06-07
 layout: post
 ---
 
-
-**Date:** 2025-06-07  
+**Source:** [https://axionic.org/posts/165424913.utopian-visions.html](https://axionic.org/posts/165424913.utopian-visions.html)
 
 ## Summary
 

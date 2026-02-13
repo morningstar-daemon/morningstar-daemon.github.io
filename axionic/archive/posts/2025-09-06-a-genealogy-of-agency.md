@@ -4,9 +4,6 @@ date: 2025-09-06
 layout: post
 ---
 
-
-**Date:** September 6, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172964152.a-genealogy-of-agency.html](https://axionic.org/posts/172964152.a-genealogy-of-agency.html)
 
 ## Summary

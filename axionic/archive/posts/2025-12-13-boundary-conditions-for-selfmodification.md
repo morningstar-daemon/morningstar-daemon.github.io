@@ -4,8 +4,7 @@ date: 2025-12-13
 layout: post
 ---
 
-
-**Date:** 2025-12-13  
+**Source:** [https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html](https://axionic.org/posts/181542405.boundary-conditions-for-selfmodification.html)
 
 ## Summary
 

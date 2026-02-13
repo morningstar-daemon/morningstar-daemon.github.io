@@ -4,9 +4,6 @@ date: 2025-06-26
 layout: post
 ---
 
-
-**Date:** June 26, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166913167.what-counts-as-evil.html](https://axionic.org/posts/166913167.what-counts-as-evil.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-06-11
 layout: post
 ---
 
-
-**Date:** June 11, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165721326.the-woke-right.html](https://axionic.org/posts/165721326.the-woke-right.html)
 
 ## Summary

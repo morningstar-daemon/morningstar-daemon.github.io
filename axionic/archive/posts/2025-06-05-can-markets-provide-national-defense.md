@@ -4,8 +4,7 @@ date: 2025-06-05
 layout: post
 ---
 
-
-**Date:** 2025-06-05  
+**Source:** [https://axionic.org/posts/165271623.can-markets-provide-national-defense.html](https://axionic.org/posts/165271623.can-markets-provide-national-defense.html)
 
 ## Summary
 

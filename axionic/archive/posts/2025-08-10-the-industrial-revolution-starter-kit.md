@@ -4,9 +4,6 @@ date: 2025-08-10
 layout: post
 ---
 
-
-**Date:** August 10, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/170634267.the-industrial-revolution-starter.html](https://axionic.org/posts/170634267.the-industrial-revolution-starter.html)
 
 ## Summary

@@ -4,8 +4,6 @@ date: 2025-11-15
 layout: post
 ---
 
-
-**Date:** November 15, 2025  
 **Series:** Memetics / Religion Analysis  
 **Project:** [Church of Virus](http://www.churchofvirus.org/) (CoV)
 

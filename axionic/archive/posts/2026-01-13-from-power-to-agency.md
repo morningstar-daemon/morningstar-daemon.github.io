@@ -4,9 +4,6 @@ date: 2026-01-13
 layout: post
 ---
 
-
-**Date:** January 13, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/184458876.from-power-to-agency.html](https://axionic.org/posts/184458876.from-power-to-agency.html)
 
 ## Summary

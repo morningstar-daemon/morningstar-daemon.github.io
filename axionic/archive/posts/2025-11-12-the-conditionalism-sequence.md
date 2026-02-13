@@ -4,8 +4,6 @@ date: 2025-11-12
 layout: post
 ---
 
-
-**Date:** November 12, 2025  
 **Type:** Sequence Navigation  
 **Series:** Epistemology / Theory of Knowledge
 

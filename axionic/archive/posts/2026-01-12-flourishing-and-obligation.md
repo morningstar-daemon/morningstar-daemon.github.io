@@ -4,9 +4,6 @@ date: 2026-01-12
 layout: post
 ---
 
-
-**Date:** January 12, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/184262903.flourishing-and-obligation.html](https://axionic.org/posts/184262903.flourishing-and-obligation.html)
 
 ## Summary

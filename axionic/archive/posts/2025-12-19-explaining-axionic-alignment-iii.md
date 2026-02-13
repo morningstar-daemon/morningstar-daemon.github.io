@@ -4,9 +4,6 @@ date: 2025-12-19
 layout: post
 ---
 
-
-**Date:** December 19, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html](https://axionic.org/posts/182031315.explaining-axionic-alignment-iii.html)
 
 ## Summary

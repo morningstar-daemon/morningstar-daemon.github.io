@@ -4,9 +4,6 @@ date: 2025-11-27
 layout: post
 ---
 
-
-**Date:** November 27, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180128433.the-future-is-extropian.html](https://axionic.org/posts/180128433.the-future-is-extropian.html)
 
 ## Summary

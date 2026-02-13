@@ -4,8 +4,6 @@ date: 2025-12-11
 layout: post
 ---
 
-
-**Date:** December 11, 2025  
 **Post:** #107  
 **Subtitle:** The Procedural Layer That Makes Civilizations Possible
 

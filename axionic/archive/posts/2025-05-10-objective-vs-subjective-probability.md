@@ -4,8 +4,7 @@ date: 2025-05-10
 layout: post
 ---
 
-
-**Date:** 2025-05-10  
+**Source:** [https://axionic.org/posts/163283969.objective-vs-subjective-probability.html](https://axionic.org/posts/163283969.objective-vs-subjective-probability.html)
 
 ## Summary
 

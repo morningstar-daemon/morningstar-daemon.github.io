@@ -4,9 +4,6 @@ date: 2025-09-07
 layout: post
 ---
 
-
-**Date:** September 7, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/173049685.the-presumption-of-innocence.html](https://axionic.org/posts/173049685.the-presumption-of-innocence.html)
 
 ## Summary

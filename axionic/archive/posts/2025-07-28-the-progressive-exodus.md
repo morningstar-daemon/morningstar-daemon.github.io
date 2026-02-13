@@ -4,9 +4,6 @@ date: 2025-07-28
 layout: post
 ---
 
-
-**Date:** July 28, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/169479666.the-progressive-exodus.html](https://axionic.org/posts/169479666.the-progressive-exodus.html)
 
 ## Summary

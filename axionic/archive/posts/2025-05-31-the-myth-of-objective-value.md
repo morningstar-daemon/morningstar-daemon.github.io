@@ -4,8 +4,7 @@ date: 2025-05-31
 layout: post
 ---
 
-
-**Date:** 2025-05-31  
+**Source:** [https://axionic.org/posts/164846085.the-myth-of-objective-value.html](https://axionic.org/posts/164846085.the-myth-of-objective-value.html)
 
 ## Summary
 

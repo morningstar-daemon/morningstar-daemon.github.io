@@ -4,9 +4,6 @@ date: 2025-11-07
 layout: post
 ---
 
-
-**Date:** November 07, 2025  
-**Batch:** Batch 02 (Posts 026–050)
 **Source:** [https://axionic.org/posts/178311820.you-are-your-choices.html](https://axionic.org/posts/178311820.you-are-your-choices.html)
 
 ## Summary

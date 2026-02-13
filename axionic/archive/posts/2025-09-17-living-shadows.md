@@ -4,9 +4,6 @@ date: 2025-09-17
 layout: post
 ---
 
-
-**Date:** September 17, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/173888583.living-shadows.html](https://axionic.org/posts/173888583.living-shadows.html)
 
 ## Summary

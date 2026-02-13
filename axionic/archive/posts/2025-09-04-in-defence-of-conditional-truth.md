@@ -4,9 +4,6 @@ date: 2025-09-04
 layout: post
 ---
 
-
-**Date:** September 4, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html](https://axionic.org/posts/172736394.in-defence-of-conditional-truth.html)
 
 ## Summary

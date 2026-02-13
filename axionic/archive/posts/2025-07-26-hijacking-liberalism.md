@@ -4,9 +4,6 @@ date: 2025-07-26
 layout: post
 ---
 
-
-**Date:** July 26, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/169312064.hijacking-liberalism.html](https://axionic.org/posts/169312064.hijacking-liberalism.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-07-06
 layout: post
 ---
 
-
-**Date:** July 6, 2025  
-**Batch:** Batch 19 (Posts 167–191)
 **Source:** [https://axionic.org/posts/167621027.catalyzing-curiosity.html](https://axionic.org/posts/167621027.catalyzing-curiosity.html)
 
 ## Summary

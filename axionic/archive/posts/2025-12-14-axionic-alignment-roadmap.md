@@ -4,8 +4,6 @@ date: 2025-12-14
 layout: post
 ---
 
-
-**Date:** December 14, 2025  
 **Post:** #118  
 **Subtitle:** A Research Agenda
 

@@ -4,9 +4,6 @@ date: 2025-06-19
 layout: post
 ---
 
-
-**Date:** June 19, 2025  
-**Batch:** Batch 05 (Posts 113–137)
 **Source:** [https://axionic.org/posts/166359583.the-boghossian-principle.html](https://axionic.org/posts/166359583.the-boghossian-principle.html)
 
 ## Summary

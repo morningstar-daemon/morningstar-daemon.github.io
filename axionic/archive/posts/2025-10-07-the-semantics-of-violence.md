@@ -4,9 +4,6 @@ date: 2025-10-07
 layout: post
 ---
 
-
-**Date:** October 7, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175525671.the-semantics-of-violence.html](https://axionic.org/posts/175525671.the-semantics-of-violence.html)
 
 ## Summary

@@ -4,8 +4,7 @@ date: 2025-05-25
 layout: post
 ---
 
-
-**Date:** 2025-05-25  
+**Source:** [https://axionic.org/posts/164442584.the-dialectic-catalyst.html](https://axionic.org/posts/164442584.the-dialectic-catalyst.html)
 
 ## Summary
 

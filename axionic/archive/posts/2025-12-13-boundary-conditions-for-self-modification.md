@@ -4,8 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-
-**Date:** December 13, 2025  
 **Post:** #111  
 **Subtitle:** How Reflective Agents Change Without Collapsing Agency
 

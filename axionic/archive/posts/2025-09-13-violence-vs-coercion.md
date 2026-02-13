@@ -4,9 +4,6 @@ date: 2025-09-13
 layout: post
 ---
 
-
-**Date:** September 13, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/173538253.violence-vs-coercion.html](https://axionic.org/posts/173538253.violence-vs-coercion.html)
 
 ## Summary

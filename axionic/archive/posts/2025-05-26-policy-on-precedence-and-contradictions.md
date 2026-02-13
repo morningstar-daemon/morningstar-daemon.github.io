@@ -4,8 +4,7 @@ date: 2025-05-26
 layout: post
 ---
 
-
-**Date:** 2025-05-26  
+**Source:** [https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html](https://axionic.org/posts/164447944.policy-on-precedence-and-contradictions.html)
 
 ## Summary
 

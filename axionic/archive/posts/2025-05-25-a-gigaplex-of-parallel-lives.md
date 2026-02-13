@@ -4,8 +4,7 @@ date: 2025-05-25
 layout: post
 ---
 
-
-**Date:** 2025-05-25  
+**Source:** [https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html](https://axionic.org/posts/164423784.a-gigaplex-of-parallel-lives.html)
 
 ## Summary
 

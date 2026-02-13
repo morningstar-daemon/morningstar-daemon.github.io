@@ -4,9 +4,6 @@ date: 2025-11-23
 layout: post
 ---
 
-
-**Date:** November 23, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/179741669.the-catastrophe-mindset.html](https://axionic.org/posts/179741669.the-catastrophe-mindset.html)
 
 ## Summary

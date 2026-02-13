@@ -4,9 +4,6 @@ date: 2025-10-06
 layout: post
 ---
 
-
-**Date:** October 6, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175474848.the-evolution-of-the-future.html](https://axionic.org/posts/175474848.the-evolution-of-the-future.html)
 
 ## Summary

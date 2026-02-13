@@ -4,9 +4,6 @@ date: 2025-08-10
 layout: post
 ---
 
-
-**Date:** August 10, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170630000.on-liberty.html](https://axionic.org/posts/170630000.on-liberty.html)
 
 ## Summary

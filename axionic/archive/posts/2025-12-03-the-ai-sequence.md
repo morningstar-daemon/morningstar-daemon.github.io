@@ -4,9 +4,6 @@ date: 2025-12-03
 layout: post
 ---
 
-
-**Date:** December 3, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/180629112.the-ai-sequence.html](https://axionic.org/posts/180629112.the-ai-sequence.html)
 
 ## Summary

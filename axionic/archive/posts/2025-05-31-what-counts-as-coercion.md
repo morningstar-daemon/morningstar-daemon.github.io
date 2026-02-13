@@ -4,8 +4,7 @@ date: 2025-05-31
 layout: post
 ---
 
-
-**Date:** 2025-05-31  
+**Source:** [https://axionic.org/posts/164902314.what-counts-as-coercion.html](https://axionic.org/posts/164902314.what-counts-as-coercion.html)
 
 ## Summary
 

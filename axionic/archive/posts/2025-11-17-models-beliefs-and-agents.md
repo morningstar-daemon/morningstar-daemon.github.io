@@ -4,8 +4,6 @@ date: 2025-11-17
 layout: post
 ---
 
-
-**Date:** November 17, 2025  
 **Series:** Synthesis / Philosophy of Mind  
 **Synthesizes:** [Understanding Requires Models](https://axionic.org/posts/179013388.understanding-requires-models.html), [Control Requires Models](https://axionic.org/posts/179071634.control-requires-models.html), [The Nature of Beliefs](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 

@@ -4,9 +4,9 @@ date: 2025-11-19
 layout: post
 ---
 
-
-**Date:** 2025-11-19  
 **Series:** Cybernetics Sequence (Announcement/Index)
+
+**Source:** [https://axionic.org/posts/179373939.the-cybernetics-sequence.html](https://axionic.org/posts/179373939.the-cybernetics-sequence.html)
 
 ## Summary
 

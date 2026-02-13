@@ -4,9 +4,6 @@ date: 2025-10-08
 layout: post
 ---
 
-
-**Date:** October 8, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175657828.governance-without-governments.html](https://axionic.org/posts/175657828.governance-without-governments.html)
 
 ## Summary

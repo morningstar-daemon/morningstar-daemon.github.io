@@ -4,10 +4,7 @@ date: 2025-07-29
 layout: post
 ---
 
-
-**Date:** July 29, 2025  
 **Subtitle:** Shifting the Moral Center from Speakers to Listeners  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/169560195.free-speech.html](https://axionic.org/posts/169560195.free-speech.html)
 
 ## Summary

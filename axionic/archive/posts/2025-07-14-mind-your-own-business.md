@@ -4,9 +4,6 @@ date: 2025-07-14
 layout: post
 ---
 
-
-**Date:** July 14, 2025  
-**Batch:** Batch 21 (Posts 1-25 from remaining list)
 **Source:** [https://axionic.org/posts/168315861.mind-your-own-business.html](https://axionic.org/posts/168315861.mind-your-own-business.html)
 
 ## Summary

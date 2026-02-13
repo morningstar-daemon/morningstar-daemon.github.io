@@ -4,9 +4,6 @@ date: 2025-08-20
 layout: post
 ---
 
-
-**Date:** August 20, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/171518778.cognitive-freedom.html](https://axionic.org/posts/171518778.cognitive-freedom.html)
 
 ## Summary

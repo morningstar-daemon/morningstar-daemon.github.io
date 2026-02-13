@@ -4,8 +4,7 @@ date: 2025-05-08
 layout: post
 ---
 
-
-**Date:** 2025-05-08  
+**Source:** [https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html](https://axionic.org/posts/163099190.the-mechanics-of-agency-maximal-theoretical.html)
 
 ## Summary
 

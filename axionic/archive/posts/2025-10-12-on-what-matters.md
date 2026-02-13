@@ -4,9 +4,6 @@ date: 2025-10-12
 layout: post
 ---
 
-
-**Date:** October 12, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175970360.on-what-matters.html](https://axionic.org/posts/175970360.on-what-matters.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-08-14
 layout: post
 ---
 
-
-**Date:** August 14, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html](https://axionic.org/posts/170942410.the-tail-that-wags-the-dog.html)
 
 ## Summary

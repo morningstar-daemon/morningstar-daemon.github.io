@@ -4,9 +4,6 @@ date: 2025-12-02
 layout: post
 ---
 
-
-**Date:** December 2, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180457610.the-axiocracy-sequence.html](https://axionic.org/posts/180457610.the-axiocracy-sequence.html)
 
 ## Summary

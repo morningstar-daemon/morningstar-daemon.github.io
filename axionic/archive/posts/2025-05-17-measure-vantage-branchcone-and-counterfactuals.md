@@ -4,8 +4,7 @@ date: 2025-05-17
 layout: post
 ---
 
-
-**Date:** 2025-05-17  
+**Source:** [https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html](https://axionic.org/posts/163778685.measure-vantage-branchcone-and-counterfactuals.html)
 
 ## Summary
 

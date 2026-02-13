@@ -4,9 +4,6 @@ date: 2025-09-24
 layout: post
 ---
 
-
-**Date:** September 24, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174490912.the-fragility-of-rights.html](https://axionic.org/posts/174490912.the-fragility-of-rights.html)
 
 ## Summary

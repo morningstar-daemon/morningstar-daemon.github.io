@@ -4,9 +4,6 @@ date: 2025-12-30
 layout: post
 ---
 
-
-**Date:** December 30, 2025  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html](https://axionic.org/posts/182991212.a-note-on-verifiable-kernel-integrity.html)
 
 ## Summary

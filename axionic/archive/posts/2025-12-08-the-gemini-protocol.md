@@ -4,8 +4,7 @@ date: 2025-12-08
 layout: post
 ---
 
-
-**Date:** 2025-12-08  
+**Source:** [https://axionic.org/posts/181073134.the-gemini-protocol.html](https://axionic.org/posts/181073134.the-gemini-protocol.html)
 
 ## Summary
 

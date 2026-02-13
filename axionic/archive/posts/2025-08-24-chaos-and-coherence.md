@@ -4,9 +4,6 @@ date: 2025-08-24
 layout: post
 ---
 
-
-**Date:** August 24, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/171841572.chaos-and-coherence.html](https://axionic.org/posts/171841572.chaos-and-coherence.html)
 
 ## Summary

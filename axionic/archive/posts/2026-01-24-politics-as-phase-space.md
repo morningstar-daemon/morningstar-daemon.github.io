@@ -4,9 +4,6 @@ date: 2026-01-24
 layout: post
 ---
 
-
-**Date:** January 24, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/185641221.politics-as-phase-space.html](https://axionic.org/posts/185641221.politics-as-phase-space.html)
 
 ## Summary

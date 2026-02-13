@@ -4,8 +4,7 @@ date: 2025-05-29
 layout: post
 ---
 
-
-**Date:** 2025-05-29  
+**Source:** [https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html](https://axionic.org/posts/164684907.navigating-moral-realism-with-agent.html)
 
 ## Summary
 

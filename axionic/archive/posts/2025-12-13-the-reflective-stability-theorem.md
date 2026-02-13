@@ -4,8 +4,6 @@ date: 2025-12-13
 layout: post
 ---
 
-
-**Date:** December 13, 2025  
 **Post:** #112  
 **Subtitle:** Why Any Sovereign Agent Must Preserve the Axionic Kernel Across Self-Modification
 

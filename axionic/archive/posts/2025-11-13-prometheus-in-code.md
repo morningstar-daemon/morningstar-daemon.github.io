@@ -4,8 +4,6 @@ date: 2025-11-13
 layout: post
 ---
 
-
-**Date:** November 13, 2025  
 **Series:** Technology & Civilization / AI Impact Analysis  
 **Companion:** [Prometheus in Print](https://axionic.org/posts/178792251.prometheus-in-print.html)
 

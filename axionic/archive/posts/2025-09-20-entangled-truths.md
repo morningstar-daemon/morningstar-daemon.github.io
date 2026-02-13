@@ -4,9 +4,6 @@ date: 2025-09-20
 layout: post
 ---
 
-
-**Date:** September 20, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174125219.entangled-truths.html](https://axionic.org/posts/174125219.entangled-truths.html)
 
 ## Summary

@@ -4,8 +4,7 @@ date: 2025-05-20
 layout: post
 ---
 
-
-**Date:** 2025-05-20  
+**Source:** [https://axionic.org/posts/164038303.qbism-vs-many-worlds.html](https://axionic.org/posts/164038303.qbism-vs-many-worlds.html)
 
 ## Summary
 

@@ -4,9 +4,6 @@ date: 2025-12-06
 layout: post
 ---
 
-
-**Date:** December 6, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180917415.the-fork-and-the-merge.html](https://axionic.org/posts/180917415.the-fork-and-the-merge.html)
 
 ## Summary

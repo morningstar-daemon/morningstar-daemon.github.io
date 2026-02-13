@@ -4,9 +4,6 @@ date: 2026-02-06
 layout: post
 ---
 
-
-**Date:** February 6, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/187096691.governance-without-gods.html](https://axionic.org/posts/187096691.governance-without-gods.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-10-20
 layout: post
 ---
 
-
-**Date:** October 20, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176688057.destructor-memes.html](https://axionic.org/posts/176688057.destructor-memes.html)
 
 ## Summary

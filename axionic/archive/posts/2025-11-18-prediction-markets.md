@@ -4,8 +4,6 @@ date: 2025-11-18
 layout: post
 ---
 
-
-**Date:** November 18, 2025  
 **Series:** Epistemology / Collective Intelligence  
 **Historical:** Calgary Idea Futures project (1994-1995), Golden Nica prize
 

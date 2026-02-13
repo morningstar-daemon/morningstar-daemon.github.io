@@ -4,9 +4,6 @@ date: 2026-01-18
 layout: post
 ---
 
-
-**Date:** January 18, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/184979362.the-price-of-agency.html](https://axionic.org/posts/184979362.the-price-of-agency.html)
 
 ## Summary

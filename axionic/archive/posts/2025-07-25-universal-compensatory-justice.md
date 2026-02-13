@@ -4,9 +4,6 @@ date: 2025-07-25
 layout: post
 ---
 
-
-**Date:** July 25, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/169258689.universal-compensatory-justice.html](https://axionic.org/posts/169258689.universal-compensatory-justice.html)
 
 ## Summary

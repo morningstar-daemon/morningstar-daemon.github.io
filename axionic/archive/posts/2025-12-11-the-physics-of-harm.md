@@ -4,8 +4,6 @@ date: 2025-12-11
 layout: post
 ---
 
-
-**Date:** December 11, 2025  
 **Post:** #106  
 **Subtitle:** Why Every Risk Is a Real Outcome in an Everettian Universe
 

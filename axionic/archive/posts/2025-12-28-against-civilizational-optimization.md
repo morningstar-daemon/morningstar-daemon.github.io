@@ -4,9 +4,6 @@ date: 2025-12-28
 layout: post
 ---
 
-
-**Date:** December 28, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182797492.against-civilizational-optimization.html](https://axionic.org/posts/182797492.against-civilizational-optimization.html)
 
 ## Summary

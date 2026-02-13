@@ -4,9 +4,6 @@ date: 2026-01-04
 layout: post
 ---
 
-
-**Date:** January 4, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183495093.the-shape-of-coherence.html](https://axionic.org/posts/183495093.the-shape-of-coherence.html)
 
 ## Summary

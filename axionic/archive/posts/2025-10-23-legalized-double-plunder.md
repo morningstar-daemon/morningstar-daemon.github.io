@@ -4,9 +4,6 @@ date: 2025-10-23
 layout: post
 ---
 
-
-**Date:** October 23, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/176921623.legalized-double-plunder.html](https://axionic.org/posts/176921623.legalized-double-plunder.html)
 
 ## Summary

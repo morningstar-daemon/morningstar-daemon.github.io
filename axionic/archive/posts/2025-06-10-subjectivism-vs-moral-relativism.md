@@ -4,9 +4,6 @@ date: 2025-06-10
 layout: post
 ---
 
-
-**Date:** June 10, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html](https://axionic.org/posts/165641748.subjectivism-vs-moral-relativism.html)
 
 ## Summary

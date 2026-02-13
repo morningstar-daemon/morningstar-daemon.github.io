@@ -4,9 +4,6 @@ date: 2025-06-20
 layout: post
 ---
 
-
-**Date:** June 20, 2025  
-**Batch:** Batch 06 (Posts 138–162)
 **Source:** [https://axionic.org/posts/166409545.culture-hierarchies.html](https://axionic.org/posts/166409545.culture-hierarchies.html)
 
 ## Summary

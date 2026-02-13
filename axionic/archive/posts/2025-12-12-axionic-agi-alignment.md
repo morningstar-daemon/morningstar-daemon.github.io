@@ -4,8 +4,6 @@ date: 2025-12-12
 layout: post
 ---
 
-
-**Date:** December 12, 2025  
 **Post:** #109  
 **Subtitle:** The invariant that binds all agents, human and artificial
 

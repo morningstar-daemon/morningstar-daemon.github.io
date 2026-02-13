@@ -4,9 +4,6 @@ date: 2026-01-10
 layout: post
 ---
 
-
-**Date:** January 10, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/184137688.in-defense-of-centrism.html](https://axionic.org/posts/184137688.in-defense-of-centrism.html)
 
 ## Summary

@@ -4,8 +4,6 @@ date: 2025-12-08
 layout: post
 ---
 
-
-**Date:** December 08, 2025  
 **Post:** #101  
 **Subtitle:** An Axionic perspective on Wolfram’s universe
 

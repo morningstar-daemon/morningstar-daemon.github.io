@@ -4,9 +4,6 @@ date: 2026-01-28
 layout: post
 ---
 
-
-**Date:** January 28, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html](https://axionic.org/posts/186099052.axionic-agency-interlude-vi.html)
 
 ## Summary

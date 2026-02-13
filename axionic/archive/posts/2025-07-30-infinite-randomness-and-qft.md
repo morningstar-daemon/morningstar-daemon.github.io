@@ -4,10 +4,7 @@ date: 2025-07-30
 layout: post
 ---
 
-
-**Date:** July 30, 2025  
 **Subtitle:** Reducing Reality to Logical Coherence  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/169621940.infinite-randomness-and-qft.html](https://axionic.org/posts/169621940.infinite-randomness-and-qft.html)
 
 ## Summary

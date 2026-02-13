@@ -4,8 +4,7 @@ date: 2025-05-11
 layout: post
 ---
 
-
-**Date:** 2025-05-11  
+**Source:** [https://axionic.org/posts/163356868.effective-decision-theory.html](https://axionic.org/posts/163356868.effective-decision-theory.html)
 
 ## Summary
 

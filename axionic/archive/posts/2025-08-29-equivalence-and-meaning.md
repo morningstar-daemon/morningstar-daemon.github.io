@@ -4,9 +4,6 @@ date: 2025-08-29
 layout: post
 ---
 
-
-**Date:** August 29, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/172303106.equivalence-and-meaning.html](https://axionic.org/posts/172303106.equivalence-and-meaning.html)
 
 ## Summary

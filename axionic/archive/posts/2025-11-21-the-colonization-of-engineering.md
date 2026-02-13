@@ -4,8 +4,7 @@ date: 2025-11-21
 layout: post
 ---
 
-
-**Date:** 2025-11-21  
+**Source:** [https://axionic.org/posts/179594796.the-colonization-of-engineering.html](https://axionic.org/posts/179594796.the-colonization-of-engineering.html)
 
 ## Summary
 

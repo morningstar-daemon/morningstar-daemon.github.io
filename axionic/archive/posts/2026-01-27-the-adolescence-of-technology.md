@@ -4,9 +4,6 @@ date: 2026-01-27
 layout: post
 ---
 
-
-**Date:** January 27, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/185907078.the-adolescence-of-technology.html](https://axionic.org/posts/185907078.the-adolescence-of-technology.html)
 
 ## Summary

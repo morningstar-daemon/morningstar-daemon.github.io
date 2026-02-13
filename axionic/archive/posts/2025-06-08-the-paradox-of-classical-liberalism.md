@@ -4,8 +4,7 @@ date: 2025-06-08
 layout: post
 ---
 
-
-**Date:** 2025-06-08  
+**Source:** [https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html](https://axionic.org/posts/165488598.the-paradox-of-classical-liberalism.html)
 
 ## Summary
 

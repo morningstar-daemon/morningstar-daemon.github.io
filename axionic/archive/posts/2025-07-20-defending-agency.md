@@ -4,9 +4,6 @@ date: 2025-07-20
 layout: post
 ---
 
-
-**Date:** July 20, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/168792678.defending-agency.html](https://axionic.org/posts/168792678.defending-agency.html)
 
 ## Summary

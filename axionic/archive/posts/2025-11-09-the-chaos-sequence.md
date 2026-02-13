@@ -4,8 +4,6 @@ date: 2025-11-09
 layout: post
 ---
 
-
-**Date:** November 09, 2025  
 **Type:** Sequence Navigation  
 **Series:** Foundational Metaphysics
 

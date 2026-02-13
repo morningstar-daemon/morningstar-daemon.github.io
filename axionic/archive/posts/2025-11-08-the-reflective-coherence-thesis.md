@@ -4,8 +4,6 @@ date: 2025-11-08
 layout: post
 ---
 
-
-**Date:** November 08, 2025  
 **Series:** Phosphorism / Intelligence Theory
 
 ## Core Thesis

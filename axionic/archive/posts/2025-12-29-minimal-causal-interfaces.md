@@ -4,9 +4,6 @@ date: 2025-12-29
 layout: post
 ---
 
-
-**Date:** December 29, 2025  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html](https://axionic.org/posts/182909870.minimal-causal-interfaces-a-second.html)
 
 ## Summary

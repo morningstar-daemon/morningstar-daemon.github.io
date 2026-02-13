@@ -4,10 +4,7 @@ date: 2025-08-04
 layout: post
 ---
 
-
-**Date:** August 04, 2025  
 **Subtitle:** Random inputs can still yield meaningful insights  
-**Batch:** Batch 09 (Posts 51–75)
 **Source:** [https://axionic.org/posts/170103594.interpreting-dreams.html](https://axionic.org/posts/170103594.interpreting-dreams.html)
 
 ## Summary

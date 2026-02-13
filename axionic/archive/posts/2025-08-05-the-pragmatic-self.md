@@ -4,9 +4,6 @@ date: 2025-08-05
 layout: post
 ---
 
-
-**Date:** August 5, 2025  
-**Batch:** Batch 16 (New remaining list, posts 2-26)
 **Source:** [https://axionic.org/posts/170205491.the-pragmatic-self.html](https://axionic.org/posts/170205491.the-pragmatic-self.html)
 
 ## Summary

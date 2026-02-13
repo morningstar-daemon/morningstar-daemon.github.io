@@ -4,9 +4,6 @@ date: 2025-06-13
 layout: post
 ---
 
-
-**Date:** June 13, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165906304.the-case-for-west-asia.html](https://axionic.org/posts/165906304.the-case-for-west-asia.html)
 
 ## Summary

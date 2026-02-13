@@ -4,9 +4,6 @@ date: 2025-08-21
 layout: post
 ---
 
-
-**Date:** August 21, 2025  
-**Batch:** Batch 11 (Posts 101–125)
 **Source:** [https://axionic.org/posts/171523071.the-trolley-problem.html](https://axionic.org/posts/171523071.the-trolley-problem.html)
 
 ## Summary

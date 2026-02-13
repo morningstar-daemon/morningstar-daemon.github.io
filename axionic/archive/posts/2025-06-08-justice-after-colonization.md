@@ -4,8 +4,7 @@ date: 2025-06-08
 layout: post
 ---
 
-
-**Date:** 2025-06-08  
+**Source:** [https://axionic.org/posts/165499243.justice-after-colonization.html](https://axionic.org/posts/165499243.justice-after-colonization.html)
 
 ## Summary
 

@@ -4,9 +4,6 @@ date: 2025-10-29
 layout: post
 ---
 
-
-**Date:** October 29, 2025  
-**Batch:** Batch 02 (Posts 026–050)
 **Source:** [https://axionic.org/posts/177433505.the-nature-of-beliefs.html](https://axionic.org/posts/177433505.the-nature-of-beliefs.html)
 
 ## Summary

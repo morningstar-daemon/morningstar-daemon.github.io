@@ -4,9 +4,6 @@ date: 2025-06-26
 layout: post
 ---
 
-
-**Date:** June 26, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html](https://axionic.org/posts/166857416.intelligence-as-a-hyperobject.html)
 
 ## Summary

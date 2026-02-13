@@ -4,8 +4,7 @@ date: 2025-06-10
 layout: post
 ---
 
-
-**Date:** 2025-06-10  
+**Source:** [https://axionic.org/posts/165666289.what-counts-as-a-belief.html](https://axionic.org/posts/165666289.what-counts-as-a-belief.html)
 
 ## Summary
 

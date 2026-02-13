@@ -4,9 +4,6 @@ date: 2025-06-12
 layout: post
 ---
 
-
-**Date:** June 12, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165786637.near-future-optimism.html](https://axionic.org/posts/165786637.near-future-optimism.html)
 
 ## Summary

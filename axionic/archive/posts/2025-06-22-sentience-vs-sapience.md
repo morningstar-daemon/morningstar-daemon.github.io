@@ -4,9 +4,6 @@ date: 2025-06-22
 layout: post
 ---
 
-
-**Date:** June 22, 2025  
-**Batch:** Batch 06 (Posts 138–162)
 **Source:** [https://axionic.org/posts/166538433.sentience-vs-sapience.html](https://axionic.org/posts/166538433.sentience-vs-sapience.html)
 
 ## Summary

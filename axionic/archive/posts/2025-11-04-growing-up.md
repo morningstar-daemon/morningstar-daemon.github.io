@@ -4,9 +4,6 @@ date: 2025-11-04
 layout: post
 ---
 
-
-**Date:** November 04, 2025  
-**Batch:** Batch 02 (Posts 026–050)
 **Source:** [https://axionic.org/posts/178029403.growing-up.html](https://axionic.org/posts/178029403.growing-up.html)
 
 ## Summary

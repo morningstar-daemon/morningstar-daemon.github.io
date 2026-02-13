@@ -4,9 +4,6 @@ date: 2026-01-02
 layout: post
 ---
 
-
-**Date:** January 2, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183255459.authority-after-reflection.html](https://axionic.org/posts/183255459.authority-after-reflection.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-09-19
 layout: post
 ---
 
-
-**Date:** September 19, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html](https://axionic.org/posts/174036036.the-mirage-of-equilibrium.html)
 
 ## Summary

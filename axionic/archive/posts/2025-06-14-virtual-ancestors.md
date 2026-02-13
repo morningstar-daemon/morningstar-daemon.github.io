@@ -4,9 +4,6 @@ date: 2025-06-14
 layout: post
 ---
 
-
-**Date:** June 14, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165910125.virtual-ancestors.html](https://axionic.org/posts/165910125.virtual-ancestors.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-06-16
 layout: post
 ---
 
-
-**Date:** June 16, 2025  
-**Batch:** Batch 05 (Posts 113–137)
 **Source:** [https://axionic.org/posts/166033482.sapientism.html](https://axionic.org/posts/166033482.sapientism.html)
 
 ## Summary

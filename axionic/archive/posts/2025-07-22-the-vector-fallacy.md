@@ -4,9 +4,6 @@ date: 2025-07-22
 layout: post
 ---
 
-
-**Date:** July 22, 2025  
-**Batch:** Batch 08 (Posts 26–50)
 **Source:** [https://axionic.org/posts/168986621.the-vector-fallacy.html](https://axionic.org/posts/168986621.the-vector-fallacy.html)
 
 ## Summary

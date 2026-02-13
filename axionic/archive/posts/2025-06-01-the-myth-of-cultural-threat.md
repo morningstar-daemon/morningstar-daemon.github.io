@@ -4,8 +4,7 @@ date: 2025-06-01
 layout: post
 ---
 
-
-**Date:** 2025-06-01  
+**Source:** [https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html](https://axionic.org/posts/164951081.the-myth-of-cultural-threat.html)
 
 ## Summary
 

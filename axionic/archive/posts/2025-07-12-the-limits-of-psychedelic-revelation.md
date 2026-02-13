@@ -4,9 +4,6 @@ date: 2025-07-12
 layout: post
 ---
 
-
-**Date:** July 12, 2025  
-**Batch:** Batch 19 (Posts 167–191)
 **Source:** [https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html](https://axionic.org/posts/168172842.the-limits-of-psychedelic-revelation.html)
 
 ## Summary

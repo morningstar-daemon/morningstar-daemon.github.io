@@ -4,9 +4,6 @@ date: 2026-01-01
 layout: post
 ---
 
-
-**Date:** January 1, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183151146.the-identity-horizon.html](https://axionic.org/posts/183151146.the-identity-horizon.html)
 
 ## Summary

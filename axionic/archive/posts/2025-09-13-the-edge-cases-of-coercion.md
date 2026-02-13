@@ -4,9 +4,6 @@ date: 2025-09-13
 layout: post
 ---
 
-
-**Date:** September 13, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html](https://axionic.org/posts/173541285.the-edge-cases-of-coercion.html)
 
 ## Summary

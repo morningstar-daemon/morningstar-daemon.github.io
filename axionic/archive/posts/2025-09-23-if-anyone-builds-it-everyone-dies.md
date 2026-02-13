@@ -4,9 +4,6 @@ date: 2025-09-23
 layout: post
 ---
 
-
-**Date:** September 23, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html](https://axionic.org/posts/174384202.if-anyone-builds-it-everyone-dies.html)
 
 ## Summary

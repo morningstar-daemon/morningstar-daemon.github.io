@@ -4,8 +4,7 @@ date: 2025-05-12
 layout: post
 ---
 
-
-**Date:** 2025-05-12  
+**Source:** [https://axionic.org/posts/163365017.active-inference-and-the-physics.html](https://axionic.org/posts/163365017.active-inference-and-the-physics.html)
 
 ## Summary
 

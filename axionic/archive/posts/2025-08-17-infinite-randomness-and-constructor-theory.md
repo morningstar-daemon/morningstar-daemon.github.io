@@ -4,9 +4,6 @@ date: 2025-08-17
 layout: post
 ---
 
-
-**Date:** August 17, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/171165360.infinite-randomness-and-constructor.html](https://axionic.org/posts/171165360.infinite-randomness-and-constructor.html)
 
 ## Summary

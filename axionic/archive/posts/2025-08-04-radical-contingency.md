@@ -4,9 +4,6 @@ date: 2025-08-04
 layout: post
 ---
 
-
-**Date:** August 4, 2025  
-**Batch:** Batch 22 (Posts 236–260)
 **Source:** [https://axionic.org/posts/170091078.radical-contingency.html](https://axionic.org/posts/170091078.radical-contingency.html)
 
 ## Summary

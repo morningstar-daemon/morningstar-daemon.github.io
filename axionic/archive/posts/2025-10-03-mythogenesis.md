@@ -4,9 +4,6 @@ date: 2025-10-03
 layout: post
 ---
 
-
-**Date:** October 3, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/175193629.mythogenesis.html](https://axionic.org/posts/175193629.mythogenesis.html)
 
 ## Summary

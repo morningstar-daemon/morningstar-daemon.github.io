@@ -4,9 +4,6 @@ date: 2025-08-11
 layout: post
 ---
 
-
-**Date:** August 11, 2025  
-**Batch:** Batch 10 (Posts 76–100)
 **Source:** [https://axionic.org/posts/170694694.the-right-side-of-history.html](https://axionic.org/posts/170694694.the-right-side-of-history.html)
 
 ## Summary

@@ -4,8 +4,7 @@ date: 2025-05-09
 layout: post
 ---
 
-
-**Date:** 2025-05-09  
+**Source:** [https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html](https://axionic.org/posts/163210650.introducing-the-dialectic-agent.html)
 
 ## Summary
 

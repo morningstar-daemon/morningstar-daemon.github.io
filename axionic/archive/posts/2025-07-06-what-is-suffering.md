@@ -4,9 +4,6 @@ date: 2025-07-06
 layout: post
 ---
 
-
-**Date:** July 06, 2025  
-**Batch:** Batch 18 (Posts 1–25 of remaining 222)
 **Source:** [https://axionic.org/posts/167672844.what-is-suffering.html](https://axionic.org/posts/167672844.what-is-suffering.html)
 
 ## Summary

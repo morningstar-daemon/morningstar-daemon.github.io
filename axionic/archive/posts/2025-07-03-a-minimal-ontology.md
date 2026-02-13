@@ -4,9 +4,6 @@ date: 2025-07-03
 layout: post
 ---
 
-
-**Date:** July 3, 2025  
-**Batch:** Batch 19 (Posts 167–191)
 **Source:** [https://axionic.org/posts/167444843.a-minimal-ontology.html](https://axionic.org/posts/167444843.a-minimal-ontology.html)
 
 ## Summary

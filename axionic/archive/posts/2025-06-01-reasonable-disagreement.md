@@ -4,8 +4,7 @@ date: 2025-06-01
 layout: post
 ---
 
-
-**Date:** 2025-06-01  
+**Source:** [https://axionic.org/posts/164937702.reasonable-disagreement.html](https://axionic.org/posts/164937702.reasonable-disagreement.html)
 
 ## Summary
 

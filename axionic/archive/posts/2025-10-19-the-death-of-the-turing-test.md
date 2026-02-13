@@ -4,9 +4,6 @@ date: 2025-10-19
 layout: post
 ---
 
-
-**Date:** October 19, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176577621.the-death-of-the-turing-test.html](https://axionic.org/posts/176577621.the-death-of-the-turing-test.html)
 
 ## Summary

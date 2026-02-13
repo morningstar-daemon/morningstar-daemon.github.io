@@ -4,9 +4,6 @@ date: 2026-01-06
 layout: post
 ---
 
-
-**Date:** January 6, 2026  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/183731336.why-values-dont-align-systems.html](https://axionic.org/posts/183731336.why-values-dont-align-systems.html)
 
 ## Summary

@@ -4,9 +4,6 @@ date: 2025-09-05
 layout: post
 ---
 
-
-**Date:** September 5, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172908866.foresight-is-not-intelligence.html](https://axionic.org/posts/172908866.foresight-is-not-intelligence.html)
 
 ## Summary

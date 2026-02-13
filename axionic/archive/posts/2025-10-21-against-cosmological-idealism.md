@@ -4,9 +4,6 @@ date: 2025-10-21
 layout: post
 ---
 
-
-**Date:** October 21, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/176755720.against-cosmological-idealism.html](https://axionic.org/posts/176755720.against-cosmological-idealism.html)
 
 ## Summary

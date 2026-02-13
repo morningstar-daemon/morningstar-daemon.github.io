@@ -4,9 +4,6 @@ date: 2025-12-29
 layout: post
 ---
 
-
-**Date:** December 29, 2025  
-**Batch:** Batch 30 (Posts 151–175)
 **Source:** [https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html](https://axionic.org/posts/182883238.a-note-on-verifiable-causal-agency.html)
 
 ## Summary

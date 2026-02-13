@@ -4,8 +4,7 @@ date: 2025-05-23
 layout: post
 ---
 
-
-**Date:** 2025-05-23  
+**Source:** [https://axionic.org/posts/164271340.the-pattern.html](https://axionic.org/posts/164271340.the-pattern.html)
 
 ## Summary
 

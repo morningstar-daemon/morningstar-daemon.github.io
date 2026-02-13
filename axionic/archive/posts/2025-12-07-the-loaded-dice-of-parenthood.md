@@ -4,9 +4,6 @@ date: 2025-12-07
 layout: post
 ---
 
-
-**Date:** December 7, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html](https://axionic.org/posts/180970594.the-loaded-dice-of-parenthood.html)
 
 ## Summary

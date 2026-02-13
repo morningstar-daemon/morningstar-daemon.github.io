@@ -4,9 +4,6 @@ date: 2025-08-31
 layout: post
 ---
 
-
-**Date:** August 31, 2025  
-**Batch:** Batch 12 (Posts 126–150)
 **Source:** [https://axionic.org/posts/172427377.global-anarchy.html](https://axionic.org/posts/172427377.global-anarchy.html)
 
 ## Summary

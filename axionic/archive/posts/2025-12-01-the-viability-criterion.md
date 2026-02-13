@@ -4,9 +4,6 @@ date: 2025-12-01
 layout: post
 ---
 
-
-**Date:** December 1, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/180427300.the-viability-criterion.html](https://axionic.org/posts/180427300.the-viability-criterion.html)
 
 ## Summary

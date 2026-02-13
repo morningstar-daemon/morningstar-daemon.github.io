@@ -4,8 +4,7 @@ date: 2025-05-23
 layout: post
 ---
 
-
-**Date:** 2025-05-23  
+**Source:** [https://axionic.org/posts/164275423.sacred-coherence.html](https://axionic.org/posts/164275423.sacred-coherence.html)
 
 ## Summary
 

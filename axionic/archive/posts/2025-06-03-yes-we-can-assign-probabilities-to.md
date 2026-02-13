@@ -4,8 +4,7 @@ date: 2025-06-03
 layout: post
 ---
 
-
-**Date:** 2025-06-03  
+**Source:** [https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html](https://axionic.org/posts/165063201.yes-we-can-assign-probabilities-to.html)
 
 ## Summary
 

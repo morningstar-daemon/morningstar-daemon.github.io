@@ -4,9 +4,6 @@ date: 2025-12-25
 layout: post
 ---
 
-
-**Date:** December 25, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182569831.why-there-is-something-rather-than.html](https://axionic.org/posts/182569831.why-there-is-something-rather-than.html)
 
 ## Summary

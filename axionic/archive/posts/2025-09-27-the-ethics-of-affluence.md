@@ -4,9 +4,6 @@ date: 2025-09-27
 layout: post
 ---
 
-
-**Date:** September 27, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174661679.the-ethics-of-affluence.html](https://axionic.org/posts/174661679.the-ethics-of-affluence.html)
 
 ## Summary

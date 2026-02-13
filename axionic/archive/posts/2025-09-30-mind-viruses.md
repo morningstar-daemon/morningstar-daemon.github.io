@@ -4,9 +4,6 @@ date: 2025-09-30
 layout: post
 ---
 
-
-**Date:** September 30, 2025  
-**Batch:** Batch 13 (Posts 151–175)
 **Source:** [https://axionic.org/posts/174938004.mind-viruses.html](https://axionic.org/posts/174938004.mind-viruses.html)
 
 ## Summary

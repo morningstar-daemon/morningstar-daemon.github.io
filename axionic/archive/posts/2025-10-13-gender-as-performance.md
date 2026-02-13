@@ -4,9 +4,6 @@ date: 2025-10-13
 layout: post
 ---
 
-
-**Date:** October 13, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176036886.gender-as-performance.html](https://axionic.org/posts/176036886.gender-as-performance.html)
 
 ## Summary

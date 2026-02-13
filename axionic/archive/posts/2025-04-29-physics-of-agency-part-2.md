@@ -4,9 +4,6 @@ date: 2025-04-29
 layout: post
 ---
 
-
-**Date:** April 29, 2025  
-**Batch:** Batch 01 (Posts 001–020)
 **Source:** [https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html](https://axionic.org/posts/162485540.the-physics-of-agency-part-2-agency.html)
 
 ## Summary

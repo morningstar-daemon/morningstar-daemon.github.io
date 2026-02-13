@@ -4,8 +4,7 @@ date: 2025-05-31
 layout: post
 ---
 
-
-**Date:** 2025-05-31  
+**Source:** [https://axionic.org/posts/164882854.opportunity-cost.html](https://axionic.org/posts/164882854.opportunity-cost.html)
 
 ## Summary
 

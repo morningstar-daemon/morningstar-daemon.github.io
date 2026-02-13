@@ -4,8 +4,6 @@ date: 2025-12-15
 layout: post
 ---
 
-
-**Date:** December 15, 2025  
 **Post:** #121  
 **Subtitle:** A Guided Tour of the Formalism (Without the Symbols)
 

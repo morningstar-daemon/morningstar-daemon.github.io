@@ -4,9 +4,6 @@ date: 2025-06-13
 layout: post
 ---
 
-
-**Date:** June 13, 2025  
-**Batch:** Batch 05 (Posts 101–125)
 **Source:** [https://axionic.org/posts/165904190.artificial-intimacy.html](https://axionic.org/posts/165904190.artificial-intimacy.html)
 
 ## Summary

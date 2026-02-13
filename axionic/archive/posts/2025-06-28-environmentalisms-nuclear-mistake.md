@@ -4,9 +4,6 @@ date: 2025-06-28
 layout: post
 ---
 
-
-**Date:** June 28, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html](https://axionic.org/posts/167014370.environmentalisms-nuclear-mistake.html)
 
 ## Summary

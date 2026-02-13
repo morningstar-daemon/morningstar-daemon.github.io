@@ -4,9 +4,6 @@ date: 2025-12-01
 layout: post
 ---
 
-
-**Date:** December 1, 2025  
-**Batch:** Batch 27 (Posts 076–100)
 **Source:** [https://axionic.org/posts/180411867.the-value-sequence.html](https://axionic.org/posts/180411867.the-value-sequence.html)
 
 ## Summary

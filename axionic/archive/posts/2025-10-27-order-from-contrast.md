@@ -4,9 +4,6 @@ date: 2025-10-27
 layout: post
 ---
 
-
-**Date:** October 27, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/177311215.order-from-contrast.html](https://axionic.org/posts/177311215.order-from-contrast.html)
 
 ## Summary

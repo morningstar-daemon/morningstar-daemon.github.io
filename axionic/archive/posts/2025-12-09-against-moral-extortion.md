@@ -4,8 +4,6 @@ date: 2025-12-09
 layout: post
 ---
 
-
-**Date:** December 09, 2025  
 **Post:** #102  
 **Subtitle:** What Singer’s Shallow Pond Gets Wrong
 

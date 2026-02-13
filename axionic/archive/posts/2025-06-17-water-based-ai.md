@@ -4,9 +4,6 @@ date: 2025-06-17
 layout: post
 ---
 
-
-**Date:** June 17, 2025  
-**Batch:** Batch 05 (Posts 113–137)
 **Source:** [https://axionic.org/posts/166191913.water-based-ai.html](https://axionic.org/posts/166191913.water-based-ai.html)
 
 ## Summary

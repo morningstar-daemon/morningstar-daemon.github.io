@@ -4,8 +4,7 @@ date: 2025-06-07
 layout: post
 ---
 
-
-**Date:** 2025-06-07  
+**Source:** [https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html](https://axionic.org/posts/165411120.metaphysics-as-concept-creation.html)
 
 ## Summary
 

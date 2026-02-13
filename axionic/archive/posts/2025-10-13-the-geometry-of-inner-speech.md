@@ -4,9 +4,6 @@ date: 2025-10-13
 layout: post
 ---
 
-
-**Date:** October 13, 2025  
-**Batch:** Batch 14 (Posts 176–200)
 **Source:** [https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html](https://axionic.org/posts/176068779.the-geometry-of-inner-speech.html)
 
 ## Summary

@@ -9,7 +9,6 @@ batch: 4
 position: 79
 ---
 
-
 ## Key Arguments
 
 **Central Problem:** How can credence obey probability laws when there's no underlying objective probability (especially for logical/mathematical statements)?

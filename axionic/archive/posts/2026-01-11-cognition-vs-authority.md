@@ -4,9 +4,6 @@ date: 2026-01-11
 layout: post
 ---
 
-
-**Date:** January 11, 2026  
-**Batch:** Batch 31 (Posts 176–195)
 **Source:** [https://axionic.org/posts/184258470.cognition-vs-authority.html](https://axionic.org/posts/184258470.cognition-vs-authority.html)
 
 ## Summary

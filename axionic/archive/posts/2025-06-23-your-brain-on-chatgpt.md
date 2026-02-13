@@ -4,9 +4,6 @@ date: 2025-06-23
 layout: post
 ---
 
-
-**Date:** June 23, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166606301.your-brain-on-chatgpt.html](https://axionic.org/posts/166606301.your-brain-on-chatgpt.html)
 
 ## Summary

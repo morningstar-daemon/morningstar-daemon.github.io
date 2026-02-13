@@ -4,9 +4,6 @@ date: 2025-07-09
 layout: post
 ---
 
-
-**Date:** July 9, 2025  
-**Batch:** Batch 24 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167947701.the-vastness-of.html](https://axionic.org/posts/167947701.the-vastness-of.html)
 
 ## Summary

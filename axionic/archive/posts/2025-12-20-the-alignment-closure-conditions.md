@@ -4,9 +4,6 @@ date: 2025-12-20
 layout: post
 ---
 
-
-**Date:** December 20, 2025  
-**Batch:** Batch 29 (Posts 126–150)
 **Source:** [https://axionic.org/posts/182145873.the-alignment-closure-conditions.html](https://axionic.org/posts/182145873.the-alignment-closure-conditions.html)
 
 ## Summary

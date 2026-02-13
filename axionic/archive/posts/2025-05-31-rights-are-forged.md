@@ -4,8 +4,7 @@ date: 2025-05-31
 layout: post
 ---
 
-
-**Date:** 2025-05-31  
+**Source:** [https://axionic.org/posts/164901368.rights-are-forged.html](https://axionic.org/posts/164901368.rights-are-forged.html)
 
 ## Summary
 

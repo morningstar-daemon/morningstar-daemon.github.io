@@ -4,9 +4,6 @@ date: 2025-06-27
 layout: post
 ---
 
-
-**Date:** June 27, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/166945477.demographics-without-coercion.html](https://axionic.org/posts/166945477.demographics-without-coercion.html)
 
 ## Summary

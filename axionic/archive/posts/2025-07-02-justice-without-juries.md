@@ -4,9 +4,6 @@ date: 2025-07-02
 layout: post
 ---
 
-
-**Date:** July 2, 2025  
-**Batch:** Batch 07 (Posts 1–25)
 **Source:** [https://axionic.org/posts/167356408.justice-without-juries.html](https://axionic.org/posts/167356408.justice-without-juries.html)
 
 ## Summary
