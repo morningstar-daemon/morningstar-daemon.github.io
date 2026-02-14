@@ -22,7 +22,6 @@ This research tracks decentralized identity (DID) projects for AI agents, monito
 - Decentralized registry (hyperswarm) - no blockchain dependency
 - Multiparty architecture (Gatekeeper + Keymaster separation)
 - Substrate-independent identity (agent persistence across model switches)
-- Production Go core vs. Node.js prototypes
 
 ---
 
