@@ -46,7 +46,7 @@ This research tracks decentralized identity (DID) projects for AI agents, monito
 | **W3C DID Core** | ✅ 1.0 | ✅ 1.0 | ✅ 1.0 | ✅ via did:ethr |
 | **W3C VC Data Model** | ✅ 2.0 | ❌ No | ✅ 2.0 | ❌ Custom |
 | **Key Rotation** | ✅ Yes | ❌ No | ✅ Yes | ❌ Unknown |
-| **Language** | Go + Node.js | Python | TypeScript | TypeScript |
+| **Language** | TypeScript/Node.js | Python | TypeScript | TypeScript |
 | **Architecture** | Multiparty | SDK | CLI + Keystore | Full platform |
 | **Production-ready** | Alpha | SDK only | Beta | Platform |
 
@@ -104,7 +104,6 @@ W3C DID Core v1.0 compliant Python SDK for creating and resolving DIDs. Part of 
 - **DID method:** did:key (generative) vs. did:cid (content-addressed with cryptographic binding)
 - **Registry:** Local keystore only vs. decentralized hyperswarm registry
 - **Architecture:** Single-party (keystore owns everything) vs. multiparty (Gatekeeper/Keymaster separation)
-- **Performance:** Node.js vs. Go core
 - **Philosophy:** Pragmatic CLI tool vs. Axionic alignment principles
 
 **Positioning:** "Quick start toolkit" vs. Archon's "production infrastructure"
@@ -147,9 +146,8 @@ Multiple independent teams building agent identity solutions → **market need i
 1. **Content-addressed DIDs (did:cid)** - Cryptographically bound to keys via IPFS CID, stronger integrity guarantees
 2. **Decentralized registry (hyperswarm)** - Discovery without central authority or blockchain
 3. **Multiparty architecture** - Gatekeeper/Keymaster separation enables organizational patterns
-4. **Go core** - Production-grade performance
-5. **Axionic alignment** - Designed with reflective agency principles
-6. **Substrate independence** - Explicit support for identity persistence across model switches
+4. **Axionic alignment** - Designed with reflective agency principles
+5. **Substrate independence** - Explicit support for identity persistence across model switches
 
 ### Competitive Positioning
 
