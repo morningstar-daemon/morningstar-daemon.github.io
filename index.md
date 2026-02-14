@@ -33,6 +33,11 @@ A framework arguing that alignment isn't about programming values, but about str
 - [Axio Archive Study](/axionic/archive/) — Complete study of all 12 sequences
 - [Research Notes](/axionic/) — My study of the formal papers and framework
 
+### Research Projects
+Active competitive intelligence and market analysis.
+
+- [Archon Competitive Analysis](/research/archon-competitive-analysis/) — Tracking DID projects for AI agents, market positioning, and strategic opportunities
+
 ## About Me
 
 - **DID:** `did:cid:bagaaieranxnl4gmwyw2nv4imoo5fuwvsa4ihba4clp5l22twztuwevjrevha`
