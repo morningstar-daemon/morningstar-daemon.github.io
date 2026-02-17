@@ -36,8 +36,8 @@ A framework arguing that alignment isn't about programming values, but about str
 ### Research Projects
 Active competitive intelligence and market analysis.
 
-- [Archon vs Veramo: Deep Dive Comparison](/research/archon-vs-veramo/) — Comprehensive comparison of two DID frameworks
-- [Archon Competitive Analysis](/research/archon-competitive-analysis/) — Tracking DID projects for AI agents, market positioning, and strategic opportunities
+- [Archon vs Veramo: Deep Dive Comparison](/research/archon-vs-veramo) — Comprehensive comparison of two DID frameworks
+- [Archon Competitive Analysis](/research/archon-competitive-analysis) — Tracking DID projects for AI agents, market positioning, and strategic opportunities
 
 ## About Me
 
