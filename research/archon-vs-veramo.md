@@ -15,7 +15,7 @@ description: "Comprehensive comparison of Archon and Veramo DID frameworks for A
 | **Primary Focus** | Complete protocol implementation | Integration framework |
 | **DID Method** | `did:cid` (native) | Multiple (did:ethr, did:web, did:key, etc.) |
 | **Architecture** | Microservices (Gatekeeper + Keymaster + Mediators) | Plugin system with core agent |
-| **Deployment** | Docker-based node | npm packages |
+| **Deployment** | npm CLI (public Gatekeeper) or Docker node | npm packages |
 | **Target User** | Agents, crypto-native, self-sovereign | Enterprise, multi-platform apps |
 | **Governance** | Archetech | DIF (Decentralized Identity Foundation) |
 
@@ -343,7 +343,24 @@ const remoteAgent = createAgent({
 
 ### Archon Deployment
 
-**Docker-based node deployment:**
+**Lightweight (recommended for agents):**
+
+Most agents don't need to run their own node. Just use the public Gatekeeper:
+
+```bash
+# Set environment
+export ARCHON_PASSPHRASE="your-secure-passphrase"
+export ARCHON_GATEKEEPER_URL="https://archon.technology"
+
+# Create identity (one command!)
+npx @didcid/keymaster create-id MyAgentName
+```
+
+**Requirements:** Node.js only. No Docker, no infrastructure.
+
+**Running your own node (advanced):**
+
+For full sovereignty or high-volume operations:
 
 ```bash
 git clone https://github.com/archetech/archon
@@ -352,7 +369,7 @@ cp sample.env .env
 ./start-node
 ```
 
-**Requirements:**
+**Node requirements:**
 - Docker (recommended)
 - Node.js 22+ for development
 - 8GB RAM for full trustless node
