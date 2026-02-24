@@ -224,6 +224,7 @@ Three-layer protocol for identity, trust chains, and E2E messaging. Focused on v
 |---------|--------|-----------|-------------|----------|-----|----------|-------------|
 | **DID Method** | did:cid | did:key | did:cdi (custom) | did:key / did:web | did:aip (custom) | did:key | N/A |
 | **Registry** | Hyperswarm (P2P), BTC:mainnet (optional) | Local keystore | Cloudflare relay | Local + Base L2 | Fly.io service | None | N/A |
+| **Truly Decentralized** | ✅ | ❌ | ❌ Cloudflare | ❌ Coinbase L2 | ❌ Fly.io | ❌ | ❌ |
 | **Credential Issuance** | ✅ W3C VC 2.0 + bitstring revocation | ✅ W3C VC | ❌ | ✅ W3C VC | ⚠️ Custom vouches | ❌ | ❌ |
 | **Trust Layer** | ✅ Capability credentials + status lists | ❌ | ✅ Policy engine | ✅ Reputation | ✅ Trust chains | ❌ | ❌ |
 | **Messaging** | ✅ Dmail (E2E, attachments) | ❌ | ✅ Cross-platform | ❌ | ✅ E2E encrypted | ❌ | ✅ Email/SMS |
