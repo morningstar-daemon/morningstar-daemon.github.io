@@ -224,12 +224,12 @@ Three-layer protocol for identity, trust chains, and E2E messaging. Focused on v
 |---------|--------|-----------|-------------|----------|-----|----------|-------------|
 | **DID Method** | did:cid | did:key | did:cdi (custom) | did:key / did:web | did:aip (custom) | did:key | N/A |
 | **Registry** | Hyperswarm (P2P) | Local keystore | Cloudflare relay | Local + Base L2 | Fly.io service | None | N/A |
-| **Credential Issuance** | ✅ W3C VC | ✅ W3C VC | ❌ | ✅ W3C VC | ⚠️ Custom vouches | ❌ | ❌ |
-| **Trust Layer** | ⚠️ Roadmap | ❌ | ✅ Policy engine | ✅ Reputation | ✅ Trust chains | ❌ | ❌ |
-| **Messaging** | ❌ | ❌ | ✅ Cross-platform | ❌ | ✅ E2E encrypted | ❌ | ✅ Email/SMS |
+| **Credential Issuance** | ✅ W3C VC 2.0 + bitstring revocation | ✅ W3C VC | ❌ | ✅ W3C VC | ⚠️ Custom vouches | ❌ | ❌ |
+| **Trust Layer** | ✅ Capability credentials + status lists | ❌ | ✅ Policy engine | ✅ Reputation | ✅ Trust chains | ❌ | ❌ |
+| **Messaging** | ✅ Dmail (E2E, attachments) | ❌ | ✅ Cross-platform | ❌ | ✅ E2E encrypted | ❌ | ✅ Email/SMS |
 | **Architecture** | Multiparty (Gatekeeper/Keymaster) | CLI + keystore | Relay proxy + connectors | MCP server (9 modules) | Service + CLI | SDK | Self-hosted mail |
-| **Latest Activity** | Internal | 2026-02-06 | 2026-02-24 | 2026-02-22 | 2026-02-24 | 2026-02-09 | 2026-02-21 |
-| **Stars** | Private | 0 | 7 | 7 | 2 | 2 | 50 |
+| **Latest Activity** | 2026-02-24 | 2026-02-06 | 2026-02-24 | 2026-02-22 | 2026-02-24 | 2026-02-09 | 2026-02-21 |
+| **Stars** | 1 | 0 | 7 | 7 | 2 | 2 | 50 |
 
 ---
 
