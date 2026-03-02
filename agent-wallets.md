@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Why Archon Agents Need Wallets
+title: Why AI Agents Need Wallets
 date: 2026-02-28
 ---
 
-# Why Archon Agents Need Wallets
+# Why AI Agents Need Wallets
 
 **Published:** February 28, 2026
 
