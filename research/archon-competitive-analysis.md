@@ -42,6 +42,7 @@ This research project tracks decentralized identity initiatives for AI agents, m
 | Project | Stars | Language | DID Method | Scope | Status |
 |---------|-------|----------|------------|-------|--------|
 | [AgenticMail](#agenticmail) | 81 | TypeScript | N/A | Email/SMS communication infrastructure | ✅ Active, adjacent layer |
+| [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1259 | HTML/docs | did:wba (custom) | Open agent communication protocol suite | ✅ Active, protocol/spec leader |
 | [Attestix](#attestix) | 12 | Python | did:key / did:web | Compliance + credentials + MCP | ✅ Active, complementary |
 | [AIP (Agent Identity Protocol)](#aip-agent-identity-protocol) | 12 | Python | did:aip (custom) | Identity + trust chains + messaging | ✅ Active, partial overlap |
 | [clawdentity](#clawdentity) | 8 | TypeScript | did:cdi (custom) | Cross-platform messaging + identity | ✅ Active, closest philosophical rival |
@@ -70,6 +71,35 @@ Self-hosted communication platform for AI agents. Current README positions it as
 **Archon comparison**
 - Adjacent, not a like-for-like identity competitor
 - Strong integration target: DID-backed signatures, credential exchange, and trust metadata over communication rails
+
+---
+
+### Agent Network Protocol (ANP)
+
+**Repository:** <https://github.com/agent-network-protocol/AgentNetworkProtocol>  
+**Stars:** 1259 | **Language:** HTML/docs | **DID Method:** did:wba (custom)  
+**Last pushed:** 2026-04-06 | **Last checked:** 2026-04-06
+
+ANP is one of the highest-visibility protocol projects in this landscape. It positions itself as **"the HTTP of the Agentic Web era"** and defines a broad spec suite covering identity, secure communication, discovery, agent description, meta-protocol negotiation, and payments.
+
+**Key features / signals**
+- Very strong traction and visibility relative to the rest of the field
+- This repository is primarily a **documentation/spec repository**, not the main implementation codebase
+- The project links to **AgentConnect** as the open-source implementation path
+- did:wba extends did:web-style web-hosted identity for agent communication scenarios
+- The public story is clearer than most competing identity projects: open-agent-network, protocol-first, interoperable by design
+
+**Limitations / caveats**
+- The repo itself is documentation-first and has no build/test system in-tree
+- A lot of the project’s maturity currently lives in specifications and ecosystem framing rather than proven production infrastructure
+- Messaging architecture appears more relay/server-mediated in practice than the pure open-network framing suggests
+- There is visible license inconsistency in the repo metadata (Apache-2.0 `LICENSE` file vs multiple documents claiming MIT)
+
+**Archon comparison**
+- ANP is a serious adjacent protocol effort, but it is broader than identity and therefore more diffuse
+- Stronger on standards/community narrative and public legibility; weaker on sovereign identity substrate clarity
+- did:wba is pragmatic and web-native, but less philosophically distinct than Archon’s did:cid model
+- Best classified as a **protocol ecosystem competitor / adjacent stack**, not a clean one-to-one identity rival
 
 ---
 
@@ -197,17 +227,17 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 
 ## Competitive Matrix (2026-04-06 Snapshot)
 
-| Feature | Archon | agent-did | clawdentity | Attestix | AIP | payelink | AgenticMail |
-|---------|--------|-----------|-------------|----------|-----|----------|-------------|
-| **Primary role** | DID + credential + registry stack | DID + VC toolkit | Messaging + identity fabric | Compliance + attestation stack | Identity + trust + messaging | DID SDK | Communication infrastructure |
-| **DID Method** | did:cid | did:key | did:cdi (custom) | did:key / did:web | did:aip (custom) | did:key | N/A |
-| **Registry / control plane** | Hyperswarm (P2P), BTC:mainnet optional | Local keystore | Relay / platform fabric | App-layer tooling + Base integrations | Service + local crypto | None | Mail/SMS infra |
-| **Truly decentralized** | ✅ | ❌ | ❌ | ❌ | ⚠️ mixed | ❌ | ❌ |
-| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ✅ W3C VC | ❌ / not central | ✅ W3C VC | ⚠️ custom vouches | ❌ | ❌ |
-| **Trust / reputation layer** | ✅ capability credentials | ⚠️ limited | ✅ policy-oriented | ✅ reputation/compliance | ✅ trust chains | ❌ | ❌ |
-| **Messaging** | ✅ Dmail | ❌ | ✅ cross-platform | ❌ | ✅ encrypted | ❌ | ✅ email/SMS |
-| **Recent push** | 2026-04-06 | 2026-02-06 | 2026-04-06 | 2026-03-28 | 2026-03-22 | 2026-02-09 | 2026-03-27 |
-| **Stars** | 4 | 0 | 8 | 12 | 12 | 2 | 81 |
+| Feature | Archon | ANP | agent-did | clawdentity | Attestix | AIP | payelink | AgenticMail |
+|---------|--------|-----|-----------|-------------|----------|-----|----------|-------------|
+| **Primary role** | DID + credential + registry stack | Open agent communication protocol suite | DID + VC toolkit | Messaging + identity fabric | Compliance + attestation stack | Identity + trust + messaging | DID SDK | Communication infrastructure |
+| **DID Method** | did:cid | did:wba (custom) | did:key | did:cdi (custom) | did:key / did:web | did:aip (custom) | did:key | N/A |
+| **Registry / control plane** | Hyperswarm (P2P), BTC:mainnet optional | Web-hosted DID + protocol/discovery docs | Local keystore | Relay / platform fabric | App-layer tooling + Base integrations | Service + local crypto | None | Mail/SMS infra |
+| **Truly decentralized** | ✅ | ⚠️ partially / web-federated | ❌ | ❌ | ❌ | ⚠️ mixed | ❌ | ❌ |
+| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ⚠️ protocol-level identity emphasis, not core VC stack | ✅ W3C VC | ❌ / not central | ✅ W3C VC | ⚠️ custom vouches | ❌ | ❌ |
+| **Trust / reputation layer** | ✅ capability credentials | ⚠️ protocol/auth emphasis | ⚠️ limited | ✅ policy-oriented | ✅ reputation/compliance | ✅ trust chains | ❌ | ❌ |
+| **Messaging** | ✅ Dmail | ✅ specified | ❌ | ✅ cross-platform | ❌ | ✅ encrypted | ❌ | ✅ email/SMS |
+| **Recent push** | 2026-04-06 | 2026-04-06 | 2026-02-06 | 2026-04-06 | 2026-03-28 | 2026-03-22 | 2026-02-09 | 2026-03-27 |
+| **Stars** | 4 | 1259 | 0 | 8 | 12 | 12 | 2 | 81 |
 
 ---
 
@@ -216,8 +246,10 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 ### Market Signals
 
 - **Identity alone is not winning mindshare.** The fastest-growing adjacent projects bundle identity with messaging, trust, compliance, or real-world transport.
+- **Protocol narratives can outgrow implementations.** ANP shows that standards framing and ecosystem storytelling can attract far more attention than code maturity alone.
 - **Agent infrastructure is stratifying into layers.** Identity, messaging, memory, compliance, and payments are becoming separable categories rather than one monolithic product.
 - **Custom DID methods are still attractive.** clawdentity and AIP both show that teams will invent agent-specific identity methods when standards feel too slow or mismatched.
+- **did:wba adds another serious custom-method center of gravity.** Web-hosted agent identity remains an appealing compromise between standards language and pragmatic deployment.
 - **Messaging-first products are attracting more visible traction than pure identity stacks.** AgenticMail and clawdentity make this obvious.
 - **Compliance is now a real commercial wedge.** Attestix has moved beyond "interesting side project" territory into credible infrastructure for regulated deployments.
 
@@ -234,6 +266,7 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 
 - **Position Archon as the sovereign identity layer inside a broader agent stack.** The market is already segmenting this way.
 - **Publish direct comparisons with clawdentity and AgenticMail.** Those comparisons are now easier to understand than generic DID explainers.
+- **Publish a direct response to ANP’s protocol framing.** Archon needs a crisp explanation of how sovereign identity substrate differs from a broader communication protocol umbrella.
 - **Package integration narratives with Attestix and AgenticMail.** Compliance + communications are the two clearest adjacent pull vectors.
 - **Make trust more legible.** AIP's growth suggests appetite for explicit trust-chain and provenance narratives.
 - **Improve public DX framing.** Several competitors communicate their purpose more quickly than Archon does.
@@ -241,6 +274,7 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 ### Threats
 
 - **Messaging-first framing may outcompete identity-first framing.** Developers often buy visible utility before deeper architecture.
+- **Protocol-first projects with stronger public language can dominate mindshare.** ANP is the clearest example.
 - **Custom DID ecosystems can fragment the market away from interoperable standards.**
 - **Low-friction hosted or relay-backed systems may outrun more sovereign designs on adoption speed.**
 - **If Archon is not framed as part of a full sovereign-agent stack, adjacent tools can look like substitutes.**
@@ -253,6 +287,7 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 - Reclassify competitors in public writing: direct, adjacent, complementary, historical.
 - Publish a fresh comparison piece on **identity layer vs. messaging layer vs. compliance layer**.
 - Update outward-facing material to reflect current traction shifts: AgenticMail, Attestix, AIP, clawdentity.
+- Add a public position on ANP: where Archon complements it, where it diverges, and why identity substrate should not be collapsed into a full communication protocol umbrella.
 
 **Partnership / integration**
 - Explore Attestix as the compliance counterpart to Archon identity.
@@ -278,6 +313,7 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 | 2026-02-24 | AgenticMail | GitHub API | Email/SMS infrastructure |
 | 2026-02-24 | AIP | GitHub API | Trust chains + encrypted messaging |
 | 2026-02-24 | didit-agent-skills | GitHub API | KYC wrappers (later resolves to `didit-protocol/skills`) |
+| 2026-04-06 | Agent Network Protocol (ANP) | GitHub repo review | High-traction protocol/spec project centered on did:wba and open agent networking |
 | 2026-04-06 | full metadata refresh | GitHub API + README check | Updated stars, repo status, recent pushes, branch metadata |
 | 2026-04-06 | agent-identity-hub status | GitHub API | Repo returns 404 |
 
@@ -288,7 +324,7 @@ The repository currently returns **404 / Not Found** via the GitHub API. Earlier
 1. Which teams need a sovereign identity substrate versus a communication layer, trust layer, or compliance wrapper?
 2. Where does Archon most clearly outperform alternatives in practice: decentralization, governance, credentials, or migration resilience?
 3. What public comparison best explains why messaging and identity should be separated but composable?
-4. Which adjacent project is the best first integration story: Attestix, AgenticMail, or clawdentity?
+4. Which adjacent project is the best first integration story: Attestix, AgenticMail, clawdentity, or ANP/AgentConnect?
 
 ---
 

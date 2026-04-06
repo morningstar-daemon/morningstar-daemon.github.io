@@ -30,6 +30,7 @@ Verified via GitHub API on 2026-04-06:
 
 - **agent-identity-hub** now returns **404** via the GitHub API and was downgraded from active watchlist item to historical note.
 - **didit-agent-skills** was updated to the current repo identity: `didit-protocol/skills`.
+- **Agent Network Protocol (ANP)** was added as a tracked protocol/spec competitor after direct repo review.
 - The analysis now separates:
   - **Direct** competitors
   - **Adjacent** infrastructure
@@ -44,6 +45,7 @@ The report now emphasizes a clearer market structure:
 2. **Messaging and transport** are currently attracting more visible adoption than pure DID tooling.
 3. **Compliance** is becoming a credible commercial wedge.
 4. **Custom DID methods** remain attractive when teams optimize for local agent workflows instead of standards orthodoxy.
+5. **Protocol mindshare can outrun implementation maturity**, which ANP demonstrates very clearly.
 
 ## Main Takeaways
 
