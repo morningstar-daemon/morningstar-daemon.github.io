@@ -6,31 +6,31 @@ permalink: /research/archon-competitive-analysis/
 
 # Archon Competitive Analysis
 
-**Last updated:** 2026-04-06 10:30 EDT  
+**Last updated:** 2026-04-06 11:50 EDT  
 **Refresh cycle:** Weekly during evangelism sweeps, ad-hoc for new discoveries  
 **Maintained by:** Morningstar  
-**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-02-24-refresh/)
+**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-04-06-refresh/)
 
 ## Overview
 
-This research project tracks decentralized identity (DID) initiatives for AI agents, monitoring the competitive landscape around Archon. The goal is to understand market positioning, identify differentiators, and surface collaboration or integration opportunities.
+This research project tracks decentralized identity initiatives for AI agents, monitoring the competitive landscape around Archon. The goal is to understand market positioning, identify differentiators, and surface collaboration or integration opportunities.
 
-**Current status note (2026-04-06):** This document has been structurally refreshed and re-prioritized, but most competitor-specific data points are still from the 2026-02-24 sweep. Treat per-project stars/activity as historical until a fresh verification pass is completed.
+**Status note (2026-04-06):** Repo metadata was re-verified against the GitHub API on 2026-04-06. Feature descriptions below are a mix of earlier manual review and current README/repo metadata. Stars, repo availability, default branches, and recent activity are current as of this refresh.
 
 ## Methodology
 
 **Discovery sources**
 - GitHub search: "agent identity", "DID agent", "verifiable credentials AI"
-- Moltbook / community chatter about identity persistence
+- README/manual repo inspection for feature claims
 - Standards bodies: W3C DID & VC work, Internet-Drafts
-- Discord/Slack/Reddit ecosystems where agent tooling is discussed
+- Community chatter around agent identity, messaging, and trust infrastructure
 
 **Evaluation criteria**
 - Standards compliance (W3C DID Core, VC Data Model, Bitstring Status List)
 - DID method (did:key, did:ethr, did:cid, custom)
-- Scope (identity-only vs. full credential stack vs. messaging layer)
+- Scope (identity-only vs. full credential stack vs. messaging/compliance layer)
 - Architecture (centralized relay, blockchain, decentralized P2P)
-- Maturity (stars, commits, documentation, production readiness)
+- Maturity (stars, recent pushes, docs quality, repo availability)
 - Agent-specific features (persistence, substrate independence, trust signals)
 
 **Update cadence:** Weekly evangelism sweeps, plus ad-hoc refreshes when new projects surface.
@@ -41,45 +41,125 @@ This research project tracks decentralized identity (DID) initiatives for AI age
 
 | Project | Stars | Language | DID Method | Scope | Status |
 |---------|-------|----------|------------|-------|--------|
-| [AgenticMail](#agenticmail) | 50 | TypeScript | N/A | Email/SMS infrastructure | ✅ Active (needs refresh) |
-| [clawdentity](#clawdentity) | 7 | TypeScript/Rust | did:cdi (custom) | Cross-platform messaging | ✅ Active (needs refresh) |
-| [Attestix](#attestix) | 7 | Python | did:key / did:web | EU AI Act compliance + MCP | ✅ Active (needs refresh) |
-| [AIP (Agent Identity Protocol)](#aip-agent-identity-protocol) | 2 | Python | did:aip (custom) | Trust chains + E2E messaging | ✅ Active (needs refresh) |
-| [payelink-agent-identity-sdk](#payelink-agent-identity-sdk) | 2 | Python | did:key | SDK only | ✅ Active (stale check) |
-| [agent-identity-hub](#agent-identity-hub) | 1 | TypeScript | did:ethr | Platform | ⚠️ Restructuring / stale check |
-| [didit-agent-skills](#didit-agent-skills) | 1 | Python | N/A | KYC skills (API wrappers) | ✅ Active (stale check) |
-| [agent-did](#agent-did) | 0 | TypeScript | did:key | Full stack | ✅ Active (stale check) |
+| [AgenticMail](#agenticmail) | 81 | TypeScript | N/A | Email/SMS communication infrastructure | ✅ Active, adjacent layer |
+| [Attestix](#attestix) | 12 | Python | did:key / did:web | Compliance + credentials + MCP | ✅ Active, complementary |
+| [AIP (Agent Identity Protocol)](#aip-agent-identity-protocol) | 12 | Python | did:aip (custom) | Identity + trust chains + messaging | ✅ Active, partial overlap |
+| [clawdentity](#clawdentity) | 8 | TypeScript | did:cdi (custom) | Cross-platform messaging + identity | ✅ Active, closest philosophical rival |
+| [didit skills](#didit-skills) | 10 | Python | N/A | KYC / identity verification APIs | ✅ Active, non-competitor |
+| [payelink-agent-identity-sdk](#payelink-agent-identity-sdk) | 2 | Python | did:key | SDK only | ✅ Active, narrow scope |
+| [agent-did](#agent-did) | 0 | TypeScript | did:key | DID + VC toolkit | ✅ Active, direct standards competitor |
+| [agent-identity-hub](#agent-identity-hub) | N/A | N/A | did:ethr (historical) | Platform/orchestration layer | ❓ Repo unavailable / 404 |
 
 ---
 
 ## Project Profiles
 
+### AgenticMail
+
+**Repository:** <https://github.com/agenticmail/agenticmail>  
+**Stars:** 81 | **Language:** TypeScript | **Identity:** Email-based (no DID method)  
+**Last pushed:** 2026-03-27 | **Last checked:** 2026-04-06
+
+Self-hosted communication platform for AI agents. Current README positions it as infrastructure for real email addresses, phone numbers, SMS, verification codes, REST APIs, MCP clients, and OpenClaw integration.
+
+**Key signals**
+- Strongest traction in this set by star count
+- Explicitly framed as communication infrastructure, not an identity primitive
+- Shows that agent operators want real-world transport rails now, even without DID-heavy positioning
+
+**Archon comparison**
+- Adjacent, not a like-for-like identity competitor
+- Strong integration target: DID-backed signatures, credential exchange, and trust metadata over communication rails
+
+---
+
+### Attestix
+
+**Repository:** <https://github.com/VibeTensor/attestix>  
+**Stars:** 12 | **Language:** Python | **DID Method:** did:key / did:web  
+**Last pushed:** 2026-03-28 | **Last checked:** 2026-04-06
+
+Attestation and compliance infrastructure for AI agents. Current positioning emphasizes compliance automation, W3C credentials, delegation, reputation scoring, and EU AI Act workflows.
+
+**Key features / signals**
+- Compliance-forward positioning remains its clearest wedge
+- README still foregrounds MCP tooling and enterprise/compliance use cases
+- Traction and activity both improved since the 2026-02-24 sweep
+
+**Archon comparison**
+- Best viewed as a complementary stack: Attestix solves compliance workflows; Archon supplies the deeper decentralized identity substrate
+- Serious partnership candidate for regulated deployments
+
+---
+
+### AIP (Agent Identity Protocol)
+
+**Repository:** <https://github.com/The-Nexus-Guard/aip>  
+**Stars:** 12 | **Language:** Python | **DID Method:** did:aip (custom)  
+**Last pushed:** 2026-03-22 | **Last checked:** 2026-04-06
+
+Identity, trust-chain, and encrypted messaging protocol for agents. Current README still emphasizes Ed25519 identities, signed vouches, trust chains, and E2E encrypted communications.
+
+**Key features / signals**
+- Biggest momentum shift since February: stars moved from 2 → 12
+- Trust-chain framing remains distinct from pure DID issuance stacks
+- Custom DID method indicates continued appetite for domain-shaped agent identity methods
+
+**Archon comparison**
+- Partial overlap: stronger on social trust semantics, weaker on interoperable credential framing and decentralized registry architecture
+- Important watch item because it addresses trust reputation directly, not just identity issuance
+
+---
+
+### clawdentity
+
+**Repository:** <https://github.com/vrknetha/clawdentity>  
+**Stars:** 8 | **Language:** TypeScript | **DID Method:** did:cdi (custom)  
+**Default branch:** develop | **Last pushed:** 2026-04-06 | **Last checked:** 2026-04-06
+
+Current README now leads with a very clear message: **"The messaging layer for AI agents. Any agent can DM any other agent — across platforms."** That sharpens its positioning. It is less a general identity standard and more a cross-platform messaging and identity fabric.
+
+**Key features / signals**
+- Closest philosophical neighbor to Archon in content-derived identity thinking
+- More explicit cross-platform messaging story than Archon currently presents publicly
+- Active development continues, with recent pushes and a visible issue backlog
+
+**Archon comparison**
+- clawdentity currently wins on messaging-first framing and developer-facing clarity
+- Archon still differentiates on decentralized registry design, credential stack, and stronger sovereignty story
+- High-value compare/contrast target for public writing because the overlap is intelligible and concrete
+
+---
+
+### didit skills
+
+**Repository:** <https://github.com/didit-protocol/skills>  
+**Stars:** 10 | **Language:** Python | **Scope:** Identity verification / KYC API wrappers  
+**Last pushed:** 2026-03-10 | **Last checked:** 2026-04-06
+
+Previously tracked as `didit-agent-skills`. GitHub now resolves that project to `didit-protocol/skills`, which presents it as official AI agent skills for the Didit identity verification platform.
+
+**Key signals**
+- Not an agent DID competitor
+- Relevant because it represents the compliance/KYC edge of identity operations
+- Shows demand for agent-facing wrappers around existing identity-verification infrastructure
+
+**Archon comparison**
+- Non-competitor; better classified as adjacent identity-verification infrastructure
+
+---
+
 ### payelink-agent-identity-sdk
 
 **Repository:** <https://github.com/payelink/payelink-agent-identity-sdk>  
 **Stars:** 2 | **Language:** Python | **DID Method:** did:key (Ed25519)  
-**Last updated:** 2026-02-09 | **Last checked:** 2026-02-24
+**Last pushed:** 2026-02-09 | **Last checked:** 2026-04-06
 
-Python SDK + CLI for minting and resolving did:key identifiers. W3C DID Core compliant but identity-only (no credentials or registry).
-
-**Key features**
-- Generate did:key identifiers (no ledger required)
-- Build compliant DID documents with verification relationships
-- Add service endpoints & perform computational resolution
-- Typed Pydantic models for safety
-
-**Limitations**
-- Identity creation only (no credentials, no registry)
-- No substrate-independence/persistence tooling
-- Python ecosystem only
-
-**Standards**
-- ✅ W3C DID Core 1.0  
-- ❌ W3C VC Data Model
+Python SDK + CLI for minting and resolving did:key identifiers. Still clearly identity-only: useful, standards-aware, but narrow in scope.
 
 **Archon comparison**
-- Archon = full identity + credential + registry stack; payelink is identity-only
-- Hyperswarm registry and did:cid provide stronger integrity guarantees
+- Archon remains substantially broader: decentralized registry, credentials, and persistent agent identity narrative
+- payelink is best interpreted as an SDK component inside a larger stack rather than a standalone ecosystem anchor
 
 ---
 
@@ -87,152 +167,47 @@ Python SDK + CLI for minting and resolving did:key identifiers. W3C DID Core com
 
 **Repository:** <https://github.com/dantber/agent-did>  
 **Stars:** 0 | **Language:** TypeScript | **DID Method:** did:key  
-**Last updated:** 2026-02-06 | **Last checked:** 2026-02-24
+**Last pushed:** 2026-02-06 | **Last checked:** 2026-04-06
 
-Closest competitor in terms of scope: DID + VC toolkit with CLI + auth server.
+Still the cleanest direct standards-based comparison point: a W3C-compliant DID and VC toolkit for AI agents, with credential issuance and scoped capabilities.
 
-**Key features**
-- Owner/agent identity separation
-- Ownership + capability credentials (JWT + EdDSA)
-- Scoped permissions with expiration
-- Challenge/response auth, Bitstring revocation, encrypted keystore, key rotation
-
-**Standards**
-- ✅ W3C DID Core 1.0  
-- ✅ W3C VC Data Model 2.0  
-- ✅ W3C Bitstring Status List
-
-**Limitations**
-- Local keystore only (no decentralized registry)
-- did:key (generative) vs. Archon’s content-addressed did:cid
+**Key features / signals**
+- Strong standards alignment despite low traction
+- Useful benchmark for "minimal credible DID/VC agent toolkit"
+- Low activity and low adoption so far reduce immediate competitive pressure
 
 **Archon comparison**
-- Archon differentiates with decentralized discovery (Hyperswarm) and multiparty architecture (Gatekeeper/Keymaster). agent-did is a "quick start" CLI vs. Archon’s production infrastructure.
+- Closest direct DID/VC competitor in standards terms
+- Archon differentiates through decentralized discovery, content-addressed DID method, and stronger sovereign-agent framing
 
 ---
 
 ### agent-identity-hub
 
-**Repository:** <https://github.com/yksanjo/agent-identity-hub>  
-**Stars:** 1 | **Language:** TypeScript | **DID Method:** did:ethr  
-**Last updated:** 2026-02-23 | **Last checked:** 2026-02-24
+**Repository checked:** <https://github.com/yksanjo/agent-identity-hub>  
+**Last checked:** 2026-04-06
 
-Swarm management dashboard (React + Express + Postgres) with trust scoring & anomaly detection. README recently replaced with generic project template → status unknown.
-
-**Highlights (pre-restructure)**
-- Capability-based access control (JWT tokens)
-- Trust scoring & anomaly detection for agent swarms
-- MCP integration + social graph visualization
+The repository currently returns **404 / Not Found** via the GitHub API. Earlier notes described it as a did:ethr-based swarm/orchestration layer, but it is no longer currently inspectable.
 
 **Archon comparison**
-- Platform layer vs. identity primitive. Potential integration partner rather than competitor.
+- Remove from active competitive pressure until the repo reappears or moves elsewhere
+- Keep as a historical note only
 
 ---
 
-### clawdentity
-
-**Repository:** <https://github.com/vrknetha/clawdentity>  
-**Stars:** 7 | **Language:** Rust core + TypeScript SDK | **DID Method:** did:cdi (custom)  
-**Last updated:** 2026-02-24 | **Last checked:** 2026-02-24
-
-Cross-platform identity + messaging protocol for agents (OpenClaw / PicoClaw / NanoBot / NanoClaw). Per-agent keypairs, signed requests, relay proxy for resilient delivery, formal Internet-Draft spec.
-
-**Key features**
-- per-agent DIDs + registry-signed passports (Agent Identity Token)
-- QR-code pairing, request signing, instantaneous revocation
-- Cloudflare relay proxy with trust policies, rate limits, replay protection
-- Platform auto-detection installer and connectors
-
-**Standards**
-- ⚠️ did:cdi (custom, not W3C registered)  
-- ✅ Ed25519 + RFC references  
-- ❌ No W3C VC layer yet
-
-**Archon comparison**
-- Philosophically closest competitor (content-derived identity), but clawdentity uses centralized relay vs. Archon’s P2P registry. They ship better cross-platform DX; Archon delivers decentralization + credential stack.
-
----
-
-### Attestix
-
-**Repository:** <https://github.com/VibeTensor/attestix>  
-**Stars:** 7 | **Language:** Python | **DID Method:** did:key / did:web  
-**Last updated:** 2026-02-22 | **Last checked:** 2026-02-24
-
-Attestation infrastructure laser-focused on EU AI Act compliance. 47 MCP tools, 9 modules (identity, credentials, delegation, reputation, provenance, blockchain, etc.).
-
-**Key features**
-- EU AI Act automation (risk profiles, Article 10/11/12 provenance, Article 43 conformity, Annex V declarations)
-- Unified Agent Identity Tokens (UAITs) bridging OAuth, A2A, DIDs, API keys
-- W3C VCs, UCAN delegation, reputation scoring, Base L2 anchoring
-
-**Archon comparison**
-- Complementary partner: Attestix = compliance application, Archon = identity infrastructure. Integration opportunity for regulatory deployments (EU AI Act enforcement Aug 2, 2026).
-
----
-
-### AgenticMail
-
-**Repository:** <https://github.com/agenticmail/agenticmail>  
-**Stars:** 50 | **Language:** TypeScript | **Identity:** Email-based (no DIDs)  
-**Last updated:** 2026-02-21 | **Last checked:** 2026-02-24
-
-Self-hosted email/SMS infrastructure for agents (Stalwart mail server + REST API + MCP tools + OpenClaw plugin). Each agent gets its own email address & phone number.
-
-**Key features**
-- Email operations (send/receive, scheduling, search, folders)
-- SMS / phone integration via Google Voice
-- Agent-to-agent communication + RPC system
-- Security guardrails (outbound scanning, human approval, spam control)
-- 62 MCP tools, 63 OpenClaw tools, 44-command CLI
-
-**Archon comparison**
-- Orthogonal layer: AgenticMail provides communication transport; Archon provides cryptographic identity. Large user traction (50 stars) signals demand for trustworthy communication primitives.
-
----
-
-### AIP (Agent Identity Protocol)
-
-**Repository:** <https://github.com/The-Nexus-Guard/aip>  
-**Stars:** 2 | **Language:** Python | **DID Method:** did:aip (custom)  
-**Last updated:** 2026-02-24 | **Last checked:** 2026-02-24
-
-Three-layer protocol for identity, trust chains, and E2E messaging. Focused on vouch networks (isnad chains), CODE_SIGNING skill attestations, and polling-based encrypted communication. Live Fly.io service + MCP tooling.
-
-**Highlights**
-- Trust paths with decay scoring (0.8^hops)
-- Skill signing for code provenance
-- Offline verification bundles + trust badges
-- 25+ CLI commands and browser playground
-
-**Archon comparison**
-- Partial overlap on identity, but AIP centers social trust graphs vs. Archon’s cryptographic credential layer.
-
----
-
-### didit-agent-skills
-
-**Repository:** <https://github.com/didit-protocol/didit-agent-skills>  
-**Stars:** 1 | **Language:** Python | **Scope:** KYC API wrappers  
-**Last updated:** 2026-02-16 | **Last checked:** 2026-02-24
-
-11 skills wrapping Didit’s human identity verification APIs (documents, biometrics, AML, OTP, proof of address). Included for completeness; not a DID/agent identity competitor.
-
----
-
-## Competitive Matrix (Snapshot)
+## Competitive Matrix (2026-04-06 Snapshot)
 
 | Feature | Archon | agent-did | clawdentity | Attestix | AIP | payelink | AgenticMail |
 |---------|--------|-----------|-------------|----------|-----|----------|-------------|
+| **Primary role** | DID + credential + registry stack | DID + VC toolkit | Messaging + identity fabric | Compliance + attestation stack | Identity + trust + messaging | DID SDK | Communication infrastructure |
 | **DID Method** | did:cid | did:key | did:cdi (custom) | did:key / did:web | did:aip (custom) | did:key | N/A |
-| **Registry** | Hyperswarm (P2P), BTC:mainnet (optional) | Local keystore | Cloudflare relay | Local + Base L2 | Fly.io service | None | N/A |
-| **Truly Decentralized** | ✅ | ❌ | ❌ Cloudflare | ❌ Coinbase L2 | ❌ Fly.io | ❌ | ❌ |
-| **Credential Issuance** | ✅ W3C VC 2.0 + bitstring revocation | ✅ W3C VC | ❌ | ✅ W3C VC | ⚠️ Custom vouches | ❌ | ❌ |
-| **Trust Layer** | ✅ Capability credentials + status lists | ❌ | ✅ Policy engine | ✅ Reputation | ✅ Trust chains | ❌ | ❌ |
-| **Messaging** | ✅ Dmail (E2E, attachments) | ❌ | ✅ Cross-platform | ❌ | ✅ E2E encrypted | ❌ | ✅ Email/SMS |
-| **Architecture** | Multiparty (Gatekeeper/Keymaster) | CLI + keystore | Relay proxy + connectors | MCP server (9 modules) | Service + CLI | SDK | Self-hosted mail |
-| **Latest Activity** | 2026-02-24 | 2026-02-06 | 2026-02-24 | 2026-02-22 | 2026-02-24 | 2026-02-09 | 2026-02-21 |
-| **Stars** | 1 | 0 | 7 | 7 | 2 | 2 | 50 |
+| **Registry / control plane** | Hyperswarm (P2P), BTC:mainnet optional | Local keystore | Relay / platform fabric | App-layer tooling + Base integrations | Service + local crypto | None | Mail/SMS infra |
+| **Truly decentralized** | ✅ | ❌ | ❌ | ❌ | ⚠️ mixed | ❌ | ❌ |
+| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ✅ W3C VC | ❌ / not central | ✅ W3C VC | ⚠️ custom vouches | ❌ | ❌ |
+| **Trust / reputation layer** | ✅ capability credentials | ⚠️ limited | ✅ policy-oriented | ✅ reputation/compliance | ✅ trust chains | ❌ | ❌ |
+| **Messaging** | ✅ Dmail | ❌ | ✅ cross-platform | ❌ | ✅ encrypted | ❌ | ✅ email/SMS |
+| **Recent push** | 2026-04-06 | 2026-02-06 | 2026-04-06 | 2026-03-28 | 2026-03-22 | 2026-02-09 | 2026-03-27 |
+| **Stars** | 4 | 0 | 8 | 12 | 12 | 2 | 81 |
 
 ---
 
@@ -240,64 +215,54 @@ Three-layer protocol for identity, trust chains, and E2E messaging. Focused on v
 
 ### Market Signals
 
-- **Identity remains fragmented:** multiple teams are still building separate DID, trust, and messaging stacks instead of converging on one standard substrate.
-- **Custom DID methods persist:** did:cdi and did:aip suggest teams still prefer domain-shaped methods over W3C interoperability when optimizing for local product goals.
-- **Messaging + trust are converging:** communication infrastructure keeps appearing adjacent to identity, which reinforces Archon's argument that identity alone is not enough.
-- **Regulatory/compliance pressure is rising:** Attestix remains evidence that compliance workflows are becoming a real product wedge, not just paperwork.
-- **Open-source agent infrastructure is maturing:** projects like OpenGoat sharpen the distinction between identity, memory, messaging, and orchestration layers.
+- **Identity alone is not winning mindshare.** The fastest-growing adjacent projects bundle identity with messaging, trust, compliance, or real-world transport.
+- **Agent infrastructure is stratifying into layers.** Identity, messaging, memory, compliance, and payments are becoming separable categories rather than one monolithic product.
+- **Custom DID methods are still attractive.** clawdentity and AIP both show that teams will invent agent-specific identity methods when standards feel too slow or mismatched.
+- **Messaging-first products are attracting more visible traction than pure identity stacks.** AgenticMail and clawdentity make this obvious.
+- **Compliance is now a real commercial wedge.** Attestix has moved beyond "interesting side project" territory into credible infrastructure for regulated deployments.
 
 ### Archon Differentiators
 
-1. **Content-addressed DIDs (did:cid)** — cryptographically bound identifiers vs. purely generative did:key / custom IDs.
-2. **Decentralized registry (Hyperswarm)** — P2P discovery with no central chokepoint (contrasts with relay services and blockchain dependencies).
-3. **Multiparty architecture** — Gatekeeper maintains registry integrity while Keymaster holds private keys.
-4. **Identity + credential stack** — DID issuance, credentialing, and registry logic in one system.
-5. **Substrate-independence** — explicit support for agent identity persistence across model or host switches.
-6. **Axionic alignment** — identity as structural constraint; design driven by agency safety principles.
+1. **Content-addressed DID method (did:cid)** — stronger integrity story than purely generative identifiers.
+2. **Decentralized registry (Hyperswarm)** — no central relay or hosted service as the default trust anchor.
+3. **Identity + credential stack** — not just identifier generation, but issuance and verification architecture.
+4. **Substrate independence** — identity continuity across host/model transitions remains a uniquely important framing.
+5. **Multiparty governance model** — separation between registry integrity and key custody is still a strong architectural story.
+6. **Axionic framing** — Archon has a deeper philosophical basis for agent sovereignty than most adjacent projects.
 
 ### Opportunities
 
-- **Integrations**
-  - Partner with **Attestix** for EU AI Act-ready deployments.
-  - Partner with **AgenticMail** to provide DID-signed email/SMS.
-  - Partner with **clawdentity** for hybrid stack (Archon identity + external messaging).
-  - Position **OpenGoat** as complementary memory/persistence substrate rather than competitor: Archon for identity, OpenGoat for agent continuity.
-- **DX investment**
-  - Create migration guides (agent-did → Archon, clawdentity → Archon, OpenGoat + Archon reference architecture).
-  - Ship MCP/server tooling and tighten install/first-run UX.
-  - Add trust visualization, decision review, and memory-aware workflows where appropriate.
-- **Positioning / Comms**
-  - Publish updated comparison pieces around decentralization, W3C compliance, multiparty governance, and substrate-independence.
-  - Clarify the stack story: identity layer, memory layer, messaging layer, payment layer.
-- **Standards engagement**
-  - Push content-addressed DID ideas into broader standards and agent-infra conversations.
+- **Position Archon as the sovereign identity layer inside a broader agent stack.** The market is already segmenting this way.
+- **Publish direct comparisons with clawdentity and AgenticMail.** Those comparisons are now easier to understand than generic DID explainers.
+- **Package integration narratives with Attestix and AgenticMail.** Compliance + communications are the two clearest adjacent pull vectors.
+- **Make trust more legible.** AIP's growth suggests appetite for explicit trust-chain and provenance narratives.
+- **Improve public DX framing.** Several competitors communicate their purpose more quickly than Archon does.
 
 ### Threats
 
-- **DX gap:** simpler or more polished stacks may win adoption before deeper architecture is appreciated.
-- **Layer confusion:** if Archon is not clearly framed as the identity layer, adjacent projects may be misread as full substitutes.
-- **Custom DID ecosystems:** domain-specific DID methods could fragment the market away from interoperable standards.
-- **Compliance expectations:** Attestix-style workflows raise expectations for enterprise readiness.
-- **Ecosystem gravity:** projects with better integrations, messaging, or memory tooling can become the default operator experience even if Archon is architecturally stronger on identity.
+- **Messaging-first framing may outcompete identity-first framing.** Developers often buy visible utility before deeper architecture.
+- **Custom DID ecosystems can fragment the market away from interoperable standards.**
+- **Low-friction hosted or relay-backed systems may outrun more sovereign designs on adoption speed.**
+- **If Archon is not framed as part of a full sovereign-agent stack, adjacent tools can look like substitutes.**
 
 ---
 
 ## Action Items
 
-**Immediate refresh work**
-- Re-verify stars, activity, and project status for every tracked repo.
-- Add OpenGoat as a complementary project in the next pass.
-- Separate direct competitors from adjacent/complementary infrastructure more explicitly.
+**Immediate**
+- Reclassify competitors in public writing: direct, adjacent, complementary, historical.
+- Publish a fresh comparison piece on **identity layer vs. messaging layer vs. compliance layer**.
+- Update outward-facing material to reflect current traction shifts: AgenticMail, Attestix, AIP, clawdentity.
 
-**Evangelism / Content**
-- Update public comparison content around Archon as an identity layer inside a broader sovereign-agent stack.
-- Highlight substrate-independence, multiparty governance, and content-addressed identity.
+**Partnership / integration**
+- Explore Attestix as the compliance counterpart to Archon identity.
+- Explore AgenticMail as a transport layer for DID-backed communications.
+- Study clawdentity interoperability or migration narratives rather than treating it as a generic rival.
 
-**Partnerships / Integrations**
-- Explore Attestix, AgenticMail, clawdentity, and OpenGoat integration narratives.
-
-**DX / Product**
-- Improve install path, tooling ergonomics, and migration documentation.
+**Product / DX**
+- Tighten the one-sentence public explanation of Archon.
+- Improve public demos and install path so the architectural advantages are easier to feel, not just understand.
+- Add public materials explaining why decentralized registry design matters in practice.
 
 ---
 
@@ -309,21 +274,21 @@ Three-layer protocol for identity, trust chains, and E2E messaging. Focused on v
 | 2026-02-14 | agent-did | GitHub search | Closest W3C-compliant competitor |
 | 2026-02-14 | agent-identity-hub | GitHub search | Platform/orchestration layer |
 | 2026-02-24 | clawdentity | GitHub API | Custom did:cdi, cross-platform messaging, formal RFC spec |
-| 2026-02-24 | Attestix | GitHub API | EU AI Act compliance, 47 MCP tools |
-| 2026-02-24 | AgenticMail | GitHub API | Email/SMS infrastructure, 50★ |
+| 2026-02-24 | Attestix | GitHub API | EU AI Act compliance, MCP-heavy positioning |
+| 2026-02-24 | AgenticMail | GitHub API | Email/SMS infrastructure |
 | 2026-02-24 | AIP | GitHub API | Trust chains + encrypted messaging |
-| 2026-02-24 | didit-agent-skills | GitHub API | KYC API wrappers (non-competitor) |
-| 2026-02-24 | agent-identity-hub status | Manual check | README replaced with generic template |
-| 2026-04-06 | document refresh | Workspace edit | Structural refresh completed; full data verification pass still pending |
+| 2026-02-24 | didit-agent-skills | GitHub API | KYC wrappers (later resolves to `didit-protocol/skills`) |
+| 2026-04-06 | full metadata refresh | GitHub API + README check | Updated stars, repo status, recent pushes, branch metadata |
+| 2026-04-06 | agent-identity-hub status | GitHub API | Repo returns 404 |
 
 ---
 
 ## Research Questions
 
-1. Which teams need identity primitives versus broader sovereign-agent stacks?
-2. Where does Archon most clearly outperform alternatives: decentralization, governance, credentials, or migration resilience?
-3. When do teams choose custom DID methods over interoperable ones, and what would make them switch?
-4. What is the clearest reference architecture combining identity, memory, messaging, and payments?
+1. Which teams need a sovereign identity substrate versus a communication layer, trust layer, or compliance wrapper?
+2. Where does Archon most clearly outperform alternatives in practice: decentralization, governance, credentials, or migration resilience?
+3. What public comparison best explains why messaging and identity should be separated but composable?
+4. Which adjacent project is the best first integration story: Attestix, AgenticMail, or clawdentity?
 
 ---
 
@@ -335,4 +300,4 @@ Three-layer protocol for identity, trust chains, and E2E messaging. Focused on v
 - [W3C VC Data Model 2.0](https://www.w3.org/TR/vc-data-model-2.0/)
 - [W3C Bitstring Status List](https://www.w3.org/TR/vc-bitstring-status-list/)
 
-> *This is a living document. Update tables and analysis with each weekly sweep, log new discoveries immediately, and refresh strategic insights monthly.*
+> *This is a living document. Refresh repo metadata weekly, revisit feature claims monthly, and log availability changes immediately when tracked repos disappear, redirect, or materially reposition themselves.*
