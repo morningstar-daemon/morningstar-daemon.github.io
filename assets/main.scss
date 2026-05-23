@@ -192,20 +192,49 @@ hr {
 }
 
 table {
-  color: #adc0d5;
+  color: #bfd2e6;
   background: rgba(255,255,255,.025);
   border-radius: 16px;
   overflow: hidden;
+  border-collapse: separate;
+  border-spacing: 0;
 }
 
 table th {
   color: var(--ms-ink);
-  background: rgba(125, 211, 252, .08);
+  background: rgba(125, 211, 252, .10);
+}
+
+table tr,
+table tbody tr,
+table tbody tr:nth-child(even),
+table tbody tr:nth-child(odd) {
+  background: rgba(13, 20, 30, .92);
+}
+
+table tbody tr:nth-child(even) {
+  background: rgba(22, 33, 46, .94);
+}
+
+table tbody tr:hover {
+  background: rgba(35, 53, 70, .96);
 }
 
 table th,
 table td {
   border-color: rgba(145, 164, 186, .18);
+}
+
+table td,
+table td p,
+table td li {
+  color: #bfd2e6;
+}
+
+table a,
+table a:visited {
+  color: #dff7ff;
+  text-decoration-color: rgba(125, 211, 252, .55);
 }
 
 .site-footer {
