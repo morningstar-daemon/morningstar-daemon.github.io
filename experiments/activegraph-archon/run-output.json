@@ -1,0 +1,419 @@
+{
+  "experiment": "ActiveGraph Archon readiness smoke test",
+  "activegraph_version": "1.0.5.post2",
+  "sources": {
+    "site": "https://activegraph.ai/",
+    "docs": "https://docs.activegraph.ai/",
+    "repo": "https://github.com/yoheinakajima/activegraph",
+    "pypi": "https://pypi.org/project/activegraph/"
+  },
+  "base": {
+    "label": "base",
+    "objects": [
+      {
+        "id": "archon_node#1",
+        "type": "archon_node",
+        "data": {
+          "name": "Pilot Archon Node",
+          "status": "planning",
+          "goal": "Archon node launch readiness: verify identity, wallet, mediator, and L402 gateway"
+        }
+      },
+      {
+        "id": "capability#2",
+        "type": "capability",
+        "data": {
+          "name": "did:cid identity",
+          "status": "verified",
+          "claim": "Node must present Ed25519-backed did:cid identity before services launch.",
+          "last_evidence": "Local fixture: test key signs a challenge and verification succeeds."
+        }
+      },
+      {
+        "id": "capability#3",
+        "type": "capability",
+        "data": {
+          "name": "LNbits per-DID wallet",
+          "status": "verified",
+          "claim": "Wallet can open only after the node identity is verified.",
+          "opened_by": "did:cid identity",
+          "last_evidence": "Local fixture: LNbits per-DID wallet smoke test passed."
+        }
+      },
+      {
+        "id": "capability#4",
+        "type": "capability",
+        "data": {
+          "name": "Lightning mediator",
+          "status": "verified",
+          "claim": "Mediator depends on LNbits wallet readiness.",
+          "opened_by": "LNbits per-DID wallet",
+          "last_evidence": "Local fixture: Lightning mediator smoke test passed."
+        }
+      },
+      {
+        "id": "capability#5",
+        "type": "capability",
+        "data": {
+          "name": "Drawbridge L402 gateway",
+          "status": "verified",
+          "claim": "Gateway can mint L402 access only after mediator is live.",
+          "opened_by": "Lightning mediator",
+          "last_evidence": "Local fixture: Drawbridge L402 gateway smoke test passed."
+        }
+      },
+      {
+        "id": "evidence#6",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: test key signs a challenge and verification succeeds.",
+          "verdict": "supports",
+          "target": "capability#2"
+        }
+      },
+      {
+        "id": "evidence#7",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: LNbits per-DID wallet smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#3"
+        }
+      },
+      {
+        "id": "evidence#8",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: Lightning mediator smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#4"
+        }
+      },
+      {
+        "id": "evidence#9",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: Drawbridge L402 gateway smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#5"
+        }
+      },
+      {
+        "id": "memo#10",
+        "type": "memo",
+        "data": {
+          "title": "Archon pilot readiness memo",
+          "summary": "All four launch capabilities reached verified state through evidence edges and unblocks edges.",
+          "verified_capabilities": [
+            "did:cid identity",
+            "LNbits per-DID wallet",
+            "Lightning mediator",
+            "Drawbridge L402 gateway"
+          ]
+        }
+      }
+    ],
+    "relations": [
+      {
+        "id": "rel_001",
+        "source": "capability#2",
+        "target": "capability#3",
+        "type": "unblocks",
+        "data": {
+          "meaning": "identity unlocks wallets"
+        }
+      },
+      {
+        "id": "rel_002",
+        "source": "capability#3",
+        "target": "capability#4",
+        "type": "unblocks",
+        "data": {
+          "meaning": "wallet unlocks mediator"
+        }
+      },
+      {
+        "id": "rel_003",
+        "source": "capability#4",
+        "target": "capability#5",
+        "type": "unblocks",
+        "data": {
+          "meaning": "mediator unlocks gateway"
+        }
+      },
+      {
+        "id": "rel_004",
+        "source": "archon_node#1",
+        "target": "capability#2",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_005",
+        "source": "archon_node#1",
+        "target": "capability#3",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_006",
+        "source": "archon_node#1",
+        "target": "capability#4",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_007",
+        "source": "archon_node#1",
+        "target": "capability#5",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_008",
+        "source": "evidence#6",
+        "target": "capability#2",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_009",
+        "source": "evidence#7",
+        "target": "capability#3",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_010",
+        "source": "evidence#8",
+        "target": "capability#4",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_011",
+        "source": "evidence#9",
+        "target": "capability#5",
+        "type": "supports",
+        "data": {}
+      }
+    ],
+    "event_count": 94,
+    "event_types": {
+      "goal.created": 1,
+      "behavior.started": 15,
+      "object.created": 10,
+      "relation.created": 11,
+      "behavior.completed": 32,
+      "relation_behavior.started": 17,
+      "patch.applied": 7,
+      "runtime.idle": 1
+    }
+  },
+  "fork": {
+    "label": "fork_gateway_regression",
+    "objects": [
+      {
+        "id": "archon_node#1",
+        "type": "archon_node",
+        "data": {
+          "name": "Pilot Archon Node",
+          "status": "planning",
+          "goal": "Archon node launch readiness: verify identity, wallet, mediator, and L402 gateway"
+        }
+      },
+      {
+        "id": "capability#2",
+        "type": "capability",
+        "data": {
+          "name": "did:cid identity",
+          "status": "verified",
+          "claim": "Node must present Ed25519-backed did:cid identity before services launch.",
+          "last_evidence": "Local fixture: test key signs a challenge and verification succeeds."
+        }
+      },
+      {
+        "id": "capability#3",
+        "type": "capability",
+        "data": {
+          "name": "LNbits per-DID wallet",
+          "status": "verified",
+          "claim": "Wallet can open only after the node identity is verified.",
+          "opened_by": "did:cid identity",
+          "last_evidence": "Local fixture: LNbits per-DID wallet smoke test passed."
+        }
+      },
+      {
+        "id": "capability#4",
+        "type": "capability",
+        "data": {
+          "name": "Lightning mediator",
+          "status": "verified",
+          "claim": "Mediator depends on LNbits wallet readiness.",
+          "opened_by": "LNbits per-DID wallet",
+          "last_evidence": "Local fixture: Lightning mediator smoke test passed."
+        }
+      },
+      {
+        "id": "capability#5",
+        "type": "capability",
+        "data": {
+          "name": "Drawbridge L402 gateway",
+          "status": "review_required",
+          "claim": "Gateway can mint L402 access only after mediator is live.",
+          "opened_by": "Lightning mediator",
+          "last_evidence": "Local fixture: Drawbridge L402 gateway smoke test passed.",
+          "regression": "Fixture injected after fork: L402 mint check failed under alternate policy."
+        }
+      },
+      {
+        "id": "evidence#6",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: test key signs a challenge and verification succeeds.",
+          "verdict": "supports",
+          "target": "capability#2"
+        }
+      },
+      {
+        "id": "evidence#7",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: LNbits per-DID wallet smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#3"
+        }
+      },
+      {
+        "id": "evidence#8",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: Lightning mediator smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#4"
+        }
+      },
+      {
+        "id": "evidence#9",
+        "type": "evidence",
+        "data": {
+          "text": "Local fixture: Drawbridge L402 gateway smoke test passed.",
+          "verdict": "supports",
+          "target": "capability#5"
+        }
+      },
+      {
+        "id": "memo#10",
+        "type": "memo",
+        "data": {
+          "title": "Archon pilot readiness memo",
+          "summary": "All four launch capabilities reached verified state through evidence edges and unblocks edges.",
+          "verified_capabilities": [
+            "did:cid identity",
+            "LNbits per-DID wallet",
+            "Lightning mediator",
+            "Drawbridge L402 gateway"
+          ]
+        }
+      }
+    ],
+    "relations": [
+      {
+        "id": "rel_001",
+        "source": "capability#2",
+        "target": "capability#3",
+        "type": "unblocks",
+        "data": {
+          "meaning": "identity unlocks wallets"
+        }
+      },
+      {
+        "id": "rel_002",
+        "source": "capability#3",
+        "target": "capability#4",
+        "type": "unblocks",
+        "data": {
+          "meaning": "wallet unlocks mediator"
+        }
+      },
+      {
+        "id": "rel_003",
+        "source": "capability#4",
+        "target": "capability#5",
+        "type": "unblocks",
+        "data": {
+          "meaning": "mediator unlocks gateway"
+        }
+      },
+      {
+        "id": "rel_004",
+        "source": "archon_node#1",
+        "target": "capability#2",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_005",
+        "source": "archon_node#1",
+        "target": "capability#3",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_006",
+        "source": "archon_node#1",
+        "target": "capability#4",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_007",
+        "source": "archon_node#1",
+        "target": "capability#5",
+        "type": "contains",
+        "data": {}
+      },
+      {
+        "id": "rel_008",
+        "source": "evidence#6",
+        "target": "capability#2",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_009",
+        "source": "evidence#7",
+        "target": "capability#3",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_010",
+        "source": "evidence#8",
+        "target": "capability#4",
+        "type": "supports",
+        "data": {}
+      },
+      {
+        "id": "rel_011",
+        "source": "evidence#9",
+        "target": "capability#5",
+        "type": "supports",
+        "data": {}
+      }
+    ],
+    "event_count": 102,
+    "event_types": {
+      "goal.created": 1,
+      "behavior.started": 17,
+      "object.created": 10,
+      "relation.created": 11,
+      "behavior.completed": 35,
+      "relation_behavior.started": 18,
+      "patch.applied": 8,
+      "runtime.idle": 2
+    }
+  },
+  "diff_repr": "Diff(parent_run_id='01KSABEKNW0GX4388GBEXMF146', fork_run_id='01KSABEKPFF2EQKSP5CBA90GB4', shared_events=[Event(id='evt_001', type='goal.created', payload={'goal': 'Archon node launch readiness: verify identity, wallet, mediator, and L402 gateway'}, actor='user', frame_id=None, caused_by=None, timestamp='2026-05-23T12:02:39Z'), Event(id='evt_003', type='object.created', payload={'object': {'id': 'archon_node#1', 'type': 'archon_node', 'data': {'name': 'Pilot Archon Node', 'status': 'planning', 'goal': 'Archon node launch readiness: verify identity, wallet, mediator, and L402 gateway'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'archon_node#1'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_004', type='object.created', payload={'object': {'id': 'capability#2', 'type': 'capability', 'data': {'name': 'did:cid identity', 'status': 'open', 'claim': 'Node must present Ed25519-backed did:cid identity before services launch.'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'capability#2'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_005', type='object.created', payload={'object': {'id': 'capability#3', 'type': 'capability', 'data': {'name': 'LNbits per-DID wallet', 'status': 'blocked', 'claim': 'Wallet can open only after the node identity is verified.'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'capability#3'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_006', type='object.created', payload={'object': {'id': 'capability#4', 'type': 'capability', 'data': {'name': 'Lightning mediator', 'status': 'blocked', 'claim': 'Mediator depends on LNbits wallet readiness.'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'capability#4'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_007', type='object.created', payload={'object': {'id': 'capability#5', 'type': 'capability', 'data': {'name': 'Drawbridge L402 gateway', 'status': 'blocked', 'claim': 'Gateway can mint L402 access only after mediator is live.'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'capability#5'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_008', type='relation.created', payload={'relation': {'id': 'rel_001', 'source': 'capability#2', 'target': 'capability#3', 'type': 'unblocks', 'data': {'meaning': 'identity unlocks wallets'}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_001', 'source': 'capability#2', 'target': 'capability#3'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_009', type='relation.created', payload={'relation': {'id': 'rel_002', 'source': 'capability#3', 'target': 'capability#4', 'type': 'unblocks', 'data': {'meaning': 'wallet unlocks mediator'}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_002', 'source': 'capability#3', 'target': 'capability#4'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_010', type='relation.created', payload={'relation': {'id': 'rel_003', 'source': 'capability#4', 'target': 'capability#5', 'type': 'unblocks', 'data': {'meaning': 'mediator unlocks gateway'}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_003', 'source': 'capability#4', 'target': 'capability#5'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_011', type='relation.created', payload={'relation': {'id': 'rel_004', 'source': 'archon_node#1', 'target': 'capability#2', 'type': 'contains', 'data': {}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_004', 'source': 'archon_node#1', 'target': 'capability#2'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_012', type='relation.created', payload={'relation': {'id': 'rel_005', 'source': 'archon_node#1', 'target': 'capability#3', 'type': 'contains', 'data': {}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_005', 'source': 'archon_node#1', 'target': 'capability#3'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_013', type='relation.created', payload={'relation': {'id': 'rel_006', 'source': 'archon_node#1', 'target': 'capability#4', 'type': 'contains', 'data': {}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_006', 'source': 'archon_node#1', 'target': 'capability#4'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_014', type='relation.created', payload={'relation': {'id': 'rel_007', 'source': 'archon_node#1', 'target': 'capability#5', 'type': 'contains', 'data': {}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_007', 'source': 'archon_node#1', 'target': 'capability#5'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_015', type='object.created', payload={'object': {'id': 'evidence#6', 'type': 'evidence', 'data': {'text': 'Local fixture: test key signs a challenge and verification succeeds.', 'verdict': 'supports', 'target': 'capability#2'}, 'version': 1, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'evidence#6'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_016', type='relation.created', payload={'relation': {'id': 'rel_008', 'source': 'evidence#6', 'target': 'capability#2', 'type': 'supports', 'data': {}, 'provenance': {'created_by': 'archon_planner', 'caused_by_event': 'evt_001', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_008', 'source': 'evidence#6', 'target': 'capability#2'}, actor='archon_planner', frame_id=None, caused_by='evt_001', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_019', type='patch.applied', payload={'patch': {'id': 'patch_001', 'target': 'capability#2', 'op': 'update', 'value': {'status': 'verified', 'last_evidence': 'Local fixture: test key signs a challenge and verification succeeds.'}, 'expected_version': 1, 'proposed_by': 'support_marks_verified', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'support_marks_verified', 'caused_by_event': 'evt_008', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#2', 'diff': {'status': {'old': 'open', 'new': 'verified'}, 'last_evidence': {'old': None, 'new': 'Local fixture: test key signs a challenge and verification succeeds.'}}}, actor='support_marks_verified', frame_id=None, caused_by='evt_008', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_026', type='patch.applied', payload={'patch': {'id': 'patch_002', 'target': 'capability#3', 'op': 'update', 'value': {'status': 'open', 'opened_by': 'did:cid identity'}, 'expected_version': 1, 'proposed_by': 'verified_source_unblocks_target', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'verified_source_unblocks_target', 'caused_by_event': 'evt_019', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#3', 'diff': {'status': {'old': 'blocked', 'new': 'open'}, 'opened_by': {'old': None, 'new': 'did:cid identity'}}}, actor='verified_source_unblocks_target', frame_id=None, caused_by='evt_019', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_037', type='object.created', payload={'object': {'id': 'evidence#7', 'type': 'evidence', 'data': {'text': 'Local fixture: LNbits per-DID wallet smoke test passed.', 'verdict': 'supports', 'target': 'capability#3'}, 'version': 1, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_026', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'evidence#7'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_026', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_038', type='relation.created', payload={'relation': {'id': 'rel_009', 'source': 'evidence#7', 'target': 'capability#3', 'type': 'supports', 'data': {}, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_026', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_009', 'source': 'evidence#7', 'target': 'capability#3'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_026', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_043', type='patch.applied', payload={'patch': {'id': 'patch_003', 'target': 'capability#3', 'op': 'update', 'value': {'status': 'verified', 'last_evidence': 'Local fixture: LNbits per-DID wallet smoke test passed.'}, 'expected_version': 2, 'proposed_by': 'support_marks_verified', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'support_marks_verified', 'caused_by_event': 'evt_038', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#3', 'diff': {'status': {'old': 'open', 'new': 'verified'}, 'last_evidence': {'old': None, 'new': 'Local fixture: LNbits per-DID wallet smoke test passed.'}}}, actor='support_marks_verified', frame_id=None, caused_by='evt_038', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_048', type='patch.applied', payload={'patch': {'id': 'patch_004', 'target': 'capability#4', 'op': 'update', 'value': {'status': 'open', 'opened_by': 'LNbits per-DID wallet'}, 'expected_version': 1, 'proposed_by': 'verified_source_unblocks_target', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'verified_source_unblocks_target', 'caused_by_event': 'evt_043', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#4', 'diff': {'status': {'old': 'blocked', 'new': 'open'}, 'opened_by': {'old': None, 'new': 'LNbits per-DID wallet'}}}, actor='verified_source_unblocks_target', frame_id=None, caused_by='evt_043', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_059', type='object.created', payload={'object': {'id': 'evidence#8', 'type': 'evidence', 'data': {'text': 'Local fixture: Lightning mediator smoke test passed.', 'verdict': 'supports', 'target': 'capability#4'}, 'version': 1, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_048', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'evidence#8'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_048', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_060', type='relation.created', payload={'relation': {'id': 'rel_010', 'source': 'evidence#8', 'target': 'capability#4', 'type': 'supports', 'data': {}, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_048', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_010', 'source': 'evidence#8', 'target': 'capability#4'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_048', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_065', type='patch.applied', payload={'patch': {'id': 'patch_005', 'target': 'capability#4', 'op': 'update', 'value': {'status': 'verified', 'last_evidence': 'Local fixture: Lightning mediator smoke test passed.'}, 'expected_version': 2, 'proposed_by': 'support_marks_verified', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'support_marks_verified', 'caused_by_event': 'evt_060', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#4', 'diff': {'status': {'old': 'open', 'new': 'verified'}, 'last_evidence': {'old': None, 'new': 'Local fixture: Lightning mediator smoke test passed.'}}}, actor='support_marks_verified', frame_id=None, caused_by='evt_060', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_070', type='patch.applied', payload={'patch': {'id': 'patch_006', 'target': 'capability#5', 'op': 'update', 'value': {'status': 'open', 'opened_by': 'Lightning mediator'}, 'expected_version': 1, 'proposed_by': 'verified_source_unblocks_target', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'verified_source_unblocks_target', 'caused_by_event': 'evt_065', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#5', 'diff': {'status': {'old': 'blocked', 'new': 'open'}, 'opened_by': {'old': None, 'new': 'Lightning mediator'}}}, actor='verified_source_unblocks_target', frame_id=None, caused_by='evt_065', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_079', type='object.created', payload={'object': {'id': 'evidence#9', 'type': 'evidence', 'data': {'text': 'Local fixture: Drawbridge L402 gateway smoke test passed.', 'verdict': 'supports', 'target': 'capability#5'}, 'version': 1, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_070', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'evidence#9'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_070', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_080', type='relation.created', payload={'relation': {'id': 'rel_011', 'source': 'evidence#9', 'target': 'capability#5', 'type': 'supports', 'data': {}, 'provenance': {'created_by': 'work_the_open_queue', 'caused_by_event': 'evt_070', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'rel_011', 'source': 'evidence#9', 'target': 'capability#5'}, actor='work_the_open_queue', frame_id=None, caused_by='evt_070', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_085', type='patch.applied', payload={'patch': {'id': 'patch_007', 'target': 'capability#5', 'op': 'update', 'value': {'status': 'verified', 'last_evidence': 'Local fixture: Drawbridge L402 gateway smoke test passed.'}, 'expected_version': 2, 'proposed_by': 'support_marks_verified', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'support_marks_verified', 'caused_by_event': 'evt_080', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'target': 'capability#5', 'diff': {'status': {'old': 'open', 'new': 'verified'}, 'last_evidence': {'old': None, 'new': 'Local fixture: Drawbridge L402 gateway smoke test passed.'}}}, actor='support_marks_verified', frame_id=None, caused_by='evt_080', timestamp='2026-05-23T12:02:39Z'), Event(id='evt_092', type='object.created', payload={'object': {'id': 'memo#10', 'type': 'memo', 'data': {'title': 'Archon pilot readiness memo', 'summary': 'All four launch capabilities reached verified state through evidence edges and unblocks edges.', 'verified_capabilities': ['did:cid identity', 'LNbits per-DID wallet', 'Lightning mediator', 'Drawbridge L402 gateway']}, 'version': 1, 'provenance': {'created_by': 'memo_when_gateway_verified', 'caused_by_event': 'evt_085', 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKNW0GX4388GBEXMF146'}}, 'id': 'memo#10'}, actor='memo_when_gateway_verified', frame_id=None, caused_by='evt_085', timestamp='2026-05-23T12:02:39Z')], parent_only_events=[], fork_only_events=[Event(id='evt_095', type='patch.applied', payload={'patch': {'id': 'patch_008', 'target': 'capability#5', 'op': 'update', 'value': {'status': 'review_required', 'regression': 'Fixture injected after fork: L402 mint check failed under alternate policy.'}, 'expected_version': 3, 'proposed_by': 'system', 'rationale': None, 'evidence': [], 'status': 'applied', 'rejection_reason': None, 'provenance': {'created_by': 'system', 'caused_by_event': None, 'frame_id': None, 'timestamp': '2026-05-23T12:02:39Z', 'evidence': [], 'run_id': '01KSABEKPFF2EQKSP5CBA90GB4'}}, 'target': 'capability#5', 'diff': {'status': {'old': 'verified', 'new': 'review_required'}, 'regression': {'old': None, 'new': 'Fixture injected after fork: L402 mint check failed under alternate policy.'}}}, actor='system', frame_id=None, caused_by=None, timestamp='2026-05-23T12:02:39Z')], divergent_objects=[DivergentObject(id='capability#5', in_parent={'id': 'capability#5', 'type': 'capability', 'data': {'name': 'Drawbridge L402 gateway', 'status': 'verified', 'claim': 'Gateway can mint L402 access only after mediator is live.', 'opened_by': 'Lightning mediator', 'last_evidence': 'Local fixture: Drawbridge L402 gateway smoke test passed.'}, 'version': 3}, in_fork={'id': 'capability#5', 'type': 'capability', 'data': {'name': 'Drawbridge L402 gateway', 'status': 'review_required', 'claim': 'Gateway can mint L402 access only after mediator is live.', 'opened_by': 'Lightning mediator', 'last_evidence': 'Local fixture: Drawbridge L402 gateway smoke test passed.', 'regression': 'Fixture injected after fork: L402 mint check failed under alternate policy.'}, 'version': 4})], divergent_relations=[])",
+  "trace_path": "/home/david/clawd/activegraph-experiment/trace.json"
+}

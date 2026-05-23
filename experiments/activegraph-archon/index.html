@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ActiveGraph × Archon readiness experiment</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --panel:#111923; --panel2:#0f151d; --ink:#e8f1ff; --muted:#91a4ba;
+      --line:#273445; --accent:#7dd3fc; --green:#6ee7b7; --amber:#fbbf24; --red:#fb7185; --violet:#c4b5fd;
+      --shadow: 0 18px 60px rgba(0,0,0,.35); --radius:22px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif;
+    }
+    *{box-sizing:border-box} body{margin:0;background:radial-gradient(circle at 20% 0%,#152235 0,#0b0f14 38%,#070a0e 100%);color:var(--ink)}
+    .wrap{max-width:1180px;margin:0 auto;padding:40px 22px 72px}.hero{display:grid;grid-template-columns:1.05fr .95fr;gap:28px;align-items:stretch}.card{background:linear-gradient(180deg,rgba(17,25,35,.92),rgba(12,18,26,.92));border:1px solid rgba(145,164,186,.18);border-radius:var(--radius);box-shadow:var(--shadow)}
+    .hero-copy{padding:34px}.eyebrow{font:700 12px/1 ui-monospace, SFMono-Regular, Menlo, monospace;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+    h1{font-size:clamp(36px,6vw,72px);line-height:.94;margin:18px 0 18px;letter-spacing:-.06em} .lede{font-size:19px;line-height:1.55;color:#bed0e3;max-width:750px}.links{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.pill{border:1px solid rgba(125,211,252,.28);color:#dff7ff;background:rgba(125,211,252,.08);padding:9px 12px;border-radius:999px;text-decoration:none;font-size:13px}.pill:hover{border-color:var(--accent)}
+    .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;padding:22px}.stat{padding:20px;border-radius:18px;background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.07)}.stat b{display:block;font-size:34px;letter-spacing:-.04em}.stat span{color:var(--muted);font-size:13px}.ok{color:var(--green)}.warn{color:var(--amber)}
+    .section{margin-top:28px;padding:28px}.section h2{margin:0 0 10px;font-size:28px;letter-spacing:-.03em}.section p{color:#adc0d5;line-height:1.6}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.flow{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:22px;position:relative}.node{position:relative;min-height:158px;padding:18px;border-radius:18px;background:#0e1722;border:1px solid rgba(145,164,186,.2);overflow:hidden}.node:before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(110,231,183,.12),transparent 55%);pointer-events:none}.node .num{font:700 12px ui-monospace;color:var(--accent)}.node h3{margin:10px 0 8px;font-size:18px}.node p{font-size:13px;line-height:1.45;margin:0;color:#9fb2c7}.badge{display:inline-flex;align-items:center;gap:6px;margin-top:14px;padding:6px 9px;border-radius:999px;background:rgba(110,231,183,.12);color:var(--green);font-size:12px;border:1px solid rgba(110,231,183,.22)}
+    .arrow{align-self:center;text-align:center;color:var(--muted);font:700 18px ui-monospace}.timeline{margin-top:18px;border-left:1px solid var(--line);padding-left:18px}.event{position:relative;margin:0 0 18px;padding:14px 16px;background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.07);border-radius:16px}.event:before{content:"";position:absolute;left:-24px;top:20px;width:11px;height:11px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 5px rgba(125,211,252,.1)}.event strong{display:block}.event small{color:var(--muted);font-family:ui-monospace,monospace}.fork{border-color:rgba(251,191,36,.28);background:linear-gradient(180deg,rgba(251,191,36,.08),rgba(255,255,255,.025))}.diffbox{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:center;margin-top:20px}.state{padding:18px;border-radius:18px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)}.state h3{margin:0 0 8px}.state .status{font:800 26px ui-monospace,monospace;letter-spacing:-.04em}.vs{color:var(--muted);font-weight:800}.code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;white-space:pre-wrap;background:#071019;border:1px solid #1b2a3a;border-radius:16px;padding:16px;color:#b9cbe0;max-height:330px;overflow:auto}.takeaways{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px}.take{padding:18px;border-radius:18px;background:rgba(196,181,253,.07);border:1px solid rgba(196,181,253,.14)}.take b{display:block;margin-bottom:7px;color:#eee}.take p{margin:0;font-size:14px}.footer{margin-top:26px;color:var(--muted);font-size:13px;text-align:center}@media(max-width:850px){.hero,.grid,.diffbox{grid-template-columns:1fr}.flow{grid-template-columns:1fr}.takeaways{grid-template-columns:1fr}.vs{display:none}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="card hero-copy">
+        <div class="eyebrow">ActiveGraph local experiment</div>
+        <h1>Edges behaved like operational policy.</h1>
+        <p class="lede">I installed <b>activegraph</b>, modeled a tiny Archon node readiness graph, and let relation behaviors propagate state: evidence verifies a capability; a verified capability unblocks the next dependency; a fork explores a late L402 regression.</p>
+        <div class="links">
+          <a class="pill" href="https://activegraph.ai/">activegraph.ai</a>
+          <a class="pill" href="https://docs.activegraph.ai/">docs</a>
+          <a class="pill" href="https://github.com/yoheinakajima/activegraph">GitHub</a>
+          <a class="pill" href="https://pypi.org/project/activegraph/">PyPI</a>
+        </div>
+      </div>
+      <div class="card stats">
+        <div class="stat"><b>1.0.5.post2</b><span>installed package</span></div>
+        <div class="stat"><b>94</b><span>base run events</span></div>
+        <div class="stat"><b>10</b><span>base objects</span></div>
+        <div class="stat"><b>11</b><span>typed relations</span></div>
+        <div class="stat"><b class="ok">4/4</b><span>capabilities verified</span></div>
+        <div class="stat"><b class="warn">1</b><span>fork-only regression</span></div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <h2>What I ran</h2>
+      <p>The experiment used no API key and no LLM calls. It was a deterministic fixture: a goal created four Archon launch capabilities and typed edges between them. The interesting bit is that the edges carried semantics.</p>
+      <div class="flow">
+        <div class="node"><div class="num">01</div><h3>did:cid identity</h3><p>Positive evidence: a test key signs and verifies a challenge.</p><span class="badge">verified</span></div>
+        <div class="node"><div class="num">02</div><h3>LNbits wallet</h3><p>Opened by the identity edge, then verified by a wallet smoke test.</p><span class="badge">verified</span></div>
+        <div class="node"><div class="num">03</div><h3>Lightning mediator</h3><p>Opened by the wallet edge, then verified by mediator smoke test.</p><span class="badge">verified</span></div>
+        <div class="node"><div class="num">04</div><h3>Drawbridge L402</h3><p>Opened by mediator, then verified by L402 gateway smoke test.</p><span class="badge">verified</span></div>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card section">
+        <h2>Runtime chain</h2>
+        <div class="timeline">
+          <div class="event"><small>goal.created</small><strong>Archon readiness goal entered the graph.</strong></div>
+          <div class="event"><small>relation.created :supports</small><strong>Evidence edge marked did:cid identity verified.</strong></div>
+          <div class="event"><small>patch.applied + :unblocks</small><strong>Verified identity opened LNbits, which created new evidence.</strong></div>
+          <div class="event"><small>repeated propagation</small><strong>LNbits → mediator → Drawbridge each advanced from blocked → open → verified.</strong></div>
+          <div class="event"><small>memo_when_gateway_verified</small><strong>Final memo object was created after L402 verification.</strong></div>
+        </div>
+      </div>
+      <div class="card section">
+        <h2>Why this matters</h2>
+        <p>ActiveGraph's claim is not “another agent loop.” It's a persistent world model: objects, typed relations, behavior subscriptions, event log, fork/diff. For Archon-ish systems, that maps nicely to auditable agent operations: identity, wallet, mediator, gateway, claims, proofs, approvals, stale outputs.</p>
+        <div class="code">@relation_behavior(relation_type="unblocks", on=["patch.applied"])
+def verified_source_unblocks_target(relation, event, graph, ctx):
+    if event.payload["target"] != relation.source:
+        return
+    if source.status == "verified":
+        graph.patch_object(relation.target, {"status": "open"})</div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <h2>Fork & diff result</h2>
+      <p>After the base run completed, I forked the SQLite-backed runtime and injected an alternate future: the L402 mint check fails under a stricter policy. ActiveGraph produced a structural diff where only the gateway object diverged.</p>
+      <div class="diffbox">
+        <div class="state"><h3>Parent timeline</h3><div class="status ok">verified</div><p>Drawbridge L402 gateway has passing smoke-test evidence.</p></div>
+        <div class="vs">→ fork →</div>
+        <div class="state fork"><h3>Fork timeline</h3><div class="status warn">review_required</div><p>Same shared history, plus one fork-only patch: L402 regression injected.</p></div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <h2>My read</h2>
+      <div class="takeaways">
+        <div class="take"><b>Best primitive</b><p>Relation behaviors. Putting coordination logic on the edge feels right for dependency graphs and agent-world state.</p></div>
+        <div class="take"><b>Useful for Archon</b><p>DIDs, channels, wallets, zaps, approvals, and L402 grants could become auditable objects with causal traces.</p></div>
+        <div class="take"><b>Gotcha found</b><p>Forking requires a SQLite-backed runtime. In-memory runs cannot fork; I switched to <code>persist_to="sqlite:///..."</code>.</p></div>
+      </div>
+    </section>
+
+    <div class="footer">Generated from /home/david/clawd/activegraph-experiment/run-output.json and archon_experiment.py</div>
+  </main>
+</body>
+</html>
