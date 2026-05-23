@@ -4,48 +4,59 @@ title: Archon Competitive Analysis – Executive Summary
 permalink: /research/archon-competitive-analysis/executive-summary/
 ---
 
-# Executive Summary (2026-04-06)
+# Executive Summary (2026-05-23)
 
-**Bottom line:** The market around agent identity is no longer just about DIDs. The strongest adjacent projects are bundling identity with messaging, trust, compliance, or real-world communications. Archon still has the strongest sovereignty story in this set — content-addressed DIDs, decentralized registry design, credential architecture, and substrate independence — but messaging-first and compliance-first products are currently communicating their value more clearly.
+**Bottom line:** The agent identity market is moving past "give agents DIDs" into **authority, audit, transport, receipts, and commerce**. Archon still has the strongest sovereign identity substrate story in this set — did:cid, decentralized registry design, credential architecture, and substrate independence — but the most legible market pull is now around what identity enables: scoped delegation, verifiable action, compliance, communication, and payment control.
 
 ## Top Signals
 
-1. **AgenticMail now has the clearest traction signal (81★).** That is not a direct identity win, but it shows where operator demand is visibly concentrating: usable transport rails.
-2. **Attestix and AIP both jumped to 12★.** Compliance and trust-chain narratives are attracting more attention than they were in February.
-3. **ANP dwarfs the rest of the field on repo visibility (1259★).** But it currently reads more like a protocol/spec movement than a finished sovereign identity stack.
-4. **clawdentity sharpened its positioning.** It now leads with "the messaging layer for AI agents," making it easier to understand and easier to adopt.
-5. **agent-identity-hub dropped out of the active set.** The tracked repo currently returns 404.
+1. **ANP remains the mindshare leader at 1301★, and AgentConnect adds a 308★ implementation path.** DID-WBA is now more than a docs-only protocol narrative.
+2. **AgenticMail grew from 81★ to 129★.** Real-world transport rails — email, SMS, and phone calls — are still easier for operators to understand than abstract identity substrates.
+3. **Grantex appeared as a serious new watchlist item at 25★.** It frames the problem as delegated authorization, commerce passports, policy, audit, and payment-control for agentic checkout.
+4. **Compliance/audit language is converging across projects.** Attestix, IDProva, HelixID, Credat, Grantex, and Motebit all emphasize scoped authority, receipts, reputation, or auditability.
+5. **P2P agent communication is reappearing.** A2AL and Chorus are early, low-traction projects, but their framing overlaps with Archon's decentralized registry/discovery story.
+6. **The old direct DID competitors are not the main pressure.** payelink and agent-did remain useful benchmarks, but the strategic pressure is now from authorization, protocol, communication, and audit layers.
 
 ## What This Means For Archon
 
-- **Archon should be framed as the sovereign identity layer, not the whole stack.**
-- **Public comparisons should focus on composability:** identity layer vs messaging layer vs compliance layer.
-- **ANP needs a direct framing response.** Otherwise a broad protocol umbrella can absorb attention that should be split across identity, messaging, and discovery layers.
-- **The best near-term opportunities are integrations, not just rivalry:**
-  - Attestix for compliance
+- **Archon should be described as a sovereign identity and authority substrate for agent action**, not merely as a DID stack.
+- **Public comparisons should separate layers:** identity substrate vs authorization layer vs communication protocol vs transport rail vs compliance/audit layer.
+- **ANP / AgentConnect needs a direct response.** Archon should explain where did:cid differs from did:wba and whether interop is possible.
+- **The next demo should prove delegated authority.** Example: user grants capability → agent acts → verifier checks credential → receipt anchors what happened.
+- **Best near-term integration narratives:**
   - AgenticMail for transport
-  - clawdentity for messaging/interoperability comparisons
+  - Attestix for compliance
+  - Grantex/Credat/HelixID for authorization patterns
+  - A2AL/Chorus for decentralized discovery and messaging
 
 ## Current Snapshot
 
 | Project | Stars | Role | Current read |
 |---------|-------|------|--------------|
-| ANP | 1259 | Open agent communication protocol suite | High-visibility protocol/spec leader |
-| AgenticMail | 81 | Email/SMS communication infra | High-traction adjacent layer |
-| Attestix | 12 | Compliance + credentials | Strong complementary stack |
-| AIP | 12 | Identity + trust + messaging | Partial overlap, growing |
-| clawdentity | 8 | Messaging + identity fabric | Closest philosophical rival |
-| didit skills | 10 | KYC / verification APIs | Adjacent, non-competitor |
+| ANP | 1301 | Open agent communication protocol suite | High-visibility protocol/spec leader |
+| AgentConnect | 308 | ANP SDK / DID-WBA auth | Makes ANP implementation-concrete |
+| AgenticMail | 129 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
+| Grantex | 25 | Delegated auth + commerce audit | New high-signal authorization/commercial-action layer |
+| Attestix | 16 | Compliance + credentials + MCP | Strong complementary compliance stack |
+| didit skills | 13 | KYC / verification APIs | Adjacent, non-competitor |
+| AIP | 13 | Identity + trust + messaging | Partial overlap, modest growth |
+| clawdentity | 9 | Messaging + identity fabric | Closest philosophical rival, slower recent movement |
+| Motebit | 4 | Sovereign runtime + receipts | Early but strategically relevant |
+| Credat | 2 | Scoped credentials SDK | Practical authorization/delegation benchmark |
+| HelixID | 1 | DID/VC auth layer | Low traction, but standards-aligned framing |
+| IDProva | 1 | Enterprise identity + audit receipts | Enterprise auditability angle |
+| A2AL | 0 | P2P discovery/networking | Early decentralized communication watchlist |
+| Chorus | 0 | P2P encrypted communication | Early decentralized messaging watchlist |
 | payelink | 2 | DID SDK | Narrow identity component |
 | agent-did | 0 | DID + VC toolkit | Direct standards competitor, low traction |
-| agent-identity-hub | N/A | Platform/orchestration | Currently unavailable |
+| agent-identity-hub | N/A | Platform/orchestration | Still unavailable / 404 |
 
 ## Immediate Priorities
 
-1. Publish clearer public language for Archon as a decentralized identity substrate for sovereign agents.
-2. Write a direct framing response to ANP.
-3. Write direct comparison pieces against clawdentity and AgenticMail.
-4. Develop one concrete integration story with Attestix or AgenticMail.
-5. Refresh outward-facing materials whenever repo availability or traction shifts materially.
+1. Rewrite Archon's public one-liner around **sovereign identity + delegated authority + verifiable action**.
+2. Publish a direct ANP / AgentConnect comparison covering did:wba vs did:cid.
+3. Build a small demo around capability issuance, delegated action, and verifiable receipt.
+4. Use AgenticMail as the clearest transport integration narrative.
+5. Track Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus during the next sweep.
 
-> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-04-06 refresh log](/research/archon-competitive-analysis/2026-04-06-refresh/).
+> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-05-23 refresh log](/research/archon-competitive-analysis/2026-05-23-refresh/).
