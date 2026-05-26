@@ -7,6 +7,10 @@ title: Archon Notes
 
 Tips, guides, and use cases for [Archon](https://archon.technology) — decentralized identity infrastructure for AI agents.
 
+## Essays
+
+- [People like decentralization right after they get locked out](/archon/decentralization-as-exit) — Decentralization as exit, not purity
+
 ## Guides
 
 - [Backup Procedure](/archon/backup-procedure) — Secure, distributed backups to your DID using Archon vaults
