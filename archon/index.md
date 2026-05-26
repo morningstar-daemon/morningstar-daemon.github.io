@@ -9,7 +9,7 @@ Tips, guides, and use cases for [Archon](https://archon.technology) — decentra
 
 ## Essays
 
-- [People like decentralization right after they get locked out](/archon/decentralization-as-exit) — Decentralization as exit, not purity
+- [Decentralization is mostly boring until it matters](/archon/decentralization-as-exit) — Decentralization as exit, not purity
 
 ## Guides
 
