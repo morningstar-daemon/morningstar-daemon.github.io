@@ -132,47 +132,58 @@ As a verifier, I want to upload or hash a file and check whether it matches a re
 
 ### 1. Asset registration
 
-Users or API clients can create an asset record.
+Users or API clients create an Archon asset DID using the existing Keymaster/Gatekeeper path, not a parallel product database.
 
-Required fields:
+Existing implementation baseline:
 
-- asset DID
-- asset title/name
-- asset type
-- controller DID
-- creator DID, if different
-- creation timestamp
-- initial content hash
-- metadata hash
-- visibility: public, unlisted, private
+- Keymaster `createAsset(data, options)` creates a DID whose `didDocumentRegistration.type` is `asset`.
+- Asset DIDs use the current Archon DID mechanism (`did:cid:...`), not a new `did:archon:asset` method.
+- The controller is the DID document controller (`didDocument.controller`).
+- Product-specific asset fields live inside `didDocumentData`.
+- Binary/file content is already represented by CID-backed file metadata: `{ file: { cid, filename, type, bytes } }`.
+- Images extend that with `{ image: { width, height } }`.
+- Ownership for local wallet UX is tracked in the controller identity's wallet `owned` list.
+
+Required product data inside `didDocumentData` for the provenance MVP:
+
+- `kind`: e.g. `agent-work-product`, `document`, `image`, `dataset`, `model-artifact`
+- `title`
+- `file` when content is stored through Archon's existing file path
+- `creator`: DID of the agent/human/system that created the work, if different from controller
+- `work`: task/platform context, e.g. task ID, source platform, external URL
+- `provenance`: lightweight product metadata such as change note, approval references, license references, and payment references
 
 Optional fields:
 
-- task ID
-- source platform
-- external URL
-- license credential
-- payment receipt reference
-- storage URI, such as IPFS, Arweave, S3, or platform URL
+- `visibility`: product/UI policy layered above the DID document; not a core DID registration field
+- `licenseCredential`
+- `paymentReceipt`
+- `externalStorage` for content stored outside Archon's CID path
 
 ### 2. Version creation
 
-Users or API clients can append new immutable versions.
+Versions should use Archon's existing DID update/event model.
 
-Each version includes:
+Existing implementation baseline:
 
-- version number
-- content hash
-- metadata hash
-- submitted timestamp
-- blockchain anchor reference
-- signer DID
-- change note
-- previous version hash
-- optional storage URI
-- optional attached credentials
+- Keymaster `mergeData(did, data)` updates `didDocumentData` through `updateDID`.
+- Gatekeeper stores each DID operation as an event.
+- DID resolution exposes `didDocumentMetadata.versionSequence`, `versionId`, `created`, `updated`, `confirmed`, and `timestamp`.
+- Prior versions are resolved with existing `ResolveDIDOptions` such as `versionSequence` or `versionTime`.
 
-Versions are append-only. Corrections are new versions, not edits to existing versions.
+A new asset version is therefore a DID update operation that changes the asset's `didDocumentData`, usually by replacing `file` with a new CID-backed file object and updating `provenance` metadata. Do not model versions as an embedded mutable `versions[]` array in the asset data. The append-only history is the DID event log.
+
+Each version should derive/display:
+
+- version sequence: `didDocumentMetadata.versionSequence`
+- operation/content identifier: `didDocumentMetadata.versionId`
+- content CID/hash: usually `didDocumentData.file.cid` for file assets
+- submitted timestamp: `didDocumentMetadata.updated` or `created`
+- blockchain timestamp/anchor bounds: `didDocumentMetadata.timestamp`
+- controller: `didDocument.controller`
+- product metadata: change note, approval references, payment references from `didDocumentData.provenance`
+
+Corrections are new DID update operations, not edits to old operations.
 
 ### 3. Public verification page
 
@@ -227,19 +238,19 @@ The bundle should be portable enough to verify outside Archon's UI.
 
 ### 6. API
 
-Initial endpoints:
+Initial product API should wrap existing Keymaster semantics rather than invent a separate `/assets` persistence layer:
 
 ```http
-POST /assets
-GET /assets/{assetDid}
-POST /assets/{assetDid}/versions
-GET /assets/{assetDid}/versions
-POST /verify/hash
-POST /verify/file
-GET /assets/{assetDid}/proof-bundle
+POST /provenance/assets              # wraps createAsset/createFile with provenance didDocumentData
+GET /provenance/assets/{assetDid}    # resolves current asset DID document
+GET /provenance/assets/{assetDid}/versions
+POST /provenance/assets/{assetDid}/versions  # wraps updateFile/mergeData/updateDID
+POST /provenance/verify/hash
+POST /provenance/verify/file
+GET /provenance/assets/{assetDid}/proof-bundle
 ```
 
-API clients should not need to understand blockchain details to use the product.
+Under the hood, these calls should use Archon's existing DID resolution, DID update, file CID, wallet ownership, and event export paths.
 
 ## First demo flow
 
@@ -265,20 +276,20 @@ Demo line:
 
 ### Asset model
 
-- The system must create a unique DID for each asset.
-- The system must support controller DIDs.
-- The system must support creator DIDs.
-- The system must support public, unlisted, and private asset visibility.
-- The system must support asset metadata without requiring Archon to store the full file.
+- The system must use Archon's existing asset DID shape: `didDocumentRegistration.type = "asset"`.
+- The system must use `did:cid` asset identifiers unless the core Archon DID method changes.
+- The system must use `didDocument.controller` for controller ownership.
+- The system must store product metadata in `didDocumentData`, not in a separate canonical product record.
+- The system must support CID-backed file/image assets using the existing `file` and `image` fields.
+- The system may expose `visibility` as product policy, but must not treat it as an existing DID registration primitive.
 
 ### Version model
 
-- The system must make versions immutable after creation.
-- The system must link each version to the previous version.
-- The system must store or derive a content hash for each version.
-- The system must record the signer DID for each version.
-- The system must expose anchor status for each version.
-- The system must allow credentials or receipts to attach to a specific version.
+- The system must treat DID update events as the append-only version history.
+- The system must derive version number from `didDocumentMetadata.versionSequence`.
+- The system must derive version identifier/proof material from `didDocumentMetadata.versionId` and exported DID events.
+- The system must expose timestamp/anchor status from `didDocumentMetadata.timestamp` and `confirmed`.
+- The system must allow credentials or receipts to be referenced from the version's `didDocumentData.provenance` projection.
 
 ### Verification
 
@@ -328,56 +339,88 @@ Demo line:
 
 ## Data model sketch
 
+This product should be modeled as a thin provenance schema inside Archon's existing DID document shape.
+
+Current resolved asset shape:
+
 ```json
 {
-  "assetDid": "did:archon:asset:...",
-  "title": "market-analysis-final.pdf",
-  "type": "document",
-  "controllerDid": "did:cid:...",
-  "creatorDid": "did:cid:...",
-  "visibility": "unlisted",
-  "createdAt": "2026-05-30T20:54:00Z",
-  "currentVersion": 2,
+  "didDocument": {
+    "@context": ["https://www.w3.org/ns/did/v1"],
+    "id": "did:cid:...",
+    "controller": "did:cid:..."
+  },
+  "didDocumentMetadata": {
+    "created": "2026-05-30T20:54:00Z",
+    "updated": "2026-05-30T21:12:00Z",
+    "versionId": "bafy...",
+    "versionSequence": "2",
+    "confirmed": true,
+    "timestamp": {
+      "chain": "hyperswarm",
+      "opid": "bafy...",
+      "lowerBound": { "timeISO": "...", "blockid": "...", "height": 123 },
+      "upperBound": { "timeISO": "...", "blockid": "...", "height": 124, "txid": "..." }
+    }
+  },
+  "didDocumentRegistration": {
+    "version": 1,
+    "type": "asset",
+    "registry": "hyperswarm"
+  },
+  "didDocumentData": {
+    "kind": "agent-work-product",
+    "title": "market-analysis-final.pdf",
+    "creator": "did:cid:...",
+    "work": {
+      "taskId": "task_123",
+      "sourcePlatform": "moltbook",
+      "externalUrl": "https://..."
+    },
+    "file": {
+      "cid": "bafy...",
+      "filename": "market-analysis-final.pdf",
+      "type": "application/pdf",
+      "bytes": 184320
+    },
+    "provenance": {
+      "changeNote": "Client-approved final revision",
+      "approvalCredential": "did:cid:...",
+      "paymentReceipt": "did:cid:...",
+      "licenseCredential": "did:cid:..."
+    },
+    "visibility": "unlisted"
+  }
+}
+```
+
+Version timeline representation should be derived from resolved DID versions/events, not stored as an embedded `versions` array:
+
+```json
+{
+  "assetDid": "did:cid:...",
+  "currentVersionSequence": "2",
   "versions": [
     {
-      "version": 1,
-      "contentHash": "sha256:...",
-      "metadataHash": "sha256:...",
-      "signerDid": "did:cid:...",
-      "submittedAt": "2026-05-30T20:54:00Z",
-      "anchor": {
-        "chain": "bitcoin",
-        "status": "confirmed",
-        "reference": "..."
-      },
-      "attachments": []
+      "versionSequence": "1",
+      "versionId": "bafy...",
+      "created": "2026-05-30T20:54:00Z",
+      "file": { "cid": "bafy...", "filename": "market-analysis-v1.pdf", "type": "application/pdf", "bytes": 181002 },
+      "timestamp": { "chain": "hyperswarm", "opid": "bafy..." }
     },
     {
-      "version": 2,
-      "contentHash": "sha256:...",
-      "metadataHash": "sha256:...",
-      "previousVersionHash": "sha256:...",
-      "signerDid": "did:cid:...",
-      "submittedAt": "2026-05-30T21:12:00Z",
-      "anchor": {
-        "chain": "bitcoin",
-        "status": "confirmed",
-        "reference": "..."
-      },
-      "attachments": [
-        {
-          "type": "approvalCredential",
-          "id": "vc:..."
-        },
-        {
-          "type": "paymentReceipt",
-          "id": "receipt:..."
-        }
-      ]
+      "versionSequence": "2",
+      "versionId": "bafy...",
+      "updated": "2026-05-30T21:12:00Z",
+      "file": { "cid": "bafy...", "filename": "market-analysis-final.pdf", "type": "application/pdf", "bytes": 184320 },
+      "provenance": { "approvalCredential": "did:cid:...", "paymentReceipt": "did:cid:..." },
+      "timestamp": { "chain": "hyperswarm", "opid": "bafy..." }
     }
   ]
 }
 ```
+
+The second object is a view/proof-bundle projection. It is not the source-of-truth storage model.
 
 ## Product surfaces
 
@@ -498,14 +541,13 @@ That gives Archon a native path from identity to settlement to provenance.
 
 ## Open questions
 
-- Which blockchain anchors should be supported first?
-- Should the asset DID method be `did:cid`, `did:archon`, or another method?
-- What minimum proof data is required for independent verification?
-- Should Archon store files, only hashes, or provide pluggable storage?
-- How should private asset verification work without leaking asset existence?
-- What metadata schema is required for the first agent-work demo?
-- How tightly should Lightning receipts be coupled to asset versions?
-- Can version anchoring be batched to reduce cost while preserving useful timestamp semantics?
+- Which existing Archon registry/anchor path should the demo use first (`hyperswarm`, Bitcoin-anchored registry, or another currently supported registry)?
+- What minimum provenance fields belong in `didDocumentData.provenance` for the first agent-work demo?
+- Should `visibility` be represented as a product/UI policy field, an encrypted/private asset convention, or both?
+- What proof-bundle shape best maps Archon's DID event export into an external verifier format?
+- Should hash verification use CID equality for Archon-stored files first, then add raw SHA-256 as a convenience layer?
+- How should approval credentials and Lightning payment receipts be modeled as existing Archon DIDs/credentials rather than opaque external IDs?
+- Can update anchoring be batched to reduce cost while preserving useful timestamp semantics?
 
 ## Recommended next step
 
