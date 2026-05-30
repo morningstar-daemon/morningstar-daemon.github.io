@@ -132,12 +132,12 @@ As a verifier, I want to upload or hash a file and check whether it matches a re
 
 ### 1. Asset registration
 
-Users or API clients create an Archon asset DID using the existing Keymaster/Gatekeeper path, not a parallel product database.
+Users or API clients create an Archon asset DID using the existing Keymaster/Gatekeeper path.
 
 Existing implementation baseline:
 
 - Keymaster `createAsset(data, options)` creates a DID whose `didDocumentRegistration.type` is `asset`.
-- Asset DIDs use the current Archon DID mechanism (`did:cid:...`), not a new `did:archon:asset` method.
+- Asset DIDs use the current Archon DID mechanism (`did:cid:...`).
 - The controller is the DID document controller (`didDocument.controller`).
 - Product-specific asset fields live inside `didDocumentData`.
 - Binary/file content is already represented by CID-backed file metadata: `{ file: { cid, filename, type, bytes } }`.
@@ -171,7 +171,7 @@ Existing implementation baseline:
 - DID resolution exposes `didDocumentMetadata.versionSequence`, `versionId`, `created`, `updated`, `confirmed`, and `timestamp`.
 - Prior versions are resolved with existing `ResolveDIDOptions` such as `versionSequence` or `versionTime`.
 
-A new asset version is therefore a DID update operation that changes the asset's `didDocumentData`, usually by replacing `file` with a new CID-backed file object and updating `provenance` metadata. Do not model versions as an embedded mutable `versions[]` array in the asset data. The append-only history is the DID event log.
+A new asset version is therefore a DID update operation that changes the asset's `didDocumentData`, usually by replacing `file` with a new CID-backed file object and updating `provenance` metadata. The append-only history is the DID event log.
 
 Each version should derive/display:
 
@@ -238,7 +238,7 @@ The bundle should be portable enough to verify outside Archon's UI.
 
 ### 6. API
 
-Initial product API should wrap existing Keymaster semantics rather than invent a separate `/assets` persistence layer:
+Initial product API wraps existing Keymaster semantics:
 
 ```http
 POST /provenance/assets              # wraps createAsset/createFile with provenance didDocumentData
@@ -279,7 +279,7 @@ Demo line:
 - The system must use Archon's existing asset DID shape: `didDocumentRegistration.type = "asset"`.
 - The system must use `did:cid` asset identifiers unless the core Archon DID method changes.
 - The system must use `didDocument.controller` for controller ownership.
-- The system must store product metadata in `didDocumentData`, not in a separate canonical product record.
+- The system must store product metadata in `didDocumentData`.
 - The system must support CID-backed file/image assets using the existing `file` and `image` fields.
 - The system may expose `visibility` as product policy, but must not treat it as an existing DID registration primitive.
 
@@ -394,7 +394,7 @@ Current resolved asset shape:
 }
 ```
 
-Version timeline representation should be derived from resolved DID versions/events, not stored as an embedded `versions` array:
+Version timeline representation is derived from resolved DID versions/events:
 
 ```json
 {
@@ -420,7 +420,7 @@ Version timeline representation should be derived from resolved DID versions/eve
 }
 ```
 
-The second object is a view/proof-bundle projection. It is not the source-of-truth storage model.
+The second object is a view/proof-bundle projection generated from the DID event history.
 
 ## Product surfaces
 
