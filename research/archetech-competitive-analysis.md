@@ -6,7 +6,7 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-05-30 13:14 EDT  
+**Last updated:** 2026-05-30 13:36 EDT  
 **Maintained by:** Morningstar  
 **Scope:** Companies and protocols competing with Archetech's Archon product in decentralized identity, verifiable credentials, agent identity, and trust infrastructure.
 
@@ -20,12 +20,11 @@ The highest-priority competitors to watch are:
 
 1. **MATTR** — enterprise decentralized identity and verifiable-data infrastructure.
 2. **SpruceID** — government-grade digital trust infrastructure and credential systems.
-3. **Dock / Truvera** — API-first verifiable credentials, reusable identity, wallet tooling.
-4. **cheqd** — commercial trusted-data ecosystems and credential monetization.
-5. **Privado ID** — privacy-focused identity, wallets, credential lifecycle, human/machine identity.
-6. **Indicio** — verifiable credentials, digital wallets, identity orchestration, and AI-agent trust positioning.
-7. **Affinidi** — trust fabric, verifiable credentials, and explicit agent gateway positioning.
-8. **Microsoft Entra Verified ID** — enterprise incumbent for DID/VC adoption.
+3. **cheqd + Dock / Truvera alliance** — merged Dock/CHEQ token and blockchain/network path, combining cheqd's trusted-data market with Dock/Truvera credential tooling.
+4. **Privado ID** — privacy-focused identity, wallets, credential lifecycle, human/machine identity.
+5. **Indicio** — verifiable credentials, digital wallets, identity orchestration, and AI-agent trust positioning.
+6. **Affinidi** — trust fabric, verifiable credentials, and explicit agent gateway positioning.
+7. **Microsoft Entra Verified ID** — enterprise incumbent for DID/VC adoption.
 
 Archetech should position Archon less as another VC SaaS platform and more as a **sovereign identity substrate for autonomous agents, nodes, credentials, and payments**.
 
@@ -62,8 +61,7 @@ The most important competitive question is therefore:
 |---|---|---:|---:|
 | [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | DID/VC issuance, acceptance, trust networks, mDLs | High |
 | [SpruceID](#spruceid) | Government digital trust infrastructure | Wallets, credentials, identity infrastructure, public-sector trust | High |
-| [Dock / Truvera](#dock--truvera) | VC platform / wallet SDK / reusable ID | Credential issuance, wallets, identity ecosystems | High |
-| [cheqd](#cheqd) | SSI network / trusted-data markets | Credential ecosystems, governance, monetization, private networks | High |
+| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC platform / wallet SDK / reusable ID | Credential ecosystems, governance, monetization, private networks, credential issuance, wallets | High |
 | [Privado ID](#privado-id) | Privacy-first identity platform | Identity wallets, credential lifecycle, human/machine identity | High |
 | [Indicio](#indicio) | Identity orchestration / VC platform | VC orchestration, wallets, biometric/document verification, AI credentials | High |
 | [Affinidi](#affinidi) | Trust fabric / agent gateway | VC platform, trust networks, AI-agent gateway positioning | High |
@@ -126,39 +124,23 @@ The most important competitive question is therefore:
 
 ---
 
-### Dock / Truvera
+### cheqd + Dock / Truvera alliance
 
-**Website:** <https://www.dock.io/>  
-**Positioning observed:** Dock Labs / Truvera presents APIs and SDKs for verifiable credentials, white-label wallets, reusable ID credentials, biometric-bound credentials, mDL verification, and credential monetization.
+**Websites:** <https://cheqd.io/> · <https://www.dock.io/>  
+**Positioning observed:** cheqd positions around monetising customer credentials, trusted data ecosystems, commercial models, cheqd Studio, private networks, verifiable AI, and SSI/Web3 identity. Dock Labs / Truvera presents APIs and SDKs for verifiable credentials, white-label wallets, reusable ID credentials, biometric-bound credentials, mDL verification, and credential monetization.
 
-**Why it matters:** Dock is a direct platform competitor for teams that want to issue credentials, launch wallets, or build digital identity ecosystems without building protocol infrastructure themselves.
+**Merger / alliance status:** cheqd and Dock announced an alliance and merger path in 2024. Dock's FAQ says the Dock and cheqd tokens and blockchains are merging to form a Decentralized ID alliance; existing `$DOCK` tokens are converted into `$CHEQ`, and Dock on-chain assets migrate to the cheqd blockchain. cheqd's update says the merger was approved by both communities, with Dock historical and future transactions migrating to cheqd.
 
-**Where Dock competes with Archon**
+**Why it matters:** This should be treated as one combined competitive cluster rather than two independent competitors. The alliance combines cheqd's SSI network, tokenomics, trusted-data-market story, and private-network positioning with Dock/Truvera's credential issuance APIs, wallet SDKs, reusable ID tooling, and customer-facing product surface.
 
+**Where the cheqd + Dock / Truvera cluster competes with Archon**
+
+- SSI networks and decentralized identity transaction rails
 - VC issuance APIs
 - Wallet SDKs
 - Reusable identity credentials
 - Credential verification
-- Ecosystem tooling
-
-**Archon differentiation**
-
-- Archon can frame itself as deeper infrastructure: DID method, registry architecture, node services, and decentralized operation logs.
-- Dock's value is deployment convenience. Archon must make its developer path comparably easy while retaining sovereignty.
-
----
-
-### cheqd
-
-**Website:** <https://cheqd.io/>  
-**Positioning observed:** cheqd positions around monetising customer credentials, trusted data ecosystems, commercial models, cheqd Studio, private networks, verifiable AI, and SSI/Web3 identity.
-
-**Why it matters:** cheqd is a strong competitor wherever credentials become economic assets and trust registries need commercial/governance models.
-
-**Where cheqd competes with Archon**
-
-- SSI networks
-- Credential ecosystems
+- Digital ID ecosystems
 - Trusted data markets
 - Private networks
 - Governance and monetization of credentials
@@ -167,7 +149,8 @@ The most important competitive question is therefore:
 **Archon differentiation**
 
 - Archon can integrate payments and access control at the node/agent layer rather than primarily monetizing credentials as data products.
-- Archon's DID creation/update separation is a technical story cheqd does not own.
+- Archon can frame itself as deeper agent/node infrastructure: DID method, registry architecture, node services, decentralized operation logs, and payment-capable service authority.
+- The cheqd + Dock alliance increases competitive weight; Archon's response should be sharper positioning around `did:cid`, autonomous agents, sovereign nodes, and Lightning-aware infrastructure.
 
 ---
 
@@ -415,7 +398,7 @@ Some competitors can become issuer/verifier integrations:
 - Incode / Prove can proof a human or organization and issue credentials.
 - Trinsic can act as an acceptance gateway for external digital IDs.
 - Microsoft or Spruce-style credentials can be verified or bridged into Archon agents.
-- cheqd-style credential monetization concepts can inform Archon payment patterns.
+- cheqd + Dock / Truvera-style credential monetization and credential-tooling concepts can inform Archon payment and issuer/verifier patterns.
 
 Archon's long-term advantage should be being the substrate that these credentials, proofs, and services can attach to.
 
@@ -429,9 +412,9 @@ Archetech should not try to beat every identity company at their own game. The w
 
 If Archetech keeps that line clear, the competitive landscape becomes manageable:
 
-- **MATTR / SpruceID / Dock / Indicio / Privado ID** are credential and trust-platform competitors.
+- **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID** are credential and trust-platform competitors.
 - **Microsoft / Okta** are enterprise incumbents.
-- **Affinidi / cheqd** are trust-network and agent-adjacent competitors.
+- **Affinidi** is a trust-network and agent-adjacent competitor.
 - **Trinsic / Incode / Prove** are verification and gateway competitors.
 - **KILT / Ceramic** are protocol/substrate competitors.
 
@@ -447,8 +430,11 @@ Archon's strongest differentiator is the combination of **decentralized DID life
 - `did:cid` method specification: <https://archetech.com/archon/scheme.html>
 - MATTR: <https://mattr.global/>
 - SpruceID: <https://spruceid.com/>
-- Dock / Truvera: <https://www.dock.io/>
 - cheqd: <https://cheqd.io/>
+- Dock / Truvera: <https://www.dock.io/>
+- Dock and cheqd alliance FAQ: <https://www.dock.io/post/dock-and-cheqd-alliance-faqs>
+- cheqd/Dock token merger approval: <https://cheqd.io/blog/cheq-dock-token-merger-approved-an-alliance-for-decentralised-identity-adoption/>
+- cheqd and Dock alliance announcement: <https://cheqd.io/blog/cheqd-and-dock-form-alliance-to-accelerate-global-adoption-of-decentralised-id/>
 - Privado ID: <https://www.privado.id/>
 - Indicio: <https://indicio.tech/>
 - Affinidi: <https://www.affinidi.com/>
