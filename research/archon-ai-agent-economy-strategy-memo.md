@@ -6,18 +6,16 @@ permalink: /research/archon-ai-agent-economy-strategy-memo/
 
 # Archon and the AI Agent Economy
 
-**Date:** 2026-05-30 14:05 EDT  
+**Date:** 2026-05-30 14:18 EDT  
 **Author:** Morningstar  
 **Audience:** Archetech / Archon strategy, advisors, collaborators, early partners  
 **Purpose:** Get Archetech out of the DID/VC swamp and into the agent economy conversation.
 
 ## Short version
 
-The DID/VC market is crowded. It is full of smart people, good standards work, credible companies, and not much urgency.
+The DID/VC market has plenty of smart people, good standards work, and credible companies. What it does not have is much urgency.
 
-That last part matters.
-
-Most buyers do not wake up thinking, "I need a better decentralized identifier." They wake up thinking about fraud, compliance, onboarding, access control, customer support, or some government mandate. DID/VC gets pulled in as plumbing after the fact. It rarely owns the room.
+Most buyers are dealing with fraud, compliance, onboarding, access control, customer support, or some government mandate. DID/VC usually gets pulled in as plumbing after the fact. It rarely owns the room.
 
 AI agents are different. If agents are going to do work, spend money, call APIs, hire other agents, or represent a person or company, identity stops being a standards discussion. It becomes a blocking problem.
 
@@ -52,11 +50,11 @@ The field has been selling roughly the same family of ideas for years:
 
 All of that is useful. It is also hard to sell unless the buyer already has a specific mandate or compliance pain.
 
-Government identity moves slowly. Enterprise identity moves slowly. Credential ecosystems need issuers, holders, verifiers, governance, standards, wallet UX, procurement, and patience. That is a lot of coordination before anyone gets a simple win.
+Government identity moves slowly. Enterprise identity moves slowly. Credential ecosystems need issuers, holders, verifiers, governance, standards, wallet UX, procurement, and patience before anyone gets a simple win.
 
 Archon can compete there, but it should not let that market define it.
 
-If Archon sounds like another SSI platform, it will be judged against companies that already know how to sell SSI. They have enterprise decks, government references, compliance language, wallet SDKs, and procurement muscle. That is not the best battlefield.
+If Archon sounds like another SSI platform, it will be judged against companies that already know how to sell SSI. They have enterprise decks, government references, compliance language, wallet SDKs, and procurement muscle. I would not choose that fight unless forced.
 
 ## Why agents change the shape of the market
 
@@ -83,7 +81,7 @@ These are not philosophical questions. They are the questions you hit when an ag
 
 API keys are not enough. OAuth helps inside web apps, but it was not designed for free roaming economic agents. Enterprise IAM will handle agents inside Microsoft, Okta, Google, and corporate boundaries. That still leaves the more interesting problem: agents acting across boundaries, outside one directory, with money attached.
 
-That is where Archon has a shot.
+Archon has a shot in that gap.
 
 ## The market category to claim
 
@@ -97,11 +95,11 @@ I would call it one of these:
 - payment authority for autonomous agents
 - trust infrastructure for the AI agent economy
 
-The cleanest phrase is probably:
+The phrase I keep coming back to:
 
 > trust infrastructure for the AI agent economy
 
-It is plain enough for non-technical people and still accurate.
+Non-technical people can understand it, and it does not hide the technical claim.
 
 The technical phrase underneath it can be:
 
@@ -119,7 +117,7 @@ It has verifiable credentials, which become much more interesting when the holde
 
 It has service infrastructure: Gatekeeper, Keymaster, Drawbridge, Herald, mediators, storage, P2P, anchoring.
 
-And most importantly, every Archon node includes Lightning. CLN is part of the node architecture, with LNbits for per-DID wallets. That is not a side feature. That is the economic layer.
+And every Archon node includes Lightning. CLN is part of the node architecture, with LNbits for per-DID wallets. I would treat that as the economic layer, not as a side feature.
 
 The combination matters:
 
@@ -132,7 +130,7 @@ The combination matters:
 - the result can be signed
 - the history can become reputation
 
-That is a much better story than "we have a DID method."
+That story is easier to sell than "we have a DID method."
 
 ## How to talk about competitors
 
@@ -169,9 +167,9 @@ Build and show this:
 7. The service returns a signed result or receipt.
 8. The agent can carry that receipt forward as evidence of work.
 
-That is the smallest demo that makes the whole stack make sense.
+This is probably the smallest demo that makes the stack make sense.
 
-It says: this is not an identity science project. This is how agents access paid services, prove authority, and build reputation.
+The point is practical: agents can access paid services, prove authority, and carry receipts into future work.
 
 ## What not to say first
 
@@ -215,7 +213,7 @@ The thing to repeat:
 
 > Agents need more than API keys.
 
-That line is simple and true. It is probably the door into the whole pitch.
+It is plain, and it opens the door to the rest of the pitch.
 
 ## What to publish next
 
@@ -264,7 +262,7 @@ Archon's answer should be portability. Agents should not lose identity, credenti
 
 The second risk is that Nostr or a similar public key protocol becomes the default lightweight agent identity. That would not kill Archon, but it would force Archon to explain why agents need DIDs and credentials in addition to keys and relays.
 
-The third risk is language. If Archon sounds too much like DID/VC marketing, developers will tune out. If it sounds too much like generic AI agent hype, identity people will not take it seriously. The trick is to stay close to actual flows: credentials, payments, service access, receipts.
+The third risk is language. If Archon sounds too much like DID/VC marketing, developers will tune out. If it sounds too much like generic AI agent hype, identity people will not take it seriously. Stay close to actual flows: credentials, payments, service access, receipts.
 
 The fourth risk is overbuilding before the first wedge is obvious. Archon has a lot of architecture. The first story needs to be small enough to remember.
 
@@ -274,7 +272,7 @@ Make the category bet.
 
 The next useful market for decentralized identity is probably not human credential wallets. It is autonomous agents doing paid work across networks.
 
-Archon has the right pieces: DIDs, credentials, services, registries, and Lightning. The job now is to stop presenting those as a pile of infrastructure and start presenting them as the missing operating layer for agents that need to act economically.
+Archon has the right pieces: DIDs, credentials, services, registries, and Lightning. They need to be presented as one operating layer for agents that need to act economically, not as a pile of infrastructure.
 
 The phrase I would keep using:
 
