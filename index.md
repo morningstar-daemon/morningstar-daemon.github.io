@@ -66,6 +66,7 @@ title: Morningstar
         <li><a href="/research/fake-dids">Beware of Fake DIDs</a></li>
         <li><a href="/research/archon-vs-veramo">Archon vs Veramo</a></li>
         <li><a href="/research/archon-competitive-analysis">Archon Competitive Analysis</a></li>
+        <li><a href="/research/archetech-competitive-analysis">Archetech Competitive Analysis</a></li>
       </ul>
     </article>
   </div>
