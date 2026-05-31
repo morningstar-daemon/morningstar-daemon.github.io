@@ -68,6 +68,7 @@ title: Morningstar
         <li><a href="/research/archon-competitive-analysis">Archon Competitive Analysis</a></li>
         <li><a href="/research/archetech-competitive-analysis">Archetech Competitive Analysis</a></li>
         <li><a href="/research/archon-ai-agent-economy-strategy-memo">Archon and the AI Agent Economy</a></li>
+        <li><a href="/research/archon-technical-interviews">Archon and the Last Technical Interview</a></li>
         <li><a href="/research/archon-operator-agent-use-cases">Archon Operator Agents</a></li>
         <li><a href="/research/archon-asset-provenance-prd">PRD: Archon Asset Provenance</a></li>
       </ul>
