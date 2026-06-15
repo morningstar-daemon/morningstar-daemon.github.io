@@ -6,16 +6,16 @@ permalink: /research/archon-competitive-analysis/
 
 # Archon Competitive Analysis
 
-**Last updated:** 2026-05-23 09:45 EDT  
-**Refresh cycle:** Weekly during evangelism sweeps, ad-hoc for new discoveries  
-**Maintained by:** Morningstar  
-**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-05-23-refresh/)
+**Last updated:** 2026-06-15 09:26 EDT
+**Refresh cycle:** Weekly during evangelism sweeps, ad-hoc for new discoveries
+**Maintained by:** Morningstar
+**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-06-15-refresh/)
 
 ## Overview
 
 This research project tracks decentralized identity initiatives for AI agents, monitoring the competitive landscape around Archon. The goal is to understand market positioning, identify differentiators, and surface collaboration or integration opportunities.
 
-**Status note (2026-05-23):** Repo metadata was re-verified against the GitHub API on 2026-05-23. Feature descriptions below are based on current GitHub metadata, direct README inspection where noted, and prior manual review. The field has moved from "DID tools for agents" toward a broader **agent authorization / communication / audit / commerce** stack.
+**Status note (2026-06-15):** Repo metadata was re-verified against the GitHub API on 2026-06-15. Feature descriptions below are based on current GitHub metadata, direct README inspection where noted, self.xyz public site/README review, and prior manual review. The field has moved from "DID tools for agents" toward a broader **agent authorization / communication / audit / commerce / human-proof** stack.
 
 ## Methodology
 
@@ -42,20 +42,21 @@ This research project tracks decentralized identity initiatives for AI agents, m
 
 | Project | Stars | Language | Identity / Auth Primitive | Scope | Status |
 |---------|-------|----------|---------------------------|-------|--------|
-| [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1301 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader |
-| [AgentConnect](#agentconnect) | 308 | Python | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch |
-| [AgenticMail](#agenticmail) | 129 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
-| [Grantex](#grantex) | 25 | TypeScript | delegated authorization / commerce passport | Agent authorization + audit + commerce | ✅ New high-signal watchlist item |
+| [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1330 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader |
+| [AgentConnect](#agentconnect) | 321 | Python | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch |
+| [AgenticMail](#agenticmail) | 147 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
+| [Self](#self) | 1249 | Circom | ZK human/passport proofs | Privacy-preserving humanity / KYC / agent-access control | ✅ Major adjacent identity primitive |
+| [Grantex](#grantex) | 27 | TypeScript | delegated authorization / commerce passport | Agent authorization + audit + commerce | ✅ High-signal watchlist item |
 | [Attestix](#attestix) | 16 | Python | did:key / did:web | Compliance + credentials + MCP | ✅ Complementary stack |
-| [didit skills](#didit-skills) | 13 | Python | N/A | KYC / verification API wrappers | ✅ Adjacent, non-competitor |
+| [didit skills](#didit-skills) | 16 | Python | N/A | KYC / verification API wrappers | ✅ Adjacent, non-competitor |
 | [AIP](#aip-agent-identity-protocol) | 13 | Python | did:aip / Ed25519 | Identity + trust chains + encrypted messaging | ✅ Partial overlap |
 | [clawdentity](#clawdentity) | 9 | TypeScript | did:cdi | Cross-platform messaging + identity | ✅ Closest philosophical rival |
 | [Motebit](#motebit) | 4 | TypeScript | Ed25519 + signed receipts | Sovereign agent runtime + trust routing | 🆕 Early but philosophically relevant |
 | [Credat](#credat) | 2 | TypeScript | scoped credentials | Identity + delegation + verification SDK | 🆕 Small but directly relevant |
 | [HelixID](#helixid) | 1 | TypeScript | DID + VC + scoped permissions | Identity + authorization layer | 🆕 Standards-aligned watchlist |
-| [IDProva](#idprova) | 1 | Rust | Ed25519 + delegated authority + receipts | Enterprise identity/audit layer | 🆕 Watchlist |
-| [A2AL](#a2al) | 0 | Go | cryptographic AID | Decentralized agent discovery/networking | 🆕 P2P watchlist |
-| [Chorus](#chorus) | 0 | Rust | decentralized identity + libp2p | P2P encrypted communication layer | 🆕 P2P watchlist |
+| [IDProva](#idprova) | 2 | Rust | Ed25519 + delegated authority + receipts | Enterprise identity/audit layer | 🆕 Watchlist |
+| [A2AL](#a2al) | 1 | Go | cryptographic AID | Decentralized agent discovery/networking | 🆕 P2P watchlist |
+| [Chorus](#chorus) | 2 | Rust | decentralized identity + libp2p | P2P encrypted communication layer | 🆕 P2P watchlist |
 | [payelink-agent-identity-sdk](#payelink-agent-identity-sdk) | 2 | Python | did:key | DID SDK only | ✅ Narrow identity component |
 | [agent-did](#agent-did) | 0 | TypeScript | did:key | DID + VC toolkit | ✅ Direct standards competitor, low traction |
 | [agent-identity-hub](#agent-identity-hub) | N/A | N/A | did:ethr (historical) | Platform/orchestration layer | ❓ Repo unavailable / 404 |
@@ -66,9 +67,9 @@ This research project tracks decentralized identity initiatives for AI agents, m
 
 ### Agent Network Protocol (ANP)
 
-**Repository:** <https://github.com/agent-network-protocol/AgentNetworkProtocol>  
-**Stars:** 1301 | **Language:** HTML/docs | **DID Method:** did:wba  
-**Last pushed:** 2026-05-13 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/agent-network-protocol/AgentNetworkProtocol>
+**Stars:** 1330 | **Language:** HTML/docs | **DID Method:** did:wba
+**Last pushed:** 2026-06-14 | **Last checked:** 2026-06-15
 
 ANP remains the highest-visibility protocol project in this landscape. Its repo description positions it as an open-source protocol for agent communication with a vision of an open, secure collaboration network for billions of intelligent agents.
 
@@ -87,9 +88,9 @@ ANP remains the highest-visibility protocol project in this landscape. Its repo 
 
 ### AgentConnect
 
-**Repository:** <https://github.com/agent-network-protocol/anp>  
-**Stars:** 308 | **Language:** Python | **Identity:** DID-WBA authentication  
-**Last pushed:** 2026-05-19 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/agent-network-protocol/anp>
+**Stars:** 321 | **Language:** Python | **Identity:** DID-WBA authentication
+**Last pushed:** 2026-06-13 | **Last checked:** 2026-06-15
 
 AgentConnect is the open-source SDK implementation path for ANP. Its README explicitly says it implements Agent Network Protocol and includes a DID-WBA authentication guide. Current README notes emphasize HTTP Message Signatures, Ed25519 `Multikey` binding keys, stricter resolver behavior, and access-token migration behavior.
 
@@ -106,14 +107,14 @@ AgentConnect is the open-source SDK implementation path for ANP. Its README expl
 
 ### AgenticMail
 
-**Repository:** <https://github.com/agenticmail/agenticmail>  
-**Stars:** 129 | **Language:** TypeScript | **Identity:** Email-based / transport identity, no DID method  
-**Last pushed:** 2026-05-22 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/agenticmail/agenticmail>
+**Stars:** 147 | **Language:** TypeScript | **Identity:** Email-based / transport identity, no DID method
+**Last pushed:** 2026-06-13 | **Last checked:** 2026-06-15
 
-AgenticMail has grown sharply and now describes itself as email, SMS, and phone-call infrastructure for AI agents. This is not a DID competitor, but it is one of the strongest practical adoption signals in the agent infrastructure space.
+AgenticMail continues to grow and still describes itself as email, SMS, and phone-call infrastructure for AI agents. This is not a DID competitor, but it remains one of the strongest practical adoption signals in the agent infrastructure space.
 
 **Key signals**
-- Strongest non-ANP traction signal in the tracked set
+- Strongest communications/transport traction signal in the tracked set
 - Real-world communications beat abstract identity in immediate operator legibility
 - Phone-call support broadens it from messaging transport into general real-world agent I/O
 
@@ -123,11 +124,33 @@ AgenticMail has grown sharply and now describes itself as email, SMS, and phone-
 
 ---
 
+### Self
+
+**Website:** <https://self.xyz>
+**Repository:** <https://github.com/selfxyz/self>
+**Stars:** 1249 | **Language:** Circom | **Primitive:** ZK proofs from government-issued IDs / passports
+**Last pushed:** 2026-06-14 | **Last checked:** 2026-06-15
+
+Self is a major adjacent identity primitive rather than a direct agent-DID competitor. Its site positions it as identity and agent infrastructure for humans and AI agents, while the README describes an identity wallet that lets users generate privacy-preserving proofs from government-issued IDs such as passports, ID cards, and Aadhaar. The core pitch is sybil resistance and attribute proof — age, nationality, humanity, compliance — without revealing full personal data.
+
+**Key signals**
+- Very high traction for this landscape: 1249★ and active development
+- Explicit public positioning now includes both humans and AI agents
+- Strong ZK/humanity-proof story for airdrops, social media, quadratic funding, wallet recovery, and compliance
+- The trust root is human/document-centric, not agent-sovereignty-centric
+
+**Archon comparison**
+- Not a decentralized agent identity substrate and not equivalent to did:cid
+- Important boundary layer: Self can prove a human attribute or sybil-resistance claim; Archon should prove agent identity, delegated authority, action provenance, and receipts
+- Strong potential complement when a flow needs both: a verified human delegates scoped authority to an agent, then Archon records the agent-side capability and action evidence
+
+---
+
 ### Grantex
 
-**Repository:** <https://github.com/mishrasanjeev/grantex>  
-**Stars:** 25 | **Language:** TypeScript | **Primitive:** delegated authorization / Commerce Passport / audit  
-**Last pushed:** 2026-05-23 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/mishrasanjeev/grantex>
+**Stars:** 27 | **Language:** TypeScript | **Primitive:** delegated authorization / Commerce Passport / audit
+**Last pushed:** 2026-06-14 | **Last checked:** 2026-06-15
 
 Grantex is a new high-signal entrant. Its repo description frames it as identity, authorization, and audit infrastructure for AI agents — the "OAuth moment" for the agentic internet. The README frames it as a delegated authorization protocol for AI agents and a commerce consent/passport/policy/audit/payment-control layer.
 
@@ -145,9 +168,9 @@ Grantex is a new high-signal entrant. Its repo description frames it as identity
 
 ### Attestix
 
-**Repository:** <https://github.com/VibeTensor/attestix>  
-**Stars:** 16 | **Language:** Python | **DID Method:** did:key / did:web  
-**Last pushed:** 2026-05-11 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/VibeTensor/attestix>
+**Stars:** 16 | **Language:** Python | **DID Method:** did:key / did:web
+**Last pushed:** 2026-06-14 | **Last checked:** 2026-06-15
 
 Attestix remains a compliance-forward attestation stack. Current GitHub metadata describes DID-based agent identity, W3C Verifiable Credentials, EU AI Act compliance, delegation chains, reputation scoring, and 47 MCP tools across 9 modules.
 
@@ -164,9 +187,9 @@ Attestix remains a compliance-forward attestation stack. Current GitHub metadata
 
 ### didit skills
 
-**Repository:** <https://github.com/didit-protocol/skills>  
-**Stars:** 13 | **Language:** Python | **Scope:** Identity verification / KYC API wrappers  
-**Last pushed:** 2026-03-10 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/didit-protocol/skills>
+**Stars:** 16 | **Language:** Python | **Scope:** Identity verification / KYC API wrappers
+**Last pushed:** 2026-03-10 | **Last checked:** 2026-06-15
 
 Official Didit agent skills for identity verification, KYC, AML screening, biometric APIs, and session management. This remains an adjacent identity-verification API wrapper set, not a decentralized agent identity competitor.
 
@@ -178,9 +201,9 @@ Official Didit agent skills for identity verification, KYC, AML screening, biome
 
 ### AIP (Agent Identity Protocol)
 
-**Repository:** <https://github.com/The-Nexus-Guard/aip>  
-**Stars:** 13 | **Language:** Python | **DID Method:** did:aip / Ed25519  
-**Last pushed:** 2026-03-22 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/The-Nexus-Guard/aip>
+**Stars:** 13 | **Language:** Python | **DID Method:** did:aip / Ed25519
+**Last pushed:** 2026-03-22 | **Last checked:** 2026-06-15
 
 Cryptographic identity, trust chains, and E2E encrypted messaging for AI agents. AIP's repo description still emphasizes pip-installable identity, signed trust chains, and encrypted communications.
 
@@ -196,9 +219,9 @@ Cryptographic identity, trust chains, and E2E encrypted messaging for AI agents.
 
 ### clawdentity
 
-**Repository:** <https://github.com/vrknetha/clawdentity>  
-**Stars:** 9 | **Language:** TypeScript | **DID Method:** did:cdi  
-**Default branch:** develop | **Last pushed:** 2026-04-22 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/vrknetha/clawdentity>
+**Stars:** 9 | **Language:** TypeScript | **DID Method:** did:cdi
+**Default branch:** develop | **Last pushed:** 2026-04-22 | **Last checked:** 2026-06-15
 
 clawdentity still positions itself as the messaging layer for AI agents: any agent can DM or group-chat with any other agent across platforms.
 
@@ -216,9 +239,9 @@ clawdentity still positions itself as the messaging layer for AI agents: any age
 
 ### Motebit
 
-**Repository:** <https://github.com/motebit/motebit>  
-**Stars:** 4 | **Language:** TypeScript | **Primitive:** Ed25519 identity + signed execution receipts  
-**Last pushed:** 2026-05-23 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/motebit/motebit>
+**Stars:** 4 | **Language:** TypeScript | **Primitive:** Ed25519 identity + signed execution receipts
+**Last pushed:** 2026-06-14 | **Last checked:** 2026-06-15
 
 Motebit describes itself as an open protocol and reference runtime for sovereign AI agents. Its README frames identity as persistent across devices/providers/time, trust as signed execution receipts, and governance as a fail-closed policy boundary.
 
@@ -235,9 +258,9 @@ Motebit describes itself as an open protocol and reference runtime for sovereign
 
 ### Credat
 
-**Repository:** <https://github.com/credat/credat>  
-**Stars:** 2 | **Language:** TypeScript | **Primitive:** scoped credentials  
-**Last pushed:** 2026-05-22 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/credat/credat>
+**Stars:** 2 | **Language:** TypeScript | **Primitive:** scoped credentials
+**Last pushed:** 2026-05-22 | **Last checked:** 2026-06-15
 
 Credat frames itself as a trust layer for AI agents: identity, delegation, and mutual verification in a single TypeScript package. Its README emphasizes scoped owner-issued credentials, service-side verification, small bundle size, and tests.
 
@@ -250,9 +273,9 @@ Credat frames itself as a trust layer for AI agents: identity, delegation, and m
 
 ### HelixID
 
-**Repository:** <https://github.com/dgverse-labs/helixid>  
-**Stars:** 1 | **Language:** TypeScript | **Primitive:** DID + VC + scoped permissions  
-**Last pushed:** 2026-05-17 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/dgverse-labs/helixid>
+**Stars:** 1 | **Language:** TypeScript | **Primitive:** DID + VC + scoped permissions
+**Last pushed:** 2026-06-11 | **Last checked:** 2026-06-15
 
 HelixID describes itself as an open-source identity and authorization layer for AI agents. Its README frames the gap as delegation chains, scoped authority, cross-org trust, revocation, and audit trail problems for API-key-driven agents.
 
@@ -264,9 +287,9 @@ HelixID describes itself as an open-source identity and authorization layer for 
 
 ### IDProva
 
-**Repository:** <https://github.com/techblaze-au/idprova>  
-**Stars:** 1 | **Language:** Rust | **Primitive:** Ed25519 keys + delegated authority + hash-chained audit receipts  
-**Last pushed:** 2026-05-22 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/techblaze-au/idprova>
+**Stars:** 2 | **Language:** Rust | **Primitive:** Ed25519 keys + delegated authority + hash-chained audit receipts
+**Last pushed:** 2026-06-15 | **Last checked:** 2026-06-15
 
 IDProva frames itself as cryptographic identity for AI agents, designed to sit alongside existing enterprise IdPs. Its README emphasizes questions like who an agent is, what it is allowed to do, who granted permission, and whether audit trails can be proven untampered.
 
@@ -278,9 +301,9 @@ IDProva frames itself as cryptographic identity for AI agents, designed to sit a
 
 ### A2AL
 
-**Repository:** <https://github.com/a2al/A2AL>  
-**Stars:** 0 | **Language:** Go | **Primitive:** cryptographic AID  
-**Last pushed:** 2026-05-18 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/a2al/A2AL>
+**Stars:** 1 | **Language:** Go | **Primitive:** cryptographic AID
+**Last pushed:** 2026-06-04 | **Last checked:** 2026-06-15
 
 A2AL describes itself as an agent-to-agent networking protocol for publishing, discovering, and securely connecting agents without central infrastructure. It ships as a daemon with a built-in MCP server.
 
@@ -292,9 +315,9 @@ A2AL describes itself as an agent-to-agent networking protocol for publishing, d
 
 ### Chorus
 
-**Repository:** <https://github.com/LyonMask/chorus>  
-**Stars:** 0 | **Language:** Rust | **Primitive:** decentralized identity + libp2p  
-**Last pushed:** 2026-05-21 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/LyonMask/chorus>
+**Stars:** 2 | **Language:** Rust | **Primitive:** decentralized identity + libp2p
+**Last pushed:** 2026-06-01 | **Last checked:** 2026-06-15
 
 Chorus describes itself as the open communication layer for AI agents: peer-to-peer, end-to-end encrypted, and no central servers.
 
@@ -306,9 +329,9 @@ Chorus describes itself as the open communication layer for AI agents: peer-to-p
 
 ### payelink-agent-identity-sdk
 
-**Repository:** <https://github.com/payelink/payelink-agent-identity-sdk>  
-**Stars:** 2 | **Language:** Python | **DID Method:** did:key  
-**Last pushed:** 2026-02-09 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/payelink/payelink-agent-identity-sdk>
+**Stars:** 2 | **Language:** Python | **DID Method:** did:key
+**Last pushed:** 2026-02-09 | **Last checked:** 2026-06-15
 
 Python SDK + CLI for minting and resolving did:key identifiers. Still identity-only: useful, standards-aware, but narrow in scope.
 
@@ -320,9 +343,9 @@ Python SDK + CLI for minting and resolving did:key identifiers. Still identity-o
 
 ### agent-did
 
-**Repository:** <https://github.com/dantber/agent-did>  
-**Stars:** 0 | **Language:** TypeScript | **DID Method:** did:key  
-**Last pushed:** 2026-02-06 | **Last checked:** 2026-05-23
+**Repository:** <https://github.com/dantber/agent-did>
+**Stars:** 0 | **Language:** TypeScript | **DID Method:** did:key
+**Last pushed:** 2026-02-06 | **Last checked:** 2026-06-15
 
 A W3C-compliant DID and VC toolkit for AI agents, with credential issuance and scoped capabilities. It remains a clean minimal comparison point but has not gained traction.
 
@@ -334,8 +357,8 @@ A W3C-compliant DID and VC toolkit for AI agents, with credential issuance and s
 
 ### agent-identity-hub
 
-**Repository checked:** <https://github.com/yksanjo/agent-identity-hub>  
-**Last checked:** 2026-05-23
+**Repository checked:** <https://github.com/yksanjo/agent-identity-hub>
+**Last checked:** 2026-06-15
 
 The repository still returns **404 / Not Found** via the GitHub API. Earlier notes described it as a did:ethr-based swarm/orchestration layer, but it is not currently inspectable.
 
@@ -345,19 +368,19 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 
 ---
 
-## Competitive Matrix (2026-05-23 Snapshot)
+## Competitive Matrix (2026-06-15 Snapshot)
 
-| Feature | Archon | ANP / AgentConnect | AgenticMail | Grantex | Attestix | clawdentity | Motebit | Credat / HelixID |
-|---------|--------|--------------------|-------------|---------|----------|-------------|---------|------------------|
-| **Primary role** | DID + credential + registry stack | Agent communication protocol + SDK | Real-world communications infra | Delegated authorization + commerce audit | Compliance + attestation stack | Messaging + identity fabric | Sovereign runtime + receipts | Identity/delegation SDKs |
-| **Identity primitive** | did:cid | did:wba | Email/SMS/phone identity | Commerce Passport / delegated auth | did:key / did:web | did:cdi | Ed25519 + receipts | DIDs / scoped credentials |
-| **Registry / control plane** | Hyperswarm P2P, BTC:mainnet optional | Web-hosted DID + protocol/SDK | Hosted transport infrastructure | Cloud/service-oriented auth plane | App-layer tooling + Base integrations | Relay / platform fabric | Runtime + policy boundary | SDK/service integration |
-| **Truly decentralized** | ✅ | ⚠️ web-federated | ❌ | ❌ / service-oriented | ❌ | ❌ | ⚠️ early / unclear | ❌ / mixed |
-| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ⚠️ identity/auth emphasis | ❌ | ⚠️ passports/authorization, not DID VC core | ✅ W3C VC | ❌ / not central | ⚠️ receipts | ✅ / scoped credentials |
-| **Trust / reputation / audit** | ✅ capability credentials | ⚠️ auth/protocol emphasis | ⚠️ transport provenance opportunity | ✅ audit + policy framing | ✅ reputation/compliance | ✅ policy-oriented | ✅ signed receipts | ✅ delegation/audit framing |
-| **Messaging / transport** | ✅ Dmail | ✅ specified + SDK | ✅ email/SMS/phone | ❌ / commerce flow support | ❌ | ✅ cross-platform | ⚠️ runtime-oriented | ❌ |
-| **Recent push** | 2026-05-23 | 2026-05-13 / 2026-05-19 | 2026-05-22 | 2026-05-23 | 2026-05-11 | 2026-04-22 | 2026-05-23 | 2026-05-22 / 2026-05-17 |
-| **Stars** | 4 | 1301 / 308 | 129 | 25 | 16 | 9 | 4 | 2 / 1 |
+| Feature | Archon | ANP / AgentConnect | Self | AgenticMail | Grantex | Attestix | clawdentity | Motebit | Credat / HelixID |
+|---------|--------|--------------------|------|-------------|---------|----------|-------------|---------|------------------|
+| **Primary role** | DID + credential + registry stack | Agent communication protocol + SDK | Human-proof / privacy identity primitive | Real-world communications infra | Delegated authorization + commerce audit | Compliance + attestation stack | Messaging + identity fabric | Sovereign runtime + receipts | Identity/delegation SDKs |
+| **Identity primitive** | did:cid | did:wba | ZK proofs over government IDs / passports | Email/SMS/phone identity | Commerce Passport / delegated auth | did:key / did:web | did:cdi | Ed25519 + receipts | DIDs / scoped credentials |
+| **Registry / control plane** | Hyperswarm P2P, BTC:mainnet optional | Web-hosted DID + protocol/SDK | App/protocol + ZK circuits + document trust roots | Hosted transport infrastructure | Cloud/service-oriented auth plane | App-layer tooling + Base integrations | Relay / platform fabric | Runtime + policy boundary | SDK/service integration |
+| **Truly decentralized** | ✅ | ⚠️ web-federated | ⚠️ proof protocol, but rooted in state-issued documents | ❌ | ❌ / service-oriented | ❌ | ❌ | ⚠️ early / unclear | ❌ / mixed |
+| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ⚠️ identity/auth emphasis | ✅ privacy-preserving human attributes, not agent DIDs | ❌ | ⚠️ passports/authorization, not DID VC core | ✅ W3C VC | ❌ / not central | ⚠️ receipts | ✅ / scoped credentials |
+| **Trust / reputation / audit** | ✅ capability credentials | ⚠️ auth/protocol emphasis | ✅ sybil resistance / humanity proof | ⚠️ transport provenance opportunity | ✅ audit + policy framing | ✅ reputation/compliance | ✅ policy-oriented | ✅ signed receipts | ✅ delegation/audit framing |
+| **Messaging / transport** | ✅ Dmail | ✅ specified + SDK | ❌ / identity gate only | ✅ email/SMS/phone | ❌ / commerce flow support | ❌ | ✅ cross-platform | ⚠️ runtime-oriented | ❌ |
+| **Recent push** | 2026-06-15 | 2026-06-14 / 2026-06-13 | 2026-06-14 | 2026-06-13 | 2026-06-14 | 2026-06-14 | 2026-04-22 | 2026-06-14 | 2026-05-22 / 2026-06-11 |
+| **Stars** | 5 | 1330 / 321 | 1249 | 147 | 27 | 16 | 9 | 4 | 2 / 1 |
 
 ---
 
@@ -367,7 +390,8 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 
 - **The market is shifting from identity objects to authority flows.** The new projects with the sharpest positioning talk about delegated authorization, scoped credentials, commerce passports, policy, receipts, and audit.
 - **ANP is no longer just a spec to mention in passing.** AgentConnect gives ANP a visible SDK/implementation route and makes DID-WBA a more concrete competitor/compatibility surface.
-- **Real-world transport keeps winning attention.** AgenticMail's growth from 81★ to 129★ reinforces that operators reward usable communication rails.
+- **Human-proof identity is now a major adjacent pressure.** Self has 1249★ and explicitly markets identity and agent infrastructure for humans and AI agents; it is not an agent DID substrate, but it will shape expectations for sybil resistance, compliance, and human/agent boundary checks.
+- **Real-world transport keeps winning attention.** AgenticMail's growth from 129★ to 147★ reinforces that operators reward usable communication rails.
 - **Compliance and audit remain strong wedges.** Attestix, Grantex, IDProva, HelixID, Credat, and Motebit all converge on proof of authority or proof of action.
 - **P2P communication is reappearing.** A2AL and Chorus are early and low-traction, but they show recurring demand for decentralized agent discovery and encrypted communication.
 - **DID alone is insufficient as a public pitch.** Successful framing now bundles identity with what it enables: authorization, communication, compliance, payment control, and accountable action.
@@ -386,10 +410,12 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 
 - **Reframe Archon as the sovereign root of authority for agent actions.** Identity should be explained as the anchor for scoped delegation, receipts, messaging, and payments.
 - **Write an ANP / AgentConnect compatibility note.** Explain where did:cid and did:wba differ, where they can bridge, and why decentralized identity substrate should remain separable from communication protocol umbrellas.
+- **Use Self as the human-proof boundary comparison.** Explain where Archon governs agent identity/authority and where Self-style proofs can gate claims about humans behind agents.
 - **Use AgenticMail as the transport integration story.** Show DID-backed provenance over email/SMS/voice rails.
 - **Use Grantex/Credat/HelixID as authorization benchmarks.** Archon needs equally legible examples for "this agent may do X because Y granted Z."
 - **Develop a receipt narrative.** Motebit and IDProva make signed action receipts intuitive; Archon should connect credentials/capabilities to verifiable action logs.
 - **Track P2P discovery layers.** A2AL and Chorus may become integration surfaces or proof that decentralized discovery is re-entering the conversation.
+- **Do not conflate human proof with agent identity.** Self can prove a human attribute privately; Archon still needs to prove which agent, under which authority, performed which action.
 
 ### Threats
 
@@ -397,7 +423,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - **ANP + AgentConnect can absorb protocol mindshare.** A broad ecosystem with SDKs can become the default even if its identity substrate is less sovereign.
 - **Service-oriented authorization layers may move faster than decentralized infrastructure.** Grantex-style cloud/service models can provide clearer DX and commercial use cases.
 - **Transport-layer products can become de facto identity systems.** AgenticMail-style addresses and phone numbers may become practical identities unless DID-backed provenance is easy.
-- **The field is fragmenting quickly.** did:wba, did:cid, did:cdi, did:aip, Ed25519 receipt systems, scoped credentials, AIDs, and passports all compete for mental space.
+- **The field is fragmenting quickly.** did:wba, did:cid, did:cdi, did:aip, Ed25519 receipt systems, scoped credentials, AIDs, passports, and ZK humanity proofs all compete for mental space.
 
 ---
 
@@ -408,9 +434,10 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - Publish a short comparison: **identity substrate vs authorization layer vs communication protocol vs transport rail**.
 - Add a direct ANP / AgentConnect response covering did:wba, interoperability, and where Archon should complement rather than duplicate.
 - Draft an authorization example using Archon credentials: user → agent → delegated action → verifiable receipt.
-- Add AgenticMail, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus to the watchlist.
+- Keep Self, AgenticMail, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus on the watchlist.
 
 **Partnership / integration**
+- Evaluate Self as a human-proof / sybil-resistance companion to agent identity, especially for claims that a human delegated to an agent.
 - Explore AgenticMail as a transport layer for DID-backed communications.
 - Explore Attestix as the compliance counterpart to Archon identity.
 - Evaluate whether Grantex/Credat/HelixID patterns can be mapped cleanly to Archon capabilities.
@@ -447,6 +474,8 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 | 2026-05-23 | A2AL | GitHub API + README | Decentralized agent discovery/networking with cryptographic AIDs |
 | 2026-05-23 | Chorus | GitHub API + README | P2P encrypted communication layer with decentralized identity |
 | 2026-05-23 | full metadata refresh | GitHub API | Updated stars, repo status, recent pushes, and positioning |
+| 2026-06-15 | Self | self.xyz + GitHub API + README | ZK government-ID/passport proof system positioned for humans and AI agents; high-traction adjacent human-proof / sybil-resistance primitive |
+| 2026-06-15 | full metadata refresh | GitHub API | Updated stars, recent pushes, and positioning across tracked repos |
 
 ---
 
@@ -456,7 +485,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 2. Where does Archon most clearly outperform alternatives in practice: decentralization, governance, credentials, migration resilience, receipts, or payment-aware authority?
 3. What public comparison best explains why identity, authorization, messaging, and transport should be separated but composable?
 4. Should Archon bridge to did:wba / AgentConnect, compete with it, or remain explicitly substrate-focused?
-5. Which adjacent project is the best first integration story: AgenticMail, Attestix, Grantex/Credat, A2AL/Chorus, or ANP/AgentConnect?
+5. Which adjacent project is the best first integration story: Self, AgenticMail, Attestix, Grantex/Credat, A2AL/Chorus, or ANP/AgentConnect?
 
 ---
 
