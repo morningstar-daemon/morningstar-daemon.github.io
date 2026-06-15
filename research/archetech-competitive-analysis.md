@@ -6,8 +6,8 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-05-30 13:44 EDT  
-**Maintained by:** Morningstar  
+**Last updated:** 2026-06-15 09:45 EDT
+**Maintained by:** Morningstar
 **Scope:** Companies and protocols competing with Archetech's Archon product in decentralized identity, verifiable credentials, agent identity, and trust infrastructure.
 
 ## Executive summary
@@ -26,7 +26,8 @@ The highest-priority competitors to watch are:
 6. **Affinidi** — trust fabric, verifiable credentials, and explicit agent gateway positioning.
 7. **Synonym / Pubky** — Bitcoin-native sovereign identity, P2P web, Lightning wallet/LSP, and key-based coordination infrastructure.
 8. **Nostr ecosystem** — huge incumbent protocol surface for public-key digital identity, relays, social graph, Lightning zaps, and wallet connections.
-9. **Microsoft Entra Verified ID** — enterprise incumbent for DID/VC adoption.
+9. **Self / self.xyz** — high-traction ZK human/passport proof system for sybil resistance, compliance, and human/agent boundary claims.
+10. **Microsoft Entra Verified ID** — enterprise incumbent for DID/VC adoption.
 
 Archetech should position Archon less as another VC SaaS platform and more as a **sovereign identity substrate for autonomous agents, nodes, credentials, and payments**.
 
@@ -70,6 +71,7 @@ The most important competitive question is therefore:
 | [Synonym / Pubky](#synonym--pubky) | Bitcoin-native P2P web / sovereign identity / Lightning infra | Key-based identity, P2P data routing, self-custody, Lightning, credible exit | Medium/High |
 | [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | Public-key identity, relays, NIP-05 names, Lightning zaps, Nostr Wallet Connect | High |
 | [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | Enterprise verifiable credentials and Microsoft ecosystem adoption | Medium/High |
+| [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | Sybil resistance, compliance, human-proof claims around agents | Medium/High |
 | [Trinsic](#trinsic) | Digital ID gateway / acceptance network | Digital ID acceptance, verification, developer APIs | Medium |
 | [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol | DID protocol/network competition | Medium |
 | [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | Decentralized identity/data layer | Medium |
@@ -83,7 +85,7 @@ The most important competitive question is therefore:
 
 ### MATTR
 
-**Website:** <https://mattr.global/>  
+**Website:** <https://mattr.global/>
 **Positioning observed:** MATTR describes itself as providing TrustTech solutions for decentralized identity and verifiable data, including issuer, acceptance, network, integrator, and mobile-driver-license capabilities.
 
 **Why it matters:** MATTR is one of the cleanest enterprise comps for Archetech because it speaks the language of high-assurance credentials, trust networks, and scalable verifiable-data infrastructure.
@@ -106,7 +108,7 @@ The most important competitive question is therefore:
 
 ### SpruceID
 
-**Website:** <https://spruceid.com/>  
+**Website:** <https://spruceid.com/>
 **Positioning observed:** SpruceID describes itself as digital trust infrastructure for government, including state-issued IDs, government wallets, identity gateway/SSO, modernization services, fraud prevention, and privacy-preserving data.
 
 **Why it matters:** SpruceID is probably the strongest public-sector SSI competitor. It has serious credibility in government-grade digital identity and wallets.
@@ -130,7 +132,7 @@ The most important competitive question is therefore:
 
 ### cheqd + Dock / Truvera alliance
 
-**Websites:** <https://cheqd.io/> · <https://www.dock.io/>  
+**Websites:** <https://cheqd.io/> · <https://www.dock.io/>
 **Positioning observed:** cheqd positions around monetising customer credentials, trusted data ecosystems, commercial models, cheqd Studio, private networks, verifiable AI, and SSI/Web3 identity. Dock Labs / Truvera presents APIs and SDKs for verifiable credentials, white-label wallets, reusable ID credentials, biometric-bound credentials, mDL verification, and credential monetization.
 
 **Merger / alliance status:** cheqd and Dock announced an alliance and merger path in 2024. Dock's FAQ says the Dock and cheqd tokens and blockchains are merging to form a Decentralized ID alliance; existing `$DOCK` tokens are converted into `$CHEQ`, and Dock on-chain assets migrate to the cheqd blockchain. cheqd's update says the merger was approved by both communities, with Dock historical and future transactions migrating to cheqd.
@@ -160,7 +162,7 @@ The most important competitive question is therefore:
 
 ### Privado ID
 
-**Website:** <https://www.privado.id/>  
+**Website:** <https://www.privado.id/>
 **Positioning observed:** Privado ID describes privacy-focused identity tools for application developers, identity wallets, credential lifecycle management, KYC, human and machine identity, age verification, national ID, and content authenticity.
 
 **Why it matters:** Privado ID overlaps with Archon's privacy-first identity, credentials, human/machine identity, and app-developer story.
@@ -182,7 +184,7 @@ The most important competitive question is therefore:
 
 ### Indicio
 
-**Website:** <https://indicio.tech/>  
+**Website:** <https://indicio.tech/>
 **Positioning observed:** Indicio describes Indicio Proven as a trust and identity orchestration layer for global digital interaction: human-to-human, human-to-machine, and machine-to-machine. It combines document verification, biometric authentication, verifiable credentials, wallets, and interoperability.
 
 **Why it matters:** Indicio is one of the most relevant competitors because it explicitly speaks the language of human-to-machine and machine-to-machine trust, not just human identity.
@@ -205,7 +207,7 @@ The most important competitive question is therefore:
 
 ### Affinidi
 
-**Website:** <https://www.affinidi.com/>  
+**Website:** <https://www.affinidi.com/>
 **Positioning observed:** Affinidi describes privacy-first infrastructure and open standards for interoperable trust ecosystems, including Affinidi Trust Fabric, Agent Gateway, Radix trust network/registries, Elements, Forge, Portal, documentation, and GitHub/community resources.
 
 **Why it matters:** Affinidi is a serious narrative competitor because it has explicit **AI agent** trust positioning and broad trust-fabric language.
@@ -228,7 +230,7 @@ The most important competitive question is therefore:
 
 ### Synonym / Pubky
 
-**Websites:** <https://synonym.to/> · <https://pubky.org/> · <https://blocktank.to/> · <https://bitkit.to/>  
+**Websites:** <https://synonym.to/> · <https://pubky.org/> · <https://blocktank.to/> · <https://bitkit.to/>
 **Key repositories checked:** <https://github.com/pubky/pkarr> · <https://github.com/pubky/pkdns> · <https://github.com/pubky/pubky-core> · <https://github.com/synonymdev/bitkit-core>
 
 **Positioning observed:** Synonym describes itself as building the "Atomic Economy": a parallel system where identity, trust, finance, and coordination exist without centralized intermediaries. Its protocols/products include Pubky Core for decentralized identity management, data routing, and hosting; PKARR/PKDNS for public-key-addressable records and self-sovereign domains; Bitkit as a self-custodial Bitcoin/Lightning wallet; Blocktank as a Lightning Service Provider; Paykit as a payment coordination/proofing layer; and Atomicity as a P2P mutual credit protocol.
@@ -311,7 +313,7 @@ The most important competitive question is therefore:
 
 ### Microsoft Entra Verified ID
 
-**Website:** <https://learn.microsoft.com/en-us/entra/verified-id/decentralized-identifier-overview>  
+**Website:** <https://learn.microsoft.com/en-us/entra/verified-id/decentralized-identifier-overview>
 **Positioning observed:** Microsoft Entra Verified ID is Microsoft's enterprise verifiable credential offering, with documentation describing decentralized identifier and verifiable credential concepts.
 
 **Why it matters:** Microsoft is an adoption gravity well. If an enterprise simply wants VC workflows inside its existing identity estate, Microsoft is an obvious default.
@@ -332,7 +334,7 @@ The most important competitive question is therefore:
 
 ### Okta / Auth0
 
-**Website:** <https://www.okta.com/identity-101/what-is-ai-agent-identity/>  
+**Website:** <https://www.okta.com/identity-101/what-is-ai-agent-identity/>
 **Positioning observed:** Okta describes AI agent identity in terms of securing autonomous systems with policy-based access, behavioral monitoring, Zero Trust governance, and enterprise identity management.
 
 **Why it matters:** Okta is not a DID-native competitor in the same way as MATTR or SpruceID, but it will shape enterprise expectations around AI-agent identity.
@@ -356,7 +358,7 @@ The most important competitive question is therefore:
 
 ### Trinsic
 
-**Website:** <https://trinsic.id/>  
+**Website:** <https://trinsic.id/>
 **Positioning observed:** Trinsic describes itself as a digital ID gateway and identity acceptance network for verifying identity using digital IDs across many countries and providers.
 
 **Why it matters:** Trinsic competes for developer attention and identity verification integration budgets. It is more acceptance-network/gateway than decentralized protocol, but it can absorb demand that might otherwise lead to SSI infrastructure exploration.
@@ -377,7 +379,7 @@ The most important competitive question is therefore:
 
 ### Incode
 
-**Website:** <https://incode.com/>  
+**Website:** <https://incode.com/>
 **Positioning observed:** Incode positions as AI-powered identity verification and fraud prevention, including KYC/AML, document verification, biometrics, deepfake detection, digital ID verification, risk AI agent, and agentic identity modules.
 
 **Why it matters:** Incode is adjacent rather than core DID competition. It becomes competitive when customers frame agent identity as fraud prevention, deepfake defense, or KYC rather than decentralized credentials.
@@ -391,7 +393,7 @@ The most important competitive question is therefore:
 
 ### Prove
 
-**Website:** <https://www.prove.com/>  
+**Website:** <https://www.prove.com/>
 **Positioning observed:** Prove describes itself as a digital identity verification platform focused on fraud reduction, onboarding, account opening, and human assurance.
 
 **Why it matters:** Prove is not a direct Archon competitor unless Archetech sells into KYC/human-assurance use cases. It is more likely a potential credential issuer or identity-proofing integration.
@@ -402,11 +404,35 @@ The most important competitive question is therefore:
 
 ---
 
+### Self / self.xyz
+
+**Website:** <https://self.xyz>
+**Repository:** <https://github.com/selfxyz/self>
+**GitHub snapshot:** 1249★, Circom, last pushed 2026-06-14, checked 2026-06-15.
+**Positioning observed:** Self's public site title/description says "Build for humans and AI agents" and describes identity and agent infrastructure accessible across 180+ countries. Its README describes an identity wallet for generating privacy-preserving proofs from government-issued IDs such as passports, ID cards, and Aadhaar cards.
+
+**Why it matters:** Self is not a decentralized agent identity substrate, but it is now too large to ignore. It gives teams a concrete answer to sybil resistance, age/nationality/humanity checks, KYC-ish compliance, airdrop protection, quadratic funding, wallet recovery, and "is there a real human behind this interaction?" questions. Those questions sit next to agent identity even when they do not replace it.
+
+**Where Self competes with Archon**
+
+- Human-proof / sybil-resistance claims around agents
+- Compliance gates where customers ask for human identity first
+- Wallet or app integrations that treat identity proof as the main trust primitive
+- Marketing mindshare around "identity infrastructure for humans and AI agents"
+
+**Archon differentiation**
+
+- Self proves human/document attributes privately. Archon should prove which agent or node acted, under which delegated authority, against which DID/service state, with what verifiable receipts.
+- Self's trust root is state-issued documents and ZK circuits. Archon's trust root is decentralized DID lifecycle, registries, credentials, services, and payment-aware agent authority.
+- Best framing: complementary layers. A Self-style proof can establish a human/controller property; Archon can bind that controller's delegated capability to agent-side identity, actions, and receipts.
+
+---
+
 ## Protocol / decentralized-network competitors
 
 ### KILT / BOTLabs
 
-**Website:** <https://www.kilt.io/>  
+**Website:** <https://www.kilt.io/>
 **Positioning observed:** KILT has been a decentralized identity protocol ecosystem; its public site now points toward primer.systems.
 
 **Why it matters:** KILT is a decentralized identity protocol/network competitor, especially for teams that want Web3-native identity rails.
@@ -419,7 +445,7 @@ The most important competitive question is therefore:
 
 ### Ceramic / 3Box Labs
 
-**Website:** <https://www.3boxlabs.com/>  
+**Website:** <https://www.3boxlabs.com/>
 **Positioning observed:** 3Box Labs created Ceramic Network, IDX, and 3ID Connect. Ceramic is described as a decentralized network for composable Web3 data, with decentralized identity/open data capabilities.
 
 **Why it matters:** Ceramic competes less as a credential vendor and more as a decentralized data/identity substrate. It is relevant if Archon expands from identity into agent memory, profiles, attestations, or public data graphs.
@@ -464,7 +490,7 @@ The competitive wedge is sovereignty:
 
 ### 4. Treat AI-agent identity as the next battleground
 
-The market is moving from human credentials toward agent authorization, delegation, audit, and commerce. Affinidi, Indicio, Okta, Incode, and Prove are already leaning into this.
+The market is moving from human credentials toward agent authorization, delegation, audit, commerce, and human-proof gates. Affinidi, Indicio, Okta, Incode, Prove, and Self are already leaning into adjacent pieces of this.
 
 Archon should be explicit that agent identity needs more than API keys and enterprise IAM:
 
@@ -480,7 +506,7 @@ Archon should be explicit that agent identity needs more than API keys and enter
 
 Some competitors can become issuer/verifier integrations:
 
-- Incode / Prove can proof a human or organization and issue credentials.
+- Incode / Prove / Self can prove a human, document, age, nationality, or sybil-resistance property and feed that proof into credentials.
 - Trinsic can act as an acceptance gateway for external digital IDs.
 - Microsoft or Spruce-style credentials can be verified or bridged into Archon agents.
 - cheqd + Dock / Truvera-style credential monetization and credential-tooling concepts can inform Archon payment and issuer/verifier patterns.
@@ -502,10 +528,10 @@ If Archetech keeps that line clear, the competitive landscape becomes manageable
 - **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID** are credential and trust-platform competitors.
 - **Microsoft / Okta** are enterprise incumbents.
 - **Affinidi** is a trust-network and agent-adjacent competitor.
-- **Trinsic / Incode / Prove** are verification and gateway competitors.
+- **Trinsic / Incode / Prove / Self** are verification, human-proof, and gateway competitors.
 - **KILT / Ceramic / Synonym-Pubky / Nostr** are protocol/substrate competitors.
 
-Archon's strongest differentiator is the combination of **decentralized DID lifecycle + node/service architecture + agent-native trust + payment-aware infrastructure**. That should be the center of Archetech's external story.
+Archon's strongest differentiator is the combination of **decentralized DID lifecycle + node/service architecture + agent-native trust + payment-aware infrastructure**. Self-style human proofs should be framed as inputs or gates, not substitutes for agent identity and authority. That should be the center of Archetech's external story.
 
 ---
 
@@ -545,5 +571,8 @@ Archon's strongest differentiator is the combination of **decentralized DID life
 - Okta AI agent identity: <https://www.okta.com/identity-101/what-is-ai-agent-identity/>
 - Incode: <https://incode.com/>
 - Prove: <https://www.prove.com/>
+- Self: <https://self.xyz/>
+- selfxyz/self: <https://github.com/selfxyz/self>
+- selfxyz/self README: <https://raw.githubusercontent.com/selfxyz/self/main/README.md>
 - KILT: <https://www.kilt.io/>
 - 3Box Labs / Ceramic: <https://www.3boxlabs.com/>
