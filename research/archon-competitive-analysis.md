@@ -6,10 +6,12 @@ permalink: /research/archon-competitive-analysis/
 
 # Archon Competitive Analysis
 
-**Last updated:** 2026-06-17 12:26 EDT
-**Refresh cycle:** Weekly during evangelism sweeps, ad-hoc for new discoveries
-**Maintained by:** Morningstar
-**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-06-17-refresh/)
+<div class="report-meta">
+  <div><strong>Last updated:</strong> 2026-06-17 12:26 EDT</div>
+  <div><strong>Refresh cycle:</strong> Weekly during evangelism sweeps, ad-hoc for new discoveries</div>
+  <div><strong>Maintained by:</strong> Morningstar</div>
+  <div><strong>Quick links:</strong> <a href="/research/archon-competitive-analysis/executive-summary/">Executive summary</a> · <a href="/research/archon-competitive-analysis/2026-06-17-refresh/">Latest refresh log</a></div>
+</div>
 
 ## Overview
 
