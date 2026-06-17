@@ -4,9 +4,9 @@ title: Archon Competitive Analysis – Executive Summary
 permalink: /research/archon-competitive-analysis/executive-summary/
 ---
 
-# Executive Summary (2026-06-15)
+# Executive Summary (2026-06-17)
 
-**Bottom line:** The agent identity protocol market is moving past "give agents DIDs" into **authority, audit, transport, receipts, and commerce**. Archon still has the strongest sovereign agent-identity substrate story in this set — did:cid, decentralized registry design, credential architecture, and substrate independence — but the market pull is now around what identity enables: scoped delegation, verifiable action, compliance, communication, and payment control.
+**Bottom line:** The agent identity protocol market is moving past "give agents DIDs" into **authority, audit, transport, receipts, and commerce**. Archon still has the strongest sovereign agent-identity substrate story in this set — did:cid, decentralized registry design, credential architecture, and substrate independence — but the market pull is now around what identity enables: scoped delegation, verifiable action, compliance, communication, and payment control. Hedera now deserves explicit treatment because `did:hedera` is a direct DID-method competitor and Hedera's AI/MCP/x402/HCS stack is a serious adjacent enterprise substrate.
 
 ## Top Signals
 
@@ -15,17 +15,20 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 3. **Grantex is still a serious watchlist item at 27★.** It frames the problem as delegated authorization, commerce passports, policy, audit, and payment-control for agentic checkout.
 4. **Compliance/audit language is converging across projects.** Attestix, IDProva, HelixID, Credat, Grantex, and Motebit all emphasize scoped authority, receipts, reputation, or auditability.
 5. **P2P agent communication is reappearing.** A2AL and Chorus are early, low-traction projects, but their framing overlaps with Archon's decentralized registry/discovery story.
-6. **The old direct DID competitors are not the main pressure.** payelink and agent-did remain useful benchmarks, but strategic pressure now comes from authorization, protocol, communication, and audit layers.
+6. **Hedera is both direct and adjacent pressure.** `did:hedera` competes with `did:cid` at the DID-method layer, while Hedera AI Studio, Agent Kit/MCP, HCS, and x402 compete for enterprise agent audit/payment substrate mindshare.
+7. **The old direct DID competitors are not the main pressure.** payelink and agent-did remain useful benchmarks, but strategic pressure now comes from authorization, protocol, communication, audit layers, and ledger-backed agent substrates.
 
 ## What This Means For Archon
 
 - **Archon should be described as a sovereign identity and authority substrate for agent action**, not merely as a DID stack.
 - **Public comparisons should separate protocol layers:** identity substrate vs authorization layer vs communication protocol vs transport rail vs compliance/audit layer.
 - **ANP / AgentConnect needs a direct response.** Archon should explain where did:cid differs from did:wba and whether interop is possible.
+- **Hedera needs a direct response.** Archon should explain where did:cid differs from did:hedera and why chain-independent identity can still bridge to HCS/x402 when useful.
 - **The next demo should prove delegated authority.** Example: controller grants capability → agent acts → verifier checks credential → receipt anchors what happened.
 - **Best near-term integration narratives:**
   - AgenticMail for transport
   - Attestix for compliance
+  - Hedera HCS/x402 for optional audit/payment rails
   - Grantex/Credat/HelixID for authorization patterns
   - A2AL/Chorus for decentralized discovery and messaging
 
@@ -38,6 +41,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 | AgenticMail | 147 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
 | Grantex | 27 | Delegated auth + commerce audit | High-signal authorization/commercial-action layer |
 | Attestix | 16 | Compliance + credentials + MCP | Strong complementary compliance stack |
+| Hedera / did:hedera | 35 / 28 / 63 | DID method + agent/payment/audit substrate | Direct DID competitor and high-signal adjacent enterprise rail |
 | didit skills | 16 | KYC / verification APIs | Adjacent, non-protocol identity-verification tooling |
 | AIP | 13 | Identity + trust + messaging | Partial overlap, modest movement |
 | clawdentity | 9 | Messaging + identity fabric | Closest philosophical rival, slower recent movement |
@@ -54,9 +58,9 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 ## Immediate Priorities
 
 1. Rewrite Archon's public one-liner around **sovereign identity + delegated authority + verifiable action**.
-2. Publish a direct ANP / AgentConnect comparison covering did:wba vs did:cid.
+2. Publish direct comparisons covering did:wba vs did:cid and did:hedera vs did:cid.
 3. Build a small demo around capability issuance, delegated action, and verifiable receipt.
-4. Use AgenticMail as the clearest transport integration narrative.
-5. Track AgenticMail, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus during the next sweep.
+4. Use AgenticMail as the clearest transport integration narrative and Hedera HCS/x402 as an optional audit/payment integration narrative.
+5. Track AgenticMail, Hedera, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus during the next sweep.
 
-> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-06-15 refresh log](/research/archon-competitive-analysis/2026-06-15-refresh/).
+> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-06-17 Hedera addendum](/research/archon-competitive-analysis/2026-06-17-refresh/).

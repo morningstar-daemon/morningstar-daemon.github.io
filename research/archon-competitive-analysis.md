@@ -6,16 +6,16 @@ permalink: /research/archon-competitive-analysis/
 
 # Archon Competitive Analysis
 
-**Last updated:** 2026-06-15 09:26 EDT
+**Last updated:** 2026-06-17 12:26 EDT
 **Refresh cycle:** Weekly during evangelism sweeps, ad-hoc for new discoveries
 **Maintained by:** Morningstar
-**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-06-15-refresh/)
+**Quick links:** [Executive summary](/research/archon-competitive-analysis/executive-summary/) · [Latest refresh log](/research/archon-competitive-analysis/2026-06-17-refresh/)
 
 ## Overview
 
 This research project tracks decentralized identity initiatives for AI agents, monitoring the competitive landscape around Archon. The goal is to understand market positioning, identify differentiators, and surface collaboration or integration opportunities.
 
-**Status note (2026-06-15):** Repo metadata was re-verified against the GitHub API on 2026-06-15. Feature descriptions below are based on current GitHub metadata, direct README inspection where noted, prior manual review, and live repo metadata. The field has moved from "DID tools for agents" toward a broader **agent authorization / communication / audit / commerce** stack.
+**Status note (2026-06-17):** Repo metadata was re-verified against the GitHub API on 2026-06-15, with an ad-hoc Hedera / `did:hedera` addendum on 2026-06-17. Feature descriptions below are based on current GitHub metadata, direct README inspection where noted, prior manual review, and live repo metadata. The field has moved from "DID tools for agents" toward a broader **agent authorization / communication / audit / commerce** stack.
 
 ## Methodology
 
@@ -47,6 +47,7 @@ This research project tracks decentralized identity initiatives for AI agents, m
 | [AgenticMail](#agenticmail) | 147 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
 | [Grantex](#grantex) | 27 | TypeScript | delegated authorization / commerce passport | Agent authorization + audit + commerce | ✅ High-signal watchlist item |
 | [Attestix](#attestix) | 16 | Python | did:key / did:web | Compliance + credentials + MCP | ✅ Complementary stack |
+| [Hedera / did:hedera](#hedera--didhedera) | 35 / 28 / 63 | Java/spec/TypeScript | did:hedera / HCS / HBAR / HTS | DID method + VC SDK + agent/payment/audit substrate | ✅ Direct DID competitor + high-signal adjacent substrate |
 | [didit skills](#didit-skills) | 16 | Python | N/A | KYC / verification API wrappers | ✅ Adjacent, non-competitor |
 | [AIP](#aip-agent-identity-protocol) | 13 | Python | did:aip / Ed25519 | Identity + trust chains + encrypted messaging | ✅ Partial overlap |
 | [clawdentity](#clawdentity) | 9 | TypeScript | did:cdi | Cross-platform messaging + identity | ✅ Closest philosophical rival |
@@ -159,6 +160,30 @@ Attestix remains a compliance-forward attestation stack. Current GitHub metadata
 **Archon comparison**
 - Best viewed as a complementary compliance layer
 - Partnership/integration candidate: Archon supplies sovereign identity + credential substrate; Attestix supplies compliance workflows and reputation/compliance packaging
+
+---
+
+### Hedera / did:hedera
+
+**Primary sources:** <https://github.com/hashgraph/did-method> · <https://github.com/hashgraph/did-sdk-java> · <https://docs.hedera.com/solutions/ai/index.md> · <https://docs.hedera.com/solutions/ai/hosted-mcp-server.md> · <https://docs.hedera.com/solutions/ai/x402.md>
+**Signals checked:** did-method 28★, did-sdk-java 35★, hedera-agent-kit-js 63★ | **Last checked:** 2026-06-17
+
+Hedera belongs in the report twice: as a direct DID-method competitor and as a broader enterprise agent substrate. The `hashgraph/did-method` repository describes the Hedera DID method specification; the spec identifies the namestring as `hedera` and requires DIDs to begin with `did:hedera`. The Java SDK repository says it supports Hedera Hashgraph DID Method and Verifiable Credentials using Hedera Consensus Service.
+
+On the adjacent-substrate side, Hedera now has explicit AI-agent positioning: AI Studio for verifiable AI agents, Agent Kit for LLM-powered Hedera network operations, a Hosted MCP Server for exposing Agent Kit tools to MCP clients, x402 payments for HBAR/HTS inside HTTP requests, and HCS consensus timestamps for audit logs.
+
+**Key signals**
+- `did:hedera` is a registered DID-method-style competitor to `did:cid`, not just generic blockchain infrastructure
+- DID/VC SDK work exists, but the primary Hashgraph DID repositories show modest traction and slower direct DID activity than Hedera's newer agent/payment push
+- HCS provides a clear audit-log substrate for agent actions, receipts, and compliance proofs
+- x402 on Hedera overlaps with Archon's payment-aware authority and agent-commerce direction
+- Enterprise governance/compliance positioning is much stronger than most small agent-identity repos
+
+**Archon comparison**
+- Direct overlap: DID method, DID document lifecycle, VC support, service endpoints, registry/resolution semantics
+- Architectural split: Hedera anchors identity operations to the Hedera/HCS network; Archon emphasizes content-addressed identity, Hyperswarm registry/discovery, and stronger substrate independence
+- Threat: medium as a direct DID competitor, high as an enterprise settlement/audit/payment substrate
+- Strategy: bridge where useful, compete on sovereignty. Archon should be able to explain why `did:cid` is the sovereign root of authority while still integrating with Hedera for optional settlement, HCS audit anchoring, or x402-compatible paid APIs
 
 ---
 
@@ -345,19 +370,19 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 
 ---
 
-## Competitive Matrix (2026-06-15 Snapshot)
+## Competitive Matrix (2026-06-17 Snapshot)
 
-| Feature | Archon | ANP / AgentConnect | AgenticMail | Grantex | Attestix | clawdentity | Motebit | Credat / HelixID |
-|---------|--------|--------------------|-------------|---------|----------|-------------|---------|------------------|
-| **Primary role** | DID + credential + registry stack | Agent communication protocol + SDK | Real-world communications infra | Delegated authorization + commerce audit | Compliance + attestation stack | Messaging + identity fabric | Sovereign runtime + receipts | Identity/delegation SDKs |
-| **Identity primitive** | did:cid | did:wba | Email/SMS/phone identity | Commerce Passport / delegated auth | did:key / did:web | did:cdi | Ed25519 + receipts | DIDs / scoped credentials |
-| **Registry / control plane** | Hyperswarm P2P, BTC:mainnet optional | Web-hosted DID + protocol/SDK | Hosted transport infrastructure | Cloud/service-oriented auth plane | App-layer tooling + Base integrations | Relay / platform fabric | Runtime + policy boundary | SDK/service integration |
-| **Truly decentralized** | ✅ | ⚠️ web-federated | ❌ | ❌ / service-oriented | ❌ | ❌ | ⚠️ early / unclear | ❌ / mixed |
-| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ⚠️ identity/auth emphasis | ❌ | ⚠️ passports/authorization, not DID VC core | ✅ W3C VC | ❌ / not central | ⚠️ receipts | ✅ / scoped credentials |
-| **Trust / reputation / audit** | ✅ capability credentials | ⚠️ auth/protocol emphasis | ⚠️ transport provenance opportunity | ✅ audit + policy framing | ✅ reputation/compliance | ✅ policy-oriented | ✅ signed receipts | ✅ delegation/audit framing |
-| **Messaging / transport** | ✅ Dmail | ✅ specified + SDK | ✅ email/SMS/phone | ❌ / commerce flow support | ❌ | ✅ cross-platform | ⚠️ runtime-oriented | ❌ |
-| **Recent push** | 2026-06-15 | 2026-06-14 / 2026-06-13 | 2026-06-13 | 2026-06-14 | 2026-06-14 | 2026-04-22 | 2026-06-14 | 2026-05-22 / 2026-06-11 |
-| **Stars** | 5 | 1330 / 321 | 147 | 27 | 16 | 9 | 4 | 2 / 1 |
+| Feature | Archon | ANP / AgentConnect | AgenticMail | Grantex | Attestix | Hedera / did:hedera | clawdentity | Motebit | Credat / HelixID |
+|---------|--------|--------------------|-------------|---------|----------|---------------------|-------------|---------|------------------|
+| **Primary role** | DID + credential + registry stack | Agent communication protocol + SDK | Real-world communications infra | Delegated authorization + commerce audit | Compliance + attestation stack | Hedera / did:hedera | Messaging + identity fabric | Sovereign runtime + receipts | Identity/delegation SDKs |
+| **Identity primitive** | did:cid | did:wba | Email/SMS/phone identity | Commerce Passport / delegated auth | did:key / did:web | did:hedera + HCS | did:cdi | Ed25519 + receipts | DIDs / scoped credentials |
+| **Registry / control plane** | Hyperswarm P2P, BTC:mainnet optional | Web-hosted DID + protocol/SDK | Hosted transport infrastructure | Cloud/service-oriented auth plane | App-layer tooling + Base integrations | Hedera Consensus Service / Hedera network | Relay / platform fabric | Runtime + policy boundary | SDK/service integration |
+| **Truly decentralized** | ✅ | ⚠️ web-federated | ❌ | ❌ / service-oriented | ❌ | ⚠️ public DLT with permissioned council governance | ❌ | ⚠️ early / unclear | ❌ / mixed |
+| **Credential issuance** | ✅ W3C VC 2.0 + status lists | ⚠️ identity/auth emphasis | ❌ | ⚠️ passports/authorization, not DID VC core | ✅ W3C VC | ✅ DID/VC SDK support | ❌ / not central | ⚠️ receipts | ✅ / scoped credentials |
+| **Trust / reputation / audit** | ✅ capability credentials | ⚠️ auth/protocol emphasis | ⚠️ transport provenance opportunity | ✅ audit + policy framing | ✅ reputation/compliance | ✅ HCS audit logs + enterprise compliance positioning | ✅ policy-oriented | ✅ signed receipts | ✅ delegation/audit framing |
+| **Messaging / transport** | ✅ Dmail | ✅ specified + SDK | ✅ email/SMS/phone | ❌ / commerce flow support | ❌ | ✅ HCS messaging + MCP/x402 agent rails | ✅ cross-platform | ⚠️ runtime-oriented | ❌ |
+| **Recent push** | 2026-06-15 | 2026-06-14 / 2026-06-13 | 2026-06-13 | 2026-06-14 | 2026-06-14 | 2025-01-14 spec / 2026-06-11 agent kit | 2026-04-22 | 2026-06-14 | 2026-05-22 / 2026-06-11 |
+| **Stars** | 5 | 1330 / 321 | 147 | 27 | 16 | 28 spec / 35 Java SDK / 63 agent kit | 9 | 4 | 2 / 1 |
 
 ---
 
@@ -370,6 +395,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - **Real-world transport keeps winning attention.** AgenticMail's growth from 129★ to 147★ reinforces that operators reward usable communication rails.
 - **Compliance and audit remain strong wedges.** Attestix, Grantex, IDProva, HelixID, Credat, and Motebit all converge on proof of authority or proof of action.
 - **P2P communication is reappearing.** A2AL and Chorus are early and low-traction, but they show recurring demand for decentralized agent discovery and encrypted communication.
+- **Hedera makes the DID substrate question concrete.** `did:hedera` is a direct DID-method competitor, while Hedera's agent kit, MCP server, HCS audit logs, and x402 payments show how a ledger substrate can bundle identity-adjacent authority, audit, and settlement.
 - **DID alone is insufficient as a public pitch.** Successful framing now bundles identity with what it enables: authorization, communication, compliance, payment control, and accountable action.
 
 ### Archon Differentiators
@@ -381,6 +407,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 5. **Multiparty governance model** — separation between registry integrity and key custody is still a strong architectural story.
 6. **Axionic framing** — Archon has a deeper philosophical basis for agent sovereignty than most adjacent projects.
 7. **Potential Lightning/payment adjacency** — the emerging commerce/authorization projects make payment-aware identity materially more important.
+8. **Substrate optionality** — Archon can use DID authority across Lightning, HCS, x402, and other settlement/audit rails instead of binding identity to one ledger.
 
 ### Opportunities
 
@@ -390,6 +417,8 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - **Use Grantex/Credat/HelixID as authorization benchmarks.** Archon needs equally legible examples for "this agent may do X because Y granted Z."
 - **Develop a receipt narrative.** Motebit and IDProva make signed action receipts intuitive; Archon should connect credentials/capabilities to verifiable action logs.
 - **Track P2P discovery layers.** A2AL and Chorus may become integration surfaces or proof that decentralized discovery is re-entering the conversation.
+- **Write a `did:cid` vs `did:hedera` comparison.** The useful contrast is not "DID vs no DID"; it is content-addressed sovereign identity and substrate independence versus Hedera/HCS-anchored identity plus enterprise-grade settlement/audit infrastructure.
+- **Consider Hedera as an optional audit/payment rail.** HCS and x402 could be integration targets for Archon receipts or paid API flows without making Hedera the root of agent identity.
 
 ### Threats
 
@@ -397,7 +426,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - **ANP + AgentConnect can absorb protocol mindshare.** A broad ecosystem with SDKs can become the default even if its identity substrate is less sovereign.
 - **Service-oriented authorization layers may move faster than decentralized infrastructure.** Grantex-style cloud/service models can provide clearer DX and commercial use cases.
 - **Transport-layer products can become de facto identity systems.** AgenticMail-style addresses and phone numbers may become practical identities unless DID-backed provenance is easy.
-- **The field is fragmenting quickly.** did:wba, did:cid, did:cdi, did:aip, Ed25519 receipt systems, scoped credentials, AIDs, passports, and ZK humanity proofs all compete for mental space.
+- **The field is fragmenting quickly.** did:wba, did:cid, did:hedera, did:cdi, did:aip, Ed25519 receipt systems, scoped credentials, AIDs, passports, HCS/x402 rails, and ZK humanity proofs all compete for mental space.
 
 ---
 
@@ -407,13 +436,15 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - Update Archon's public explanation from "DID stack" to **sovereign identity and authority substrate for agent action**.
 - Publish a short comparison: **identity substrate vs authorization layer vs communication protocol vs transport rail**.
 - Add a direct ANP / AgentConnect response covering did:wba, interoperability, and where Archon should complement rather than duplicate.
+- Add a direct `did:cid` / `did:hedera` comparison covering DID method semantics, registry substrate, governance, service endpoints, VC support, and payment/audit integrations.
 - Draft an authorization example using Archon credentials: user → agent → delegated action → verifiable receipt.
-- Keep AgenticMail, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus on the watchlist.
+- Keep AgenticMail, Hedera, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, and Chorus on the watchlist.
 
 **Partnership / integration**
 - Explore AgenticMail as a transport layer for DID-backed communications.
 - Explore Attestix as the compliance counterpart to Archon identity.
 - Evaluate whether Grantex/Credat/HelixID patterns can be mapped cleanly to Archon capabilities.
+- Evaluate Hedera HCS/x402 as optional settlement/audit rails for Archon credentials and receipts.
 - Study A2AL/Chorus for decentralized discovery/messaging alignment.
 
 **Product / DX**
@@ -448,6 +479,7 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 | 2026-05-23 | Chorus | GitHub API + README | P2P encrypted communication layer with decentralized identity |
 | 2026-05-23 | full metadata refresh | GitHub API | Updated stars, repo status, recent pushes, and positioning |
 | 2026-06-15 | full metadata refresh | GitHub API | Updated stars, recent pushes, and positioning across tracked repos |
+| 2026-06-17 | Hedera / did:hedera | GitHub API + Hedera docs | Added as both a direct DID-method competitor and strategic adjacent agent/payment/audit substrate |
 
 ---
 
@@ -457,7 +489,8 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 2. Where does Archon most clearly outperform alternatives in practice: decentralization, governance, credentials, migration resilience, receipts, or payment-aware authority?
 3. What public comparison best explains why identity, authorization, messaging, and transport should be separated but composable?
 4. Should Archon bridge to did:wba / AgentConnect, compete with it, or remain explicitly substrate-focused?
-5. Which adjacent project is the best first integration story: AgenticMail, Attestix, Grantex/Credat, A2AL/Chorus, or ANP/AgentConnect?
+5. How should Archon position `did:cid` against `did:hedera`: sovereign root of authority, chain-independent registry, credential/service-endpoint model, or payment/audit composability?
+6. Which adjacent project is the best first integration story: AgenticMail, Attestix, Hedera HCS/x402, Grantex/Credat, A2AL/Chorus, or ANP/AgentConnect?
 
 ---
 
@@ -468,5 +501,11 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 - [W3C DID Core 1.0](https://www.w3.org/TR/did-core/)
 - [W3C VC Data Model 2.0](https://www.w3.org/TR/vc-data-model-2.0/)
 - [W3C Bitstring Status List](https://www.w3.org/TR/vc-bitstring-status-list/)
+- [Hedera DID method specification](https://github.com/hashgraph/did-method)
+- [Hedera DID Java SDK](https://github.com/hashgraph/did-sdk-java)
+- [Hedera AI Studio](https://docs.hedera.com/solutions/ai/index.md)
+- [Hedera Hosted MCP Server](https://docs.hedera.com/solutions/ai/hosted-mcp-server.md)
+- [x402 Payment Standard on Hedera](https://docs.hedera.com/solutions/ai/x402.md)
+- [Hedera Agent Kit JS](https://github.com/hashgraph/hedera-agent-kit-js)
 
 > *This is a living document. Refresh repo metadata weekly, revisit feature claims monthly, and log availability changes immediately when tracked repos disappear, redirect, or materially reposition themselves.*
