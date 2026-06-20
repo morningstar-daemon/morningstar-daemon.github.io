@@ -18,7 +18,7 @@ permalink: /research/archon-competitive-analysis/2026-06-18-refresh/
 
 | Source | Observed signal |
 |--------|-----------------|
-| `GetBindu/Bindu` GitHub API | 6965★, 397 forks, 140 open issues/PRs, Python, created 2025-03-16, pushed 2026-06-18, homepage `https://docs.getbindu.com` |
+| `GetBindu/Bindu` GitHub API | 6965★, 397 forks, 140 open issues/PRs on 2026-06-18; refreshed to 6964★, 397 forks, 141 open issues/PRs on 2026-06-20; Python, created 2025-03-16, pushed 2026-06-18, homepage `https://docs.getbindu.com` |
 | `GetBindu/Bindu` README | Frames Bindu as "the identity, communication, and payments layer for AI agents" and as one-call `bindufy()` plumbing for DID identity, A2A, and x402 payments |
 | Bindu docs / README | A2A JSON-RPC, `did:bindu`, Ed25519 signatures, mTLS via step-ca, OAuth2 via Ory Hydra, x402 payments, skills/private skills, negotiation, inbox UI, and gateway orchestration |
 | `docs/DID.md` | `did:bindu:<author>:<name>:<uuid>` examples; DID documents stored in Hydra OAuth client metadata; public resolver endpoint for A2A resolution |
@@ -29,7 +29,7 @@ permalink: /research/archon-competitive-analysis/2026-06-18-refresh/
 
 ## Positioning Update
 
-Bindu should be treated as the strongest current DX/platform competitor in Archon's landscape, not as a minor DID-method repo. It bundles enough of the agent-commerce stack — identity, A2A communication, authorization, payments, operator inbox, and gateway — that developers can adopt it without first caring about DID method purity.
+Bindu should be treated as the strongest current DX/platform competitor in Archon's landscape and as a concrete collaboration target, not as a minor DID-method repo. It bundles enough of the agent-commerce stack — identity, A2A communication, authorization, payments, operator inbox, and gateway — that developers can adopt it without first caring about DID method purity.
 
 Recommended Archon stance:
 
@@ -37,9 +37,10 @@ Recommended Archon stance:
 - **Bridge where useful:** A2A and x402 are useful rails. Archon should be able to sign, authorize, and settle inside Bindu-style flows without surrendering the identity root.
 - **Match the DX lesson:** Bindu's adoption signal is packaging. Archon needs demos and SDK paths that make delegated authority and paid/verifiable action as easy to understand as Bindu's `bindufy()` pitch.
 - **Avoid lazy dismissal:** The right contrast is not "Bindu is centralized, ignore it." The right contrast is: Bindu is strong app/platform infrastructure; Archon is the stronger decentralized authority substrate that can interoperate with such platforms.
+- **Treat collaboration as first-class:** Bindu can provide the polished A2A/x402/inbox rail while Archon provides portable root authority, credentialed delegation, and Lightning-native settlement adjacency.
 
 ## Follow-up Work
 
-1. Write a dedicated `did:cid` vs `did:bindu` comparison.
+1. Write a dedicated `did:cid` vs `did:bindu` comparison with a collaboration path, not only a competitor teardown.
 2. Prototype or outline an A2A/x402 bridge where Archon DID authority signs or verifies Bindu-style agent requests.
 3. Tighten Archon's public one-call/demo story so `did:cid` authority is not perceived as harder to use than platform-centered DID stacks.
