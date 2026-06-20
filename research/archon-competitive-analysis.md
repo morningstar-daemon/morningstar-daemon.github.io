@@ -44,7 +44,7 @@ This research project tracks decentralized identity initiatives for AI agents, m
 
 | Project | Stars | Language | Identity / Auth Primitive | Scope | Status |
 |---------|-------|----------|---------------------------|-------|--------|
-| [Bindu](#bindu) | 6965 | Python | did:bindu + mTLS + Hydra OAuth + x402 | Identity, A2A communication, inbox, payments, gateway | 🚨 Highest-traction direct/adjacent stack |
+| [Bindu](#bindu) | 6965 | Python | platform-administered did:bindu + mTLS + Hydra OAuth + x402 | Identity, A2A communication, inbox, payments, gateway | 🚨 Highest-traction direct/adjacent stack |
 | [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1330 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader |
 | [AgentConnect](#agentconnect) | 321 | Python | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch |
 | [AgenticMail](#agenticmail) | 147 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
@@ -71,7 +71,7 @@ This research project tracks decentralized identity initiatives for AI agents, m
 ### Bindu
 
 **Repository:** <https://github.com/GetBindu/Bindu>
-**Stars:** 6965 | **Language:** Python | **DID Method:** did:bindu
+**Stars:** 6965 | **Language:** Python | **DID Method:** platform-administered `did:bindu`
 **Last pushed:** 2026-06-18 | **Last checked:** 2026-06-18
 **Companion template:** <https://github.com/GetBindu/create-bindu-agent> — 31★, Python, last pushed 2026-03-13
 
@@ -97,7 +97,7 @@ The strategic point is not just the star count. Bindu has the most complete **DX
 **Strategic read**
 Bindu is a serious competitive signal because it makes the agent-commerce stack legible: agent identity, communication, authentication, payment gating, and operator inbox in one framework. That directly pressures Archon's public narrative. If developers encounter Bindu first, they may assume `did:bindu` + Hydra + A2A + x402 is "good enough" identity infrastructure because it solves the immediate packaging problem.
 
-The weakness is sovereignty. Bindu's DID method appears bound to Bindu's own Hydra/client metadata and hosted auth/resolver assumptions. That is useful operationally, but it is not equivalent to `did:cid` as a decentralized root of authority. Bindu's architecture is closer to a strong application-layer agent platform with cryptographic controls than a substrate-independent decentralized identity registry.
+The weakness is sovereignty. Bindu's DID method appears bound to Bindu/Hydra client metadata and Bindu-operated auth/resolver assumptions. That is useful operationally, but it should not be treated as a decentralized root of authority equivalent to `did:cid`. Bindu's architecture is closer to a strong application-layer agent platform with cryptographic controls than a substrate-independent decentralized identity registry.
 
 **Archon comparison**
 - Direct overlap: agent DID, DID resolution, signed messages, service discovery, credentials/skills, agent-to-agent protocol surface, payment-aware execution

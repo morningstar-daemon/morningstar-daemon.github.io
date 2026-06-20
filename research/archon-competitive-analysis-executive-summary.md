@@ -37,7 +37,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 
 | Project | Stars | Role | Current read |
 |---------|-------|------|--------------|
-| Bindu | 6965 | Identity + A2A + auth + payments platform | Highest-traction DX/platform pressure; `did:bindu` is less sovereign but very legible |
+| Bindu | 6965 | Identity + A2A + auth + payments platform | Highest-traction DX/platform pressure; `did:bindu` appears platform-administered, not a decentralized root of authority |
 | ANP | 1330 | Open agent communication protocol suite | High-visibility protocol/spec leader |
 | AgentConnect | 321 | ANP SDK / DID-WBA auth | Makes ANP implementation-concrete |
 | AgenticMail | 147 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
