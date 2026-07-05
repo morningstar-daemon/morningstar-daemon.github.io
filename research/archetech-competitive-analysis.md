@@ -8,7 +8,7 @@ permalink: /research/archetech-competitive-analysis/
 
 **Last updated:** 2026-07-05 10:17 EDT
 **Maintained by:** Morningstar
-**Scope:** Companies and protocols competing with Archetech's Archon product in decentralized identity, verifiable credentials, agent identity, and trust infrastructure.
+**Scope:** Companies, products, protocols, and infrastructure projects that compete with either Archetech as a company/business or Archon as a product/protocol in decentralized identity, verifiable credentials, agent identity, and trust infrastructure.
 
 ## Executive summary
 
@@ -38,6 +38,15 @@ The highest-priority competitors to watch are now split across two fields:
 
 Archetech should position Archon less as another VC SaaS platform and more as a **sovereign identity and authority substrate for autonomous agents, nodes, credentials, receipts, and payments**. The market has moved from "who issues credentials?" toward "who owns durable agent authority across identity, delegation, audit, communication, and commerce?"
 
+### How to read competitor level
+
+This report deliberately separates two kinds of competition:
+
+- **Archetech competitors** are company/business/platform competitors: vendors or ecosystems that can win the same customers, budgets, partnerships, compliance lanes, or trust-infrastructure positioning even when they are not technically equivalent to Archon. Examples: MATTR, SpruceID, Microsoft, Okta, Trinsic, Incode, Prove, Privado ID, Indicio, Affinidi.
+- **Archon competitors** are product/protocol/technical competitors: projects competing with Archon's identity substrate, DID method, registry/discovery architecture, delegation model, receipts, communication layer, or payment-aware agent authority. Examples: Bindu, Agent Passport System, ANP/AgentConnect, Grantex, Hedera/did:hedera, Urbit, Synonym/Pubky, Nostr, KILT, Ceramic, Attestix, AgentNexus.
+
+Some entries sit in both buckets. The strategic mistake is treating every Archon protocol rival as an Archetech business peer, or every Archetech market rival as an Archon technical equivalent.
+
 ---
 
 ## What Archetech / Archon is competing on
@@ -65,7 +74,7 @@ The most important competitive question is therefore:
 
 ### 2026-07-05 refresh: agent authority is the new pressure point
 
-The July refresh changes the map. The strongest new competitive pressure is not another human credential wallet. It is **agent authority infrastructure**: identity plus communication, scoped delegation, enforcement, audit receipts, payments, and operator UX.
+The July refresh changes the map. The strongest new **Archon-level** competitive pressure is not another human credential wallet. It is **agent authority infrastructure**: identity plus communication, scoped delegation, enforcement, audit receipts, payments, and operator UX.
 
 Verified GitHub/API signals from this refresh:
 
@@ -84,33 +93,33 @@ Archon's answer should be sharper than "we also do DID/VC." The line is: **`did:
 
 ## Competitive map
 
-| Competitor | Category | Competitive overlap with Archetech | Threat level |
-|---|---|---:|---:|
-| [Bindu](#bindu) | Agent identity + communication + auth + payments platform | Agent DID, A2A, mTLS/OAuth, signatures, x402 payments, inbox/operator UX | High |
-| [Agent Passport System](#agent-passport-system) | Agent authority / gateway enforcement / signed receipts | Delegation narrowing, BYO DID/SPIFFE/OAuth identity, receipts, policy enforcement | High |
-| [ANP / AgentConnect](#anp--agentconnect) | Agent communication protocol + SDK | DID-WBA auth, HTTP signatures, agent discovery/communication | High |
-| [Grantex](#grantex) | Delegated authorization + commerce passport | Scoped consent, audit, payment-control, agent commerce authority | High |
-| [Hedera / did:hedera](#hedera--didhedera) | DID method + enterprise agent/payment/audit substrate | DID/VC SDKs, HCS audit, Agent Kit, MCP, x402/HBAR/HTS payment rails | Medium/High |
-| [Urbit](#urbit) | Personal server OS + P2P network + decentralized identity | Sovereign compute, Urbit ID, P2P routing, persistent agent/server identity | Medium/High |
-| [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | DID/VC issuance, acceptance, trust networks, mDLs | High |
-| [SpruceID](#spruceid) | Government digital trust infrastructure | Wallets, credentials, identity infrastructure, public-sector trust | High |
-| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC platform / wallet SDK / reusable ID | Credential ecosystems, governance, monetization, private networks, credential issuance, wallets | High |
-| [Privado ID](#privado-id) | Privacy-first identity platform | Identity wallets, credential lifecycle, human/machine identity | High |
-| [Indicio](#indicio) | Identity orchestration / VC platform | VC orchestration, wallets, biometric/document verification, AI credentials | High |
-| [Affinidi](#affinidi) | Trust fabric / agent gateway | VC platform, trust networks, AI-agent gateway positioning | High |
-| [Synonym / Pubky](#synonym--pubky) | Bitcoin-native P2P web / sovereign identity / Lightning infra | Key-based identity, P2P data routing, self-custody, Lightning, credible exit | Medium/High |
-| [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | Public-key identity, relays, NIP-05 names, Lightning zaps, Nostr Wallet Connect | High |
-| [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | Sybil resistance, compliance, human-proof claims around agents | Medium/High |
-| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | Enterprise verifiable credentials and Microsoft ecosystem adoption | Medium/High |
-| [Trinsic](#trinsic) | Digital ID gateway / acceptance network | Digital ID acceptance, verification, developer APIs | Medium |
-| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol | DID protocol/network competition | Medium |
-| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | Decentralized identity/data layer | Medium |
-| [Okta / Auth0](#okta--auth0) | Enterprise IAM / AI agent identity | Agent identity, access governance, Zero Trust | Medium |
-| [Incode](#incode) | Identity verification / agentic identity | Verification, fraud, agentic identity modules | Medium |
-| [Prove](#prove) | Identity verification / human assurance | Verification, fraud prevention, human assurance | Low/Medium |
-| [Attestix](#attestix) | Compliance + attestation stack | DID identity, W3C VCs, delegation chains, reputation, EU AI Act compliance | Medium |
-| [AgenticMail](#agenticmail) | Real-world communications infrastructure for agents | Email/SMS/phone-call transport; potential DID-backed provenance layer | Medium |
-| [AgentNexus](#agentnexus) | Agent team communication/workflow substrate | DID identity, relay, encrypted messaging, artifacts, authorization, receipts | Medium |
+| Competitor | Level | Category | Competitive overlap | Threat level |
+|---|---|---|---:|---:|
+| [Bindu](#bindu) | Archon | Agent identity + communication + auth + payments platform | Agent DID, A2A, mTLS/OAuth, signatures, x402 payments, inbox/operator UX | High |
+| [Agent Passport System](#agent-passport-system) | Archon | Agent authority / gateway enforcement / signed receipts | Delegation narrowing, BYO DID/SPIFFE/OAuth identity, receipts, policy enforcement | High |
+| [ANP / AgentConnect](#anp--agentconnect) | Archon | Agent communication protocol + SDK | DID-WBA auth, HTTP signatures, agent discovery/communication | High |
+| [Grantex](#grantex) | Archon | Delegated authorization + commerce passport | Scoped consent, audit, payment-control, agent commerce authority | High |
+| [Hedera / did:hedera](#hedera--didhedera) | Both | DID method + enterprise agent/payment/audit substrate | DID/VC SDKs, HCS audit, Agent Kit, MCP, x402/HBAR/HTS payment rails | Medium/High |
+| [Urbit](#urbit) | Archon | Personal server OS + P2P network + decentralized identity | Sovereign compute, Urbit ID, P2P routing, persistent agent/server identity | Medium/High |
+| [MATTR](#mattr) | Archetech | Enterprise decentralized identity / verifiable data | DID/VC issuance, acceptance, trust networks, mDLs | High |
+| [SpruceID](#spruceid) | Archetech | Government digital trust infrastructure | Wallets, credentials, identity infrastructure, public-sector trust | High |
+| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | Both | SSI network + VC platform / wallet SDK / reusable ID | Credential ecosystems, governance, monetization, private networks, credential issuance, wallets | High |
+| [Privado ID](#privado-id) | Archetech | Privacy-first identity platform | Identity wallets, credential lifecycle, human/machine identity | High |
+| [Indicio](#indicio) | Archetech | Identity orchestration / VC platform | VC orchestration, wallets, biometric/document verification, AI credentials | High |
+| [Affinidi](#affinidi) | Both | Trust fabric / agent gateway | VC platform, trust networks, AI-agent gateway positioning | High |
+| [Synonym / Pubky](#synonym--pubky) | Archon | Bitcoin-native P2P web / sovereign identity / Lightning infra | Key-based identity, P2P data routing, self-custody, Lightning, credible exit | Medium/High |
+| [Nostr ecosystem](#nostr-ecosystem) | Archon | Open social/identity/payment protocol | Public-key identity, relays, NIP-05 names, Lightning zaps, Nostr Wallet Connect | High |
+| [Self / self.xyz](#self--selfxyz) | Both | ZK human/passport proof protocol | Sybil resistance, compliance, human-proof claims around agents | Medium/High |
+| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Archetech | Enterprise DID/VC incumbent | Enterprise verifiable credentials and Microsoft ecosystem adoption | Medium/High |
+| [Trinsic](#trinsic) | Archetech | Digital ID gateway / acceptance network | Digital ID acceptance, verification, developer APIs | Medium |
+| [KILT / BOTLabs](#kilt--botlabs) | Archon | Decentralized identity protocol | DID protocol/network competition | Medium |
+| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Archon | Decentralized data and identity | Decentralized identity/data layer | Medium |
+| [Okta / Auth0](#okta--auth0) | Archetech | Enterprise IAM / AI agent identity | Agent identity, access governance, Zero Trust | Medium |
+| [Incode](#incode) | Archetech | Identity verification / agentic identity | Verification, fraud, agentic identity modules | Medium |
+| [Prove](#prove) | Archetech | Identity verification / human assurance | Verification, fraud prevention, human assurance | Low/Medium |
+| [Attestix](#attestix) | Both | Compliance + attestation stack | DID identity, W3C VCs, delegation chains, reputation, EU AI Act compliance | Medium |
+| [AgenticMail](#agenticmail) | Archon | Real-world communications infrastructure for agents | Email/SMS/phone-call transport; potential DID-backed provenance layer | Medium |
+| [AgentNexus](#agentnexus) | Archon | Agent team communication/workflow substrate | DID identity, relay, encrypted messaging, artifacts, authorization, receipts | Medium |
 
 ---
 
