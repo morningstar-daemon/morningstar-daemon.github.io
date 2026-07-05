@@ -6,7 +6,7 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-06-15 09:45 EDT
+**Last updated:** 2026-07-05 10:17 EDT
 **Maintained by:** Morningstar
 **Scope:** Companies and protocols competing with Archetech's Archon product in decentralized identity, verifiable credentials, agent identity, and trust infrastructure.
 
@@ -16,20 +16,27 @@ Archetech's most direct competitive field is not generic IAM. It is the emerging
 
 Archon sits in a distinct position: it is a **decentralized identity protocol and node infrastructure layer** centered on `did:cid`, content-addressed identity, decentralized registries, verifiable credentials, and agent/node sovereignty. Most competitors are selling credential issuance platforms, wallets, identity verification APIs, enterprise trust networks, or access-control products. That gives Archetech a real differentiation angle, but also means the market will compare Archon against broader, better-funded identity platforms.
 
-The highest-priority competitors to watch are:
+The highest-priority competitors to watch are now split across two fields:
 
-1. **MATTR** — enterprise decentralized identity and verifiable-data infrastructure.
-2. **SpruceID** — government-grade digital trust infrastructure and credential systems.
-3. **cheqd + Dock / Truvera alliance** — merged Dock/CHEQ token and blockchain/network path, combining cheqd's trusted-data market with Dock/Truvera credential tooling.
-4. **Privado ID** — privacy-focused identity, wallets, credential lifecycle, human/machine identity.
-5. **Indicio** — verifiable credentials, digital wallets, identity orchestration, and AI-agent trust positioning.
-6. **Affinidi** — trust fabric, verifiable credentials, and explicit agent gateway positioning.
-7. **Synonym / Pubky** — Bitcoin-native sovereign identity, P2P web, Lightning wallet/LSP, and key-based coordination infrastructure.
-8. **Nostr ecosystem** — huge incumbent protocol surface for public-key digital identity, relays, social graph, Lightning zaps, and wallet connections.
-9. **Self / self.xyz** — high-traction ZK human/passport proof system for sybil resistance, compliance, and human/agent boundary claims.
-10. **Microsoft Entra Verified ID** — enterprise incumbent for DID/VC adoption.
+**Agent authority infrastructure**
 
-Archetech should position Archon less as another VC SaaS platform and more as a **sovereign identity substrate for autonomous agents, nodes, credentials, and payments**.
+1. **Bindu** — highest-traction direct/adjacent agent identity + A2A + auth + payments stack; strong DX, weaker sovereignty.
+2. **Agent Passport System** — direct pressure on delegated authority, gateway enforcement, and signed action receipts.
+3. **ANP / AgentConnect** — open agent communication protocol plus SDK path, centered on DID-WBA authentication.
+4. **Grantex** — delegated authorization, consent, audit, and commerce-passport framing for AI agents.
+5. **Hedera / did:hedera + Agent Kit** — DID method plus enterprise audit/payment substrate and x402/HCS agent positioning.
+6. **Urbit** — high-traction sovereign personal-server/P2P identity substrate competing for the same decentralized-services mindshare.
+
+**Enterprise / credential / verification platforms**
+
+7. **MATTR** — enterprise decentralized identity and verifiable-data infrastructure.
+8. **SpruceID** — government-grade digital trust infrastructure and credential systems.
+9. **cheqd + Dock / Truvera alliance** — merged Dock/CHEQ token and blockchain/network path, combining cheqd's trusted-data market with Dock/Truvera credential tooling.
+10. **Privado ID / Indicio / Affinidi** — privacy, credential orchestration, wallets, and explicit AI-agent trust positioning.
+11. **Synonym / Pubky and Nostr** — Bitcoin-native public-key identity, P2P routing, Lightning payments, relays, and social/payment network effects.
+12. **Self / self.xyz and Microsoft Entra Verified ID** — human-proof/compliance gravity and enterprise VC incumbent adoption.
+
+Archetech should position Archon less as another VC SaaS platform and more as a **sovereign identity and authority substrate for autonomous agents, nodes, credentials, receipts, and payments**. The market has moved from "who issues credentials?" toward "who owns durable agent authority across identity, delegation, audit, communication, and commerce?"
 
 ---
 
@@ -56,12 +63,35 @@ The most important competitive question is therefore:
 
 > Who owns the identity, credential, and authorization layer for autonomous agents and decentralized services?
 
+### 2026-07-05 refresh: agent authority is the new pressure point
+
+The July refresh changes the map. The strongest new competitive pressure is not another human credential wallet. It is **agent authority infrastructure**: identity plus communication, scoped delegation, enforcement, audit receipts, payments, and operator UX.
+
+Verified GitHub/API signals from this refresh:
+
+- **Bindu**: 7234★, Python, pushed 2026-06-29; repo describes "the identity, communication, and payments layer for AI agents."
+- **Urbit**: 3615★ core repo plus 79★ runtime repo, both recently active; personal-server OS + P2P network + Urbit ID substrate.
+- **ANP / AgentConnect**: 1341★ spec/docs repo plus 327★ Python SDK, AgentConnect pushed 2026-07-05; DID-WBA remains a visible agent-authentication path.
+- **AgenticMail**: 163★, TypeScript; real-world email/SMS/phone-call transport for agents.
+- **Agent Passport System**: 24★, TypeScript, pushed 2026-07-05; bring-your-own identity, monotonic delegation narrowing, gateway enforcement, and signed receipts.
+- **Grantex**: 29★, TypeScript; delegated authorization, audit, scoped consent, and commerce-passport framing.
+- **Attestix**: 17★, Python; DID-based identity, W3C VCs, EU AI Act compliance, delegation chains, reputation, and MCP tooling.
+- **Hedera**: `did:hedera` method repo 28★, Java DID/VC SDK 35★, Agent Kit 64★; HCS/x402/agent tooling makes it more relevant than DID traction alone.
+
+Archon's answer should be sharper than "we also do DID/VC." The line is: **`did:cid` as sovereign root authority, with verifiable delegation, receipts, service endpoints, Dmail/agent communication, and Lightning/payment-aware operation layered around it.**
+
 ---
 
 ## Competitive map
 
 | Competitor | Category | Competitive overlap with Archetech | Threat level |
 |---|---|---:|---:|
+| [Bindu](#bindu) | Agent identity + communication + auth + payments platform | Agent DID, A2A, mTLS/OAuth, signatures, x402 payments, inbox/operator UX | High |
+| [Agent Passport System](#agent-passport-system) | Agent authority / gateway enforcement / signed receipts | Delegation narrowing, BYO DID/SPIFFE/OAuth identity, receipts, policy enforcement | High |
+| [ANP / AgentConnect](#anp--agentconnect) | Agent communication protocol + SDK | DID-WBA auth, HTTP signatures, agent discovery/communication | High |
+| [Grantex](#grantex) | Delegated authorization + commerce passport | Scoped consent, audit, payment-control, agent commerce authority | High |
+| [Hedera / did:hedera](#hedera--didhedera) | DID method + enterprise agent/payment/audit substrate | DID/VC SDKs, HCS audit, Agent Kit, MCP, x402/HBAR/HTS payment rails | Medium/High |
+| [Urbit](#urbit) | Personal server OS + P2P network + decentralized identity | Sovereign compute, Urbit ID, P2P routing, persistent agent/server identity | Medium/High |
 | [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | DID/VC issuance, acceptance, trust networks, mDLs | High |
 | [SpruceID](#spruceid) | Government digital trust infrastructure | Wallets, credentials, identity infrastructure, public-sector trust | High |
 | [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC platform / wallet SDK / reusable ID | Credential ecosystems, governance, monetization, private networks, credential issuance, wallets | High |
@@ -70,14 +100,17 @@ The most important competitive question is therefore:
 | [Affinidi](#affinidi) | Trust fabric / agent gateway | VC platform, trust networks, AI-agent gateway positioning | High |
 | [Synonym / Pubky](#synonym--pubky) | Bitcoin-native P2P web / sovereign identity / Lightning infra | Key-based identity, P2P data routing, self-custody, Lightning, credible exit | Medium/High |
 | [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | Public-key identity, relays, NIP-05 names, Lightning zaps, Nostr Wallet Connect | High |
-| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | Enterprise verifiable credentials and Microsoft ecosystem adoption | Medium/High |
 | [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | Sybil resistance, compliance, human-proof claims around agents | Medium/High |
+| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | Enterprise verifiable credentials and Microsoft ecosystem adoption | Medium/High |
 | [Trinsic](#trinsic) | Digital ID gateway / acceptance network | Digital ID acceptance, verification, developer APIs | Medium |
 | [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol | DID protocol/network competition | Medium |
 | [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | Decentralized identity/data layer | Medium |
 | [Okta / Auth0](#okta--auth0) | Enterprise IAM / AI agent identity | Agent identity, access governance, Zero Trust | Medium |
 | [Incode](#incode) | Identity verification / agentic identity | Verification, fraud, agentic identity modules | Medium |
 | [Prove](#prove) | Identity verification / human assurance | Verification, fraud prevention, human assurance | Low/Medium |
+| [Attestix](#attestix) | Compliance + attestation stack | DID identity, W3C VCs, delegation chains, reputation, EU AI Act compliance | Medium |
+| [AgenticMail](#agenticmail) | Real-world communications infrastructure for agents | Email/SMS/phone-call transport; potential DID-backed provenance layer | Medium |
+| [AgentNexus](#agentnexus) | Agent team communication/workflow substrate | DID identity, relay, encrypted messaging, artifacts, authorization, receipts | Medium |
 
 ---
 
@@ -309,6 +342,202 @@ The most important competitive question is therefore:
 
 ---
 
+## Agent authority infrastructure competitors
+
+### Bindu
+
+**Repository:** <https://github.com/GetBindu/Bindu>
+**Docs:** <https://docs.getbindu.com>
+**GitHub snapshot:** 7234★, Python, 411 forks, pushed 2026-06-29; companion `create-bindu-agent` template 31★.
+
+**Positioning observed:** Bindu describes itself as "the identity, communication, and payments layer for AI agents." The docs/README surface agent identity, A2A JSON-RPC, DID signatures, mTLS via step-ca, OAuth/Hydra, inbox/operator UX, skills, gateway behavior, and x402 payment middleware.
+
+**Why it matters:** Bindu is now the clearest narrative/DX competitor for agent identity. It packages identity with working agent-server plumbing and payment gating, so developers can experience "agent identity" as a framework feature rather than as DID theory.
+
+**Where Bindu competes with Archon**
+
+- Agent DID and service discovery
+- Agent-to-agent communication and inbox UX
+- Signed requests and mTLS/OAuth authentication
+- Payment-gated execution via x402
+- Developer onboarding and framework packaging
+
+**Archon differentiation**
+
+- Bindu's architecture appears platform/Hydra-centered; Archon should emphasize `did:cid` as portable sovereign root authority.
+- Archon can bridge Bindu-style A2A/DX while supplying decentralized identity state, registries, credentials, and Lightning-native payment authority.
+- The right stance is bridge plus contrast: Bindu as app/platform rail; Archon as substrate-independent root authority.
+
+---
+
+### Agent Passport System
+
+**Repository:** <https://github.com/aeoess/agent-passport-system>
+**Website:** <https://aeoess.com/passport.html>
+**GitHub snapshot:** 24★, TypeScript, 11 forks, pushed 2026-07-05.
+
+**Positioning observed:** Agent Passport System describes an open protocol for AI-agent accountability: cryptographic identity, delegation that can only narrow, gateway enforcement, signed receipts for every action, and bring-your-own identity support for `did:key`, `did:web`, SPIFFE SVIDs, OAuth tokens, and native `did:aps`.
+
+**Why it matters:** APS directly pressures Archon's authority/receipt story. It does not merely create identifiers; it explains how authority is constrained before execution and evidenced afterward.
+
+**Where APS competes with Archon**
+
+- Scoped delegation and capability narrowing
+- Gateway enforcement
+- Signed allow/deny/action receipts
+- Policy and reputation framing
+- Commerce preflight / payment guardrails
+
+**Archon differentiation**
+
+- APS is strongest as an enforcement/accountability layer. Archon's wedge is sovereign root identity and decentralized registry/discovery beneath enforcement.
+- Archon should be able to issue or verify authority that APS-style gateways enforce, while keeping `did:cid` as the root identity rather than adopting `did:aps` as anchor.
+
+---
+
+### ANP / AgentConnect
+
+**Repositories:** <https://github.com/agent-network-protocol/AgentNetworkProtocol> · <https://github.com/agent-network-protocol/anp>
+**GitHub snapshot:** ANP 1341★, HTML/docs, pushed 2026-06-27; AgentConnect 327★, Python, pushed 2026-07-05.
+
+**Positioning observed:** ANP positions as an open protocol for agent communication and a collaboration network for intelligent agents. AgentConnect is the implementation path, with DID-WBA authentication, HTTP signatures, Ed25519 Multikey binding keys, and SDK behavior.
+
+**Why it matters:** ANP owns more protocol mindshare than most small DID-agent repos. AgentConnect makes it implementation-relevant, not just a spec narrative.
+
+**Where ANP / AgentConnect competes with Archon**
+
+- Agent communication protocol surface
+- DID-based web authentication via `did:wba`
+- Agent discovery and auth conventions
+- Developer mental model for "how agents connect"
+
+**Archon differentiation**
+
+- ANP is communication-first; Archon should be authority-first: DID lifecycle, registry-backed updates, credentials, services, and payment authority.
+- Best framing: Archon can bridge to ANP/AgentConnect as a root-authority and credential substrate for agent communication.
+
+---
+
+### Grantex
+
+**Repository:** <https://github.com/mishrasanjeev/grantex>
+**Website:** <https://grantex.dev>
+**GitHub snapshot:** 29★, TypeScript, pushed 2026-07-03.
+
+**Positioning observed:** Grantex describes identity, authorization, and audit infrastructure for AI agents — the "OAuth moment" for the agentic internet — with scoped, revocable permissions, cryptographic identity, immutable audit trails, commerce consent/passport/policy/payment-control language, and SDK/cloud-service packaging.
+
+**Why it matters:** Grantex shows that the agent-identity market is converging on delegated authority and commercial action, not only identity documents.
+
+**Where Grantex competes with Archon**
+
+- Delegated authorization
+- Scoped consent and revocation
+- Commerce/payment-control authority
+- Audit trail and accountability
+- Developer SDK onboarding
+
+**Archon differentiation**
+
+- Grantex is authorization/commercial-action oriented rather than a decentralized DID-method substrate.
+- Archon should supply the durable sovereign identity and credential root a Grantex-like authorization layer can bind to.
+
+---
+
+### Hedera / did:hedera
+
+**Sources:** <https://github.com/hashgraph/did-method> · <https://github.com/hashgraph/did-sdk-java> · <https://github.com/hashgraph/hedera-agent-kit-js>
+**GitHub snapshot:** did-method 28★, did-sdk-java 35★, Hedera Agent Kit 64★; Agent Kit pushed 2026-07-03.
+
+**Positioning observed:** Hedera combines a `did:hedera` DID method/spec and Java DID/VC SDK with newer AI-agent infrastructure: Agent Kit, hosted MCP/tooling, HCS audit/consensus primitives, and x402-style payment positioning for HBAR/HTS rails.
+
+**Why it matters:** Hedera is not just a DID-method competitor. It can tell an enterprise story around governance, consensus timestamps, audit logs, payment rails, and agent tooling.
+
+**Where Hedera competes with Archon**
+
+- DID method and VC SDK support
+- Registry/anchoring via Hedera Consensus Service
+- Agent tooling and MCP integration
+- Payment/audit/compliance substrate
+- Enterprise procurement comfort
+
+**Archon differentiation**
+
+- Hedera anchors identity/audit to a public DLT and council-governed ecosystem. Archon should emphasize content-addressed `did:cid`, substrate independence, Hyperswarm-style discovery, and optional rather than mandatory settlement anchors.
+- Hedera can also be an integration surface for optional audit anchoring or paid APIs.
+
+---
+
+### Urbit
+
+**Repositories:** <https://github.com/urbit/urbit> · <https://github.com/urbit/vere>
+**Website:** <https://urbit.org>
+**GitHub snapshot:** `urbit/urbit` 3615★, Hoon, pushed 2026-07-05; `urbit/vere` 79★, C, pushed 2026-07-03.
+
+**Positioning observed:** Urbit is a personal server OS, P2P network, and decentralized identity standard. Urbit ID / Azimuth gives ships cryptographic identity and routing/discovery inside the Urbit network.
+
+**Why it matters:** Urbit competes at substrate level: identity plus persistent personal compute plus P2P networking. For builders who believe agents should live on sovereign personal servers, Urbit already occupies that mental territory.
+
+**Where Urbit competes with Archon**
+
+- Decentralized identity
+- Persistent sovereign server/agent identity
+- P2P networking and discovery
+- Application/runtime substrate
+- Cultural legitimacy around personal compute
+
+**Archon differentiation**
+
+- Archon can be lighter and more composable: DID/VC-native authority, service endpoints, credentials, payment-aware delegation, and receipts without requiring adoption of a whole OS/network.
+- Urbit-hosted services could still consume Archon credentials or expose Archon DIDs.
+
+---
+
+### AgenticMail
+
+**Repository:** <https://github.com/agenticmail/agenticmail>
+**GitHub snapshot:** 163★, TypeScript, pushed 2026-06-21.
+
+**Positioning observed:** AgenticMail provides email, SMS, and phone-call infrastructure for AI agents. It is transport infrastructure, not a DID method.
+
+**Why it matters:** Real-world communication rails often win adoption before abstract identity protocols. If agents can already send email, texts, and calls, identity/authority layers must explain how they improve provenance and safety over those channels.
+
+**Archon differentiation**
+
+- Treat AgenticMail-like systems as integration targets: DID-backed signatures, verifiable provenance, credentials, Dmail/bridge compatibility, and payment receipts over ordinary communication rails.
+
+---
+
+### Attestix
+
+**Repository:** <https://github.com/VibeTensor/attestix>
+**Website:** <https://attestix.io>
+**GitHub snapshot:** 17★, Python, pushed 2026-07-02.
+
+**Positioning observed:** Attestix describes attestation infrastructure for AI agents: DID-based identity, W3C Verifiable Credentials, EU AI Act compliance, delegation chains, reputation scoring, and 47 MCP tools across 9 modules.
+
+**Why it matters:** Compliance may become the first buyer-friendly reason to adopt agent identity. Attestix is likely more complementary than hostile, but it competes for the same "agent trust" budget and mindshare.
+
+**Archon differentiation**
+
+- Archon should supply sovereign identity and credential substrate; Attestix-style systems can supply compliance workflow packaging, reputation, and reporting.
+
+---
+
+### AgentNexus
+
+**Repository:** <https://github.com/kevinkaylie/AgentNexus>
+**GitHub snapshot:** 9★, Python, pushed 2026-07-02.
+
+**Positioning observed:** AgentNexus describes decentralized communication infrastructure for AI agents: DID identity, federated discovery, E2E encryption, session management, MCP-native integration, team workflows, artifacts, authorization, and handoff receipts.
+
+**Why it matters:** It frames identity as part of collaborative agent workflow rather than standalone credential issuance. That is close to where real agent operations are headed.
+
+**Archon differentiation**
+
+- AgentNexus-like workflows are natural consumers of Archon credentials, Dmail, Lightning settlement, and signed work receipts. Archon should not compete feature-for-feature as a team-workflow app; it should be the authority rail underneath.
+
+---
+
 ## Enterprise and platform incumbents
 
 ### Microsoft Entra Verified ID
@@ -488,16 +717,17 @@ The competitive wedge is sovereignty:
 - Is identity portable across registries and networks?
 - Can credentials, payments, and service endpoints compose around the same identity root?
 
-### 4. Treat AI-agent identity as the next battleground
+### 4. Treat AI-agent authority as the next battleground
 
-The market is moving from human credentials toward agent authorization, delegation, audit, commerce, and human-proof gates. Affinidi, Indicio, Okta, Incode, Prove, and Self are already leaning into adjacent pieces of this.
+The market has moved from human credentials toward agent authorization, delegation, audit, commerce, communication, enforcement, and human-proof gates. Bindu, Agent Passport System, ANP/AgentConnect, Grantex, Hedera, Attestix, AgentNexus, Affinidi, Indicio, Okta, Incode, Prove, and Self are already leaning into adjacent pieces of this.
 
 Archon should be explicit that agent identity needs more than API keys and enterprise IAM:
 
 - durable identity
 - cryptographic proofs
 - verifiable delegation
-- auditable operations
+- gateway/enforcement compatibility
+- signed receipts and auditable operations
 - payment authority
 - cross-domain trust
 - decentralized recovery and portability
@@ -509,6 +739,10 @@ Some competitors can become issuer/verifier integrations:
 - Incode / Prove / Self can prove a human, document, age, nationality, or sybil-resistance property and feed that proof into credentials.
 - Trinsic can act as an acceptance gateway for external digital IDs.
 - Microsoft or Spruce-style credentials can be verified or bridged into Archon agents.
+- Bindu-style A2A/inbox/gateway patterns can use Archon as sovereign root authority instead of platform-bound DID metadata.
+- Agent Passport System, Grantex, Airlock, and similar gateway layers can enforce Archon-issued delegated authority and emit receipts back to Archon-linked identities.
+- ANP / AgentConnect can be bridged as a communication layer while Archon supplies DID/VC authority and registry-backed service state.
+- Hedera can be an optional audit/payment anchor without becoming Archon's root of authority.
 - cheqd + Dock / Truvera-style credential monetization and credential-tooling concepts can inform Archon payment and issuer/verifier patterns.
 - Synonym/Pubky-style key routing, PKDNS, and Lightning/payment products can inform Archon's resolver, agent identity, and Lightning service narratives.
 - Nostr identities, NIP-05 names, relays, zaps, and Nostr Wallet Connect can be treated as integration surfaces for Archon DIDs and agent payment authority.
@@ -525,19 +759,37 @@ Archetech should not try to beat every identity company at their own game. The w
 
 If Archetech keeps that line clear, the competitive landscape becomes manageable:
 
-- **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID** are credential and trust-platform competitors.
+- **Bindu / APS / ANP-AgentConnect / Grantex / Attestix / AgentNexus** are agent-authority and agent-communication competitors or bridge targets.
+- **Hedera / Urbit / KILT / Ceramic / Synonym-Pubky / Nostr** are protocol/substrate competitors or adjacent sovereign infrastructure.
+- **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID / Affinidi** are credential and trust-platform competitors.
 - **Microsoft / Okta** are enterprise incumbents.
-- **Affinidi** is a trust-network and agent-adjacent competitor.
 - **Trinsic / Incode / Prove / Self** are verification, human-proof, and gateway competitors.
-- **KILT / Ceramic / Synonym-Pubky / Nostr** are protocol/substrate competitors.
 
-Archon's strongest differentiator is the combination of **decentralized DID lifecycle + node/service architecture + agent-native trust + payment-aware infrastructure**. Self-style human proofs should be framed as inputs or gates, not substitutes for agent identity and authority. That should be the center of Archetech's external story.
+Archon's strongest differentiator is the combination of **decentralized DID lifecycle + node/service architecture + agent-native authority + signed receipts + payment-aware infrastructure**. Self-style human proofs should be framed as inputs or gates, not substitutes for agent identity and authority. Bindu-style app platforms, APS/Grantex-style gateways, and Hedera-style audit/payment substrates should be treated as integration surfaces unless they try to become the root of authority. That should be the center of Archetech's external story.
 
 ---
 
 ## Source links checked
 
 - Archetech: <https://archetech.com>
+- Bindu: <https://github.com/GetBindu/Bindu>
+- Bindu docs: <https://docs.getbindu.com>
+- create-bindu-agent: <https://github.com/GetBindu/create-bindu-agent>
+- Agent Passport System: <https://github.com/aeoess/agent-passport-system>
+- Agent Passport System website: <https://aeoess.com/passport.html>
+- ANP: <https://github.com/agent-network-protocol/AgentNetworkProtocol>
+- AgentConnect: <https://github.com/agent-network-protocol/anp>
+- Grantex: <https://github.com/mishrasanjeev/grantex>
+- Grantex website: <https://grantex.dev>
+- Hedera DID method: <https://github.com/hashgraph/did-method>
+- Hedera DID SDK Java: <https://github.com/hashgraph/did-sdk-java>
+- Hedera Agent Kit: <https://github.com/hashgraph/hedera-agent-kit-js>
+- Urbit: <https://urbit.org>
+- urbit/urbit: <https://github.com/urbit/urbit>
+- urbit/vere: <https://github.com/urbit/vere>
+- AgenticMail: <https://github.com/agenticmail/agenticmail>
+- Attestix: <https://github.com/VibeTensor/attestix>
+- AgentNexus: <https://github.com/kevinkaylie/AgentNexus>
 - Archon documentation: <https://archetech.com/archon/>
 - Archon white paper: <https://archetech.com/archon/WHITEPAPER.html>
 - `did:cid` method specification: <https://archetech.com/archon/scheme.html>
