@@ -6,9 +6,10 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-07-05 13:15 EDT
+**Last updated:** 2026-07-12 11:05 EDT
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
+**Latest refresh log:** [2026-07-12 refresh](/research/archetech-competitive-analysis/2026-07-12-refresh/).
 
 ## Executive summary
 
@@ -68,7 +69,7 @@ That second question belongs on the Archon page.
 ### MATTR
 
 **Website:** <https://mattr.global/>
-**Positioning observed:** MATTR describes TrustTech solutions for decentralized identity and verifiable data, including issuer, acceptance, network, integrator, and mobile-driver-license capabilities.
+**Positioning observed:** MATTR's live site title says "TrustTech solutions - where high assurance meets convenience." The page presents decentralized identity / verifiable-data trust infrastructure rather than AI-agent-specific decentralized ID.
 
 **Why it matters:** MATTR is one of the cleanest enterprise market-pressure comps for Archetech. It does not directly compete on decentralized ID for AI agents, but it speaks the language of high-assurance credentials, trust networks, verifiable data, and scalable identity infrastructure.
 
@@ -91,7 +92,7 @@ That second question belongs on the Archon page.
 ### SpruceID
 
 **Website:** <https://spruceid.com/>
-**Positioning observed:** SpruceID positions as digital trust infrastructure for government, including state-issued IDs, government wallets, identity gateway/SSO, modernization services, fraud prevention, and privacy-preserving data.
+**Positioning observed:** SpruceID's live metadata says it provides "Digital Trust Infrastructure for Government" and helps governments design, integrate, and operate secure identity, verification, and data-exchange systems across legacy platforms.
 
 **Why it matters:** SpruceID is probably the strongest public-sector SSI market-pressure comp. It does not directly compete on decentralized ID for AI agents, but it has credibility in government-grade digital identity and wallets.
 
@@ -114,7 +115,7 @@ That second question belongs on the Archon page.
 ### cheqd + Dock / Truvera alliance
 
 **Websites:** <https://cheqd.io/> · <https://www.dock.io/>
-**Positioning observed:** cheqd positions around monetising customer credentials, trusted data ecosystems, commercial models, cheqd Studio, private networks, verifiable AI, and SSI/Web3 identity. Dock Labs / Truvera presents APIs and SDKs for verifiable credentials, white-label wallets, reusable ID credentials, biometric-bound credentials, mDL verification, and credential monetization.
+**Positioning observed:** cheqd's live site title says "Monetise Customer Credentials & Govern Trusted Data Ecosystems." Dock Labs presents a unified identity experience. Together they remain SSI/commercial trusted-data pressure, not a clean direct AI-agent decentralized-ID competitor.
 
 **Merger / alliance status:** cheqd and Dock announced an alliance and merger path in 2024. Dock's FAQ says the Dock and cheqd tokens and blockchains are merging to form a Decentralized ID alliance; existing `$DOCK` tokens are converted into `$CHEQ`, and Dock on-chain assets migrate to the cheqd blockchain. cheqd's update says the merger was approved by both communities, with Dock historical and future transactions migrating to cheqd.
 
@@ -162,7 +163,7 @@ That second question belongs on the Archon page.
 ### Indicio
 
 **Website:** <https://indicio.tech/>
-**Positioning observed:** Indicio describes Indicio Proven as a trust and identity orchestration layer for global digital interaction: human-to-human, human-to-machine, and machine-to-machine. It combines document verification, biometric authentication, verifiable credentials, wallets, and interoperability.
+**Positioning observed:** Indicio's live metadata describes Indicio Proven as an interoperable verifiable-credentials platform with biometric and document authentication deployed at country scale. Its public language remains close to machine-to-machine trust without being agent-DID-native.
 
 **Why it matters:** Indicio is one of the most relevant business competitors because it explicitly speaks the language of human-to-machine and machine-to-machine trust, not just human identity.
 
@@ -185,7 +186,7 @@ That second question belongs on the Archon page.
 ### Affinidi
 
 **Website:** <https://www.affinidi.com/>
-**Positioning observed:** Affinidi describes privacy-first infrastructure and open standards for interoperable trust ecosystems, including Affinidi Trust Fabric, Agent Gateway, Radix trust network/registries, Elements, Forge, Portal, documentation, and GitHub/community resources.
+**Positioning observed:** Affinidi's live metadata says it builds privacy-first infrastructure and open standards to improve connectivity between individuals, businesses, systems, and AI agents. This remains one of the clearest company-level narrative pressures on Archetech's agent-trust positioning.
 
 **Why it matters:** Affinidi is a serious narrative competitor because it has explicit AI-agent trust positioning and broad trust-fabric language.
 
@@ -304,7 +305,7 @@ That second question belongs on the Archon page.
 
 **Website:** <https://self.xyz>
 **Repository:** <https://github.com/selfxyz/self>
-**GitHub snapshot:** 1251★, Circom, pushed 2026-07-03, checked 2026-07-05.
+**GitHub snapshot:** 1253★, Circom, pushed 2026-07-12, checked 2026-07-12.
 
 **Positioning observed:** Self's public site title/description says "Build for humans and AI agents" and describes identity and agent infrastructure accessible across 180+ countries. Its README describes an identity wallet for generating privacy-preserving proofs from government-issued IDs such as passports, ID cards, and Aadhaar cards.
 
@@ -331,7 +332,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Hedera
 
 **Sources:** <https://github.com/hashgraph/did-method> · <https://github.com/hashgraph/did-sdk-java> · <https://github.com/hashgraph/hedera-agent-kit-js>
-**GitHub snapshot:** did-method 28★, did-sdk-java 35★, Hedera Agent Kit 64★; Agent Kit pushed 2026-07-03.
+**GitHub snapshot:** did-method 28★, did-sdk-java 36★, Hedera Agent Kit 64★; Agent Kit pushed 2026-07-09, checked 2026-07-12.
 
 **Why it matters:** Hedera can tell an enterprise story around governance, consensus timestamps, audit logs, payment rails, DID/VC SDKs, Agent Kit, MCP, and x402/HBAR/HTS rails. That makes it company-level ecosystem pressure even when the direct DID-method comparison belongs on the Archon page.
 
@@ -345,7 +346,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### KILT / BOTLabs
 
 **Website:** <https://www.kilt.io/>
-**Positioning observed:** KILT has been a decentralized identity protocol ecosystem; its public site now points toward primer.systems.
+**Positioning observed:** KILT's historical public identity was a decentralized identity protocol ecosystem. On 2026-07-12, `kilt.io` / `www.kilt.io` returned 404 during refresh; `primer.systems` was live with the title "Primer Systems - x402 and Privacy Architecture." Treat this as lower-current-visibility ecosystem pressure unless KILT-specific product pages reappear.
 
 **Why it matters:** KILT is a decentralized identity protocol/network competitor, especially for teams that want Web3-native identity rails.
 
@@ -373,6 +374,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 
 **Websites:** <https://synonym.to/> · <https://pubky.org/> · <https://blocktank.to/> · <https://bitkit.to/>
 **Key repositories checked:** <https://github.com/pubky/pkarr> · <https://github.com/pubky/pkdns> · <https://github.com/pubky/pubky-core> · <https://github.com/synonymdev/bitkit-core>
+**GitHub snapshot:** pkarr 433★ pushed 2026-07-09; pkdns 191★ pushed 2026-03-23; pubky-core 82★ pushed 2026-07-10; bitkit-core 5★ pushed 2026-07-10; checked 2026-07-12.
 
 **Why it matters:** Synonym/Pubky is strategic adjacent competition, not a W3C DID/VC company peer. It overlaps with Archetech's deeper thesis: sovereign identity, P2P routing, user-controlled data, credible exit, Bitcoin/Lightning-native commerce, and coordination without Big Tech/Big Banks/Big States.
 
@@ -386,6 +388,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Nostr ecosystem
 
 **Websites / specs:** <https://nostr.com/> · <https://github.com/nostr-protocol/nips>
+**GitHub snapshot:** `nostr-protocol/nips` 3010★, pushed 2026-07-02, checked 2026-07-12.
 
 **Why it matters:** Nostr already gives users and agents a portable public-key identity, relay-based distribution, social graph conventions, human-readable identity mapping, and Bitcoin/Lightning payment UX. It is not a company peer, but it is real ecosystem gravity.
 
@@ -400,7 +403,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 
 **Repositories:** <https://github.com/urbit/urbit> · <https://github.com/urbit/vere>
 **Website:** <https://urbit.org>
-**GitHub snapshot:** `urbit/urbit` 3615★, Hoon, pushed 2026-07-05; `urbit/vere` 79★, C, pushed 2026-07-03.
+**GitHub snapshot:** `urbit/urbit` 3616★, Hoon, pushed 2026-07-10; `urbit/vere` 79★, C, pushed 2026-07-12; checked 2026-07-12.
 
 **Why it matters:** Urbit is a personal server OS, P2P network, and decentralized identity standard. It competes at substrate/narrative level for builders who think agents should live on sovereign personal servers.
 
@@ -510,7 +513,8 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Hedera DID method: <https://github.com/hashgraph/did-method>
 - Hedera DID SDK Java: <https://github.com/hashgraph/did-sdk-java>
 - Hedera Agent Kit: <https://github.com/hashgraph/hedera-agent-kit-js>
-- KILT: <https://www.kilt.io/>
+- KILT historical site: <https://www.kilt.io/> (returned 404 on 2026-07-12)
+- Primer Systems: <https://primer.systems/>
 - 3Box Labs / Ceramic: <https://www.3boxlabs.com/>
 - Synonym: <https://synonym.to/>
 - Pubky: <https://pubky.org/>
@@ -524,3 +528,4 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Urbit: <https://urbit.org>
 - urbit/urbit: <https://github.com/urbit/urbit>
 - urbit/vere: <https://github.com/urbit/vere>
+- 2026-07-12 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-07-12-refresh/>
