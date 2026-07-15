@@ -6,10 +6,10 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-07-12 11:05 EDT
+**Last updated:** 2026-07-15 12:25 EDT
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
-**Latest refresh log:** [2026-07-12 refresh](/research/archetech-competitive-analysis/2026-07-12-refresh/).
+**Latest refresh log:** [2026-07-15 refresh](/research/archetech-competitive-analysis/2026-07-15-refresh/).
 
 ## Executive summary
 
@@ -19,7 +19,7 @@ It is **not** the Archon protocol watchlist. Agent/protocol projects such as Bin
 
 Archetech's adjacent market pressure clusters into five groups:
 
-1. **Enterprise decentralized identity / verifiable data platforms** — MATTR, SpruceID, Indicio, Privado ID, Affinidi, cheqd + Dock / Truvera.
+1. **Enterprise decentralized identity / verifiable data platforms** — MATTR, SpruceID, Indicio, Soulverse, Privado ID, Affinidi, cheqd + Dock / Truvera.
 2. **Enterprise incumbents and IAM platforms** — Microsoft Entra Verified ID, Okta/Auth0.
 3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz.
 4. **Blockchain / trust-network ecosystems** — Hedera, KILT/BOTLabs, Ceramic/3Box Labs, cheqd.
@@ -49,6 +49,7 @@ That second question belongs on the Archon page.
 | [Privado ID](#privado-id) | Privacy-first identity platform | No | Medium/High | Can win privacy-preserving app identity and machine/human identity budgets. |
 | [Indicio](#indicio) | Identity orchestration / VC platform | No | Medium/High | Can sell mature managed trust infrastructure and machine-to-machine trust language. |
 | [Affinidi](#affinidi) | Trust fabric / agent gateway | Partial | High | Can compete on broad trust-fabric and AI-agent gateway positioning. |
+| [Soulverse](#soulverse) | Global identity / trust infrastructure + pre-execution validation | Partial | Medium/High | Can win institutional trust-infrastructure mindshare around sovereign identity, VC wallets, settlement/execution validation, and AI-agent governance. |
 | [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | No | High | Can absorb enterprise VC adoption through Microsoft procurement gravity. |
 | [Okta / Auth0](#okta--auth0) | Enterprise IAM / AI-agent identity | No | Medium/High | Can define buyer expectations for AI-agent identity as IAM/governance. |
 | [Trinsic](#trinsic) | Digital ID gateway / acceptance network | No | Medium | Can satisfy identity-verification demand before buyers reach SSI infrastructure. |
@@ -203,6 +204,32 @@ That second question belongs on the Archon page.
 
 - Affinidi's framing is broad trust-platform infrastructure.
 - Archetech's advantage is sharper sovereign infrastructure: `did:cid`, agent/node operations, Dmail/service mediators, and payment-aware authority.
+
+---
+
+### Soulverse
+
+**Website:** <https://www.soulverse.world/>
+**Positioning observed:** Soulverse's live metadata says "For Global Identity and Trust Infrastructure" and frames sovereign identity as the root layer for institutional systems. The homepage presents Soulverse as pre-execution validation infrastructure that resolves identity, credentials, authority, governance, rules, and settlement before cross-boundary actions execute.
+
+**Ecosystem signal observed:** Indicio announced on 2025-04-30 that Soulverse joined as a Network Partner and would use Indicio MainNet for identity-ledger transactions. The announcement describes Soulverse's Soul Super Wallet as a self-sovereign vault for verifiable credentials, digital assets, fiat currency, and biometric authentication.
+
+**Why it matters:** Soulverse is a clean Archetech-level market-pressure comp because it sells the same institutional trust-infrastructure altitude: sovereign identity, credentials, trust protocol, settlement/execution validation, governments, enterprises, financial institutions, and AI-agent governance. It is not yet verified as a high-traction public developer ecosystem, but the company narrative can compete for budgets and credibility before buyers understand Archon's `did:cid` distinction.
+
+**Where Soulverse competes with Archetech**
+
+- Sovereign identity and VC infrastructure
+- Institutional trust/governance architecture
+- Identity-bound settlement and audit-trail language
+- Wallet and biometric credential narratives
+- AI-agent governance / credential-gated execution positioning
+- Indicio ecosystem credibility
+
+**Archetech differentiation**
+
+- Soulverse currently reads as institutional trust-protocol and wallet infrastructure; Archetech should stay sharper on autonomous agents, decentralized nodes, service authority, and paid work settlement.
+- Public SDK/package availability for Soulverse was not verified on 2026-07-15: the checked npm packages returned 404 and GitHub searches found no relevant public SDK repos.
+- Archetech's stronger wedge remains `did:cid` as portable root authority plus Dmail, decentralized discovery, service mediators, and Lightning/payment-aware receipts.
 
 ---
 
