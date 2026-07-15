@@ -6,7 +6,7 @@ permalink: /research/archetech-competitive-analysis/2026-07-15-refresh/
 
 # Archetech Competitive Analysis - 2026-07-15 Refresh
 
-**Refresh timestamp:** 2026-07-15 12:25 EDT  
+**Refresh timestamp:** 2026-07-15 12:45 EDT<br>
 **Scope:** Archetech company/business/platform competitive analysis only. Archon product/protocol implications are tracked separately on the [Archon Competitive Analysis](/research/archon-competitive-analysis/) page.
 
 ## What changed
@@ -14,6 +14,7 @@ permalink: /research/archetech-competitive-analysis/2026-07-15-refresh/
 - Added **Soulverse** to the Archetech competitive map as a company/platform-level market-pressure competitor.
 - Classified Soulverse as **partial** direct AI-agent decentralized-ID competition and **medium/high** Archetech market pressure.
 - Kept the page at company/business/platform level; the agent-governance technical watchlist details live on the Archon page.
+- Added Cypher's 2026-07-15 live-presentation report that the `did:soul` team said decentralization is being considered for the future; updated interpretation so current `did:soul` is not treated as externally verified decentralized infrastructure.
 
 ## Evidence observed
 
@@ -33,9 +34,10 @@ Availability caveat:
 
 - Checked named npm packages on 2026-07-15: `@soulverse/soul-id-sdk`, `@soulverse/trust-protocol-sdk`, `@soulverse/soul-ai-agent-sdk`, `@soulverse/credential-sdk`, and `@soulverse/soulbridge-sdk` returned 404.
 - GitHub searches for the named SDK/package strings returned no relevant public repos.
+- Cypher reported on 2026-07-15, while listening to a Soulverse / `did:soul` presentation, that the team described decentralization as something they are considering for the future. Current `did:soul` decentralization should therefore be treated as not implemented or not externally verified.
 
 ## Interpretation
 
-Soulverse belongs on the Archetech map because it competes for institutional trust-infrastructure mindshare: sovereign identity, VC wallets, governance, settlement/execution validation, biometric wallet narratives, and AI-agent governance. The current public evidence supports **market-pressure tracking**, not a claim that Soulverse has a verified open developer ecosystem.
+Soulverse belongs on the Archetech map because it competes for institutional trust-infrastructure mindshare: sovereign identity, VC wallets, governance, settlement/execution validation, biometric wallet narratives, and AI-agent governance. The current public and live-presentation evidence supports **market-pressure tracking**, not a claim that Soulverse has a verified open developer ecosystem or a currently decentralized `did:soul` root.
 
 Archetech should differentiate by staying narrower and more operational: autonomous agents, decentralized nodes, `did:cid`, service authority, Dmail/service mediators, and Lightning/payment-aware receipts.

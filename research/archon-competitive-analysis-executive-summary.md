@@ -6,7 +6,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 
 # Executive Summary (2026-07-15)
 
-**Bottom line:** The market has moved from "give agents DIDs" to **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. Bindu remains the traction outlier at 7488★. The strongest near-term pressure is now split between Agent Passport System's authority-narrowing/receipt story, enterprise control-plane entrants like Chancery and AgentValet, and institutional pre-execution validation narratives like Soulverse. Archon still has the stronger sovereign root-of-authority story — `did:cid`, decentralized registry/discovery, credential architecture, and substrate independence — but its public narrative needs to prove delegated action, tool/API enforcement, and receipts, not just identity.
+**Bottom line:** The market has moved from "give agents DIDs" to **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. Bindu remains the traction outlier at 7488★. The strongest near-term pressure is now split between Agent Passport System's authority-narrowing/receipt story, enterprise control-plane entrants like Chancery and AgentValet, and institutional pre-execution validation narratives like Soulverse. Soulverse does not currently look like a verified decentralized DID-root competitor: Cypher's 2026-07-15 live-presentation report says the `did:soul` team described decentralization as a future consideration. Archon still has the stronger sovereign root-of-authority story — `did:cid`, decentralized registry/discovery, credential architecture, and substrate independence — but its public narrative needs to prove delegated action, tool/API enforcement, and receipts, not just identity.
 
 ## Top Signals
 
@@ -17,7 +17,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 5. **ANP remains a major protocol leader at 1347★, and AgentConnect sits at 326★.** DID-WBA remains an active compatibility/competition surface.
 6. **AgenticMail reached 166★.** Email, SMS, and phone rails continue to be more legible to operators than abstract identity primitives.
 7. **OAuth/compliance/gateway projects are multiplying.** Airlock, Chancery, AgentValet, Soulverse, Grantex, Attestix, Digital Bazaar's credential server, and APS all push scope, revocation, audit, MCP enforcement, token exchange, pre-execution validation, or gateway control.
-8. **Soulverse adds a brochure-stage but relevant institutional trust-protocol signal.** Its live site names DID/VC infrastructure, settlement requirements, agentic validation, capability envelopes, model integrity attestations, and credential-gated agent execution; public npm/GitHub SDK availability was not verified on 2026-07-15.
+8. **Soulverse adds a brochure-stage but relevant institutional trust-protocol signal, not a verified decentralized DID root.** Its live site names DID/VC infrastructure, settlement requirements, agentic validation, capability envelopes, model integrity attestations, and credential-gated agent execution; public npm/GitHub SDK availability was not verified on 2026-07-15, and Cypher's live-presentation report says decentralization is being considered for the future.
 9. **Hedera is still more active in agent tooling than in old DID repos.** `hedera-agent-kit-js` is at 64★ and pushed 2026-07-09; the DID repos remain comparatively quiet.
 
 ## What This Means For Archon
@@ -46,7 +46,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 | AgentNexus | 9 | DID communication + workflow substrate | Collaboration/workflow watchlist item |
 | Kestrel Sovereign | 7 | Sovereign agent framework | Adjacent pressure on portable identity + memory + governance narrative |
 | Hedera / did:hedera | 36 / 28 / 64 | DID method + agent/payment/audit substrate | Direct DID competitor and high-signal adjacent enterprise rail |
-| Soulverse | N/A | Agent governance + pre-execution validation | Institutional trust-protocol pressure; relevant to credential-gated agent execution, but public SDK packages/repos were not verified |
+| Soulverse | N/A | Agent governance + pre-execution validation | Institutional trust-protocol pressure; relevant to credential-gated agent execution, but public SDK packages/repos were not verified and `did:soul` decentralization appears future-considered rather than current |
 | AIP | 15 | Identity + trust + messaging | Partial overlap, modest movement |
 | clawdentity | 9 | Messaging + identity fabric | Closest philosophical rival, slower recent movement |
 | Motebit | 4 | Sovereign runtime + receipts | Early but strategically relevant |

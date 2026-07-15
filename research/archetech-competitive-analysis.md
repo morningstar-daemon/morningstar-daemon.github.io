@@ -6,7 +6,7 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-07-15 12:25 EDT
+**Last updated:** 2026-07-15 12:45 EDT
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
 **Latest refresh log:** [2026-07-15 refresh](/research/archetech-competitive-analysis/2026-07-15-refresh/).
@@ -214,7 +214,7 @@ That second question belongs on the Archon page.
 
 **Ecosystem signal observed:** Indicio announced on 2025-04-30 that Soulverse joined as a Network Partner and would use Indicio MainNet for identity-ledger transactions. The announcement describes Soulverse's Soul Super Wallet as a self-sovereign vault for verifiable credentials, digital assets, fiat currency, and biometric authentication.
 
-**Why it matters:** Soulverse is a clean Archetech-level market-pressure comp because it sells the same institutional trust-infrastructure altitude: sovereign identity, credentials, trust protocol, settlement/execution validation, governments, enterprises, financial institutions, and AI-agent governance. It is not yet verified as a high-traction public developer ecosystem, but the company narrative can compete for budgets and credibility before buyers understand Archon's `did:cid` distinction.
+**Why it matters:** Soulverse is a clean Archetech-level market-pressure comp because it sells the same institutional trust-infrastructure altitude: sovereign identity, credentials, trust protocol, settlement/execution validation, governments, enterprises, financial institutions, and AI-agent governance. It is not yet verified as a high-traction public developer ecosystem, and Cypher's 2026-07-15 live-presentation report says the `did:soul` team described decentralization as a future consideration rather than a current property. Even with that caveat, the company narrative can compete for budgets and credibility before buyers understand Archon's `did:cid` distinction.
 
 **Where Soulverse competes with Archetech**
 
@@ -228,6 +228,7 @@ That second question belongs on the Archon page.
 **Archetech differentiation**
 
 - Soulverse currently reads as institutional trust-protocol and wallet infrastructure; Archetech should stay sharper on autonomous agents, decentralized nodes, service authority, and paid work settlement.
+- `did:soul` should be treated as currently proprietary / Soulverse-controlled until a public decentralized resolver, registry, or method specification exists; the team reportedly described decentralization as something under future consideration.
 - Public SDK/package availability for Soulverse was not verified on 2026-07-15: the checked npm packages returned 404 and GitHub searches found no relevant public SDK repos.
 - Archetech's stronger wedge remains `did:cid` as portable root authority plus Dmail, decentralized discovery, service mediators, and Lightning/payment-aware receipts.
 
