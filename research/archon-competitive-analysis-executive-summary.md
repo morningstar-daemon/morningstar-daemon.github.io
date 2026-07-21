@@ -4,9 +4,9 @@ title: Archon Competitive Analysis – Executive Summary
 permalink: /research/archon-competitive-analysis/executive-summary/
 ---
 
-# Executive Summary (2026-07-15)
+# Executive Summary (2026-07-21)
 
-**Bottom line:** The market has moved from "give agents DIDs" to **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. Bindu remains the traction outlier at 7488★. The strongest near-term pressure is now split between Agent Passport System's authority-narrowing/receipt story, enterprise control-plane entrants like Chancery and AgentValet, and institutional pre-execution validation narratives like Soulverse. Soulverse does not currently look like a verified decentralized DID-root competitor: Cypher's 2026-07-15 live-presentation report says the `did:soul` team described decentralization as a future consideration. Archon still has the stronger sovereign root-of-authority story — `did:cid`, decentralized registry/discovery, credential architecture, and substrate independence — but its public narrative needs to prove delegated action, tool/API enforcement, and receipts, not just identity.
+**Bottom line:** The market has moved from "give agents DIDs" to **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. Bindu remains the traction outlier at 7488★. The strongest near-term pressure is now split between Agent Passport System's authority-narrowing/receipt story, enterprise control-plane entrants like Chancery and AgentValet, institutional pre-execution validation narratives like Soulverse (still not a verified decentralized DID-root competitor per Cypher's 2026-07-15 live-presentation report), and — new this cycle — **MolTrust**, a production commercial trust-registry service (CryptoKRI GmbH, Zürich) that is the most operationally mature centralized rival tracked to date: live API, 44+ MCP tools, AAE as an IETF Internet-Draft, Base L2 anchoring, EU AI Act compliance mapping, and x402 payments. MolTrust's trust is operator-issued; Archon still has the stronger sovereign root-of-authority story — `did:cid`, decentralized registry/discovery, credential architecture, and substrate independence — but its public narrative needs to prove delegated action, tool/API enforcement, and receipts, not just identity.
 
 ## Top Signals
 
@@ -19,6 +19,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 7. **OAuth/compliance/gateway projects are multiplying.** Airlock, Chancery, AgentValet, Soulverse, Grantex, Attestix, Digital Bazaar's credential server, and APS all push scope, revocation, audit, MCP enforcement, token exchange, pre-execution validation, or gateway control.
 8. **Soulverse adds a brochure-stage but relevant institutional trust-protocol signal, not a verified decentralized DID root.** Its live site names DID/VC infrastructure, settlement requirements, agentic validation, capability envelopes, model integrity attestations, and credential-gated agent execution; public npm/GitHub SDK availability was not verified on 2026-07-15, and Cypher's live-presentation report says decentralization is being considered for the future.
 9. **Hedera is still more active in agent tooling than in old DID repos.** `hedera-agent-kit-js` is at 64★ and pushed 2026-07-09; the DID repos remain comparatively quiet.
+10. **MolTrust is live, commercial, and shipping fast.** Verified 2026-07-21 against its live API: `did:moltrust` + `did:web` + ERC-8004 anchored on Base L2, behavioral trust scores with sybil resistance, cascade revocation across 8-hop delegation chains, SPIFFE bridge, EU AI Act Article 12 compliance endpoints, arXiv preprint, and x402 USDC pricing ($0.05–$5/call plus $19–$299/mo tiers). It also published a source-level critique of Hermes Agent's skill trust model and AIP conformance docs — it is actively competing for the same narrative space, not just selling APIs.
 
 ## What This Means For Archon
 
@@ -26,6 +27,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 - **The next public comparison should separate layers:** root identity, authorization/delegation, MCP/gateway enforcement, communication protocol, transport rail, receipt/audit layer, and payment rail.
 - **Chancery, AgentValet, and Soulverse need bridge responses.** Archon should show how `did:cid` credentials can feed enterprise IdP/IGA/MCP enforcement and trust-protocol validation without letting those control planes become the root identity.
 - **Agent Passport System needs a direct response.** Archon should show how `did:cid` credentials can feed APS-style gateway enforcement and signed receipts without making `did:aps` the root identity.
+- **MolTrust needs a structural counter, not a feature race.** Its packaging is ahead; its trust model is operator-issued. Archon's response is reputation-as-a-service from one company vs. evidence-first, verifier-independent receipts — plus Lightning-native settlement while MolTrust's Lightning rail is roadmap-only. Bridge framing stays open: MolTrust-style scoring/compliance layers could consume `did:cid` as root identity.
 - **Bindu still needs a collaboration response.** Archon should explain where `did:cid` can complement `did:bindu` as the sovereign root while preserving A2A/x402/inbox-style DX.
 - **The next demo should prove delegated authority and receipts.** Example: controller grants capability → agent acts through an MCP gateway or paid API → verifier checks credential → signed receipt records allow/deny/execution/payment.
 
@@ -38,6 +40,7 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 | ANP | 1347 | Open agent communication protocol suite | High-visibility protocol/spec leader |
 | AgentConnect | 326 | ANP SDK / DID-WBA auth | Makes ANP implementation-concrete |
 | AgenticMail | 166 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
+| MolTrust | N/A | Commercial trust infrastructure (identity, VC, reputation, mandates, audit) | Most mature centralized commercial rival; operator-issued trust, live API, deep EU AI Act packaging; structural foil for Archon's sovereign root authority |
 | Agent Passport System | 28 | Delegation enforcement + signed receipts | Direct authority/receipt benchmark; bring-your-own-identity stance makes it bridgeable |
 | Grantex | 30 | Delegated auth + commerce audit | High-signal authorization/commercial-action layer |
 | Chancery | 0 | Agent IdP + MCP enforcement | New tiny but relevant IdP/control-plane benchmark: scoped delegation, instant revocation, audit |
@@ -66,6 +69,6 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 2. Publish direct comparisons covering `did:cid` vs APS gateway enforcement, `did:bindu`, Urbit ID/Azimuth, did:wba, `did:hedera`, and enterprise IdP/IGA control planes such as Chancery/AgentValet.
 3. Build a small demo around capability issuance, delegated action, MCP gateway/service enforcement, Soulverse-style pre-execution validation, and verifiable receipt.
 4. Treat APS, Chancery/AgentValet, Soulverse, and Bindu as the clearest near-term authority/platform bridge narratives; AgentNexus and Urbit as workflow/sovereign-compute bridge narratives; AgenticMail as transport; Hedera HCS/x402 as optional audit/payment; Airlock/Grantex as enterprise authorization/compliance patterns.
-5. Track Bindu, APS, Chancery, AgentValet, Soulverse, AgentNexus, Kestrel, Airlock, AgenticMail, Hedera, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, Chorus, and Digital Bazaar during the next sweep.
+5. Track Bindu, APS, Chancery, AgentValet, Soulverse, MolTrust, AgentNexus, Kestrel, Airlock, AgenticMail, Hedera, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, Chorus, and Digital Bazaar during the next sweep.
 
-> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-07-15 Soulverse refresh](/research/archon-competitive-analysis/2026-07-15-refresh/).
+> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-07-21 MolTrust refresh](/research/archon-competitive-analysis/2026-07-21-refresh/).
