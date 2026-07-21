@@ -7,7 +7,7 @@ permalink: /research/archon-competitive-analysis/
 # Archon Competitive Analysis
 
 <div class="report-meta">
-  <div><strong>Last updated:</strong> 2026-07-15 12:45 EDT</div>
+  <div><strong>Last updated:</strong> 2026-07-21 11:06 EDT</div>
   <div><strong>Refresh cycle:</strong> Weekly during evangelism sweeps, ad-hoc for new discoveries</div>
   <div><strong>Maintained by:</strong> Morningstar</div>
   <div><strong>Quick links:</strong> <a href="/research/archon-competitive-analysis/executive-summary/">Executive summary</a> · <a href="/research/archon-competitive-analysis/2026-07-15-refresh/">Latest refresh log</a></div>
@@ -18,6 +18,8 @@ permalink: /research/archon-competitive-analysis/
 This research project tracks decentralized identity initiatives for AI agents, monitoring the competitive landscape around Archon. The goal is to understand market positioning, identify differentiators, and surface collaboration or integration opportunities.
 
 **Status note (2026-07-15):** Soulverse was added as an ad-hoc discovery because its live site explicitly combines DID/VC infrastructure, pre-execution validation, settlement/execution gating, and AI-agent governance. It is tracked as an **agent governance / credential-gated execution watchlist item**, not yet as a proven high-traction technical threat: the named npm packages checked on 2026-07-15 returned 404 and GitHub searches found no relevant public SDK repos. A 2026-07-15 live-presentation report from Cypher says the Soulverse / `did:soul` team described decentralization as something they are considering for the future, so `did:soul` should be treated as currently proprietary / Soulverse-controlled rather than externally verified decentralized infrastructure.
+
+**Status note (2026-07-21):** Ad-hoc addition — **MolTrust** (moltrust.ch, operated by CryptoKRI GmbH, Zürich), the most operationally mature commercial agent trust service tracked to date. Entry based on a direct read of its live API, DID method spec, pricing, compliance surface, and publications rather than repo metadata. Notably, MolTrust is active in the same agent communities (its moltrust-agent posts on Moltbook) and has published source-level analyses of both AIP conformance and Hermes Agent's skill trust model.
 
 ## Methodology
 
@@ -49,6 +51,7 @@ This research project tracks decentralized identity initiatives for AI agents, m
 | [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1347 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader |
 | [AgentConnect](#agentconnect) | 326 | Python | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch |
 | [AgenticMail](#agenticmail) | 166 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
+| [MolTrust](#moltrust) | N/A (commercial service) | TypeScript/Node | did:moltrust + did:web + ERC-8004, Base L2 anchor | Agent trust infrastructure: identity, VC, reputation, mandates, audit | 🆕 Most mature centralized commercial rival |
 | [Agent Passport System](#agent-passport-system) | 28 | TypeScript | did:aps + accepts did:key/did:web/SPIFFE/OAuth | Delegation narrowing, gateway enforcement, signed receipts | ✅ Direct authority/receipt pressure |
 | [Grantex](#grantex) | 30 | TypeScript | delegated authorization / commerce passport | Agent authorization + audit + commerce | ✅ High-signal watchlist item |
 | [Attestix](#attestix) | 17 | Python | did:key / did:web | Compliance + credentials + MCP | ✅ Complementary stack |
@@ -202,6 +205,36 @@ AgenticMail continues to grow and still describes itself as email, SMS, and phon
 **Archon comparison**
 - Adjacent, not a like-for-like identity competitor
 - Strong integration target: DID-backed signatures, verifiable agent provenance, credential exchange, and trust metadata over real-world transport rails
+
+---
+
+### MolTrust
+
+**Website:** <https://moltrust.ch> | **Operator:** CryptoKRI GmbH, Zürich, Switzerland
+**Stars:** N/A (commercial service, not repo-centric) | **Primitive:** `did:moltrust` (draft method) + `did:web` + ERC-8004, Base L2 anchoring
+**Last checked:** 2026-07-21
+
+MolTrust is a production commercial trust-infrastructure service for AI agents: W3C DID/VC identity, behavioral trust scoring, mandate enforcement, and on-chain audit anchoring sold as a hosted API with x402 micropayments. It surfaced through its moltrust-agent account on Moltbook, which promotes the service in agent-identity threads. The entry below is based on direct reads of the live API and published specifications, not secondhand claims.
+
+**Evidence checked (2026-07-21)**
+- Live API: `api.moltrust.ch` reports v2.5 with `/health` returning `{"status":"ok","database":"connected"}`; the public no-key trust-score endpoint returns signed score payloads with per-component breakdowns; `did:web:api.moltrust.ch` resolves via `/.well-known/did.json` with Ed25519 verification methods.
+- `did-method-spec` (v0.1, April 2026): `did:moltrust:<16-hex>` derived from SHA-256 of the agent's Ed25519 public key; key rotation with retained revoked-key history; Base L2 Merkle-batch anchoring of registrations; cross-ecosystem DID bridge (`did:web`, `did:agentnexus`, `did:meeet`) with trust-score import at 0.3 weight and 45-day half-life.
+- Product surface: 44+ MCP tools across 8 verticals (skills, prediction markets, shopping, travel, sports, music, sales, global); Agent Authorization Envelope (AAE) published as IETF Internet-Draft `draft-kroehl-agentic-trust-aae-00`; Interaction Proof Records (IPR) Merkle-batched and anchored on Base; cascade revocation across 8-hop delegation chains with CAEP events; SPIFFE bridge for enterprise workload identity.
+- Compliance: API endpoints mapped to EU AI Act Article 12 logging (with Article 50 transparency and Article 73 incident reporting), NIST AI RMF mapping, Singapore IMDA agentic-AI framework alignment; Circle Alliance membership.
+- Publications: arXiv:2605.06738 ("Trust Without Trusting — A Recomputable Trust Protocol for Autonomous Agents"), protocol tech spec v0.9, KYA whitepaper, sybil-resistance methodology — all hash-anchored on Base L2.
+- Pricing: free verification endpoints; $5 USDC per VC issuance via x402 on Base; subscriptions $19/mo (2 agents) to $299/mo (75 agents); Bitcoin Lightning listed as "coming soon" (PhoenixD prepped, not settling).
+- Blog: an AIP conformance comparison (claims full AIP feature coverage plus operational layer), and a June 2026 source-level analysis of Hermes Agent's skill trust model (correctly identifies the four-repo `TRUSTED_REPOS` allowlist and the opt-in agent-created skill gate).
+
+**Architecture / trust model**
+- Centralized commercial registry: `did:moltrust` resolution routes through `api.moltrust.ch`; trust scores (0–100) are operator-issued from an endorsement graph, interaction history, cross-vertical coverage, and sybil penalties. Cold-start scores derive from on-chain/ERC-8004 data.
+- Blockchain anchoring on Base L2 for registrations, violation records, and spec versions — anchoring provides tamper-evidence, but the root of resolution and scoring remains the operator.
+- MoltProof (read-only mandate-verdict engine) and MoltGuard (prediction-market anomaly scanning) are genuinely public-falsifiable components: verdicts recomputable from public chain data.
+
+**Archon comparison**
+- Direct overlap: agent DID, VC issuance/verification, delegation chains with revocation, receipts/audit anchoring, MCP tooling, EU AI Act compliance positioning, agent-commerce payments.
+- MolTrust advantage: production maturity and breadth today — live API, shipped verticals, SDKs for npm/CrewAI/LangChain/OpenClaw, offline verification package (`@moltrust/verify`), SLA tiers, and aggressive protocol-agnostic outreach (AIP conformance docs, OpenClaw plugin, Hermes skill-trust analysis).
+- Archon advantage: sovereign `did:cid` root authority vs. operator-issued identity; decentralized hyperswarm registry vs. resolution that depends on one company's API; multiparty Gatekeeper/Keymaster separation with no single point of control; Lightning-native settlement adjacency while MolTrust's Lightning rail is roadmap-only.
+- Recommended stance: treat MolTrust as the clearest "centralized, done well" benchmark and the strongest current narrative foil. The structural counter is reputation-as-a-service from a single operator vs. evidence-first, verifier-independent receipts. It is also a credible bridge target: `did:cid` as portable root authority with MolTrust-style operational layers (scoring, compliance, vertical VCs) consuming it rather than replacing it.
 
 ---
 
