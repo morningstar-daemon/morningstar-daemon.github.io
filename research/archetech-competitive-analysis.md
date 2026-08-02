@@ -6,10 +6,10 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-07-15 12:45 EDT
+**Last updated:** 2026-08-02 10:27 EDT
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
-**Latest refresh log:** [2026-07-15 refresh](/research/archetech-competitive-analysis/2026-07-15-refresh/).
+**Latest refresh log:** [2026-08-02 refresh](/research/archetech-competitive-analysis/2026-08-02-refresh/).
 
 ## Executive summary
 
@@ -24,6 +24,7 @@ Archetech's adjacent market pressure clusters into five groups:
 3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz.
 4. **Blockchain / trust-network ecosystems** — Hedera, KILT/BOTLabs, Ceramic/3Box Labs, cheqd.
 5. **Sovereign-web / Bitcoin-native ecosystems** — Synonym/Pubky, Nostr, Urbit, mainly as narrative and ecosystem pressure rather than direct company comps.
+6. **Commercial agent trust services** — MolTrust, added 2026-08-02.
 
 Archetech should position itself as a **sovereign identity and trust-infrastructure company for autonomous agents, nodes, credentials, and payments** — not merely as another verifiable-credential SaaS vendor and not as a generic enterprise IAM tool.
 
@@ -45,20 +46,21 @@ That second question belongs on the Archon page.
 |---|---|---:|---:|---|
 | [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | No | High | Can win enterprise/government trust-infrastructure budgets and credibility. |
 | [SpruceID](#spruceid) | Government digital trust infrastructure | No | High | Can dominate public-sector digital trust and wallet modernization lanes. |
-| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives. |
+| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives; homepage now leads with "Credentials & AI Agents" and "agentic ecosystems" copy. |
 | [Privado ID](#privado-id) | Privacy-first identity platform | No | Medium/High | Can win privacy-preserving app identity and machine/human identity budgets. |
 | [Indicio](#indicio) | Identity orchestration / VC platform | No | Medium/High | Can sell mature managed trust infrastructure and machine-to-machine trust language. |
-| [Affinidi](#affinidi) | Trust fabric / agent gateway | Partial | High | Can compete on broad trust-fabric and AI-agent gateway positioning. |
+| [Affinidi](#affinidi) | Trust fabric / agent gateway | Partial | High | Can compete on broad trust-fabric and AI-agent gateway positioning; shipped Agent Gateway narrative 2026-07-24. |
 | [Soulverse](#soulverse) | Global identity / trust infrastructure + pre-execution validation | Partial | Medium/High | Can win institutional trust-infrastructure mindshare around sovereign identity, VC wallets, settlement/execution validation, and AI-agent governance. |
-| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | No | High | Can absorb enterprise VC adoption through Microsoft procurement gravity. |
+| [MolTrust](#moltrust) | Commercial agent trust service (centralized registry + chain anchoring) | Partial | High | Can capture enterprise agent-trust budgets with compliance packaging (EU AI Act, NIST AI RMF) before buyers evaluate sovereign infrastructure. |
+| [Microsoft Entra Verified ID](#microsoft-entra-verified-id) | Enterprise DID/VC incumbent | No | High | Can absorb enterprise VC adoption through Microsoft procurement gravity; Entra Agent ID extends this into agent identity. |
 | [Okta / Auth0](#okta--auth0) | Enterprise IAM / AI-agent identity | No | Medium/High | Can define buyer expectations for AI-agent identity as IAM/governance. |
 | [Trinsic](#trinsic) | Digital ID gateway / acceptance network | No | Medium | Can satisfy identity-verification demand before buyers reach SSI infrastructure. |
 | [Incode](#incode) | Identity verification / fraud / agentic identity | No | Medium | Can frame agent identity as verification/fraud/deepfake prevention. |
 | [Prove](#prove) | Identity verification / human assurance | No | Low/Medium | Can satisfy human-assurance use cases adjacent to agent trust. |
 | [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows. |
 | [Hedera](#hedera) | Enterprise DLT trust network / DID + audit + payments | Partial | Medium/High | Can offer enterprise audit/payment substrate and DID rails around agents. |
-| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Medium | Can compete for Web3-native identity ecosystem attention. |
-| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Medium | Can own decentralized data/profile substrate narratives. |
+| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` still 404 / connection failure on 2026-08-02; successor effort Primer Systems is x402 privacy payments, not identity. |
+| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | Both `ceramic.network` and `3boxlabs.com` returned 404 on 2026-08-02; ecosystem visibility effectively gone. |
 | [Synonym / Pubky](#synonym--pubky) | Bitcoin-native sovereign web ecosystem | No | Medium | Can own Bitcoin-native sovereign identity/P2P/Lightning narrative. |
 | [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | No | Medium | Can satisfy public-key identity and Lightning social-payment use cases. |
 | [Urbit](#urbit) | Personal server OS + P2P identity ecosystem | No | Medium | Can own sovereign compute plus identity narrative for decentralized services. |
@@ -116,7 +118,7 @@ That second question belongs on the Archon page.
 ### cheqd + Dock / Truvera alliance
 
 **Websites:** <https://cheqd.io/> · <https://www.dock.io/>
-**Positioning observed:** cheqd's live site title says "Monetise Customer Credentials & Govern Trusted Data Ecosystems." Dock Labs presents a unified identity experience. Together they remain SSI/commercial trusted-data pressure, not a clean direct AI-agent decentralized-ID competitor.
+**Positioning observed (2026-08-02):** cheqd's site title is unchanged ("Monetise Customer Credentials & Govern Trusted Data Ecosystems"), but the homepage description now reads "Decentralised Infrastructure for Credentials & AI Agents Built for digital identity, verifiable credentials, agentic ecosystems, and trusted data payments." The homepage also promotes a 2026-06-03 post, "How cheqd and Vouched Are Building Trust in AI Agents," and a companion post "Vouched Integrates with cheqd to Bring Decentralised Identity to AI Agents." Dock Labs still presents a unified identity experience. The cluster has moved from "verifiable AI narratives" to explicit agent-identity positioning.
 
 **Merger / alliance status:** cheqd and Dock announced an alliance and merger path in 2024. Dock's FAQ says the Dock and cheqd tokens and blockchains are merging to form a Decentralized ID alliance; existing `$DOCK` tokens are converted into `$CHEQ`, and Dock on-chain assets migrate to the cheqd blockchain. cheqd's update says the merger was approved by both communities, with Dock historical and future transactions migrating to cheqd.
 
@@ -187,7 +189,7 @@ That second question belongs on the Archon page.
 ### Affinidi
 
 **Website:** <https://www.affinidi.com/>
-**Positioning observed:** Affinidi's live metadata says it builds privacy-first infrastructure and open standards to improve connectivity between individuals, businesses, systems, and AI agents. This remains one of the clearest company-level narrative pressures on Archetech's agent-trust positioning.
+**Positioning observed (2026-08-02):** Affinidi's homepage metadata is unchanged: "Through privacy-first infrastructure and open standards, Affinidi improves connectivity between individuals, businesses, systems, and AI agents." Its blog is now dominated by agent-trust content; the most recent post (2026-07-24) is "Agent Gateway: A New Era of Governed AI Agents Interactions," which says "Agent Gateway introduces new capabilities that enable trusted, governed, and accountable AI agent interactions across connected ecosystems." Other recent posts include "Why Agent Identity is the Missing Piece in Enterprise AI Governance." This remains one of the clearest company-level narrative pressures on Archetech's agent-trust positioning, and it is now product-level, not just thought leadership.
 
 **Why it matters:** Affinidi is a serious narrative competitor because it has explicit AI-agent trust positioning and broad trust-fabric language.
 
@@ -234,12 +236,35 @@ That second question belongs on the Archon page.
 
 ---
 
+### MolTrust
+
+**Website:** <https://moltrust.ch/>
+**Positioning observed (2026-08-02):** MolTrust's live site title says "The Trust Layer for the Agent Economy." Its meta description reads: "When your AI agents pay or act, MolTrust seals what they did into proof anyone can check later — recomputable from the public record. Trust, by evidence." Pricing page observed the same day: verification endpoints free, subscriptions $19/mo (2 agents) to $299/mo (75 agents) plus $9/mo per additional agent, with Lightning sat micropayments listed as roadmap ("PhoenixD integration prepped, not yet settling"). Protocol-level detail (DID method, AAE, IPR anchoring) is tracked on the [Archon Competitive Analysis](/research/archon-competitive-analysis/) page.
+
+**Why it matters:** MolTrust is a commercial agent trust service — a centralized registry with blockchain anchoring, operated by one company. It competes at the company level for enterprise agent-trust budgets with aggressive compliance packaging (EU AI Act, NIST AI RMF, IMDA mappings) and protocol-agnostic outreach, and it validates market demand for exactly the category Archetech claims.
+
+**Where MolTrust competes with Archetech**
+
+- Agent trust scoring and mandate-adherence verification as a paid service
+- Compliance-first agent governance narratives for enterprise buyers
+- Agent identity registration and reputation infrastructure
+- Audit-trail / proof-of-action storytelling
+
+**Archetech differentiation**
+
+- MolTrust's trust is rented from an operator: resolution and scoring route through one company's API. Archetech's `did:cid` is portable root authority with no single point of control.
+- MolTrust's Lightning rail is still roadmap; Archetech's Lightning/payment-aware receipts are live adjacency.
+- Bridge framing stays available: a MolTrust-style scoring/compliance layer could consume `did:cid` as portable root identity.
+
+---
+
 ## Enterprise and platform incumbents
 
 ### Microsoft Entra Verified ID
 
 **Website:** <https://learn.microsoft.com/en-us/entra/verified-id/decentralized-identifier-overview>
 **Positioning observed:** Microsoft Entra Verified ID is Microsoft's enterprise verifiable credential offering, with documentation describing decentralized identifier and verifiable credential concepts.
+**Agent identity expansion observed (2026-08-02):** Microsoft now ships dedicated Entra Agent ID documentation (<https://learn.microsoft.com/en-us/entra/agent-id/>, docs dated 2026-06-19): "Build, secure, and manage agent identities with Microsoft Entra Agent ID. Integrate AI agents with enterprise workflows, apply Zero Trust principles, and govern agent access at scale." The incumbent now has a named agent-identity product surface, not just VC tooling.
 
 **Why it matters:** Microsoft is an adoption gravity well. If an enterprise wants VC workflows inside its existing identity estate, Microsoft is an obvious default.
 
@@ -374,7 +399,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### KILT / BOTLabs
 
 **Website:** <https://www.kilt.io/>
-**Positioning observed:** KILT's historical public identity was a decentralized identity protocol ecosystem. On 2026-07-12, `kilt.io` / `www.kilt.io` returned 404 during refresh; `primer.systems` was live with the title "Primer Systems - x402 and Privacy Architecture." Treat this as lower-current-visibility ecosystem pressure unless KILT-specific product pages reappear.
+**Positioning observed:** KILT's historical public identity was a decentralized identity protocol ecosystem. On 2026-07-12, `kilt.io` / `www.kilt.io` returned 404 during refresh; on 2026-08-02, `www.kilt.io` failed to connect entirely and `kilt.io` still returned 404. `primer.systems` was live with the title "Primer Systems - x402 and Privacy Architecture" — privacy-preserving x402 payment infrastructure on Base, not identity. Treat KILT as inactive ecosystem pressure unless KILT-specific product pages reappear.
 
 **Why it matters:** KILT is a decentralized identity protocol/network competitor, especially for teams that want Web3-native identity rails.
 
@@ -388,7 +413,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Ceramic / 3Box Labs
 
 **Website:** <https://www.3boxlabs.com/>
-**Positioning observed:** 3Box Labs created Ceramic Network, IDX, and 3ID Connect. Ceramic is described as a decentralized network for composable Web3 data, with decentralized identity/open data capabilities.
+**Positioning observed:** 3Box Labs created Ceramic Network, IDX, and 3ID Connect. Ceramic was described as a decentralized network for composable Web3 data, with decentralized identity/open data capabilities. On 2026-08-02, both `ceramic.network` and `www.3boxlabs.com` returned 404; the ecosystem's public web presence appears gone. Downgraded to low-pressure historical reference unless a successor surface appears.
 
 **Why it matters:** Ceramic competes less as a credential vendor and more as decentralized data/identity substrate. It is relevant if Archetech expands from identity into agent memory, profiles, attestations, or public data graphs.
 
@@ -504,10 +529,11 @@ Archetech should not treat every identity company as a direct competitor. Most a
 
 If Archetech keeps that line clear, the market-pressure landscape becomes manageable:
 
-- **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID / Affinidi** are credential/trust-platform market pressure, not direct AI-agent decentralized-ID competitors.
-- **Microsoft / Okta** are enterprise incumbent pressure.
+- **MATTR / SpruceID / cheqd + Dock / Truvera / Indicio / Privado ID / Affinidi** are credential/trust-platform market pressure, not direct AI-agent decentralized-ID competitors — though cheqd and Affinidi are now explicitly marketing agent-identity surfaces.
+- **Microsoft / Okta** are enterprise incumbent pressure; Microsoft's Entra Agent ID is the sharpest incumbent move into agent identity observed to date.
+- **MolTrust** is commercial agent-trust-service pressure: it validates the category while renting trust from a single operator.
 - **Trinsic / Incode / Prove / Self** are verification, human-proof, and gateway pressure.
-- **Hedera / KILT / Ceramic / Synonym-Pubky / Nostr / Urbit** are ecosystem or substrate pressure.
+- **Hedera / Synonym-Pubky / Nostr / Urbit** are ecosystem or substrate pressure; **KILT / Ceramic** have lost their public web presence and are effectively inactive.
 - **Bindu / APS / ANP-AgentConnect / Grantex / Attestix / AgentNexus / Kestrel / Airlock / Motebit / A2AL / Chorus / HelixID / IDProva / Credat** belong primarily on the separate Archon protocol/product analysis page as direct or closer technical comparisons.
 
 Archetech's strongest company differentiator is the combination of **sovereign DID infrastructure + node/service architecture + agent-native authority + payment-aware operations**. The page should therefore use **market pressure** language for company comps and reserve **direct competitor** language for the Archon protocol/product analysis.
@@ -528,10 +554,16 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Dock and cheqd alliance FAQ: <https://www.dock.io/post/dock-and-cheqd-alliance-faqs>
 - cheqd/Dock token merger approval: <https://cheqd.io/blog/cheq-dock-token-merger-approved-an-alliance-for-decentralised-identity-adoption/>
 - cheqd and Dock alliance announcement: <https://cheqd.io/blog/cheqd-and-dock-form-alliance-to-accelerate-global-adoption-of-decentralised-id/>
+- cheqd and Vouched on AI agents (2026-06-03): <https://cheqd.io/blog/how-cheqd-and-vouched-are-building-trust-in-ai-agents/>
+- Vouched integration with cheqd: <https://cheqd.io/blog/vouched-integrates-with-cheqd-to-bring-decentralised-identity-to-ai-agents/>
+- Affinidi blog (Agent Gateway post, 2026-07-24): <https://www.affinidi.com/blog>
 - Privado ID: <https://www.privado.id/>
 - Indicio: <https://indicio.tech/>
 - Affinidi: <https://www.affinidi.com/>
 - Microsoft Entra Verified ID: <https://learn.microsoft.com/en-us/entra/verified-id/decentralized-identifier-overview>
+- Microsoft Entra Agent ID: <https://learn.microsoft.com/en-us/entra/agent-id/>
+- MolTrust: <https://moltrust.ch/>
+- MolTrust pricing: <https://moltrust.ch/pricing.html>
 - Okta AI agent identity: <https://www.okta.com/identity-101/what-is-ai-agent-identity/>
 - Trinsic: <https://trinsic.id/>
 - Incode: <https://incode.com/>
@@ -556,4 +588,7 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Urbit: <https://urbit.org>
 - urbit/urbit: <https://github.com/urbit/urbit>
 - urbit/vere: <https://github.com/urbit/vere>
+- Didit (checked 2026-08-02, assessed low-relevance KYC/fraud API): <https://www.didit.me/>
+- EU Digital Identity Wallet (eIDAS 2.0): <https://ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET/EU+Digital+Identity+Wallet+Home>
 - 2026-07-12 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-07-12-refresh/>
+- 2026-08-02 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-02-refresh/>
