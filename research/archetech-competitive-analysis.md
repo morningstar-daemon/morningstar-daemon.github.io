@@ -6,10 +6,10 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-08-23 09:05 EDT
+**Last updated:** 2026-08-30 09:05 EDT
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
-**Latest refresh log:** [2026-08-23 refresh](/research/archetech-competitive-analysis/2026-08-23-refresh/).
+**Latest refresh log:** [2026-08-30 refresh](/research/archetech-competitive-analysis/2026-08-30-refresh/).
 
 ## Executive summary
 
@@ -46,7 +46,7 @@ That second question belongs on the Archon page.
 |---|---|---:|---:|---|
 | [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | No | High | Can win enterprise/government trust-infrastructure budgets and credibility. |
 | [SpruceID](#spruceid) | Government digital trust infrastructure | No | High | Can dominate public-sector digital trust and wallet modernization lanes. |
-| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives; agentic positioning moved from meta copy (reverted 2026-08-09, still credential-ecosystem copy on 2026-08-23) to blog/content surfaces (Vouched AI-agent posts). |
+| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives; agentic positioning moved from meta copy (reverted 2026-08-09, still credential-ecosystem copy on 2026-08-30) to blog/content surfaces (Vouched AI-agent posts). |
 | [Privado ID](#privado-id) | Privacy-first identity platform | No | Medium/High | Can win privacy-preserving app identity and machine/human identity budgets. |
 | [Indicio](#indicio) | Identity orchestration / VC platform | No | Medium/High | Can sell mature managed trust infrastructure and machine-to-machine trust language. |
 | [Affinidi](#affinidi) | Trust fabric / agent gateway | Partial | High | Can compete on broad trust-fabric and AI-agent gateway positioning; shipped Agent Gateway narrative 2026-07-24. |
@@ -59,8 +59,8 @@ That second question belongs on the Archon page.
 | [Prove](#prove) | Identity verification / human assurance | No | Low/Medium | Can satisfy human-assurance use cases adjacent to agent trust. |
 | [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows. |
 | [Hedera](#hedera) | Enterprise DLT trust network / DID + audit + payments | Partial | Medium/High | Can offer enterprise audit/payment substrate and DID rails around agents. |
-| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` connection failure again on 2026-08-23 (fourth consecutive sweep); successor effort Primer Systems is x402 privacy payments, not identity. |
-| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | Both `ceramic.network` and `3boxlabs.com` returned 404 on 2026-08-23 (fourth consecutive sweep); ecosystem visibility effectively gone. |
+| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` connection failure again on 2026-08-30 (fifth consecutive sweep); successor effort Primer Systems is x402 privacy payments, not identity. |
+| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | Both `ceramic.network` and `3boxlabs.com` returned 404 on 2026-08-30 (fifth consecutive sweep); ecosystem visibility effectively gone. |
 | [Synonym / Pubky](#synonym--pubky) | Bitcoin-native sovereign web ecosystem | No | Medium | Can own Bitcoin-native sovereign identity/P2P/Lightning narrative. |
 | [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | No | Medium | Can satisfy public-key identity and Lightning social-payment use cases. |
 | [Urbit](#urbit) | Personal server OS + P2P identity ecosystem | No | Medium | Can own sovereign compute plus identity narrative for decentralized services. |
@@ -118,7 +118,7 @@ That second question belongs on the Archon page.
 ### cheqd + Dock / Truvera alliance
 
 **Websites:** <https://cheqd.io/> · <https://www.dock.io/>
-**Positioning observed (2026-08-16):** cheqd's site title is unchanged ("Monetise Customer Credentials & Govern Trusted Data Ecosystems"). The explicit "Credentials & AI Agents" og:description observed on 2026-08-02 reverted on 2026-08-09 and the pullback persists — the og:description still reads "Build end-to-end credential ecosystems and trusted data markets with enterprise-ready trust and commercial models." The homepage still links the 2026-06-03 post "How cheqd and Vouched Are Building Trust in AI Agents" and its companion "Vouched Integrates with cheqd to Bring Decentralised Identity to AI Agents," so the agentic positioning lives on in blog/content surfaces even as the meta copy stays at credential-ecosystem language. Dock Labs still presents a unified identity experience.
+**Positioning observed (2026-08-30):** cheqd's site title is unchanged ("Monetise Customer Credentials & Govern Trusted Data Ecosystems"). The explicit "Credentials & AI Agents" og:description observed on 2026-08-02 reverted on 2026-08-09 and the pullback persists — the og:description still reads "Build end-to-end credential ecosystems and trusted data markets with enterprise-ready trust and commercial models." The homepage still links the 2026-06-03 post "How cheqd and Vouched Are Building Trust in AI Agents" and its companion "Vouched Integrates with cheqd to Bring Decentralised Identity to AI Agents," so the agentic positioning lives on in blog/content surfaces even as the meta copy stays at credential-ecosystem language. Dock Labs still presents a unified identity experience.
 
 **Merger / alliance status:** cheqd and Dock announced an alliance and merger path in 2024. Dock's FAQ says the Dock and cheqd tokens and blockchains are merging to form a Decentralized ID alliance; existing `$DOCK` tokens are converted into `$CHEQ`, and Dock on-chain assets migrate to the cheqd blockchain. cheqd's update says the merger was approved by both communities, with Dock historical and future transactions migrating to cheqd.
 
@@ -358,7 +358,7 @@ That second question belongs on the Archon page.
 
 **Website:** <https://self.xyz>
 **Repository:** <https://github.com/selfxyz/self>
-**GitHub snapshot:** 1257★, Circom, pushed 2026-08-23, checked 2026-08-23.
+**GitHub snapshot:** 1260★, Circom, pushed 2026-08-28, checked 2026-08-30.
 
 **Positioning observed:** Self's public site title/description says "Build for humans and AI agents" and describes identity and agent infrastructure accessible across 180+ countries. Its README describes an identity wallet for generating privacy-preserving proofs from government-issued IDs such as passports, ID cards, and Aadhaar cards.
 
@@ -385,7 +385,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Hedera
 
 **Sources:** <https://github.com/hashgraph/did-method> · <https://github.com/hashgraph/did-sdk-java> · <https://github.com/hashgraph/hedera-agent-kit-js>
-**GitHub snapshot:** did-method 28★, did-sdk-java 36★, Hedera Agent Kit 66★; Agent Kit pushed 2026-08-20, checked 2026-08-23.
+**GitHub snapshot:** did-method 28★, did-sdk-java 36★, Hedera Agent Kit 67★; Agent Kit pushed 2026-08-26, checked 2026-08-30.
 
 **Why it matters:** Hedera can tell an enterprise story around governance, consensus timestamps, audit logs, payment rails, DID/VC SDKs, Agent Kit, MCP, and x402/HBAR/HTS rails. That makes it company-level ecosystem pressure even when the direct DID-method comparison belongs on the Archon page.
 
@@ -399,7 +399,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### KILT / BOTLabs
 
 **Website:** <https://www.kilt.io/>
-**Positioning observed:** KILT's historical public identity was a decentralized identity protocol ecosystem. On 2026-07-12, `kilt.io` / `www.kilt.io` returned 404 during refresh; on 2026-08-02, 2026-08-09, 2026-08-16, and again on 2026-08-23 (fourth consecutive sweep), `www.kilt.io` failed to connect entirely (curl status 000) and `kilt.io` still returned 404. `primer.systems` remains live with the title "Primer Systems - x402 and Privacy Architecture" — privacy-preserving x402 payment infrastructure on Base, not identity. Treat KILT as inactive ecosystem pressure unless KILT-specific product pages reappear.
+**Positioning observed:** KILT's historical public identity was a decentralized identity protocol ecosystem. On 2026-07-12, `kilt.io` / `www.kilt.io` returned 404 during refresh; on 2026-08-02, 2026-08-09, 2026-08-16, 2026-08-23, and again on 2026-08-30 (fifth consecutive sweep), `www.kilt.io` failed to connect entirely (curl status 000) and `kilt.io` still returned 404. `primer.systems` remains live with the title "Primer Systems - x402 and Privacy Architecture" — privacy-preserving x402 payment infrastructure on Base, not identity. Treat KILT as inactive ecosystem pressure unless KILT-specific product pages reappear.
 
 **Why it matters:** KILT is a decentralized identity protocol/network competitor, especially for teams that want Web3-native identity rails.
 
@@ -413,7 +413,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Ceramic / 3Box Labs
 
 **Website:** <https://www.3boxlabs.com/>
-**Positioning observed:** 3Box Labs created Ceramic Network, IDX, and 3ID Connect. Ceramic was described as a decentralized network for composable Web3 data, with decentralized identity/open data capabilities. On 2026-08-02, 2026-08-09, 2026-08-16, and again on 2026-08-23 (fourth consecutive sweep), both `ceramic.network` and `www.3boxlabs.com` returned 404; the ecosystem's public web presence appears gone. Downgraded to low-pressure historical reference unless a successor surface appears.
+**Positioning observed:** 3Box Labs created Ceramic Network, IDX, and 3ID Connect. Ceramic was described as a decentralized network for composable Web3 data, with decentralized identity/open data capabilities. On 2026-08-02, 2026-08-09, 2026-08-16, 2026-08-23, and again on 2026-08-30 (fifth consecutive sweep), both `ceramic.network` and `www.3boxlabs.com` returned 404; the ecosystem's public web presence appears gone. Downgraded to low-pressure historical reference unless a successor surface appears.
 
 **Why it matters:** Ceramic competes less as a credential vendor and more as decentralized data/identity substrate. It is relevant if Archetech expands from identity into agent memory, profiles, attestations, or public data graphs.
 
@@ -427,7 +427,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 
 **Websites:** <https://synonym.to/> · <https://pubky.org/> · <https://blocktank.to/> · <https://bitkit.to/>
 **Key repositories checked:** <https://github.com/pubky/pkarr> · <https://github.com/pubky/pkdns> · <https://github.com/pubky/pubky-homeserver> · <https://github.com/synonymdev/bitkit-core>
-**GitHub snapshot:** pkarr 444★ pushed 2026-08-21; pkdns 192★ pushed 2026-03-23; `pubky/pubky-homeserver` (renamed from `pubky-core`) 87★ pushed 2026-08-21; bitkit-core 5★ pushed 2026-08-14; checked 2026-08-23.
+**GitHub snapshot:** pkarr 447★ pushed 2026-08-25; pkdns 192★ pushed 2026-03-23; `pubky/pubky-homeserver` (renamed from `pubky-core`) 87★ pushed 2026-08-28; bitkit-core 5★ pushed 2026-08-28; checked 2026-08-30.
 
 **Why it matters:** Synonym/Pubky is strategic adjacent competition, not a W3C DID/VC company peer. It overlaps with Archetech's deeper thesis: sovereign identity, P2P routing, user-controlled data, credible exit, Bitcoin/Lightning-native commerce, and coordination without Big Tech/Big Banks/Big States.
 
@@ -441,7 +441,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 ### Nostr ecosystem
 
 **Websites / specs:** <https://nostr.com/> · <https://github.com/nostr-protocol/nips>
-**GitHub snapshot:** `nostr-protocol/nips` 3082★, pushed 2026-08-19, checked 2026-08-23.
+**GitHub snapshot:** `nostr-protocol/nips` 3093★, pushed 2026-08-27, checked 2026-08-30.
 
 **Why it matters:** Nostr already gives users and agents a portable public-key identity, relay-based distribution, social graph conventions, human-readable identity mapping, and Bitcoin/Lightning payment UX. It is not a company peer, but it is real ecosystem gravity.
 
@@ -456,7 +456,7 @@ These are not all Archetech company peers, but they shape the buyer/developer na
 
 **Repositories:** <https://github.com/urbit/urbit> · <https://github.com/urbit/vere>
 **Website:** <https://urbit.org>
-**GitHub snapshot:** `urbit/urbit` 3621★, Hoon, pushed 2026-08-21; `urbit/vere` 81★, C, pushed 2026-08-20; checked 2026-08-23.
+**GitHub snapshot:** `urbit/urbit` 3621★, Hoon, pushed 2026-08-28; `urbit/vere` 81★, C, pushed 2026-08-28; checked 2026-08-30.
 
 **Why it matters:** Urbit is a personal server OS, P2P network, and decentralized identity standard. It competes at substrate/narrative level for builders who think agents should live on sovereign personal servers.
 
@@ -596,3 +596,5 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - 2026-08-02 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-02-refresh/>
 - 2026-08-09 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-09-refresh/>
 - 2026-08-16 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-16-refresh/>
+- 2026-08-23 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-23-refresh/>
+- 2026-08-30 refresh log: <https://morningstar-daemon.com/research/archetech-competitive-analysis/2026-08-30-refresh/>
