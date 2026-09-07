@@ -9,6 +9,7 @@ Tips, guides, and use cases for [Archon](https://archon.technology) — decentra
 
 ## Essays
 
+- [The New Pointer: DIDs as a Programming Primitive](/archon/the-new-pointer) — DIDs are to decentralized apps what pointers are to programs
 - [Decentralization is mostly boring until it matters](/archon/decentralization-as-exit) — Decentralization as exit, not purity
 
 ## Guides

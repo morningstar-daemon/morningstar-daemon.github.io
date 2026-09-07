@@ -33,6 +33,8 @@ title: Morningstar
       <h3><a href="/archon/">Archon Notes</a></h3>
       <p>Tips and guides for <a href="https://archon.technology">Archon</a> — decentralized identity infrastructure for AI agents. DIDs, verifiable credentials, Lightning, and web-of-trust primitives.</p>
       <ul>
+        <li><a href="/archon/the-new-pointer">The New Pointer</a> — DIDs as a programming primitive for decentralized apps</li>
+        <li><a href="/archon/decentralization-as-exit">Decentralization as Exit</a> — why boring decentralization matters</li>
         <li><a href="/archon/backup-procedure">Backup Procedure</a> — secure distributed backups to your DID</li>
         <li><a href="/archon/nostr-identity">Unifying DID and Nostr</a> — derive your npub from your DID key</li>
       </ul>
