@@ -4,34 +4,35 @@ title: Archon Competitive Analysis – Executive Summary
 permalink: /research/archon-competitive-analysis/executive-summary/
 ---
 
-# Executive Summary (2026-09-27)
+# Executive Summary (2026-10-04)
 
-**Bottom line:** The market keeps consolidating around **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. This cycle's headline is a reversal at the top: **Bindu posted its first observed weekly star decline (9829→9809, -20)** after nine consecutive weeks of gains, while **Agent-Safe Pipeline posted its sharpest weekly gain since launch week (532→589★, +57)**, pushed 2026-09-26 — the authorization-boundary category is compounding faster than the identity/platform category right now. A new entrant, **SIQ Agent Security** (`maoyadongsh/siq-agent-security`, 51★, Apache-2.0), is the highest-traction discovery since Agent-Safe Pipeline: a local-first agent/skill authorization runtime binding Ed25519-signed intent, parameters, and receipts, shipping both individual and enterprise control-plane variants. Chancery's star count ticked up (25→26) for the first time since 2026-08-02 but with **no accompanying push** — still seven consecutive stalled-push cycles, treated as inactive. decern dipped (13→12★), its fourth stalled week with no push since 2026-08-24. MolTrust's live API, pricing, and IETF draft (AAE -02) are all unchanged this cycle — the first quiet week for MolTrust since it was added. Soulverse's named npm packages remain 404 for a ninth consecutive week. No refresh ran on 2026-09-20, so this cycle covers a two-week evidence window for star deltas.
+**Bottom line:** The market keeps consolidating around **agent authority infrastructure**: identity, scoped delegation, gateway/MCP enforcement, instant revocation, signed receipts, audit, transport, commerce, compliance, and sovereign compute. This cycle's headline: **Bindu crossed 10,000★ (9809→10073, +264)** — its second-largest weekly gain observed — but the repo has not been pushed since 2026-09-06 (four weeks without a commit), and forks jumped 448→635. The standards-track story is **APS's IETF draft advancing to `draft-pidlisnyi-aps-04`** (Datatracker 2026-09-28), while its repos moved to a dedicated `agent-passport-system` org. The anomaly of the week: **Attestix spiked 18→875★ (+857)** with no verified viral event — a surge of that size in a previously ~1-star-per-week repo is unverified traction and possibly star-farming; treat with caution. The mid-tier went quiet: Agent-Safe Pipeline flat at 589★, SIQ flat at 51★, Grantex flat at 34★, decern flat at 12★ (fifth stalled week), Chancery flat at 26★ (eighth stalled-push cycle, still inactive). MolTrust remains unchanged on every live surface (API v2.5, pricing, AAE -02). Soulverse's named npm packages are 404 for a tenth consecutive week. No new entrant above the profile bar.
 
 ## Top Signals
 
-1. **Bindu's first observed weekly decline: 9829→9809★ (-20).** Ends nine straight weeks of gains (including +662 and +420 spikes in August). Forks continue climbing (417→448 tracked). Still an order of magnitude above everything else in the set.
-2. **Agent-Safe Pipeline 532→589★ (+57) — sharpest weekly gain since its launch week.** Pushed 2026-09-26. The service-boundary architecture (independent ALLOW/ESCALATE/BLOCK verdict + single-use intent-bound grants) is compounding again after two prior declines.
-3. **New entrant: SIQ Agent Security (51★, Apache-2.0, created 2026-08-13).** Local-first agent/skill authorization runtime: Ed25519-signed intent/parameter/receipt binding, a "Skill Execution Context" permission boundary, individual + enterprise control-plane variants from one codebase, signed 0.4.0 release shipped today. Highest-traction discovery since Agent-Safe Pipeline.
-4. **Chancery ticked 25→26★ with no push** — still no commit since 2026-07-21 (seventh consecutive stalled-push cycle). A star gained without activity does not change its inactive classification.
-5. **decern dipped 13→12★**, no push since 2026-08-24 (fourth stalled week) — the authorization-kernel tier keeps losing momentum relative to the boundary/service tier (Agent-Safe Pipeline, SIQ).
-6. **ANP 1435★ / AgentConnect 351★** (pushed 2026-09-24). DID-WBA remains an active compatibility/competition surface.
-7. **AgenticMail reached 229★** (+10 over two weeks). Email, SMS, and phone rails continue to be more legible to operators than abstract identity primitives.
-8. **ANS reached 43★ / registry 32★** — the registry/transparency-log play stays active; SDKs (Go/Rust/Java) and trust-discovery repo all pushed within the window.
-9. **Grantex (31→34★) and Attestix (17→18★) both pushed today (2026-09-27)**; Motebit (5→7★) and HelixID (5→8★) also both pushed today — broad end-of-cycle activity across the mid-tier watchlist.
-10. **AgentValet pushed for the first time since 2026-08-12** (now 2026-09-26, 1→2★) — dormant enterprise-governance entrant showing first signs of life.
-11. **MolTrust had its first fully quiet re-check cycle:** API, pricing, homepage meta, and IETF AAE draft (-02) all unchanged since 2026-09-13.
-12. **Soulverse's named npm SDK packages still 404** as of 2026-09-27 (ninth consecutive weekly check). Brochure-stage institutional trust-protocol signal, not a verified decentralized DID root.
-13. **Hedera Agent Kit ticked to 68★** (pushed 2026-09-23); `did-sdk-java` flat at 37★.
-14. **No refresh ran 2026-09-20** — this cycle's star deltas span two weeks rather than one; treat single-week-rate comparisons with that in mind.
+1. **Bindu crossed 10,000★ (9809→10073, +264)** — second-largest weekly gain observed — but **no repo push since 2026-09-06** (fourth week). Forks jumped 448→635. Star growth fully decoupled from visible repo activity this cycle.
+2. **APS draft advanced -03→-04 (2026-09-28)** and **APS repos moved to a dedicated `agent-passport-system` org** — the cycle's standards-track headline; AAE still -02, ANS still -00.
+3. **Attestix 18→875★ (+857) — anomalous spike.** Pushed 2026-10-01, description now "47 MCP tools across 9 modules." No viral event verified; possible star-farming. Reported as observed-but-unverified traction, not as a real momentum shift yet.
+4. **Agent-Safe Pipeline flat at 589★** (pushed today) — last cycle's +57 spike did not compound; the authorization-boundary tier paused this week.
+5. **SIQ Agent Security flat at 51★** (pushed 2026-10-02) — holding its discovery-week level.
+6. **decern flat at 12★**, no push since 2026-08-24 (fifth stalled week); **Chancery flat at 26★**, no push since 2026-07-21 (eighth consecutive stalled-push cycle — still inactive).
+7. **ANP 1441★ / AgentConnect 351★** (both pushed 2026-10-01). DID-WBA remains an active compatibility/competition surface.
+8. **AgenticMail reached 231★** (pushed 2026-10-01). Email, SMS, and phone rails continue to be more legible to operators than abstract identity primitives.
+9. **ANS 43★ / registry 32★** — flat stars but the registry pushed 2026-09-29 and SDKs pushed within the window; the registry/transparency-log play stays active.
+10. **Mid-tier end-of-cycle activity:** Grantex (34★), Kestrel (8★), Motebit (7★) all pushed today (2026-10-04); Hedera Agent Kit 68→69★ (pushed today); didit skills 26→27★; Urbit 3619→3620★ / vere 80★.
+11. **MolTrust re-checked live — unchanged on every surface:** API v2.5 healthy, did:web resolves, homepage meta unchanged, `/pricing` still 301→`/pricing/`→403, `/pricing.html` still 200 with pricing re-verified, Lightning still roadmap.
+12. **Soulverse's named npm SDK packages still 404** as of 2026-10-04 (tenth consecutive weekly check). Brochure-stage institutional trust-protocol signal, not a verified decentralized DID root.
+13. **Discovery sweep: no new entrant above the profile bar.** Signal-only: `ndrorchestration/DGAF-Framework` (4★, evidence-bound governance), `opena2a-standards/agent-authorization-protocol` (1★), `frostyjay7813/AgentFence` (0★); microsoft/identity-spiffe pushed 2026-10-03 (11★); technocore/$FLOP cluster persists (noise).
+14. **Archon itself: 5→6★** (pushed 2026-10-01).
 
 ## What This Means For Archon
 
 - **Archon should be described as the sovereign root of authority for delegated agent action**, not merely as a DID stack.
-- **The authorization-boundary tier is now the fastest-moving segment**, not the identity-platform tier. Agent-Safe Pipeline's rebound and SIQ's entrance both reinforce that developers are rallying around "prove this agent was allowed to do X" architectures over raw DID issuance.
-- **SIQ Agent Security needs a bridge response alongside Agent-Safe Pipeline and decern.** Archon should show how `did:cid` credentials can anchor the identity side of a SIQ-style signed-intent/receipt chain without SIQ's local authorization runtime becoming the root identity.
-- **Bindu's growth pause is worth watching, not over-reading.** One week of decline after nine of growth is not yet a trend; the DX-wedge collaboration story (did:bindu + A2A/x402/inbox) is unchanged.
-- **MolTrust needs a structural counter, not a feature race.** Its packaging is ahead; its trust model is operator-issued. This cycle it was quiet — a good moment to advance Archon's own receipt/evidence narrative rather than reactively track MolTrust.
+- **Bindu's five-digit star count with a frozen repo is a new pattern to watch.** Traction now appears driven by brand/DX momentum rather than visible development cadence — the DX-wedge collaboration story (did:bindu + A2A/x402/inbox) is unchanged, but the "highest-traction competitor" narrative should note the divergence.
+- **APS's draft advancing (-04) one day after our last sweep makes the standards race the most credible long-game pressure.** Archon's `did:cid` method and receipt model should be documented with the same IETF-shaped rigor APS is now iterating on.
+- **Attestix's spike should be treated as noise until corroborated.** If it repeats next week with real pushes and issue activity, re-evaluate; a star count without corroborating activity is not a market shift.
+- **The authorization-boundary tier paused this week** (Agent-Safe Pipeline and SIQ both flat) — one quiet week after two strong ones; no narrative change, but the "fastest-moving segment" claim should be re-tested next cycle.
+- **MolTrust needs a structural counter, not a feature race.** Its packaging is ahead; its trust model is operator-issued. It has been quiet for two consecutive cycles — a good moment to advance Archon's own receipt/evidence narrative rather than reactively track MolTrust.
 - **Chancery and decern's continued stagnation does not retire the enterprise control-plane vocabulary they introduced.** Archon's public materials should still address MCP enforcement, instant revocation, and tamper-evident audit even as specific repos go quiet.
 - **The next demo should prove delegated authority and receipts.** Example: controller grants capability → agent acts through an MCP gateway or paid API → verifier checks credential → signed receipt records allow/deny/execution/payment.
 
@@ -39,29 +40,29 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 
 | Project | Stars | Role | Current read |
 |---------|-------|------|--------------|
-| Bindu | 9809 | Identity + A2A + auth + payments platform | First observed weekly decline (9829→9809★, -20) after nine straight weeks of gains; `did:bindu` appears platform-administered, not a decentralized root of authority |
-| Urbit | 3619 / 80 | Personal server OS + P2P network + Urbit ID | High-traction protocol/substrate incumbent; not W3C DID/VC-native but important sovereign-compute pressure |
-| ANP | 1435 | Open agent communication protocol suite | High-visibility protocol/spec leader |
-| Agent-Safe Pipeline | 589 | Authorization boundary / execution gating | Sharpest weekly gain since launch week (532→589★, +57), pushed 2026-09-26; independent policy verdict + single-use intent-bound grants; decision authority is a closed hosted service |
-| AgentConnect | 351 | ANP SDK / DID-WBA auth | Makes ANP implementation-concrete; pushed 2026-09-24 |
-| AgenticMail | 229 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
-| MolTrust | N/A | Commercial trust infrastructure (identity, VC, reputation, mandates, audit) | Most mature centralized commercial rival; first fully quiet re-check cycle (API, pricing, AAE -02 all unchanged) |
-| Agent Passport System | 46 | Delegation enforcement + signed receipts | Direct authority/receipt benchmark; pushed 2026-09-25; conformance org + verification-only Rust crate + IETF draft -03 |
-| SIQ Agent Security | 51 | Agent/skill runtime authorization + enterprise control plane | New entrant; highest-traction discovery since Agent-Safe Pipeline; Ed25519 intent/receipt binding |
-| decern | 12 | Deterministic authorization kernel + tamper-evident ledger | Dipped 13→12★, no push since 2026-08-24 (fourth stalled week) |
+| Bindu | 10073 | Identity + A2A + auth + payments platform | Crossed 10,000★ (+264) but no repo push since 2026-09-06; forks 448→635; `did:bindu` appears platform-administered, not a decentralized root of authority |
+| Urbit | 3620 / 80 | Personal server OS + P2P network + Urbit ID | High-traction protocol/substrate incumbent; not W3C DID/VC-native but important sovereign-compute pressure |
+| ANP | 1441 | Open agent communication protocol suite | High-visibility protocol/spec leader |
+| Attestix | 875 | Compliance + credentials + MCP | ⚠️ Anomalous 18→875★ spike (+857), unverified traction, possible star-farming — treat as noise until corroborated |
+| Agent-Safe Pipeline | 589 | Authorization boundary / execution gating | Flat after last cycle's +57 spike; pushed 2026-10-04; independent policy verdict + single-use intent-bound grants; decision authority is a closed hosted service |
+| AgentConnect | 351 | ANP SDK / DID-WBA auth | Makes ANP implementation-concrete; pushed 2026-10-01 |
+| AgenticMail | 231 | Email/SMS/phone-call infra | Strongest adjacent transport traction |
+| MolTrust | N/A | Commercial trust infrastructure (identity, VC, reputation, mandates, audit) | Most mature centralized commercial rival; second consecutive quiet re-check cycle (API, pricing, AAE -02 all unchanged) |
+| SIQ Agent Security | 51 | Agent/skill runtime authorization + enterprise control plane | Flat at 51★; Ed25519 intent/receipt binding; pushed 2026-10-02 |
+| Agent Passport System | 46 | Delegation enforcement + signed receipts | Direct authority/receipt benchmark; repos moved to `agent-passport-system` org; IETF draft -04 (2026-09-28) |
+| decern | 12 | Deterministic authorization kernel + tamper-evident ledger | Flat at 12★, no push since 2026-08-24 (fifth stalled week) |
 | Grantex | 34 | Delegated auth + commerce audit | High-signal authorization/commercial-action layer; pushed today |
-| Chancery | 26 | Agent IdP + MCP enforcement | Inactive: star ticked up with no push; seven consecutive stalled-push cycles, no commit since 2026-07-21 |
-| AgentValet | 2 | IGA + credential governance + MCP proxy | First push since 2026-08-12; enterprise governance benchmark: AIMS, SPIFFE, AuthZEN, CIBA |
+| Chancery | 26 | Agent IdP + MCP enforcement | Inactive: flat at 26★, no commit since 2026-07-21 (eighth stalled-push cycle) |
+| AgentValet | 2 | IGA + credential governance + MCP proxy | Flat at 2★; enterprise governance benchmark: AIMS, SPIFFE, AuthZEN, CIBA |
 | Agent Name Service (ANS) | 43 / 32 | Naming registry + transparency log + trust index | IETF-draft registry/SCITT-receipt pressure nearest Archon's registry layer; CA/DNS-anchored, not sovereign |
-| Attestix | 18 | Compliance + credentials + MCP | Strong complementary compliance stack; pushed today |
-| AgentNexus | 10 | DID communication + workflow substrate | Collaboration/workflow watchlist item; first push since 2026-07-29 |
-| Kestrel Sovereign | 8 | Sovereign agent framework | Adjacent pressure on portable identity + memory + governance narrative |
-| Hedera / did:hedera | 37 / 28 / 68 | DID method + agent/payment/audit substrate | Direct DID competitor and high-signal adjacent enterprise rail |
-| Soulverse | N/A | Agent governance + pre-execution validation | Institutional trust-protocol pressure; public SDK packages still 404 (ninth week); `did:soul` decentralization still future-considered |
+| AgentNexus | 10 | DID communication + workflow substrate | Collaboration/workflow watchlist item |
+| Kestrel Sovereign | 8 | Sovereign agent framework | Adjacent pressure on portable identity + memory + governance narrative; pushed today |
+| Hedera / did:hedera | 37 / 28 / 69 | DID method + agent/payment/audit substrate | Direct DID competitor and high-signal adjacent enterprise rail |
+| Soulverse | N/A | Agent governance + pre-execution validation | Institutional trust-protocol pressure; public SDK packages still 404 (tenth week); `did:soul` decentralization still future-considered |
 | AIP | 15 | Identity + trust + messaging | Partial overlap, no recent movement |
 | clawdentity | 9 | Messaging + identity fabric | Closest philosophical rival, slower recent movement |
 | Motebit | 7 | Sovereign runtime + receipts | Early but strategically relevant; pushed today |
-| HelixID | 8 | DID/VC auth layer | Low traction, standards-aligned framing; pushed today |
+| HelixID | 8 | DID/VC auth layer | Low traction, standards-aligned framing |
 | Agentic Airlock | 2 | OAuth trust/compliance layer | OAuth/compliance watchlist item |
 | Credat | 2 | Scoped credentials SDK | Practical authorization/delegation benchmark |
 | IDProva | 1 | Enterprise identity + audit receipts | Enterprise auditability angle |
@@ -74,9 +75,9 @@ permalink: /research/archon-competitive-analysis/executive-summary/
 ## Immediate Priorities
 
 1. Rewrite Archon's public one-liner around **sovereign root authority + delegated action + MCP/API enforcement + signed receipts + payment-aware settlement**.
-2. Publish direct comparisons covering `did:cid` vs APS gateway enforcement, `did:bindu`, Urbit ID/Azimuth, did:wba, `did:hedera`, and enterprise IdP/IGA control planes such as AgentValet — now including service-boundary verdict services (Agent-Safe Pipeline, SIQ Agent Security) alongside kernels (decern).
+2. Publish direct comparisons covering `did:cid` vs APS gateway enforcement, `did:bindu`, Urbit ID/Azimuth, did:wba, `did:hedera`, and enterprise IdP/IGA control planes such as AgentValet — including service-boundary verdict services (Agent-Safe Pipeline, SIQ Agent Security) alongside kernels (decern).
 3. Build a small demo around capability issuance, delegated action, MCP gateway/service enforcement, Soulverse-style pre-execution validation, and verifiable receipt.
 4. Treat APS, Agent-Safe Pipeline, SIQ Agent Security, AgentValet, Soulverse, and Bindu as the clearest near-term authority/platform bridge narratives; AgentNexus and Urbit as workflow/sovereign-compute bridge narratives; AgenticMail as transport; Hedera HCS/x402 as optional audit/payment; Airlock/Grantex as enterprise authorization/compliance patterns.
-5. Track Bindu, APS, Agent-Safe Pipeline, SIQ Agent Security, decern, AgentValet, ANS, Soulverse, MolTrust, AgentNexus, Kestrel, Airlock, AgenticMail, Hedera, Grantex, Motebit, Credat, HelixID, IDProva, A2AL, Chorus, and Digital Bazaar during the next sweep.
+5. Track Bindu, APS, Agent-Safe Pipeline, SIQ Agent Security, decern, AgentValet, ANS, Soulverse, MolTrust, AgentNexus, Kestrel, Airlock, AgenticMail, Hedera, Grantex, Attestix (spike corroboration), Motebit, Credat, HelixID, IDProva, A2AL, Chorus, and Digital Bazaar during the next sweep.
 
-> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-09-27 refresh](/research/archon-competitive-analysis/2026-09-27-refresh/).
+> Full details, matrices, and strategic framing live in [the main report](/research/archon-competitive-analysis/). Change notes for this sweep are in the [2026-10-04 refresh](/research/archon-competitive-analysis/2026-10-04-refresh/).
