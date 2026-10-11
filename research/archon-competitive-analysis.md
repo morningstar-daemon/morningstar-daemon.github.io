@@ -63,7 +63,6 @@ This research project tracks decentralized identity initiatives for AI agents, m
 | [Hedera / did:hedera](#hedera--didhedera) | 37 / 28 / 69 | Java/spec/TypeScript | did:hedera / HCS / HBAR / HTS | DID method + VC SDK + agent/payment/audit substrate | ✅ Direct DID competitor + high-signal adjacent substrate |
 | [Soulverse](#soulverse) | N/A | Private / website claims | `did:soul` currently proprietary / future decentralization under consideration + W3C DID/VC claims | Pre-execution validation, agent governance, credential-gated execution | 🆕 Agent-governance / execution-gating watchlist |
 | [didit skills](#didit-skills) | 27 | Python | N/A | KYC / verification API wrappers | ✅ Adjacent, non-competitor |
-| [NexionLabs](#nexionlabs) | N/A (commercial service) | TypeScript (private SDK) | government wallets / mDL + eKYC + own age estimation + witnessed decision receipts | Age/identity verification + decision-evidence witnessing | 🆕 Adjacent KYC/verification-evidence layer; no agent-specific surface observed |
 | [AIP](#aip-agent-identity-protocol) | 15 | Python | did:aip / Ed25519 | Identity + trust chains + encrypted messaging | ✅ Partial overlap |
 | [clawdentity](#clawdentity) | 9 | TypeScript | did:cdi | Cross-platform messaging + identity | ✅ Closest philosophical rival |
 | [Motebit](#motebit) | 7 | TypeScript | Ed25519 + signed receipts | Sovereign agent runtime + trust routing | ✅ Early but philosophically relevant |
@@ -557,29 +556,6 @@ Official Didit agent skills for identity verification, KYC, AML screening, biome
 
 ---
 
-### NexionLabs
-
-**Website:** <https://nexionlabs.com/>
-**Stars:** N/A (commercial service; no public repos observed) | **Primitive:** government wallets / mDL + eKYC + own age estimation + witnessed decision receipts (signed checkpoints, external timestamps)
-**Last checked:** 2026-10-11 (re-checked: homepage 200 with unchanged title; `@nexionplatform/sdk` still 404 publicly on npm)
-
-NexionLabs is age and identity verification infrastructure for online businesses, surfaced by Cypher as an ad-hoc addition. Its pitch is not agent identity but verification evidence: one integration covering government wallets, mobile driving licences, age estimation, reusable age verification, and eKYC, with each check linked to the business decision it informs. The distinctive piece is the **evidence layer**: customers submit their access decision (allow/deny) to NexionLabs, which records it in a tamper-evident history, signs checkpoints of that history, and anchors them with external timestamps so reviewers can check the record outside the customer's own logs. The site is explicit that witnessing records the decision assertion, not delivery of content or goods.
-
-**Evidence checked (2026-10-07)**
-- Live homepage: "Age and identity verification. With evidence you can check." — age assurance, digital identity (government wallets, mDL, eKYC), and verification evidence as the three product pillars.
-- Live `/evidence` page: decision-witnessing flow — link verification session + result + access decision, commit to a tamper-evident record, inspect signed checkpoints and external timestamp evidence. Explicit caveat: "The record shows what was submitted and preserved. Actual delivery of content or goods needs separate evidence."
-- Live `/developers` page: private TypeScript SDK `@nexionplatform/sdk` distributed via npm access granted during onboarding; Node.js 24; demo walkthrough uses a "Lognium" wallet app. npm check 2026-10-07: `@nexionplatform/sdk` returns 404 publicly (consistent with private-package gating).
-- GitHub search 2026-10-07: no public repos attributable to NexionLabs (a `nexionlabs` GitHub org exists but describes unrelated hosting/API services — not attributed).
-- No AI-agent-specific surface observed anywhere on the site: the user being verified is a human consumer; this is KYC/age assurance, not agent identity, delegation, or messaging.
-
-**Archon comparison**
-- Direct overlap: tamper-evident decision/receipt records — NexionLabs' witnessed decision receipts (signed checkpoints + external timestamps) are the same "prove what was decided and check it later" surface as Archon receipts, but operator-hosted and human-KYC-scoped
-- NexionLabs advantage: polished enterprise onboarding UX, multiple credential sources (government wallets, mDL, eKYC), and an unusually honest evidence scope (it explicitly disclaims enforcement/delivery proof)
-- Archon advantage: NexionLabs has no DID method, no credential issuance to agents, no decentralized registry, and its witness service is a single-operator root; `did:cid` + VCs provide verifier-independent, portable authority rather than evidence rented from one witness
-- Recommended stance: track as an adjacent KYC/verification-evidence layer (alongside didit skills), not a direct competitor. The witness-receipt model is evidence-layer pressure worth noting: a hosted service productizing decision receipts for compliance buyers validates the receipt category while sharpening the operator-vs-verifier-independent contrast Archon already draws with MolTrust
-
----
-
 ### AIP (Agent Identity Protocol)
 
 **Repository:** <https://github.com/The-Nexus-Guard/aip>
@@ -915,11 +891,10 @@ The repository still returns **404 / Not Found** via the GitHub API. Earlier not
 | 2026-10-04 | APS org move + draft advance | GitHub API + IETF Datatracker | `aeoess/agent-passport-system` and `aeoess/agent-passport-rust` now resolve under a dedicated `agent-passport-system` org; `draft-pidlisnyi-aps` advanced -03 → **-04** (Datatracker dated 2026-09-28); AAE still -02, ANS still -00 |
 | 2026-10-04 | discovery sweep | GitHub search | No new entrant above the profile bar; signal-only: `ndrorchestration/DGAF-Framework` (4★, evidence-bound AI governance framework), `opena2a-standards/agent-authorization-protocol` (1★, scoped/attested authorization draft), `frostyjay7813/AgentFence` (0★, authorization-bound execution); technocore/$FLOP cluster persists (noise); microsoft/identity-spiffe pushed 2026-10-03 (11★) |
 | 2026-10-04 | MolTrust / Soulverse re-checks | Live API + npm registry | MolTrust API still v2.5 healthy (2026-10-04 13:03 UTC), did:web resolves, homepage meta unchanged; `/pricing` still 301→`/pricing/`→403; `/pricing.html` still 200: $19–$299/mo re-verified, Lightning still roadmap; Soulverse npm SDKs 404 (tenth consecutive weekly check) |
-| 2026-10-07 | NexionLabs | Cypher (ad-hoc) + live site + npm registry | Added as adjacent KYC/verification-evidence layer: age/identity verification for online businesses (government wallets, mDL, eKYC, own age estimation) with witnessed decision receipts — tamper-evident history, signed checkpoints, external timestamps; private SDK `@nexionplatform/sdk` 404s publicly on npm; no public repos attributable; no agent-specific surface observed |
 | 2026-10-11 | full metadata refresh | GitHub API | Updated stars/pushed across all tracked repos; Agent-Safe Pipeline 589→687★ (+98, sharpest move — and repo description repositioned to an installable execution-authority gateway: Homebrew/Linux/Docker/Helm); Bindu 10073→10076★ (+3, growth collapsed; no push since 2026-09-06, fifth week; forks 635→669); decern 12→13★ (broke five-week push stall, pushed 2026-10-10); Attestix 875→874★ (spike not compounding, no push since 2026-10-01); APS 46→49★ (pushed 2026-10-10); ANP 1441→1444★ / AgentConnect 351→352★ (pushed 2026-10-09 / today); AgenticMail 231→236★; SIQ flat at 51★ (pushed 2026-10-09); Grantex 34→33★; ANS 43/32★ (pushed 2026-10-08 / 2026-10-10); Chancery flat at 26★, no push (ninth stalled cycle); didit 27→28★; Hedera Agent Kit 69★ (pushed 2026-10-07); Urbit 3620→3622★ / vere 80★; MoltyCel/moltrust-api 3→4★ (pushed today); Motebit/Kestrel pushed today; Archon flat at 6★ |
 | 2026-10-11 | microsoft/identity-spiffe gone | GitHub API | Signal-only item now returns 404 (was 11★, last observed pushed 2026-10-03); the first incumbent-OSS agent-authorization entry is no longer publicly visible — repo removed, renamed, or made private |
 | 2026-10-11 | discovery sweep | GitHub search | No new entrant above the profile bar (all ≤2★). Signal-only: `wienerlabs/square-solana` (2★, compliance-gated agent job settlement on Solana — USDC escrow, ZK spending-mandate proofs, DID identity), `oleg-tkachuk/limes` (0★, Biscuit budgeted/delegable capabilities, Go), `thesithunyein/witness` (0★, passkey-signed on-chain human authorization, Monad/ERC-8004), `DuNorth595/xrpl_agent_id` (1★, `did:xrpl` + XLS-70 VCs on XRPL), `goun7/Kredent` (0★, did:key + reputation) |
-| 2026-10-11 | MolTrust / Soulverse / NexionLabs re-checks | Live API + npm registry | MolTrust API v2.5 healthy (2026-10-11 13:03 UTC), did:web resolves, meta unchanged; `/pricing` still 301→`/pricing/`→403; `/pricing.html` still 200: $19–$299/mo re-verified, Lightning still roadmap — third quiet live-surface cycle; Soulverse npm SDKs 404 (eleventh week); `@nexionplatform/sdk` still 404; IETF drafts unchanged (AAE -02, APS -04, ANS -00) |
+| 2026-10-11 | MolTrust / Soulverse re-checks | Live API + npm registry | MolTrust API v2.5 healthy (2026-10-11 13:03 UTC), did:web resolves, meta unchanged; `/pricing` still 301→`/pricing/`→403; `/pricing.html` still 200: $19–$299/mo re-verified, Lightning still roadmap — third quiet live-surface cycle; Soulverse npm SDKs 404 (eleventh week); IETF drafts unchanged (AAE -02, APS -04, ANS -00) |
 
 ---
 

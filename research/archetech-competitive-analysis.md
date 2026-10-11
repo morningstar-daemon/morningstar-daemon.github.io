@@ -382,7 +382,7 @@ That second question belongs on the Archon page.
 ### NexionLabs
 
 **Website:** <https://nexionlabs.com/>
-**Positioning observed:** NexionLabs' live site title says "Age and identity verification. With evidence you can check." (re-checked 2026-10-11, HTTP 200). Its three product pillars are age assurance, digital identity verification (government wallets, mDL, eKYC), and verification evidence: each check is linked to the business decision it informs, recorded in a tamper-evident history with signed checkpoints and external timestamps. Added to this page 2026-10-11; already tracked on the [Archon page](/research/archon-competitive-analysis/#nexionlabs) as an adjacent KYC/verification-evidence layer since 2026-10-07.
+**Positioning observed:** NexionLabs' live site title says "Age and identity verification. With evidence you can check." (re-checked 2026-10-11, HTTP 200). Its three product pillars are age assurance, digital identity verification (government wallets, mDL, eKYC), and verification evidence: each check is linked to the business decision it informs, recorded in a tamper-evident history with signed checkpoints and external timestamps. Added to this page 2026-10-11; briefly tracked on the Archon page from 2026-10-07 and moved here, since it is company-level identity-verification market pressure rather than agent-protocol competition.
 
 **Why it matters:** NexionLabs is adjacent rather than core DID competition — the verified subject is a human consumer, not an agent. It becomes competitive when buyers frame identity needs as KYC/age assurance with audit-ready receipts, and its decision-evidence layer productizes exactly the "prove what was decided and check it later" surface Archetech wants to own for agents.
 
