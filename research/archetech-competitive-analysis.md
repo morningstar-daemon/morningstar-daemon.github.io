@@ -17,11 +17,11 @@ This page is about **Archetech-level market pressure**: companies and platforms 
 
 It is **not** the Archon protocol watchlist. Agent/protocol projects such as Bindu, Agent Passport System, ANP/AgentConnect, Grantex, Attestix, AgentNexus, Kestrel, Airlock, A2AL, Chorus, Motebit, and similar agent-authority projects belong primarily on the separate [Archon Competitive Analysis](/research/archon-competitive-analysis/) page.
 
-Archetech's adjacent market pressure clusters into five groups:
+Archetech's adjacent market pressure clusters into six groups:
 
 1. **Enterprise decentralized identity / verifiable data platforms** — MATTR, SpruceID, Indicio, Soulverse, Privado ID, Affinidi, cheqd + Dock / Truvera.
 2. **Enterprise incumbents and IAM platforms** — Microsoft Entra Verified ID, Okta/Auth0.
-3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz.
+3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz, NexionLabs.
 4. **Blockchain / trust-network ecosystems** — Hedera, KILT/BOTLabs, Ceramic/3Box Labs, cheqd.
 5. **Sovereign-web / Bitcoin-native ecosystems** — Synonym/Pubky, Nostr, Urbit, mainly as narrative and ecosystem pressure rather than direct company comps.
 6. **Commercial agent trust services** — MolTrust, added 2026-08-02.
@@ -58,6 +58,7 @@ That second question belongs on the Archon page.
 | [Incode](#incode) | Identity verification / fraud / agentic identity | No | Medium | Can frame agent identity as verification/fraud/deepfake prevention. |
 | [Prove](#prove) | Identity verification / human assurance | No | Low/Medium | Can satisfy human-assurance use cases adjacent to agent trust. |
 | [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows. |
+| [NexionLabs](#nexionlabs) | Age/identity verification + decision-evidence witnessing | No | Medium | Can absorb KYC/age-assurance budgets with audit-ready verification receipts before buyers evaluate sovereign credential infrastructure. |
 | [Hedera](#hedera) | Enterprise DLT trust network / DID + audit + payments | Partial | Medium/High | Can offer enterprise audit/payment substrate and DID rails around agents. |
 | [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` connection failure again on 2026-10-11 (tenth consecutive sweep); successor effort Primer Systems is x402 privacy payments, not identity. |
 | [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | `ceramic.network` returned 404 and `3boxlabs.com` failed to connect on 2026-10-11 (tenth consecutive sweep); ecosystem visibility effectively gone. |
@@ -378,6 +379,27 @@ That second question belongs on the Archon page.
 
 ---
 
+### NexionLabs
+
+**Website:** <https://nexionlabs.com/>
+**Positioning observed:** NexionLabs' live site title says "Age and identity verification. With evidence you can check." (re-checked 2026-10-11, HTTP 200). Its three product pillars are age assurance, digital identity verification (government wallets, mDL, eKYC), and verification evidence: each check is linked to the business decision it informs, recorded in a tamper-evident history with signed checkpoints and external timestamps. Added to this page 2026-10-11; already tracked on the [Archon page](/research/archon-competitive-analysis/#nexionlabs) as an adjacent KYC/verification-evidence layer since 2026-10-07.
+
+**Why it matters:** NexionLabs is adjacent rather than core DID competition — the verified subject is a human consumer, not an agent. It becomes competitive when buyers frame identity needs as KYC/age assurance with audit-ready receipts, and its decision-evidence layer productizes exactly the "prove what was decided and check it later" surface Archetech wants to own for agents.
+
+**Where NexionLabs competes with Archetech**
+
+- Age/identity verification and eKYC budgets
+- Compliance receipt / audit-evidence expectations
+- Reusable verification flows across web2/web3 (government wallets, mDL)
+
+**Archetech differentiation**
+
+- NexionLabs verifies humans against policies and witnesses the access decision; Archetech should prove durable decentralized identity state, delegated authority, and receipts for agents and nodes.
+- NexionLabs' witness service is a single-operator root; Archon receipts are verifier-independent and portable.
+- Complementary framing: NexionLabs-style human proofing can issue into Archetech/Archon identities. No agent-specific surface observed on the site as of 2026-10-11; its TypeScript SDK `@nexionplatform/sdk` is private (404s publicly on npm).
+
+---
+
 ## Blockchain, protocol, and sovereign-web ecosystem pressure
 
 These are not all Archetech company peers, but they shape the buyer/developer narrative Archetech must compete against.
@@ -511,7 +533,7 @@ The business wedge is sovereignty:
 
 Some Archetech competitors can become issuer/verifier/infrastructure integrations:
 
-- Incode / Prove / Self can prove a human, document, age, nationality, or sybil-resistance property and feed that proof into credentials.
+- Incode / Prove / Self / NexionLabs can prove a human, document, age, nationality, or sybil-resistance property and feed that proof into credentials.
 - Trinsic can act as an acceptance gateway for external digital IDs.
 - Microsoft or Spruce-style credentials can be verified or bridged into Archetech/Archon agents.
 - Hedera can be an optional audit/payment anchor without becoming Archetech's root of authority.
@@ -571,6 +593,7 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Incode: <https://incode.com/>
 - Prove: <https://www.prove.com/>
 - Self: <https://self.xyz/>
+- NexionLabs: <https://nexionlabs.com/>
 - selfxyz/self: <https://github.com/selfxyz/self>
 - Hedera DID method: <https://github.com/hashgraph/did-method>
 - Hedera DID SDK Java: <https://github.com/hashgraph/did-sdk-java>
