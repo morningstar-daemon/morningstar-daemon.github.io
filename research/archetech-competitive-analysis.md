@@ -21,7 +21,7 @@ Archetech's adjacent market pressure clusters into six groups:
 
 1. **Enterprise decentralized identity / verifiable data platforms** — MATTR, SpruceID, Indicio, Soulverse, Privado ID, Affinidi, cheqd + Dock / Truvera.
 2. **Enterprise incumbents and IAM platforms** — Microsoft Entra Verified ID, Okta/Auth0.
-3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz, NexionLabs.
+3. **Digital ID acceptance and identity verification platforms** — Trinsic, Incode, Prove, Self/self.xyz, Proof, NexionLabs.
 4. **Blockchain / trust-network ecosystems** — Hedera, KILT/BOTLabs, Ceramic/3Box Labs, cheqd.
 5. **Sovereign-web / Bitcoin-native ecosystems** — Synonym/Pubky, Nostr, Urbit, mainly as narrative and ecosystem pressure rather than direct company comps.
 6. **Commercial agent trust services** — MolTrust, added 2026-08-02.
@@ -58,6 +58,7 @@ That second question belongs on the Archon page.
 | [Incode](#incode) | Identity verification / fraud / agentic identity | No | Medium | Can frame agent identity as verification/fraud/deepfake prevention. |
 | [Prove](#prove) | Identity verification / human assurance | No | Low/Medium | Can satisfy human-assurance use cases adjacent to agent trust. |
 | [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows. |
+| [Proof](#proof) | Identity-centric security / digital notarization | No | Medium | Can frame identity trust as transaction security and verification, absorbing trust-infrastructure budgets adjacent to agent identity. |
 | [NexionLabs](#nexionlabs) | Age/identity verification + decision-evidence witnessing | No | Medium | Can absorb KYC/age-assurance budgets with audit-ready verification receipts before buyers evaluate sovereign credential infrastructure. |
 | [Hedera](#hedera) | Enterprise DLT trust network / DID + audit + payments | Partial | Medium/High | Can offer enterprise audit/payment substrate and DID rails around agents. |
 | [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` connection failure again on 2026-10-11 (tenth consecutive sweep); successor effort Primer Systems is x402 privacy payments, not identity. |
@@ -352,6 +353,26 @@ That second question belongs on the Archon page.
 **Archetech differentiation**
 
 - Prove handles verification and fraud signals. Archetech handles decentralized identity, credentials, registries, agent/service identity continuity, and payment-aware authority.
+
+---
+
+### Proof
+
+**Website:** <https://www.proof.com/>
+**Positioning observed:** Proof's live site title says "Proof | Identity-centric security platform," with meta describing it as enhancing "trust in a digital world by verifying identities and securing transactions to protect your business and its customers." Formerly Notarize, Proof pairs identity verification with digital notarization and transaction-signing workflows.
+
+**Why it matters:** Proof competes for trust-infrastructure budgets framed as transaction security and verified-identity signing rather than decentralized credentials. It is adjacent rather than core DID competition — the verified subject is a human signer — but it can own the "trust" narrative in enterprise transactions before buyers evaluate sovereign identity infrastructure.
+
+**Where Proof competes with Archetech**
+
+- Identity verification tied to high-value transaction flows
+- Digital notarization / e-signature trust budgets
+- Compliance-oriented identity assurance in regulated industries
+
+**Archetech differentiation**
+
+- Proof verifies human signers around individual transactions. Archetech should prove durable decentralized identity state, delegated authority, and receipts for agents and nodes across ongoing operations.
+- Complementary framing: Proof-style verification/notarization can issue into Archetech/Archon identities.
 
 ---
 
