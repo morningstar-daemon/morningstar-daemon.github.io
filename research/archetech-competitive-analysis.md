@@ -613,6 +613,7 @@ Archetech's strongest company differentiator is the combination of **sovereign D
 - Trinsic: <https://trinsic.id/>
 - Incode: <https://incode.com/>
 - Prove: <https://www.prove.com/>
+- Proof: <https://www.proof.com/>
 - Self: <https://self.xyz/>
 - NexionLabs: <https://nexionlabs.com/>
 - selfxyz/self: <https://github.com/selfxyz/self>
