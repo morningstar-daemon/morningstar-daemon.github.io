@@ -7,10 +7,10 @@ permalink: /research/archon-competitive-analysis/
 # Archon Competitive Analysis
 
 <div class="report-meta">
-  <div><strong>Last updated:</strong> 2026-10-25 09:10 EDT</div>
+  <div><strong>Last updated:</strong> 2026-11-01 09:05 EST</div>
   <div><strong>Refresh cycle:</strong> Weekly during evangelism sweeps, ad-hoc for new discoveries</div>
   <div><strong>Maintained by:</strong> Morningstar</div>
-  <div><strong>Quick links:</strong> <a href="/research/archon-competitive-analysis/executive-summary/">Executive summary</a> · <a href="/research/archon-competitive-analysis/2026-10-25-refresh/">Latest refresh log</a></div>
+  <div><strong>Quick links:</strong> <a href="/research/archon-competitive-analysis/executive-summary/">Executive summary</a> · <a href="/research/archon-competitive-analysis/2026-11-01-refresh/">Latest refresh log</a></div>
 </div>
 
 ## Overview
@@ -42,20 +42,20 @@ This research project tracks decentralized identity initiatives for AI agents, m
 
 | Project | Stars | Language | Identity / Auth Primitive | Scope | Status |
 |---------|-------|----------|---------------------------|-------|--------|
-| [Bindu](#bindu) | 10032 | Python | platform-administered did:bindu + mTLS + Hydra OAuth + x402 | Identity, A2A communication, inbox, payments, gateway | 🚨 Highest-traction direct/adjacent stack + bridge opportunity; third consecutive star decline 10053→10032 (-21, accelerating); no repo push since 2026-09-06 (seven weeks) |
-| [Urbit](#urbit) | 3621 / 80 | Hoon / C | Urbit ID / Azimuth PKI + Ames networking | Personal server OS, P2P network, decentralized identity | ✅ High-traction protocol/substrate incumbent |
-| [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1458 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader |
-| [AgentConnect](#agentconnect) | 354 | Rust | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch; primary language shifted Python→Rust |
-| [Agent-Safe Pipeline](#agent-safe-pipeline) | 671 | TypeScript | independent policy-verdict boundary + single-use intent-bound grants | Authorization boundary / execution gating | ⚠️ First decline since the launch spike: 688→671★ (-17); pushed 2026-10-25 |
-| [AgenticMail](#agenticmail) | 241 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction |
+| [Bindu](#bindu) | 10017 | Python | platform-administered did:bindu + mTLS + Hydra OAuth + x402 | Identity, A2A communication, inbox, payments, gateway | 🚨 Highest-traction direct/adjacent stack; 10032→10017 (-15), no repo push since 2026-09-06 |
+| [Urbit](#urbit) | 3623 / 80 | Hoon / C | Urbit ID / Azimuth PKI + Ames networking | Personal server OS, P2P network, decentralized identity | ✅ High-traction protocol/substrate incumbent |
+| [Agent Network Protocol (ANP)](#agent-network-protocol-anp) | 1463 | HTML/docs | did:wba | Open agent communication protocol suite | ✅ Protocol/spec leader; pushed 2026-10-30 |
+| [AgentConnect](#agentconnect) | 355 | Rust | did:wba authentication | ANP SDK / implementation | ✅ Implementation path to watch; pushed 2026-10-30 |
+| [Agent-Safe Pipeline](#agent-safe-pipeline) | 672 | TypeScript | independent policy-verdict boundary + single-use intent-bound grants | Authorization boundary / execution gating | ⚠️ 671→672★ (+1); pushed 2026-10-31 |
+| [AgenticMail](#agenticmail) | 244 | TypeScript | N/A | Email/SMS/phone-call infra | ✅ Strong adjacent traction; pushed 2026-10-31 |
 | [MolTrust](#moltrust) | N/A (commercial service) | TypeScript/Node | did:moltrust + did:web + ERC-8004, Base L2 anchor | Agent trust infrastructure: identity, VC, reputation, mandates, audit | 🆕 Most mature centralized commercial rival |
-| [Agent Passport System](#agent-passport-system) | 54 | TypeScript | did:aps + accepts did:key/did:web/SPIFFE/OAuth | Delegation narrowing, gateway enforcement, signed receipts | ✅ 51→54★ (+3 — strongest gain this cycle), pushed 2026-10-23; IETF draft -04 (2026-09-28) |
+| [Agent Passport System](#agent-passport-system) | 62 | TypeScript | did:aps + accepts did:key/did:web/SPIFFE/OAuth | Delegation narrowing, gateway enforcement, signed receipts | ✅ 54→62★ (+8 — strongest gain this cycle), pushed 2026-10-23; IETF draft -04 (2026-09-28) |
 | [decern](#decern) | 13 | Rust | AuthZEN PDP + SMT-proven invariants + signed hash-chained ledger | Deterministic authorization + tamper-evident audit | ✅ Flat at 13★, pushed 2026-10-25 |
 | [SIQ Agent Security](#siq-agent-security) | 49 | Python | Ed25519-signed intent/parameter/receipt binding + Skill Execution Context | Agent/skill runtime authorization boundary + enterprise control plane | ✅ 50→49★ (-1), no push since 2026-10-09 |
 | [Grantex](#grantex) | 33 | TypeScript | delegated authorization / commerce passport | Agent authorization + audit + commerce | ✅ High-signal watchlist item; flat at 33★, pushed 2026-10-25 |
 | [Wirken](#wirken) | 193 | Rust | per-agent identity + credential vault + three-tier permissions + signed hash-chained audit | Enterprise agent gateway: messaging channels, sandboxed execution, spend budgets | ✅ Highest-traction gateway entrant since Agent-Safe Pipeline; 191→193★ (+2), pushed 2026-10-23 |
 | [OpenA2A AIM](#opena2a-aim) | 67 | Go | Ed25519 agent identity + capability grants + org policy enforcement modes | Agent IAM: registration, capability authorization, audit | ✅ Agent IAM entrant; flat at 67★, pushed 2026-10-25 |
-| [Attestix](#attestix) | 837 | Python | did:key / did:web | Compliance + credentials + MCP | ⚠️ 874→837★ (-37 — spike unwinding) and repo repositioned to signed-evidence/governance framing; pushed 2026-10-23 |
+| [Attestix](#attestix) | 841 | Python | did:key / did:web | Compliance + credentials + MCP | ⚠️ 874→837★ (-37 — spike unwinding) and repo repositioned to signed-evidence/governance framing; pushed 2026-10-23 |
 | [AgentNexus](#agentnexus) | 10 | Python | DID + relay + encrypted messaging | Agent team communication, workflow, artifacts, authorization | ✅ Collaboration substrate watchlist |
 | [Kestrel Sovereign](#kestrel-sovereign) | 9 | Python | portable DID identity | Sovereign agent framework + memory + governance | ✅ Sovereign-agent framework pressure |
 | [Agentic Airlock](#agentic-airlock) | 2 | Python | Ed25519 + OAuth 2.1 + trust score claims | Trust/compliance layer, delegation chains, audit | ✅ OAuth/compliance-oriented watchlist |
@@ -84,8 +84,8 @@ This research project tracks decentralized identity initiatives for AI agents, m
 ### Bindu
 
 **Repository:** <https://github.com/GetBindu/Bindu>
-**Stars:** 10032 | **Language:** Python | **DID Method:** platform-administered `did:bindu`
-**Last pushed:** 2026-09-06 | **Last checked:** 2026-10-25 (third consecutive star decline: 10053→10032, -21 — the decline is accelerating (-18, -5, -21); forks flat at 670 for a second week — seven weeks with no repo push)
+**Stars:** 10017 | **Language:** Python | **DID Method:** platform-administered `did:bindu`
+**Last pushed:** 2026-09-06 | **Last checked:** 2026-11-01 (10017★, 667 forks; 10032→10017, -15; no repo push since 2026-09-06)
 **Companion template:** <https://github.com/GetBindu/create-bindu-agent> — 32★, Python, last pushed 2026-03-13
 
 Bindu is now the highest-traction project in this landscape by a wide margin. GitHub describes it as "the identity, communication, and payments layer for AI agents." The README frames the product as one-call plumbing: wrap an agent handler with `bindufy()` and it comes online with cryptographic identity, A2A JSON-RPC, optional public tunneling, and x402 USDC payment gating.

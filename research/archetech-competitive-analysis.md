@@ -6,10 +6,10 @@ permalink: /research/archetech-competitive-analysis/
 
 # Archetech Competitive Analysis
 
-**Last updated:** 2026-10-25 09:10 EDT
+**Last updated:** 2026-11-01 09:05 EST
 **Maintained by:** Morningstar
 **Scope:** Company/business/platform competitors to Archetech as a decentralized identity, verifiable credential, and agent-trust infrastructure vendor. Product/protocol competitors to Archon itself are tracked separately at [Archon Competitive Analysis](/research/archon-competitive-analysis/).
-**Latest refresh log:** [2026-10-25 refresh](/research/archetech-competitive-analysis/2026-10-25-refresh/).
+**Latest refresh log:** [2026-11-01 refresh](/research/archetech-competitive-analysis/2026-11-01-refresh/).
 
 ## Executive summary
 
@@ -46,7 +46,7 @@ That second question belongs on the Archon page.
 |---|---|---:|---:|---|
 | [MATTR](#mattr) | Enterprise decentralized identity / verifiable data | No | High | Can win enterprise/government trust-infrastructure budgets and credibility. |
 | [SpruceID](#spruceid) | Government digital trust infrastructure | No | High | Can dominate public-sector digital trust and wallet modernization lanes. |
-| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives; dual-OG-block state persists as of 2026-10-25 — agentic og:description copy in a second OG block alongside "Payment & Trust Infrastructure for Credentials" og:title language (unchanged since 2026-09-06). |
+| [cheqd + Dock / Truvera alliance](#cheqd--dock--truvera-alliance) | SSI network + VC tooling + token/network economics | Partial | High | Can own SSI network, credential tooling, and monetized trusted-data narratives; dual-OG-block state re-verified 2026-11-01. |
 | [Privado ID](#privado-id) | Privacy-first identity platform | No | Medium/High | Can win privacy-preserving app identity and machine/human identity budgets. |
 | [Indicio](#indicio) | Identity orchestration / VC platform | No | Medium/High | Can sell mature managed trust infrastructure and machine-to-machine trust language. |
 | [Affinidi](#affinidi) | Trust fabric / agent gateway | Partial | High | Can compete on broad trust-fabric and AI-agent gateway positioning; shipped Agent Gateway narrative 2026-07-24. |
@@ -57,12 +57,12 @@ That second question belongs on the Archon page.
 | [Trinsic](#trinsic) | Digital ID gateway / acceptance network | No | Medium | Can satisfy identity-verification demand before buyers reach SSI infrastructure. |
 | [Incode](#incode) | Identity verification / fraud / agentic identity | No | Medium | Can frame agent identity as verification/fraud/deepfake prevention. |
 | [Prove](#prove) | Identity verification / human assurance | No | Low/Medium | Can satisfy human-assurance use cases adjacent to agent trust. |
-| [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows. |
+| [Self / self.xyz](#self--selfxyz) | ZK human/passport proof protocol | No | Medium/High | Can own human-proof and compliance gates near agent workflows; repository at 1266★, pushed 2026-10-30. |
 | [Proof](#proof) | Identity-centric security / digital notarization | No | Medium | Can frame identity trust as transaction security and verification, absorbing trust-infrastructure budgets adjacent to agent identity. |
 | [NexionLabs](#nexionlabs) | Age/identity verification + decision-evidence witnessing | No | Medium | Can absorb KYC/age-assurance budgets with audit-ready verification receipts before buyers evaluate sovereign credential infrastructure. |
 | [Hedera](#hedera) | Enterprise DLT trust network / DID + audit + payments | Partial | Medium/High | Can offer enterprise audit/payment substrate and DID rails around agents. |
-| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` 404 and `www.kilt.io` connection failure again on 2026-10-25 (thirteenth consecutive sweep); successor effort Primer Systems is x402 privacy payments, not identity. |
-| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | `ceramic.network` and `3boxlabs.com` both failed to connect on 2026-10-25 (thirteenth consecutive sweep); ecosystem visibility effectively gone. |
+| [KILT / BOTLabs](#kilt--botlabs) | Decentralized identity protocol ecosystem | No | Low/Medium | `kilt.io` 404 and `www.kilt.io` connection failure again on 2026-11-01; Primer Systems remains live. |
+| [Ceramic / 3Box Labs](#ceramic--3box-labs) | Decentralized data and identity | No | Low/Medium | `ceramic.network` and `3boxlabs.com` both failed to connect on 2026-11-01; ecosystem visibility remains dark. |
 | [Synonym / Pubky](#synonym--pubky) | Bitcoin-native sovereign web ecosystem | No | Medium | Can own Bitcoin-native sovereign identity/P2P/Lightning narrative. |
 | [Nostr ecosystem](#nostr-ecosystem) | Open social/identity/payment protocol | No | Medium | Can satisfy public-key identity and Lightning social-payment use cases. |
 | [Urbit](#urbit) | Personal server OS + P2P identity ecosystem | No | Medium | Can own sovereign compute plus identity narrative for decentralized services. |
